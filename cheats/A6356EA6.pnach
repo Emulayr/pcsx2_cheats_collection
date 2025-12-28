@@ -1,0 +1,149 @@
+gametitle=[SLUS-20621] Seven Samurai 20XX
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0011A427
+[Infinite HP]
+patch=1,EE,203DD1A4,extended,43FA0000
+[Infinite HP]
+patch=1,EE,10521C30,extended,000001F4
+[Max HP]
+patch=1,EE,203DD1A8,extended,43FA0000
+[Max HP]
+patch=1,EE,10521C32,extended,000001F4
+[Max Infinite HP]
+patch=1,EE,203DD1A4,extended,43FA0000
+[Max Infinite HP]
+patch=1,EE,203DD1A8,extended,43FA0000
+[Max Infinite HP]
+patch=1,EE,20521C30,extended,01F401F4
+[Infinite GP]
+patch=1,EE,203DD1AC,extended,43FA0000
+[Infinite GP]
+patch=1,EE,10521C34,extended,000001F4
+[Max GP]
+patch=1,EE,203DD1B0,extended,43FA0000
+[Max GP]
+patch=1,EE,10521C36,extended,000001F4
+[Max Infinite GP]
+patch=1,EE,203DD1AC,extended,43FA0000
+[Max Infinite GP]
+patch=1,EE,203DD1B0,extended,43FA0000
+[Max Infinite GP]
+patch=1,EE,20521C34,extended,01F401F4
+[Infinite NT]
+patch=1,EE,203DD1B8,extended,43FA0000
+[Infinite NT]
+patch=1,EE,10521C38,extended,000001F4
+[Max NT]
+patch=1,EE,203DD1BC,extended,43FA0000
+[Max NT]
+patch=1,EE,10521C3A,extended,000001F4
+[Max Infinite NT]
+patch=1,EE,203DD1B8,extended,43FA0000
+[Max Infinite NT]
+patch=1,EE,203DD1BC,extended,43FA0000
+[Max Infinite NT]
+patch=1,EE,20521C38,extended,01F401F4
+[Always Low Time]
+patch=1,EE,203DD214,extended,00000000
+[Have All Katanas]
+patch=1,EE,103D7A9E,extended,0000FFFF
+[Have All Katanas]
+patch=1,EE,003D7AA0,extended,000000FF
+[Have All Enemy Info]
+patch=1,EE,003D7AA1,extended,000000FF
+[Have All Enemy Info]
+patch=1,EE,103D7AA2,extended,0000FFFF
+[Have All Enemy Info]
+patch=1,EE,203D7AA4,extended,FFFFFFFF
+[Have All Enemy Info]
+patch=1,EE,003D7AA8,extended,000000FF
+[Unlock Survival Mode]
+patch=1,EE,203DD188,extended,00000001
+[Can Equip Katanas]
+patch=1,EE,203DD19C,extended,00000001
+[Max Combos]
+patch=1,EE,205207C8,extended,00000064
+[>>> End Stage Results Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Nitoh-Ryu Codes]
+[Max Activated]
+patch=1,EE,203DD2A4,extended,000F423F
+[Max Max Attack Continuation]
+patch=1,EE,203DD2AC,extended,461C3FF6
+[Max Attack]
+patch=1,EE,203DD21C,extended,000F423F
+[Max Hit]
+patch=1,EE,203DD224,extended,000F423F
+[>>> Ittoh-Ryu Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Attack]
+patch=1,EE,203DD22C,extended,000F423F
+[Max Hit]
+patch=1,EE,203DD234,extended,000F423F
+[>>> Kick Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Attack]
+patch=1,EE,203DD23C,extended,000F423F
+[Max Hit]
+patch=1,EE,203DD244,extended,000F423F
+[>>> Charge Attack Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Attack]
+patch=1,EE,203DD24C,extended,000F423F
+[Max Hit]
+patch=1,EE,203DD254,extended,000F423F
+[>>> Break Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Break]
+patch=1,EE,203DD284,extended,000F423F
+[>>> Just Attack Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Dash Attack]
+patch=1,EE,203DD25C,extended,000F423F
+[Max Just Attack]
+patch=1,EE,203DD264,extended,000F423F
+[>>> Just Guard Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Guard]
+patch=1,EE,203DD274,extended,000F423F
+[Max Just Guard]
+patch=1,EE,203DD27C,extended,000F423F
+[>>> Just Step Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Step]
+patch=1,EE,203DD294,extended,000F423F
+[Max Just Step]
+patch=1,EE,203DD29C,extended,000F423F
+[>>> Score Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Maximum Hit Count]
+patch=1,EE,203DD2B4,extended,000F423F
+[Max Destoryed Enemies]
+patch=1,EE,203DD2BC,extended,000F423F
+[>>> Button Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Attack Button]
+patch=1,EE,203DD2C4,extended,000F423F
+[Max Guard Button]
+patch=1,EE,203DD2CC,extended,000F423F
+[Max Step Button]
+patch=1,EE,203DD2D4,extended,000F423F
+[>>> Movement Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Pedometer]
+patch=1,EE,203DD2DC,extended,000F423F
+[Max Somersaults]
+patch=1,EE,203DD2E4,extended,000F423F
+[>>> Damage Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Damage Counted]
+patch=1,EE,203DD2EC,extended,000F423F
+[Max Total Damage]
+patch=1,EE,203DD2F4,extended,4A7423F0
+[Max Recovery Items]
+patch=1,EE,203DD2FC,extended,000F423F
+[>>> Clear Time Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low Clear Time]
+patch=1,EE,203DD304,extended,00000000
+

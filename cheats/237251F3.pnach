@@ -1,0 +1,182 @@
+gametitle=[SCUS-97173] Jet X20
+[Enable Code (Must Be On)]
+patch=1,EE,901DE414,extended,0C089143
+[Hella Score Gain]
+patch=1,EE,20114590,extended,2407270F
+[Infinite Turbo Boost]
+patch=1,EE,20117A60,extended,3C013FE8
+[Infinite Turbo Boost]
+patch=1,EE,20117A68,extended,AE210000
+[Infinite Points Remaining]
+patch=1,EE,D0269488,extended,0010BFFF
+[Infinite Points Remaining]
+patch=1,EE,202616E8,extended,00000063
+[Infinite Points Remaining]
+patch=1,EE,D0269488,extended,0000BFFF
+[Infinite Points Remaining]
+patch=1,EE,202616E8,extended,00000000
+[Unlock All Craft]
+patch=1,EE,402ACE3C,extended,00040001
+[Unlock All Craft]
+patch=1,EE,01010101,extended,00000000
+[Unlock All Wetsuits]
+patch=1,EE,402ACE4C,extended,00060001
+[Unlock All Wetsuits]
+patch=1,EE,01010101,extended,00000000
+[Unlock All Decals]
+patch=1,EE,402ACE64,extended,000C0001
+[Unlock All Decals]
+patch=1,EE,01010101,extended,00000000
+[Max Speed Always 0-CPU Opponents]
+patch=1,EE,2026446C,extended,00000000
+[Disable Collisions]
+patch=1,EE,20165E90,extended,03E00008
+[Disable Collisions]
+patch=1,EE,20165E94,extended,00000000
+[Fast Wave Speed]
+patch=1,EE,202A5550,extended,BFFF0000
+[Waves Dont Move]
+patch=1,EE,202A5550,extended,00000000
+[Infinite Boost (Upon Pickup)]
+patch=1,EE,20145B10,extended,00000000
+[Infinite Boost (Upon Pickup)]
+patch=1,EE,20145B88,extended,00000000
+[>>> Non-World Tour Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Riders]
+patch=1,EE,202ACE38,extended,01010101
+[Unlock All Tracks]
+patch=1,EE,202ACE94,extended,01010101
+[>>> World Tour Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Riders]
+patch=1,EE,20260A40,extended,01010101
+[>>> Taylor Jordan Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Balance]
+patch=1,EE,2028396C,extended,3F800000
+[Max Strength]
+patch=1,EE,20283970,extended,3F800000
+[Max Weight]
+patch=1,EE,20283974,extended,3F800000
+[Max Tricks]
+patch=1,EE,20283978,extended,3F800000
+[Aftershock Craft-Max All Stats]
+patch=1,EE,202ACEE0,extended,7F7F7F7F
+[Tsunami Craft-Max All Stats]
+patch=1,EE,202ACEE4,extended,7F7F7F7F
+[Renegade Craft-Max All Stats]
+patch=1,EE,202ACEE8,extended,7F7F7F7F
+[>>> Luc Lamouche Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Balance]
+patch=1,EE,20283980,extended,3F800000
+[Max Strength]
+patch=1,EE,20283984,extended,3F800000
+[Max Weight]
+patch=1,EE,20283988,extended,3F800000
+[Max Tricks]
+patch=1,EE,2028398C,extended,3F800000
+[Aftershock Craft-Max All Stats]
+patch=1,EE,202ACF08,extended,7F7F7F7F
+[Tsunami Craft-Max All Stats]
+patch=1,EE,202ACF08,extended,7F7F7F7F
+[Mastermind Craft-Max All Stats]
+patch=1,EE,202ACF14,extended,7F7F7F7F
+[>>> Karin Nielsen Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Balance]
+patch=1,EE,20283994,extended,3F800000
+[Max Strength]
+patch=1,EE,20283998,extended,3F800000
+[Max Weight]
+patch=1,EE,2028399C,extended,3F800000
+[Max Tricks]
+patch=1,EE,202839A0,extended,3F800000
+[Aftershock Craft-Max All Stats]
+patch=1,EE,202ACF30,extended,7F7F7F7F
+[Tsunami Craft-Max All Stats]
+patch=1,EE,202ACF34,extended,7F7F7F7F
+[Valkyrie Craft-Max All Stats]
+patch=1,EE,202ACF40,extended,7F7F7F7F
+[>>> Eva Del Toro Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Balance]
+patch=1,EE,202839A8,extended,3F800000
+[Max Strength]
+patch=1,EE,202839AC,extended,3F800000
+[Max Weight]
+patch=1,EE,202839B0,extended,3F800000
+[Max Tricks]
+patch=1,EE,202839B4,extended,3F800000
+[Aftershock Craft-Max All Stats]
+patch=1,EE,202ACF58,extended,7F7F7F7F
+[Tsunami Craft-Max All Stats]
+patch=1,EE,202ACF5C,extended,7F7F7F7F
+[Dark Thorne Craft-Max All Stats]
+patch=1,EE,202ACF6C,extended,7F7F7F7F
+[>>> Vladi Zakharov Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Balance]
+patch=1,EE,202839BC,extended,3F800000
+[Max Strength]
+patch=1,EE,202839C0,extended,3F800000
+[Max Weight]
+patch=1,EE,202839C4,extended,3F800000
+[Max Tricks]
+patch=1,EE,202839C8,extended,3F800000
+[Aftershock Craft-Max All Stats]
+patch=1,EE,202ACF80,extended,7F7F7F7F
+[Tsunami Craft-Max All Stats]
+patch=1,EE,202ACF84,extended,7F7F7F7F
+[Counterforce Craft-Max All Stats]
+patch=1,EE,202ACF98,extended,7F7F7F7F
+[>>> Vittoria Calabria Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Balance]
+patch=1,EE,202839D0,extended,3F800000
+[Max Strength]
+patch=1,EE,202839D4,extended,3F800000
+[Max Weight]
+patch=1,EE,202839D8,extended,3F800000
+[Max Tricks]
+patch=1,EE,202839DC,extended,3F800000
+[Aftershock Craft-Max All Stats]
+patch=1,EE,202ACFA8,extended,7F7F7F7F
+[Tsunami Craft-Max All Stats]
+patch=1,EE,202ACFAC,extended,7F7F7F7F
+[Golden Tiger Craft-Max All Stats]
+patch=1,EE,202ACFC4,extended,7F7F7F7F
+[>>> Lia Cardoso Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Balance]
+patch=1,EE,202839E4,extended,3F800000
+[Max Strength]
+patch=1,EE,202839E8,extended,3F800000
+[Max Weight]
+patch=1,EE,202839EC,extended,3F800000
+[Max Tricks]
+patch=1,EE,202839F0,extended,3F800000
+[Aftershock Craft-Max All Stats]
+patch=1,EE,202ACFD0,extended,7F7F7F7F
+[Tsunami Craft-Max All Stats]
+patch=1,EE,202ACFD4,extended,7F7F7F7F
+[Sunburst Craft-Max All Stats]
+patch=1,EE,202ACFF0,extended,7F7F7F7F
+[>>> Kenji Tanaka Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Balance]
+patch=1,EE,202839F8,extended,3F800000
+[Max Strength]
+patch=1,EE,202839FC,extended,3F800000
+[Max Weight]
+patch=1,EE,20283A00,extended,3F800000
+[Max Tricks]
+patch=1,EE,20283A04,extended,3F800000
+[Aftershock Craft-Max All Stats]
+patch=1,EE,202ACFF8,extended,7F7F7F7F
+[Tsunami Craft-Max All Stats]
+patch=1,EE,202ACFFC,extended,7F7F7F7F
+[Mixmaster Craft-Max All Stats]
+patch=1,EE,202AD01C,extended,7F7F7F7F
+

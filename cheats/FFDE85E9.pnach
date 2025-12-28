@@ -1,0 +1,1668 @@
+gametitle=Onimusha-Dawn Of Dreams
+[Enable Code (Must Be On)]
+patch=1,EE,901368E8,extended,0C049522
+[Always Max Play Time]
+patch=1,EE,20810FC0,extended,014996C4
+[Always Low Play Time]
+patch=1,EE,20810FC0,extended,00000000
+[Infinite Purse]
+patch=1,EE,108DDE4C,extended,0000FFFF
+[Max Purse]
+patch=1,EE,208DDE4C,extended,05F5E0FF
+[Infinite HP]
+patch=1,EE,202616DC,extended,2403270F
+[Infinite HP]
+patch=1,EE,202616E0,extended,A4A30000
+[Max HP]
+patch=1,EE,200C0220,extended,2403270F
+[Max HP]
+patch=1,EE,200C0224,extended,080D2720
+[Max HP]
+patch=1,EE,200C0228,extended,A4830002
+[Max HP]
+patch=1,EE,20349C78,extended,08030088
+[Infinite MP]
+patch=1,EE,202D19F8,extended,96550008
+[Infinite MP]
+patch=1,EE,202D19FC,extended,A6550006
+[Max MP]
+patch=1,EE,200C0230,extended,2402270F
+[Max MP]
+patch=1,EE,200C0234,extended,080D2737
+[Max MP]
+patch=1,EE,200C0238,extended,A4820008
+[Max MP]
+patch=1,EE,20349CD8,extended,0803008C
+[Infinite OP]
+patch=1,EE,202D1A38,extended,9655000C
+[Infinite OP]
+patch=1,EE,202D1A3C,extended,A655000A
+[Max OP]
+patch=1,EE,200C0240,extended,2402270F
+[Max OP]
+patch=1,EE,200C0244,extended,080D2756
+[Max OP]
+patch=1,EE,200C0248,extended,A482000C
+[Max OP]
+patch=1,EE,20349D4C,extended,08030090
+[Max Level]
+patch=1,EE,20262C94,extended,24050064
+[Max Level]
+patch=1,EE,20262C98,extended,A0650004
+[Max Level]
+patch=1,EE,10262C9E,extended,00001000
+[Max Soul Points]
+patch=1,EE,202D1A80,extended,3C0105F5
+[Max Soul Points]
+patch=1,EE,202D1A84,extended,3421E0FF
+[Max Soul Points]
+patch=1,EE,202D1A88,extended,AC410010
+[Infinite Soul Points Usage]
+patch=1,EE,2036703C,extended,00000000
+[Max Soul Points Usage]
+patch=1,EE,20367034,extended,3C0205F5
+[Max Soul Points Usage]
+patch=1,EE,20367038,extended,3442E0FF
+[Extra Soul Points Usage]
+patch=1,EE,20367038,extended,00651821
+[Max Skill Points]
+patch=1,EE,2032DA60,extended,24030063
+[Max Skill Points]
+patch=1,EE,2032DA64,extended,A503003C
+[Max Skill Points]
+patch=1,EE,2032DA68,extended,03E00008
+[Max Skill Points]
+patch=1,EE,2032DA6C,extended,A0830020
+[Infinite Skill Points Usage]
+patch=1,EE,2032CA98,extended,00000000
+[Max Skill Points Usage]
+patch=1,EE,2032CA94,extended,24020063
+[Extra Skill Points Usage]
+patch=1,EE,1032CA94,extended,00000001
+[Always Flash Kill By Pressing R1 To Attack]
+patch=1,EE,20261244,extended,10000009
+[Gain 50000 Exp Per Kill]
+patch=1,EE,202632C4,extended,3402C350
+[Gain 40000 Exp Per Kill]
+patch=1,EE,202632C4,extended,34029C40
+[Gain 30000 Exp Per Kill]
+patch=1,EE,202632C4,extended,34027530
+[Gain 20000 Exp Per Kill]
+patch=1,EE,202632C4,extended,34024E20
+[Gain 10000 Exp Per Kill]
+patch=1,EE,202632C4,extended,34022710
+[Gain 5000 Exp Per Kill]
+patch=1,EE,202632C4,extended,34021388
+[Gain 1000 Exp Per Kill]
+patch=1,EE,202632C4,extended,340203E8
+[Quick Max Exp]
+patch=1,EE,202632D0,extended,3C0205F5
+[Quick Max Exp]
+patch=1,EE,202632D4,extended,3442E0FF
+[Quick Max Exp]
+patch=1,EE,20263308,extended,00000000
+[Infinite Item Usage]
+patch=1,EE,202F3F84,extended,00000000
+[Extra Items]
+patch=1,EE,202F3F6C,extended,00621821
+[Infinite Time To Chain Combo]
+patch=1,EE,202E8BA0,extended,00000000
+[Save Game For No Saves Recorded]
+patch=1,EE,203ABFF0,extended,A4800044
+[Unlock All Difficulties]
+patch=1,EE,203E3218,extended,24010003
+[Unlock All Difficulties]
+patch=1,EE,203E3220,extended,A0810058
+[Unlock All Special (Save Once & Disable)]
+patch=1,EE,203E31D4,extended,2403FFFF
+[Unlock All Special (Save Once & Disable)]
+patch=1,EE,203E31E0,extended,24030001
+[Unlock All Special (Save Once & Disable)]
+patch=1,EE,203E31E8,extended,AD030004
+[Always Have Jubie Yagyu In Party]
+patch=1,EE,2068BDC4,extended,00002110
+[Always Have Ohatsu In Party]
+patch=1,EE,2068BDC4,extended,00002210
+[Always Have Roberto Frois In Party]
+patch=1,EE,2068BDC4,extended,00002310
+[Always Have Tenkai In Party]
+patch=1,EE,2068BDC4,extended,00002410
+[>>> Have Max Weapons-Broadsword Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lamentation]
+patch=1,EE,108DBC1C,extended,00000903
+[Lamentation]
+patch=1,EE,208DBC20,extended,00000000
+[Broadsword]
+patch=1,EE,108DBC24,extended,00000903
+[Broadsword]
+patch=1,EE,208DBC28,extended,00000001
+[Black Sword]
+patch=1,EE,108DBC2C,extended,00000903
+[Black Sword]
+patch=1,EE,208DBC30,extended,00000002
+[Light Sword]
+patch=1,EE,108DBC34,extended,00000903
+[Light Sword]
+patch=1,EE,208DBC38,extended,00000903
+[Flame Sword]
+patch=1,EE,108DBC3C,extended,00000903
+[Flame Sword]
+patch=1,EE,208DBC40,extended,00000004
+[Sky Sword]
+patch=1,EE,108DBC44,extended,00000903
+[Sky Sword]
+patch=1,EE,208DBC48,extended,00000005
+[Ice Sword]
+patch=1,EE,108DBC4C,extended,00000903
+[Ice Sword]
+patch=1,EE,208DBC50,extended,00000006
+[Earth Sword]
+patch=1,EE,108DBC54,extended,00000903
+[Earth Sword]
+patch=1,EE,208DBC58,extended,00000007
+[Red Sting]
+patch=1,EE,108DBC5C,extended,00000903
+[Red Sting]
+patch=1,EE,208DBC60,extended,00000008
+[Raizan]
+patch=1,EE,108DBC64,extended,00000903
+[Raizan]
+patch=1,EE,208DBC68,extended,00000903
+[Gleam]
+patch=1,EE,108DBC6C,extended,00000903
+[Gleam]
+patch=1,EE,208DBC70,extended,0000000A
+[Fire Dance]
+patch=1,EE,108DBC74,extended,00000903
+[Fire Dance]
+patch=1,EE,208DBC78,extended,0000000B
+[Victory Gale]
+patch=1,EE,108DBC7C,extended,00000903
+[Victory Gale]
+patch=1,EE,208DBC80,extended,0000000C
+[Glacier Song]
+patch=1,EE,108DBC84,extended,00000903
+[Glacier Song]
+patch=1,EE,208DBC88,extended,0000000D
+[Dragon Offer]
+patch=1,EE,108DBC8C,extended,00000903
+[Dragon Offer]
+patch=1,EE,208DBC90,extended,0000000E
+[Oni Cutter]
+patch=1,EE,108DBC94,extended,00000903
+[Oni Cutter]
+patch=1,EE,208DBC98,extended,0000000F
+[Onyx Sword]
+patch=1,EE,108DBC9C,extended,00000903
+[Onyx Sword]
+patch=1,EE,208DBCA0,extended,00000010
+[Habakiri]
+patch=1,EE,108DBCA4,extended,00000903
+[Habakiri]
+patch=1,EE,208DBCA8,extended,00000011
+[Enryu]
+patch=1,EE,108DBCAC,extended,00000903
+[Enryu]
+patch=1,EE,208DBCB0,extended,00000012
+[Cutting Wind]
+patch=1,EE,108DBCB4,extended,00000903
+[Cutting Wind]
+patch=1,EE,208DBCB8,extended,00000013
+[Leviathan]
+patch=1,EE,108DBCBC,extended,00000903
+[Leviathan]
+patch=1,EE,208DBCC0,extended,00000014
+[Star Killer]
+patch=1,EE,108DBCC4,extended,00000903
+[Star Killer]
+patch=1,EE,208DBCC8,extended,00000015
+[Tizona]
+patch=1,EE,108DBCCC,extended,00000903
+[Tizona]
+patch=1,EE,208DBCD0,extended,00000016
+[Balmunk]
+patch=1,EE,108DBCD4,extended,00000903
+[Balmunk]
+patch=1,EE,208DBCD8,extended,00000017
+[Excalibur]
+patch=1,EE,108DBCDC,extended,00000903
+[Excalibur]
+patch=1,EE,208DBCE0,extended,00000018
+[Fallen Angel]
+patch=1,EE,108DBCE4,extended,00000903
+[Fallen Angel]
+patch=1,EE,208DBCE8,extended,00000019
+[Durandal]
+patch=1,EE,108DBCEC,extended,00000903
+[Durandal]
+patch=1,EE,208DBCF0,extended,0000001A
+[Dainslief]
+patch=1,EE,108DBCF4,extended,00000903
+[Dainslief]
+patch=1,EE,208DBCF8,extended,0000001B
+[Anguish]
+patch=1,EE,108DBCFC,extended,00000903
+[Anguish]
+patch=1,EE,208DBD00,extended,0000001C
+[Gokumonji]
+patch=1,EE,108DBD04,extended,00000903
+[Gokumonji]
+patch=1,EE,208DBD08,extended,0000001D
+[Steel Pipe]
+patch=1,EE,108DBD0C,extended,00000903
+[Steel Pipe]
+patch=1,EE,208DBD10,extended,0000001E
+[>>> Have Max Weapons-Katanas Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Miike Tenta]
+patch=1,EE,108DBD14,extended,00000903
+[Miike Tenta]
+patch=1,EE,208DBD18,extended,00000100
+[Martial Blade]
+patch=1,EE,108DBD1C,extended,00000903
+[Martial Blade]
+patch=1,EE,208DBD20,extended,00000101
+[Black Blade]
+patch=1,EE,108DBD24,extended,00000903
+[Black Blade]
+patch=1,EE,208DBD28,extended,00000102
+[Light Blade]
+patch=1,EE,108DBD2C,extended,00000903
+[Light Blade]
+patch=1,EE,208DBD30,extended,00000103
+[Flame Blade]
+patch=1,EE,108DBD34,extended,00000903
+[Flame Blade]
+patch=1,EE,208DBD38,extended,00000104
+[Sky Blade]
+patch=1,EE,108DBD3C,extended,00000903
+[Sky Blade]
+patch=1,EE,208DBD40,extended,00000105
+[Ice Blade]
+patch=1,EE,108DBD44,extended,00000903
+[Ice Blade]
+patch=1,EE,208DBD48,extended,00000106
+[Earth Blade]
+patch=1,EE,108DBD4C,extended,00000903
+[Earth Blade]
+patch=1,EE,208DBD50,extended,00000107
+[Kogarasu]
+patch=1,EE,108DBD54,extended,00000903
+[Kogarasu]
+patch=1,EE,208DBD58,extended,00000108
+[Odenta]
+patch=1,EE,108DBD5C,extended,00000903
+[Odenta]
+patch=1,EE,208DBD60,extended,00000109
+[Semimaru]
+patch=1,EE,108DBD64,extended,00000903
+[Semimaru]
+patch=1,EE,208DBD68,extended,0000010A
+[Onimaru]
+patch=1,EE,108DBD6C,extended,00000903
+[Onimaru]
+patch=1,EE,208DBD70,extended,0000010B
+[Mikazuki]
+patch=1,EE,108DBD74,extended,00000903
+[Mikazuki]
+patch=1,EE,208DBD78,extended,0000010C
+[Dojigiri]
+patch=1,EE,108DBD7C,extended,00000903
+[Dojigiri]
+patch=1,EE,208DBD80,extended,0000010D
+[Juzumaru]
+patch=1,EE,108DBD84,extended,00000903
+[Juzumaru]
+patch=1,EE,208DBD88,extended,0000010E
+[Usumidori]
+patch=1,EE,108DBD8C,extended,00000903
+[Usumidori]
+patch=1,EE,208DBD90,extended,0000010F
+[Muramasa]
+patch=1,EE,108DBD94,extended,00000903
+[Muramasa]
+patch=1,EE,208DBD98,extended,00000110
+[Masamune]
+patch=1,EE,108DBD9C,extended,00000903
+[Masamune]
+patch=1,EE,208DBDA0,extended,00000111
+[Oni Devourer]
+patch=1,EE,108DBDA4,extended,00000903
+[Oni Devourer]
+patch=1,EE,208DBDA8,extended,00000112
+[Raving Moon]
+patch=1,EE,108DBDAC,extended,00000903
+[Raving Moon]
+patch=1,EE,208DBDB0,extended,00000113
+[Ice Shade]
+patch=1,EE,108DBDB4,extended,00000903
+[Ice Shade]
+patch=1,EE,208DBDB8,extended,00000114
+[Stone Cutter]
+patch=1,EE,108DBDBC,extended,00000903
+[Stone Cutter]
+patch=1,EE,208DBDC0,extended,00000115
+[Wolf Fang]
+patch=1,EE,108DBDC4,extended,00000903
+[Wolf Fang]
+patch=1,EE,208DBDC8,extended,00000116
+[Chimera's Bite]
+patch=1,EE,108DBDCC,extended,00000903
+[Chimera's Bite]
+patch=1,EE,208DBDD0,extended,00000117
+[Shishio]
+patch=1,EE,108DBDD4,extended,00000903
+[Shishio]
+patch=1,EE,208DBDD8,extended,00000118
+[Phoenix Claw]
+patch=1,EE,108DBDDC,extended,00000903
+[Phoenix Claw]
+patch=1,EE,208DBDE0,extended,00000119
+[Garnet Edge]
+patch=1,EE,108DBDE4,extended,00000903
+[Garnet Edge]
+patch=1,EE,208DBDE8,extended,0000011A
+[Kamudo]
+patch=1,EE,108DBDEC,extended,00000903
+[Kamudo]
+patch=1,EE,208DBDF0,extended,0000011B
+[Arondight]
+patch=1,EE,108DBDF4,extended,00000903
+[Arondight]
+patch=1,EE,208DBDF8,extended,0000011C
+[Moon light]
+patch=1,EE,108DBDFC,extended,00000903
+[Moon light]
+patch=1,EE,208DBE00,extended,0000011D
+[Racket]
+patch=1,EE,108DBE04,extended,00000903
+[Racket]
+patch=1,EE,208DBE08,extended,0000011E
+[>>> Have Max Weapons-Firearms Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Tanegashima]
+patch=1,EE,108DBE0C,extended,00000903
+[Tanegashima]
+patch=1,EE,208DBE10,extended,00000200
+[Battle Rifle]
+patch=1,EE,108DBE14,extended,00000903
+[Battle Rifle]
+patch=1,EE,208DBE18,extended,00000201
+[Black Rifle]
+patch=1,EE,108DBE1C,extended,00000903
+[Black Rifle]
+patch=1,EE,208DBE20,extended,00000202
+[Light Rifle]
+patch=1,EE,108DBE24,extended,00000903
+[Light Rifle]
+patch=1,EE,208DBE28,extended,00000203
+[Flame Rifle]
+patch=1,EE,108DBE2C,extended,00000903
+[Flame Rifle]
+patch=1,EE,208DBE30,extended,00000204
+[Sky Rifle]
+patch=1,EE,108DBE34,extended,00000903
+[Sky Rifle]
+patch=1,EE,208DBE38,extended,00000205
+[Ice Rifle]
+patch=1,EE,108DBE3C,extended,00000903
+[Ice Rifle]
+patch=1,EE,208DBE40,extended,00000206
+[Earth Rifle]
+patch=1,EE,108DBE44,extended,00000903
+[Earth Rifle]
+patch=1,EE,208DBE48,extended,00000207
+[Aurora]
+patch=1,EE,108DBE4C,extended,00000903
+[Aurora]
+patch=1,EE,208DBE50,extended,00000208
+[Oni Rage]
+patch=1,EE,108DBE54,extended,00000903
+[Oni Rage]
+patch=1,EE,208DBE58,extended,00000209
+[Guardina]
+patch=1,EE,108DBE5C,extended,00000903
+[Guardina]
+patch=1,EE,208DBE60,extended,0000020A
+[Shiranui]
+patch=1,EE,108DBE64,extended,00000903
+[Shiranui]
+patch=1,EE,208DBE68,extended,0000020B
+[Meteor Shower]
+patch=1,EE,108DBE6C,extended,00000903
+[Meteor Shower]
+patch=1,EE,208DBE70,extended,0000020C
+[Blizzard]
+patch=1,EE,108DBE74,extended,00000903
+[Blizzard]
+patch=1,EE,208DBE78,extended,0000020D
+[Nio]
+patch=1,EE,108DBE7C,extended,00000903
+[Nio]
+patch=1,EE,208DBE80,extended,0000020E
+[Decadence]
+patch=1,EE,108DBE84,extended,00000903
+[Decadence]
+patch=1,EE,208DBE88,extended,0000020F
+[Black Inferno]
+patch=1,EE,108DBE8C,extended,00000903
+[Black Inferno]
+patch=1,EE,208DBE90,extended,00000210
+[Divine Spark]
+patch=1,EE,108DBE94,extended,00000903
+[Divine Spark]
+patch=1,EE,208DBE98,extended,00000211
+[Red Pyre]
+patch=1,EE,108DBE9C,extended,00000903
+[Red Pyre]
+patch=1,EE,208DBEA0,extended,00000212
+[Divine Wind]
+patch=1,EE,108DBEA4,extended,00000903
+[Divine Wind]
+patch=1,EE,208DBEA8,extended,00000213
+[Ice Breaker]
+patch=1,EE,108DBEAC,extended,00000903
+[Ice Breaker]
+patch=1,EE,208DBEB0,extended,00000214
+[Crag]
+patch=1,EE,108DBEB4,extended,00000903
+[Crag]
+patch=1,EE,208DBEB8,extended,00000215
+[Class Zero]
+patch=1,EE,108DBEBC,extended,00000903
+[Class Zero]
+patch=1,EE,208DBEC0,extended,00000216
+[Moon Gaze]
+patch=1,EE,108DBEC4,extended,00000903
+[Moon Gaze]
+patch=1,EE,208DBEC8,extended,00000217
+[Twilight]
+patch=1,EE,108DBECC,extended,00000903
+[Twilight]
+patch=1,EE,208DBED0,extended,00000218
+[Resolution]
+patch=1,EE,108DBED4,extended,00000903
+[Resolution]
+patch=1,EE,208DBED8,extended,00000219
+[Flying Dragon]
+patch=1,EE,108DBEDC,extended,00000903
+[Flying Dragon]
+patch=1,EE,208DBEE0,extended,0000021A
+[Ice Fang]
+patch=1,EE,108DBEE4,extended,00000903
+[Ice Fang]
+patch=1,EE,208DBEE8,extended,0000021B
+[Orochi]
+patch=1,EE,108DBEEC,extended,00000903
+[Orochi]
+patch=1,EE,208DBEF0,extended,0000021C
+[Supremacy]
+patch=1,EE,108DBEF4,extended,00000903
+[Supremacy]
+patch=1,EE,208DBEF8,extended,0000021D
+[Piggy Bank]
+patch=1,EE,108DBEFC,extended,00000903
+[Piggy Bank]
+patch=1,EE,208DBF00,extended,0000021E
+[>>> Have Max Weapons-Gloves Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Knuckle Guards]
+patch=1,EE,108DBF04,extended,00000903
+[Knuckle Guards]
+patch=1,EE,208DBF08,extended,00000300
+[Enma Gloves]
+patch=1,EE,108DBF0C,extended,00000903
+[Enma Gloves]
+patch=1,EE,208DBF10,extended,00000302
+[Light Gloves]
+patch=1,EE,108DBF14,extended,00000903
+[Light Gloves]
+patch=1,EE,208DBF18,extended,00000303
+[Flame Gloves]
+patch=1,EE,108DBF1C,extended,00000903
+[Flame Gloves]
+patch=1,EE,208DBF20,extended,00000304
+[Sky Gloves]
+patch=1,EE,108DBF24,extended,00000903
+[Sky Gloves]
+patch=1,EE,208DBF28,extended,00000305
+[Ground Gloves]
+patch=1,EE,108DBF2C,extended,00000903
+[Ground Gloves]
+patch=1,EE,208DBF30,extended,00000307
+[Spine Tinglers]
+patch=1,EE,108DBF34,extended,00000903
+[Spine Tinglers]
+patch=1,EE,208DBF38,extended,00000308
+[Gloves Of Hades]
+patch=1,EE,108DBF3C,extended,00000903
+[Gloves Of Hades]
+patch=1,EE,208DBF40,extended,00000309
+[Class Zero Gloves]
+patch=1,EE,108DBF44,extended,00000903
+[Class Zero Gloves]
+patch=1,EE,208DBF48,extended,0000030D
+[Redemption]
+patch=1,EE,108DBF4C,extended,00000903
+[Redemption]
+patch=1,EE,208DBF50,extended,0000030E
+[Ortlinde]
+patch=1,EE,108DBF54,extended,00000903
+[Ortlinde]
+patch=1,EE,208DBF58,extended,0000030F
+[Brunnhilde]
+patch=1,EE,108DBF5C,extended,00000903
+[Brunnhilde]
+patch=1,EE,208DBF60,extended,00000311
+[Schwertleite]
+patch=1,EE,108DBF64,extended,00000903
+[Schwertleite]
+patch=1,EE,208DBF68,extended,00000312
+[Helmwige]
+patch=1,EE,108DBF6C,extended,00000903
+[Helmwige]
+patch=1,EE,208DBF70,extended,00000313
+[Stegrune]
+patch=1,EE,108DBF74,extended,00000903
+[Stegrune]
+patch=1,EE,208DBF78,extended,00000314
+[Cassiel's Gauntlets]
+patch=1,EE,108DBF7C,extended,00000903
+[Cassiel's Gauntlets]
+patch=1,EE,208DBF80,extended,00000316
+[Lucifer's Gauntlets]
+patch=1,EE,108DBF84,extended,00000903
+[Lucifer's Gauntlets]
+patch=1,EE,208DBF88,extended,00000317
+[Metatron's Gauntlets]
+patch=1,EE,108DBF8C,extended,00000903
+[Metatron's Gauntlets]
+patch=1,EE,208DBF90,extended,00000318
+[Michael's Gauntlets]
+patch=1,EE,108DBF94,extended,00000903
+[Michael's Gauntlets]
+patch=1,EE,208DBF98,extended,00000319
+[Rapahel's Gauntlets]
+patch=1,EE,108DBF9C,extended,00000903
+[Rapahel's Gauntlets]
+patch=1,EE,208DBFA0,extended,0000031A
+[Gabriel's Gauntlets]
+patch=1,EE,108DBFA4,extended,00000903
+[Gabriel's Gauntlets]
+patch=1,EE,208DBFA8,extended,0000031B
+[Uriel's Gauntlets]
+patch=1,EE,108DBFAC,extended,00000903
+[Uriel's Gauntlets]
+patch=1,EE,208DBFB0,extended,0000031C
+[Gloves Of Covenant]
+patch=1,EE,108DBFB4,extended,00000903
+[Gloves Of Covenant]
+patch=1,EE,208DBFB8,extended,0000031D
+[Boxing Gloves]
+patch=1,EE,108DBFBC,extended,00000903
+[Boxing Gloves]
+patch=1,EE,208DBFC0,extended,0000031E
+[>>> Have Max Weapons-Staves Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kurama]
+patch=1,EE,108DBFC4,extended,00000903
+[Kurama]
+patch=1,EE,208DBFC8,extended,00000400
+[Horin]
+patch=1,EE,108DBFCC,extended,00000903
+[Horin]
+patch=1,EE,208DBFD0,extended,00000401
+[Dragonfly]
+patch=1,EE,108DBFD4,extended,00000903
+[Dragonfly]
+patch=1,EE,208DBFD8,extended,00000402
+[Kasen]
+patch=1,EE,108DBFDC,extended,00000903
+[Kasen]
+patch=1,EE,208DBFE0,extended,00000404
+[Yama]
+patch=1,EE,108DBFE4,extended,00000903
+[Yama]
+patch=1,EE,208DBFE8,extended,00000409
+[Indra]
+patch=1,EE,108DBFEC,extended,00000903
+[Indra]
+patch=1,EE,208DBFF0,extended,0000040A
+[Vaisravana]
+patch=1,EE,108DBFF4,extended,00000903
+[Vaisravana]
+patch=1,EE,208DBFF8,extended,0000040B
+[Raksasa]
+patch=1,EE,108DBFFC,extended,00000903
+[Raksasa]
+patch=1,EE,208DC000,extended,0000040C
+[Varuna]
+patch=1,EE,108DC004,extended,00000903
+[Varuna]
+patch=1,EE,208DC008,extended,0000040D
+[Isana]
+patch=1,EE,108DC00C,extended,00000903
+[Isana]
+patch=1,EE,208DC010,extended,0000040E
+[Brahma]
+patch=1,EE,108DC014,extended,00000903
+[Brahma]
+patch=1,EE,208DC018,extended,0000040F
+[Bright Star]
+patch=1,EE,108DC01C,extended,00000903
+[Bright Star]
+patch=1,EE,208DC020,extended,00000411
+[Monument]
+patch=1,EE,108DC024,extended,00000903
+[Monument]
+patch=1,EE,208DC028,extended,00000413
+[Ice Lord]
+patch=1,EE,108DC02C,extended,00000903
+[Ice Lord]
+patch=1,EE,208DC030,extended,00000414
+[Earth Lord]
+patch=1,EE,108DC034,extended,00000903
+[Earth Lord]
+patch=1,EE,208DC038,extended,00000415
+[Fudo]
+patch=1,EE,108DC03C,extended,00000903
+[Fudo]
+patch=1,EE,208DC040,extended,00000416
+[Ususama]
+patch=1,EE,108DC044,extended,00000903
+[Ususama]
+patch=1,EE,208DC048,extended,00000417
+[Gozanze]
+patch=1,EE,108DC04C,extended,00000903
+[Gozanze]
+patch=1,EE,208DC050,extended,00000418
+[Gongoyasha]
+patch=1,EE,108DC054,extended,00000903
+[Gongoyasha]
+patch=1,EE,208DC058,extended,00000419
+[Gundari]
+patch=1,EE,108DC05C,extended,00000903
+[Gundari]
+patch=1,EE,208DC060,extended,0000041A
+[Ithuriel]
+patch=1,EE,108DC064,extended,00000903
+[Ithuriel]
+patch=1,EE,208DC068,extended,0000041B
+[Gae Bolga]
+patch=1,EE,108DC06C,extended,00000903
+[Gae Bolga]
+patch=1,EE,208DC070,extended,0000041C
+[Clarity]
+patch=1,EE,108DC074,extended,00000903
+[Clarity]
+patch=1,EE,208DC078,extended,0000041D
+[Microphone Stand]
+patch=1,EE,108DC07C,extended,00000903
+[Microphone Stand]
+patch=1,EE,208DC080,extended,0000041E
+[>>> Have Armors Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Oni Charm]
+patch=1,EE,008DC084,extended,00000003
+[Oni Charm]
+patch=1,EE,208DC088,extended,00000500
+[Oni Charm 2]
+patch=1,EE,008DC08C,extended,00000003
+[Oni Charm 2]
+patch=1,EE,208DC090,extended,00000501
+[Oni Charm 3]
+patch=1,EE,008DC094,extended,00000003
+[Oni Charm 3]
+patch=1,EE,208DC098,extended,00000502
+[Oni Charm 4]
+patch=1,EE,008DC09C,extended,00000003
+[Oni Charm 4]
+patch=1,EE,208DC0A0,extended,00000503
+[Oni Charm 5]
+patch=1,EE,008DC0A4,extended,00000003
+[Oni Charm 5]
+patch=1,EE,208DC0A8,extended,00000504
+[Oni Charm 6]
+patch=1,EE,008DC0AC,extended,00000003
+[Oni Charm 6]
+patch=1,EE,208DC0B0,extended,00000505
+[Oni Charm 7]
+patch=1,EE,008DC0B4,extended,00000003
+[Oni Charm 7]
+patch=1,EE,208DC0B8,extended,00000506
+[Oni Charm 8]
+patch=1,EE,008DC0BC,extended,00000003
+[Oni Charm 8]
+patch=1,EE,208DC0C0,extended,00000507
+[Oni Charm 9]
+patch=1,EE,008DC0C4,extended,00000003
+[Oni Charm 9]
+patch=1,EE,208DC0C8,extended,00000508
+[Oni Charm 10]
+patch=1,EE,008DC0CC,extended,00000003
+[Oni Charm 10]
+patch=1,EE,208DC0D0,extended,00000509
+[Blue Armor]
+patch=1,EE,008DC0D4,extended,00000003
+[Blue Armor]
+patch=1,EE,208DC0D8,extended,00000510
+[Yagyu Armor]
+patch=1,EE,008DC0DC,extended,00000003
+[Yagyu Armor]
+patch=1,EE,208DC0E0,extended,00000511
+[Ohatsu's Clothing]
+patch=1,EE,008DC0E4,extended,00000003
+[Ohatsu's Clothing]
+patch=1,EE,208DC0E8,extended,00000512
+[Priestly Garb]
+patch=1,EE,008DC0EC,extended,00000003
+[Priestly Garb]
+patch=1,EE,208DC0F0,extended,00000513
+[Red Armor]
+patch=1,EE,008DC0F4,extended,00000003
+[Red Armor]
+patch=1,EE,208DC0F8,extended,00000514
+[Ohatsu's Clothing]
+patch=1,EE,008DC0FC,extended,00000003
+[Ohatsu's Clothing]
+patch=1,EE,208DC100,extended,00000515
+[>>> Have Apparel-Rings Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Phoenix Ring]
+patch=1,EE,008DC104,extended,00000003
+[Phoenix Ring]
+patch=1,EE,208DC108,extended,00000600
+[Tortoise Ring]
+patch=1,EE,008DC10C,extended,00000003
+[Tortoise Ring]
+patch=1,EE,208DC110,extended,00000601
+[Tiger Ring]
+patch=1,EE,008DC114,extended,00000003
+[Tiger Ring]
+patch=1,EE,208DC118,extended,00000602
+[Dragon Ring]
+patch=1,EE,008DC11C,extended,00000003
+[Dragon Ring]
+patch=1,EE,208DC120,extended,00000603
+[Unicorn Ring]
+patch=1,EE,008DC124,extended,00000003
+[Unicorn Ring]
+patch=1,EE,208DC128,extended,00000604
+[Enma's Ring]
+patch=1,EE,008DC12C,extended,00000003
+[Enma's Ring]
+patch=1,EE,208DC130,extended,00000605
+[Footsoldier's Ring]
+patch=1,EE,008DC134,extended,00000003
+[Footsoldier's Ring]
+patch=1,EE,208DC138,extended,00000606
+[Sergeant's Ring]
+patch=1,EE,008DC13C,extended,00000003
+[Sergeant's Ring]
+patch=1,EE,208DC140,extended,00000607
+[Samurai's Ring]
+patch=1,EE,008DC144,extended,00000003
+[Samurai's Ring]
+patch=1,EE,208DC148,extended,00000608
+[Commander's Ring]
+patch=1,EE,008DC14C,extended,00000003
+[Commander's Ring]
+patch=1,EE,208DC150,extended,00000609
+[General's Ring]
+patch=1,EE,008DC154,extended,00000003
+[General's Ring]
+patch=1,EE,208DC158,extended,0000060A
+[Warrior's Ring]
+patch=1,EE,008DC15C,extended,00000003
+[Warrior's Ring]
+patch=1,EE,208DC160,extended,0000060B
+[Acolyte's Ring]
+patch=1,EE,008DC164,extended,00000003
+[Acolyte's Ring]
+patch=1,EE,208DC168,extended,0000060C
+[Magician's Ring]
+patch=1,EE,008DC16C,extended,00000003
+[Magician's Ring]
+patch=1,EE,208DC170,extended,0000060D
+[Tao Master's Ring]
+patch=1,EE,008DC174,extended,00000003
+[Tao Master's Ring]
+patch=1,EE,208DC178,extended,0000060E
+[Pawn Ring]
+patch=1,EE,008DC17C,extended,00000003
+[Pawn Ring]
+patch=1,EE,208DC180,extended,0000060F
+[Knight Ring]
+patch=1,EE,008DC184,extended,00000003
+[Knight Ring]
+patch=1,EE,208DC188,extended,00000610
+[High King Ring]
+patch=1,EE,008DC18C,extended,00000003
+[High King Ring]
+patch=1,EE,208DC190,extended,00000611
+[Lance Ring]
+patch=1,EE,008DC194,extended,00000003
+[Lance Ring]
+patch=1,EE,208DC198,extended,00000612
+[Rook Ring]
+patch=1,EE,008DC19C,extended,00000003
+[Rook Ring]
+patch=1,EE,208DC1A0,extended,00000613
+[S. General Ring]
+patch=1,EE,008DC1A4,extended,00000003
+[S. General Ring]
+patch=1,EE,208DC1A8,extended,00000614
+[G. General Ring]
+patch=1,EE,008DC1AC,extended,00000003
+[G. General Ring]
+patch=1,EE,208DC1B0,extended,00000615
+[Bishop Ring]
+patch=1,EE,008DC1B4,extended,00000003
+[Bishop Ring]
+patch=1,EE,208DC1B8,extended,00000616
+[Low King Ring]
+patch=1,EE,008DC1BC,extended,00000003
+[Low King Ring]
+patch=1,EE,208DC1C0,extended,00000617
+[Flame Ring]
+patch=1,EE,008DC1C4,extended,00000003
+[Flame Ring]
+patch=1,EE,208DC1C8,extended,00000618
+[Earth Ring]
+patch=1,EE,008DC1CC,extended,00000003
+[Earth Ring]
+patch=1,EE,208DC1D0,extended,00000619
+[Wind Ring]
+patch=1,EE,008DC1D4,extended,00000003
+[Wind Ring]
+patch=1,EE,208DC1D8,extended,0000061A
+[Ice Ring]
+patch=1,EE,008DC1DC,extended,00000003
+[Ice Ring]
+patch=1,EE,208DC1E0,extended,0000061B
+[Light Ring]
+patch=1,EE,008DC1E4,extended,00000003
+[Light Ring]
+patch=1,EE,208DC1E8,extended,0000061C
+[Dark Ring]
+patch=1,EE,008DC1EC,extended,00000003
+[Dark Ring]
+patch=1,EE,208DC1F0,extended,0000061D
+[Wolf Ring]
+patch=1,EE,008DC1F4,extended,00000003
+[Wolf Ring]
+patch=1,EE,208DC1F8,extended,0000061E
+[Naga Ring]
+patch=1,EE,008DC1FC,extended,00000003
+[Naga Ring]
+patch=1,EE,208DC200,extended,0000061F
+[Purple Ring]
+patch=1,EE,008DC204,extended,00000003
+[Purple Ring]
+patch=1,EE,208DC208,extended,00000620
+[Pearl Ring]
+patch=1,EE,008DC20C,extended,00000003
+[Pearl Ring]
+patch=1,EE,208DC210,extended,00000621
+[Indigo Ring]
+patch=1,EE,008DC214,extended,00000003
+[Indigo Ring]
+patch=1,EE,208DC218,extended,00000622
+[Azure Ring]
+patch=1,EE,008DC21C,extended,00000003
+[Azure Ring]
+patch=1,EE,208DC220,extended,00000623
+[Crimson Ring]
+patch=1,EE,008DC224,extended,00000003
+[Crimson Ring]
+patch=1,EE,208DC228,extended,00000624
+[Diamond Ring]
+patch=1,EE,008DC22C,extended,00000003
+[Diamond Ring]
+patch=1,EE,208DC230,extended,00000625
+[>>> Have Apparel-Necklaces Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Phoenix Necklace]
+patch=1,EE,008DC234,extended,00000003
+[Phoenix Necklace]
+patch=1,EE,208DC238,extended,00000700
+[Tortoise Necklace]
+patch=1,EE,008DC23C,extended,00000003
+[Tortoise Necklace]
+patch=1,EE,208DC240,extended,00000701
+[Tiger Necklace]
+patch=1,EE,008DC244,extended,00000003
+[Tiger Necklace]
+patch=1,EE,208DC248,extended,00000702
+[Dragon Necklace]
+patch=1,EE,008DC24C,extended,00000003
+[Dragon Necklace]
+patch=1,EE,208DC250,extended,00000703
+[Unicorn Necklace]
+patch=1,EE,008DC254,extended,00000003
+[Unicorn Necklace]
+patch=1,EE,208DC258,extended,00000704
+[Enma's Necklace]
+patch=1,EE,008DC25C,extended,00000003
+[Enma's Necklace]
+patch=1,EE,208DC260,extended,00000705
+[Footsoldier's Choker]
+patch=1,EE,008DC264,extended,00000003
+[Footsoldier's Choker]
+patch=1,EE,208DC268,extended,00000706
+[Sergeant's Choker]
+patch=1,EE,008DC26C,extended,00000003
+[Sergeant's Choker]
+patch=1,EE,208DC270,extended,00000707
+[Samurai's Choker]
+patch=1,EE,008DC274,extended,00000003
+[Samurai's Choker]
+patch=1,EE,208DC278,extended,00000708
+[Commande's Choker]
+patch=1,EE,008DC27C,extended,00000003
+[Commande's Choker]
+patch=1,EE,208DC280,extended,00000709
+[General's Choker]
+patch=1,EE,008DC284,extended,00000003
+[General's Choker]
+patch=1,EE,208DC288,extended,0000070A
+[Necklace of Peace]
+patch=1,EE,008DC28C,extended,00000003
+[Necklace of Peace]
+patch=1,EE,208DC290,extended,0000070B
+[Tiger Eye]
+patch=1,EE,008DC294,extended,00000003
+[Tiger Eye]
+patch=1,EE,208DC298,extended,0000070C
+[True Tiger Eye]
+patch=1,EE,008DC29C,extended,00000003
+[True Tiger Eye]
+patch=1,EE,208DC2A0,extended,0000070D
+[Blessed Tiger Eye]
+patch=1,EE,008DC2A4,extended,00000003
+[Blessed Tiger Eye]
+patch=1,EE,208DC2A8,extended,0000070E
+[Eye of the Oni]
+patch=1,EE,008DC2AC,extended,00000003
+[Eye of the Oni]
+patch=1,EE,208DC2B0,extended,0000070F
+[True Eye of the Oni]
+patch=1,EE,008DC2B4,extended,00000003
+[True Eye of the Oni]
+patch=1,EE,208DC2B8,extended,00000710
+[Blessed Oni Eye]
+patch=1,EE,008DC2BC,extended,00000003
+[Blessed Oni Eye]
+patch=1,EE,208DC2C0,extended,00000711
+[Dragon Eye]
+patch=1,EE,008DC2C4,extended,00000003
+[Dragon Eye]
+patch=1,EE,208DC2C8,extended,00000712
+[True Dragon Eye]
+patch=1,EE,008DC2CC,extended,00000003
+[True Dragon Eye]
+patch=1,EE,208DC2D0,extended,00000713
+[Blessed Dragon Eye]
+patch=1,EE,008DC2D4,extended,00000003
+[Blessed Dragon Eye]
+patch=1,EE,208DC2D8,extended,00000714
+[Flame Necklace]
+patch=1,EE,008DC2DC,extended,00000003
+[Flame Necklace]
+patch=1,EE,208DC2E0,extended,00000715
+[Earth Necklace]
+patch=1,EE,008DC2E4,extended,00000003
+[Earth Necklace]
+patch=1,EE,208DC2E8,extended,00000716
+[Wind Necklace]
+patch=1,EE,008DC2EC,extended,00000003
+[Wind Necklace]
+patch=1,EE,208DC2F0,extended,00000717
+[Ice Necklace]
+patch=1,EE,008DC2F4,extended,00000003
+[Ice Necklace]
+patch=1,EE,208DC2F8,extended,00000718
+[Light Necklace]
+patch=1,EE,008DC2FC,extended,00000003
+[Light Necklace]
+patch=1,EE,208DC300,extended,00000719
+[Dark Necklace]
+patch=1,EE,008DC304,extended,00000003
+[Dark Necklace]
+patch=1,EE,208DC308,extended,0000071A
+[Wolf Necklace]
+patch=1,EE,008DC30C,extended,00000003
+[Wolf Necklace]
+patch=1,EE,208DC310,extended,0000071B
+[Pair Scarf]
+patch=1,EE,008DC314,extended,00000003
+[Pair Scarf]
+patch=1,EE,208DC318,extended,0000071C
+[Friendship Scarf]
+patch=1,EE,008DC31C,extended,00000003
+[Friendship Scarf]
+patch=1,EE,208DC320,extended,0000071D
+[Brotherly Scarf]
+patch=1,EE,008DC324,extended,00000003
+[Brotherly Scarf]
+patch=1,EE,208DC328,extended,0000071E
+[Tao Scarf]
+patch=1,EE,008DC32C,extended,00000003
+[Tao Scarf]
+patch=1,EE,208DC330,extended,0000071F
+[Oni of Peace]
+patch=1,EE,008DC334,extended,00000003
+[Oni of Peace]
+patch=1,EE,208DC338,extended,00000720
+[Oni of War]
+patch=1,EE,008DC33C,extended,00000003
+[Oni of War]
+patch=1,EE,208DC340,extended,00000721
+[Oni of Fate]
+patch=1,EE,008DC344,extended,00000003
+[Oni of Fate]
+patch=1,EE,208DC348,extended,00000722
+[Oni of Joy]
+patch=1,EE,008DC34C,extended,00000003
+[Oni of Joy]
+patch=1,EE,208DC350,extended,00000723
+[>>> Have Apparel-Other Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Longevity Charm]
+patch=1,EE,008DC354,extended,00000003
+[Longevity Charm]
+patch=1,EE,208DC358,extended,00000800
+[Contentment Charm]
+patch=1,EE,008DC35C,extended,00000003
+[Contentment Charm]
+patch=1,EE,208DC360,extended,00000801
+[War Charm]
+patch=1,EE,008DC364,extended,00000003
+[War Charm]
+patch=1,EE,208DC368,extended,00000802
+[Lucky Charm]
+patch=1,EE,008DC36C,extended,00000003
+[Lucky Charm]
+patch=1,EE,208DC370,extended,00000803
+[Art Charm]
+patch=1,EE,008DC374,extended,00000003
+[Art Charm]
+patch=1,EE,208DC378,extended,00000804
+[Prosperity Charm]
+patch=1,EE,008DC37C,extended,00000003
+[Prosperity Charm]
+patch=1,EE,208DC380,extended,00000805
+[Gem of Valor]
+patch=1,EE,008DC384,extended,00000003
+[Gem of Valor]
+patch=1,EE,208DC388,extended,00000806
+[Gem of Bravery]
+patch=1,EE,008DC38C,extended,00000003
+[Gem of Bravery]
+patch=1,EE,208DC390,extended,00000807
+[Gambler's Dice]
+patch=1,EE,008DC394,extended,00000003
+[Gambler's Dice]
+patch=1,EE,208DC398,extended,00000808
+[Gambler's Thimble]
+patch=1,EE,008DC39C,extended,00000003
+[Gambler's Thimble]
+patch=1,EE,208DC3A0,extended,00000809
+[Embossed Mallet]
+patch=1,EE,008DC3A4,extended,00000003
+[Embossed Mallet]
+patch=1,EE,208DC3A8,extended,0000080A
+[Fudo Horn]
+patch=1,EE,008DC3AC,extended,00000003
+[Fudo Horn]
+patch=1,EE,208DC3B0,extended,0000080B
+[Merchant Stamp]
+patch=1,EE,008DC3B4,extended,00000003
+[Merchant Stamp]
+patch=1,EE,208DC3B8,extended,0000080C
+[Yellow Bell]
+patch=1,EE,008DC3BC,extended,00000003
+[Yellow Bell]
+patch=1,EE,208DC3C0,extended,0000080D
+[Purple Bell]
+patch=1,EE,008DC3C4,extended,00000003
+[Purple Bell]
+patch=1,EE,208DC3C8,extended,0000080E
+[Red Bell]
+patch=1,EE,008DC3CC,extended,00000003
+[Red Bell]
+patch=1,EE,208DC3D0,extended,0000080F
+[Blue Bell]
+patch=1,EE,008DC3D4,extended,00000003
+[Blue Bell]
+patch=1,EE,208DC3D8,extended,00000810
+[Charon's Bell]
+patch=1,EE,008DC3DC,extended,00000003
+[Charon's Bell]
+patch=1,EE,208DC3E0,extended,00000811
+[Rosary of Health]
+patch=1,EE,008DC3E4,extended,00000003
+[Rosary of Health]
+patch=1,EE,208DC3E8,extended,00000812
+[Rosary of Magic]
+patch=1,EE,008DC3EC,extended,00000003
+[Rosary of Magic]
+patch=1,EE,208DC3F0,extended,00000813
+[Rosary of Heart]
+patch=1,EE,008DC3F4,extended,00000003
+[Rosary of Heart]
+patch=1,EE,208DC3F8,extended,00000814
+[Rosary of Spirit]
+patch=1,EE,008DC3FC,extended,00000003
+[Rosary of Spirit]
+patch=1,EE,208DC400,extended,00000815
+[Dragon of Peace]
+patch=1,EE,008DC404,extended,00000003
+[Dragon of Peace]
+patch=1,EE,208DC408,extended,00000816
+[Dragon of War]
+patch=1,EE,008DC40C,extended,00000003
+[Dragon of War]
+patch=1,EE,208DC410,extended,00000817
+[Dragon of Fate]
+patch=1,EE,008DC414,extended,00000003
+[Dragon of Fate]
+patch=1,EE,208DC418,extended,00000818
+[Dragon of Joy]
+patch=1,EE,008DC41C,extended,00000003
+[Dragon of Joy]
+patch=1,EE,208DC420,extended,00000819
+[Horn of Susano]
+patch=1,EE,008DC424,extended,00000003
+[Horn of Susano]
+patch=1,EE,208DC428,extended,0000081B
+[Time Gem]
+patch=1,EE,008DC42C,extended,00000003
+[Time Gem]
+patch=1,EE,208DC430,extended,0000081C
+[Gem of Will]
+patch=1,EE,008DC434,extended,00000003
+[Gem of Will]
+patch=1,EE,208DC438,extended,0000081D
+[>>> Have Supplies Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Medicine LV 1]
+patch=1,EE,008DC43C,extended,00000003
+[Medicine LV 1]
+patch=1,EE,208DC440,extended,00000900
+[Medicine LV 2]
+patch=1,EE,008DC444,extended,00000003
+[Medicine LV 2]
+patch=1,EE,208DC448,extended,00000901
+[Medicine LV 3]
+patch=1,EE,008DC44C,extended,00000003
+[Medicine LV 3]
+patch=1,EE,208DC450,extended,00000902
+[Secret Med LV 1]
+patch=1,EE,008DC454,extended,00000003
+[Secret Med LV 1]
+patch=1,EE,208DC458,extended,00000906
+[Secret Med LV 2]
+patch=1,EE,008DC45C,extended,00000003
+[Secret Med LV 2]
+patch=1,EE,208DC460,extended,00000907
+[Secret Med LV 3]
+patch=1,EE,008DC464,extended,00000003
+[Secret Med LV 3]
+patch=1,EE,208DC468,extended,00000908
+[Ultra Med LV 1]
+patch=1,EE,008DC46C,extended,00000003
+[Ultra Med LV 1]
+patch=1,EE,208DC470,extended,00000909
+[Ultra Med LV 2]
+patch=1,EE,008DC474,extended,00000003
+[Ultra Med LV 2]
+patch=1,EE,208DC478,extended,0000090A
+[Ultra Med LV 3]
+patch=1,EE,008DC47C,extended,00000003
+[Ultra Med LV 3]
+patch=1,EE,208DC480,extended,0000090B
+[Oni Med LV 1]
+patch=1,EE,008DC484,extended,00000003
+[Oni Med LV 1]
+patch=1,EE,208DC488,extended,00000910
+[Oni Med LV 2]
+patch=1,EE,008DC48C,extended,00000003
+[Oni Med LV 2]
+patch=1,EE,208DC490,extended,00000911
+[Oni Med LV 3]
+patch=1,EE,008DC494,extended,00000003
+[Oni Med LV 3]
+patch=1,EE,208DC498,extended,00000912
+[Secret Oni Med LV 1]
+patch=1,EE,008DC49C,extended,00000003
+[Secret Oni Med LV 1]
+patch=1,EE,208DC4A0,extended,00000916
+[Secret Oni Med LV 2]
+patch=1,EE,008DC4A4,extended,00000003
+[Secret Oni Med LV 2]
+patch=1,EE,208DC4A8,extended,00000917
+[Secret Oni Med LV 3]
+patch=1,EE,008DC4AC,extended,00000003
+[Secret Oni Med LV 3]
+patch=1,EE,208DC4B0,extended,00000918
+[Drive Med LV 1]
+patch=1,EE,008DC4B4,extended,00000003
+[Drive Med LV 1]
+patch=1,EE,208DC4B8,extended,00000920
+[Drive Med LV 2]
+patch=1,EE,008DC4BC,extended,00000003
+[Drive Med LV 2]
+patch=1,EE,208DC4C0,extended,00000921
+[Drive Med LV 3]
+patch=1,EE,008DC4C4,extended,00000003
+[Drive Med LV 3]
+patch=1,EE,208DC4C8,extended,00000922
+[S. Drive Med LV 1]
+patch=1,EE,008DC4CC,extended,00000003
+[S. Drive Med LV 1]
+patch=1,EE,208DC4D0,extended,00000926
+[S. Drive Med LV 2]
+patch=1,EE,008DC4D4,extended,00000003
+[S. Drive Med LV 2]
+patch=1,EE,208DC4D8,extended,00000927
+[S. Drive Med LV 3]
+patch=1,EE,008DC4DC,extended,00000003
+[S. Drive Med LV 3]
+patch=1,EE,208DC4E0,extended,00000928
+[>>> Have Other-Maps Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Plains Highway Map]
+patch=1,EE,008DC4E4,extended,00000003
+[Plains Highway Map]
+patch=1,EE,208DC4E8,extended,00000A00
+[Plains Outpost Map]
+patch=1,EE,008DC4EC,extended,00000003
+[Plains Outpost Map]
+patch=1,EE,208DC4F0,extended,00000A01
+[Mountain Fortress Map]
+patch=1,EE,008DC4F4,extended,00000003
+[Mountain Fortress Map]
+patch=1,EE,208DC4F8,extended,00000A02
+[S. Castle Grounds Map]
+patch=1,EE,008DC4FC,extended,00000003
+[S. Castle Grounds Map]
+patch=1,EE,208DC500,extended,00000A03
+[S. Castle Dungeon Map]
+patch=1,EE,008DC504,extended,00000003
+[S. Castle Dungeon Map]
+patch=1,EE,208DC508,extended,00000A04
+[Sawayama Castle Map]
+patch=1,EE,008DC50C,extended,00000003
+[Sawayama Castle Map]
+patch=1,EE,208DC510,extended,00000A05
+[Kyoto Area Map]
+patch=1,EE,008DC514,extended,00000003
+[Kyoto Area Map]
+patch=1,EE,208DC518,extended,00000A06
+[Daigo Temple Map]
+patch=1,EE,008DC51C,extended,00000003
+[Daigo Temple Map]
+patch=1,EE,208DC520,extended,00000A07
+[Mt. Hiei Map]
+patch=1,EE,008DC524,extended,00000003
+[Mt. Hiei Map]
+patch=1,EE,208DC528,extended,00000A08
+[Oni Mansion Map]
+patch=1,EE,008DC52C,extended,00000003
+[Oni Mansion Map]
+patch=1,EE,208DC530,extended,00000A09
+[A. Castle Grounds Map]
+patch=1,EE,008DC534,extended,00000003
+[A. Castle Grounds Map]
+patch=1,EE,208DC538,extended,00000A0A
+[Azuchi Castle Map]
+patch=1,EE,008DC53C,extended,00000003
+[Azuchi Castle Map]
+patch=1,EE,208DC540,extended,00000A0B
+[Western Hospital Map]
+patch=1,EE,008DC544,extended,00000003
+[Western Hospital Map]
+patch=1,EE,208DC548,extended,00000A0C
+[Sakai Facility Map]
+patch=1,EE,008DC54C,extended,00000003
+[Sakai Facility Map]
+patch=1,EE,208DC550,extended,00000A0D
+[Town of Sakai Map]
+patch=1,EE,008DC554,extended,00000003
+[Town of Sakai Map]
+patch=1,EE,208DC558,extended,00000A0E
+[Port of Sakai Map]
+patch=1,EE,008DC55C,extended,00000003
+[Port of Sakai Map]
+patch=1,EE,208DC560,extended,00000A0F
+[Abandoned Village Map]
+patch=1,EE,008DC564,extended,00000003
+[Abandoned Village Map]
+patch=1,EE,208DC568,extended,00000A10
+[Shimabara Facility Map]
+patch=1,EE,008DC56C,extended,00000003
+[Shimabara Facility Map]
+patch=1,EE,208DC570,extended,00000A11
+[Nagoya Grounds Map]
+patch=1,EE,008DC574,extended,00000003
+[Nagoya Grounds Map]
+patch=1,EE,208DC578,extended,00000A12
+[Nagoya Castle Map]
+patch=1,EE,008DC57C,extended,00000003
+[Nagoya Castle Map]
+patch=1,EE,208DC580,extended,00000A13
+[Fushimi Castle Map]
+patch=1,EE,008DC584,extended,00000003
+[Fushimi Castle Map]
+patch=1,EE,208DC588,extended,00000A14
+[Drunkard's Diary 1]
+patch=1,EE,008DC58C,extended,00000003
+[Drunkard's Diary 1]
+patch=1,EE,208DC590,extended,00000B00
+[Drunkard's Diary 2]
+patch=1,EE,008DC594,extended,00000003
+[Drunkard's Diary 2]
+patch=1,EE,208DC598,extended,00000B01
+[Sentry's Diary 1]
+patch=1,EE,008DC59C,extended,00000003
+[Sentry's Diary 1]
+patch=1,EE,208DC5A0,extended,00000B02
+[Sentry's Diary 2]
+patch=1,EE,008DC5A4,extended,00000003
+[Sentry's Diary 2]
+patch=1,EE,208DC5A8,extended,00000B03
+[Takuan's Diary 1]
+patch=1,EE,008DC5AC,extended,00000003
+[Takuan's Diary 1]
+patch=1,EE,208DC5B0,extended,00000B04
+[Takuan's Diary 2]
+patch=1,EE,008DC5B4,extended,00000003
+[Takuan's Diary 2]
+patch=1,EE,208DC5B8,extended,00000B05
+[Takuan's Diary 3]
+patch=1,EE,008DC5BC,extended,00000003
+[Takuan's Diary 3]
+patch=1,EE,208DC5C0,extended,00000B06
+[Takuan's Diary 4]
+patch=1,EE,008DC5C4,extended,00000003
+[Takuan's Diary 4]
+patch=1,EE,208DC5C8,extended,00000B07
+[Takuan's Diary 5]
+patch=1,EE,008DC5CC,extended,00000003
+[Takuan's Diary 5]
+patch=1,EE,208DC5D0,extended,00000B08
+[Takuan's Diary 6]
+patch=1,EE,008DC5D4,extended,00000003
+[Takuan's Diary 6]
+patch=1,EE,208DC5D8,extended,00000B09
+[Takuan's Diary 7]
+patch=1,EE,008DC5DC,extended,00000003
+[Takuan's Diary 7]
+patch=1,EE,208DC5E0,extended,00000B0A
+[Takuan's Diary 8]
+patch=1,EE,008DC5E4,extended,00000003
+[Takuan's Diary 8]
+patch=1,EE,208DC5E8,extended,00000B0B
+[Takuan's Diary 9]
+patch=1,EE,008DC5EC,extended,00000003
+[Takuan's Diary 9]
+patch=1,EE,208DC5F0,extended,00000B0C
+[>>> Have Other-Documents Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Vassal's Memo 1]
+patch=1,EE,008DC5F4,extended,00000003
+[Vassal's Memo 1]
+patch=1,EE,208DC5F8,extended,00000B0D
+[Vassal's Memo 2]
+patch=1,EE,008DC5FC,extended,00000003
+[Vassal's Memo 2]
+patch=1,EE,208DC600,extended,00000B0E
+[Kiyomasa's Memo]
+patch=1,EE,008DC604,extended,00000003
+[Kiyomasa's Memo]
+patch=1,EE,208DC608,extended,00000B0F
+[Mt. Hiei Legend 1]
+patch=1,EE,008DC60C,extended,00000003
+[Mt. Hiei Legend 1]
+patch=1,EE,208DC610,extended,00000B10
+[Mt. Hiei Legend 2]
+patch=1,EE,008DC614,extended,00000003
+[Mt. Hiei Legend 2]
+patch=1,EE,208DC618,extended,00000B11
+[Hospital Register]
+patch=1,EE,008DC61C,extended,00000003
+[Hospital Register]
+patch=1,EE,208DC620,extended,00000B12
+[Mitsunari's Diary 1]
+patch=1,EE,008DC624,extended,00000003
+[Mitsunari's Diary 1]
+patch=1,EE,208DC628,extended,00000B13
+[Mitsunari's Diary 2]
+patch=1,EE,008DC62C,extended,00000003
+[Mitsunari's Diary 2]
+patch=1,EE,208DC630,extended,00000B14
+[Mitsunari's Diary 3]
+patch=1,EE,008DC634,extended,00000003
+[Mitsunari's Diary 3]
+patch=1,EE,208DC638,extended,00000B15
+[Historical Document]
+patch=1,EE,008DC63C,extended,00000003
+[Historical Document]
+patch=1,EE,208DC640,extended,00000B16
+[Official's Diary 1]
+patch=1,EE,008DC644,extended,00000003
+[Official's Diary 1]
+patch=1,EE,208DC648,extended,00000B17
+[Official's Diary 2]
+patch=1,EE,008DC64C,extended,00000003
+[Official's Diary 2]
+patch=1,EE,208DC650,extended,00000B18
+[Luis Frois Diary]
+patch=1,EE,008DC654,extended,00000003
+[Luis Frois Diary]
+patch=1,EE,208DC658,extended,00000B19
+[Claudius Memo 1]
+patch=1,EE,008DC65C,extended,00000003
+[Claudius Memo 1]
+patch=1,EE,208DC660,extended,00000B1A
+[Claudius Memo 2]
+patch=1,EE,008DC664,extended,00000003
+[Claudius Memo 2]
+patch=1,EE,208DC668,extended,00000B1B
+[>>> Have Other-Valuables Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Temple Gate Key R]
+patch=1,EE,008DC66C,extended,00000003
+[Temple Gate Key R]
+patch=1,EE,208DC670,extended,00000D00
+[Temple Gate Key L]
+patch=1,EE,008DC674,extended,00000003
+[Temple Gate Key L]
+patch=1,EE,208DC678,extended,00000D01
+[Lubricating Oil]
+patch=1,EE,008DC67C,extended,00000003
+[Lubricating Oil]
+patch=1,EE,208DC680,extended,00000D02
+[Crow Feather]
+patch=1,EE,008DC684,extended,00000003
+[Crow Feather]
+patch=1,EE,208DC688,extended,00000D03
+[Castle Gate Key]
+patch=1,EE,008DC68C,extended,00000003
+[Castle Gate Key]
+patch=1,EE,208DC690,extended,00000D04
+[Mountain Shrine Key]
+patch=1,EE,008DC694,extended,00000003
+[Mountain Shrine Key]
+patch=1,EE,208DC698,extended,00000D05
+[Ancient Key]
+patch=1,EE,008DC69C,extended,00000003
+[Ancient Key]
+patch=1,EE,208DC6A0,extended,00000D06
+[Fox Gem (heaven)]
+patch=1,EE,008DC6A4,extended,00000003
+[Fox Gem (heaven)]
+patch=1,EE,208DC6A8,extended,00000D07
+[Fox Gem (earth)]
+patch=1,EE,008DC6AC,extended,00000003
+[Fox Gem (earth)]
+patch=1,EE,208DC6B0,extended,00000D08
+[Fox Gem (titan)]
+patch=1,EE,008DC6B4,extended,00000003
+[Fox Gem (titan)]
+patch=1,EE,208DC6B8,extended,00000D09
+[Fox Gem (animal)]
+patch=1,EE,008DC6BC,extended,00000003
+[Fox Gem (animal)]
+patch=1,EE,208DC6C0,extended,00000D0A
+[Fox Gem (ghost)]
+patch=1,EE,008DC6C4,extended,00000003
+[Fox Gem (ghost)]
+patch=1,EE,208DC6C8,extended,00000D0B
+[Fox Gem (hell)]
+patch=1,EE,008DC6CC,extended,00000003
+[Fox Gem (hell)]
+patch=1,EE,208DC6D0,extended,00000D0C
+[Red Pearl I]
+patch=1,EE,008DC6D4,extended,00000003
+[Red Pearl I]
+patch=1,EE,208DC6D8,extended,00000D0D
+[Blue Pearl II]
+patch=1,EE,008DC6DC,extended,00000003
+[Blue Pearl II]
+patch=1,EE,208DC6E0,extended,00000D0E
+[Red Pearl III]
+patch=1,EE,008DC6E4,extended,00000003
+[Red Pearl III]
+patch=1,EE,208DC6E8,extended,00000D0F
+[Blue Pearl IV]
+patch=1,EE,008DC6EC,extended,00000003
+[Blue Pearl IV]
+patch=1,EE,208DC6F0,extended,00000D10
+[Red Pearl V]
+patch=1,EE,008DC6F4,extended,00000003
+[Red Pearl V]
+patch=1,EE,208DC6F8,extended,00000D11
+[Red Pearl VI]
+patch=1,EE,008DC6FC,extended,00000003
+[Red Pearl VI]
+patch=1,EE,208DC700,extended,00000D12
+[Oni Orb]
+patch=1,EE,008DC704,extended,00000003
+[Oni Orb]
+patch=1,EE,208DC708,extended,00000D13
+[Cave Door Key]
+patch=1,EE,008DC70C,extended,00000003
+[Cave Door Key]
+patch=1,EE,208DC710,extended,00000D14
+[Copper Gear]
+patch=1,EE,008DC714,extended,00000003
+[Copper Gear]
+patch=1,EE,208DC718,extended,00000D15
+[1F Machine Lever]
+patch=1,EE,008DC71C,extended,00000003
+[1F Machine Lever]
+patch=1,EE,208DC720,extended,00000D17
+[1F East Door Key]
+patch=1,EE,008DC724,extended,00000003
+[1F East Door Key]
+patch=1,EE,208DC728,extended,00000D18
+[2F Central Door Key]
+patch=1,EE,008DC72C,extended,00000003
+[2F Central Door Key]
+patch=1,EE,208DC730,extended,00000D19
+[2F Machine Lever]
+patch=1,EE,008DC734,extended,00000003
+[2F Machine Lever]
+patch=1,EE,208DC738,extended,00000D1A
+[3F Central Door Key]
+patch=1,EE,008DC73C,extended,00000003
+[3F Central Door Key]
+patch=1,EE,208DC740,extended,00000D1B
+[Orange Key]
+patch=1,EE,008DC744,extended,00000003
+[Orange Key]
+patch=1,EE,208DC748,extended,00000D1C
+[Purple Key]
+patch=1,EE,008DC74C,extended,00000003
+[Purple Key]
+patch=1,EE,208DC750,extended,00000D1D
+[Green Key]
+patch=1,EE,008DC754,extended,00000003
+[Green Key]
+patch=1,EE,208DC758,extended,00000D1E
+[Blue Key]
+patch=1,EE,008DC75C,extended,00000003
+[Blue Key]
+patch=1,EE,208DC760,extended,00000D1F
+[Toyotomi Crest]
+patch=1,EE,008DC764,extended,00000003
+[Toyotomi Crest]
+patch=1,EE,208DC768,extended,00000D21
+[Power Room Key]
+patch=1,EE,008DC76C,extended,00000003
+[Power Room Key]
+patch=1,EE,208DC770,extended,00000D22
+[Floodgate Lever]
+patch=1,EE,008DC774,extended,00000003
+[Floodgate Lever]
+patch=1,EE,208DC778,extended,00000D2B
+[Waterway Door Key]
+patch=1,EE,008DC77C,extended,00000003
+[Waterway Door Key]
+patch=1,EE,208DC780,extended,00000D2C
+[Emergency Exit Key]
+patch=1,EE,008DC784,extended,00000003
+[Emergency Exit Key]
+patch=1,EE,208DC788,extended,00000D2D
+[Roberto's Pendant]
+patch=1,EE,008DC78C,extended,00000003
+[Roberto's Pendant]
+patch=1,EE,208DC790,extended,00000D2E
+[Copper Gear A]
+patch=1,EE,008DC794,extended,00000003
+[Copper Gear A]
+patch=1,EE,208DC798,extended,00000D2F
+[Copper Gear B]
+patch=1,EE,008DC79C,extended,00000003
+[Copper Gear B]
+patch=1,EE,208DC7A0,extended,00000D30
+[Green Crest]
+patch=1,EE,008DC7A4,extended,00000003
+[Green Crest]
+patch=1,EE,208DC7A8,extended,00000D31
+[Purple Crest]
+patch=1,EE,008DC7AC,extended,00000003
+[Purple Crest]
+patch=1,EE,208DC7B0,extended,00000D32
+[Control Door Key]
+patch=1,EE,008DC7B4,extended,00000003
+[Control Door Key]
+patch=1,EE,208DC7B8,extended,00000D33
+[Dock Key]
+patch=1,EE,008DC7BC,extended,00000003
+[Dock Key]
+patch=1,EE,208DC7C0,extended,00000D37
+[1F Electric Plug]
+patch=1,EE,008DC7C4,extended,00000003
+[1F Electric Plug]
+patch=1,EE,208DC7C8,extended,00000D38
+[2F Electric Plug]
+patch=1,EE,008DC7CC,extended,00000003
+[2F Electric Plug]
+patch=1,EE,208DC7D0,extended,00000D39
+[Red Crest]
+patch=1,EE,008DC7D4,extended,00000003
+[Red Crest]
+patch=1,EE,208DC7D8,extended,00000D3A
+[Blue Crest]
+patch=1,EE,008DC7DC,extended,00000003
+[Blue Crest]
+patch=1,EE,208DC7E0,extended,00000D3B
+[Backup Power Key]
+patch=1,EE,008DC7E4,extended,00000003
+[Backup Power Key]
+patch=1,EE,208DC7E8,extended,00000D3C
+

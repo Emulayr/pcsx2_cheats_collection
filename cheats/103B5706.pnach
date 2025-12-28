@@ -1,0 +1,1088 @@
+gametitle=Crash Bandicoot-The Wrath Of Cortex (Version 1.1)
+[Enable Code (Must Be On)]
+patch=1,EE,9025D74C,extended,0C09A70D
+[Infinite Lives]
+patch=1,EE,10640C68,extended,00000063
+[Infinite Lives (Alternate)]
+patch=1,EE,201CB510,extended,00000000
+[Max Infinite Lives]
+patch=1,EE,201CB504,extended,24020063
+[Extra Lives]
+patch=1,EE,101CB504,extended,00000001
+[P1 Press {SELECT} For 99 Fruit]
+patch=1,EE,D1D4F5C2,extended,0000FFFE
+[P1 Press {SELECT} For 99 Fruit]
+patch=1,EE,10640C58,extended,00000063
+[Always Low Time]
+patch=1,EE,205A446C,extended,00000000
+[Invincible (Hold {SELECT} If Need To Die)]
+patch=1,EE,D1D4F5C2,extended,0010FFFE
+[Invincible (Hold {SELECT} If Need To Die)]
+patch=1,EE,1059140E,extended,00000096
+[P1 Press {CROSS} For Super Jump]
+patch=1,EE,D1D4F5C2,extended,0000BFFF
+[P1 Press {CROSS} For Super Jump]
+patch=1,EE,206415F0,extended,BA200000
+[P1 Press {CROSS} For Super Jump]
+patch=1,EE,D1D4F5C2,extended,0010BFFF
+[P1 Press {CROSS} For Super Jump]
+patch=1,EE,206415F0,extended,BBA3D70B
+[>>> Have Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Power 1]
+patch=1,EE,7059D91E,extended,00000001
+[Power 2]
+patch=1,EE,7059D91E,extended,00000002
+[Power 3]
+patch=1,EE,7059D91E,extended,00000004
+[Power 4]
+patch=1,EE,7059D91E,extended,00000008
+[Power 5]
+patch=1,EE,7059D91E,extended,00000010
+[Power 6]
+patch=1,EE,7059D91E,extended,00000020
+[All Powers]
+patch=1,EE,7059D91E,extended,0000003F
+[>>> Have World Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[World 1]
+patch=1,EE,7059D52C,extended,00000001
+[World 2]
+patch=1,EE,7059D530,extended,00000001
+[World 3]
+patch=1,EE,7059D534,extended,00000001
+[World 4]
+patch=1,EE,7059D538,extended,00000001
+[World 5]
+patch=1,EE,7059D53C,extended,00000001
+[All Worlds]
+patch=1,EE,4059D52C,extended,00050001
+[All Worlds]
+patch=1,EE,FFFFFFFF,extended,00000000
+[>>> World 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Arctic Antics Codes]
+[Always Low 1st Place Time]
+patch=1,EE,2059D60C,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D614,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D61C,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D604,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D604,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D604,extended,00000004
+[Crystal]
+patch=1,EE,7059D604,extended,00000008
+[White Stone]
+patch=1,EE,7059D604,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D604,extended,00000020
+[Red Gem]
+patch=1,EE,7059D604,extended,00000040
+[Green Gem]
+patch=1,EE,7059D604,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D605,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D605,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D605,extended,00000004
+[All Items]
+patch=1,EE,7059D604,extended,001003FF
+[>>> Tornado Alley Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D6B4,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D6BC,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D6C4,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D6AC,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D6AC,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D6AC,extended,00000004
+[Crystal]
+patch=1,EE,7059D6AC,extended,00000008
+[White Stone]
+patch=1,EE,7059D6AC,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D6AC,extended,00000020
+[Red Gem]
+patch=1,EE,7059D6AC,extended,00000040
+[Green Gem]
+patch=1,EE,7059D6AC,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D6AD,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D6AD,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D6AD,extended,00000004
+[All Items]
+patch=1,EE,7059D6AC,extended,001003FF
+[>>> Bamboozled Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D67C,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D684,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D68C,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D674,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D674,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D674,extended,00000004
+[Crystal]
+patch=1,EE,7059D674,extended,00000008
+[White Stone]
+patch=1,EE,7059D674,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D674,extended,00000020
+[Red Gem]
+patch=1,EE,7059D674,extended,00000040
+[Green Gem]
+patch=1,EE,7059D674,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D675,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D675,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D675,extended,00000004
+[All Items]
+patch=1,EE,7059D674,extended,001003FF
+[>>> Wizards And Lizards Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D724,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D72C,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D734,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D71C,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D71C,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D71C,extended,00000004
+[Crystal]
+patch=1,EE,7059D71C,extended,00000008
+[White Stone]
+patch=1,EE,7059D71C,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D71C,extended,00000020
+[Red Gem]
+patch=1,EE,7059D71C,extended,00000040
+[Green Gem]
+patch=1,EE,7059D71C,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D71D,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D71D,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D71D,extended,00000004
+[All Items]
+patch=1,EE,7059D71C,extended,001003FF
+[>>> Compactor Reactor Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D5B8,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D5C0,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D5C8,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D5B0,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D5B0,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D5B0,extended,00000004
+[Crystal]
+patch=1,EE,7059D5B0,extended,00000008
+[White Stone]
+patch=1,EE,7059D5B0,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D5B0,extended,00000020
+[Red Gem]
+patch=1,EE,7059D5B0,extended,00000040
+[Green Gem]
+patch=1,EE,7059D5B0,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D5B1,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D5B1,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D5B1,extended,00000004
+[All Items]
+patch=1,EE,7059D5B0,extended,001003FF
+[>>> World 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Jungle Rumble Codes]
+[Always Low 1st Place Time]
+patch=1,EE,2059D628,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D630,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D638,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D620,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D620,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D620,extended,00000004
+[Crystal]
+patch=1,EE,7059D620,extended,00000008
+[White Stone]
+patch=1,EE,7059D620,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D620,extended,00000020
+[Red Gem]
+patch=1,EE,7059D620,extended,00000040
+[Green Gem]
+patch=1,EE,7059D620,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D621,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D621,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D621,extended,00000004
+[All Items]
+patch=1,EE,7059D620,extended,001003FF
+[>>> Sea Shell Shenanigans Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D900,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D908,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D910,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D8F8,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D8F8,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D8F8,extended,00000004
+[Crystal]
+patch=1,EE,7059D8F8,extended,00000008
+[White Stone]
+patch=1,EE,7059D8F8,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D8F8,extended,00000020
+[Red Gem]
+patch=1,EE,7059D8F8,extended,00000040
+[Green Gem]
+patch=1,EE,7059D8F8,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D8F9,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D8F9,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D8F9,extended,00000004
+[All Items]
+patch=1,EE,7059D8F8,extended,001003FF
+[>>> Banzai Bonsai Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D698,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D6A0,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D6A8,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D690,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D690,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D690,extended,00000004
+[Crystal]
+patch=1,EE,7059D690,extended,00000008
+[White Stone]
+patch=1,EE,7059D690,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D690,extended,00000020
+[Red Gem]
+patch=1,EE,7059D690,extended,00000040
+[Green Gem]
+patch=1,EE,7059D690,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D691,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D691,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D691,extended,00000004
+[All Items]
+patch=1,EE,7059D690,extended,001003FF
+[>>> That Sinking Feeling Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D740,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D748,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D750,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D738,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D738,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D738,extended,00000004
+[Crystal]
+patch=1,EE,7059D738,extended,00000008
+[White Stone]
+patch=1,EE,7059D738,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D738,extended,00000020
+[Red Gem]
+patch=1,EE,7059D738,extended,00000040
+[Green Gem]
+patch=1,EE,7059D738,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D739,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D739,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D739,extended,00000004
+[All Items]
+patch=1,EE,7059D738,extended,001003FF
+[>>> H2 Oh No Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D580,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D588,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D590,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D578,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D578,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D578,extended,00000004
+[Crystal]
+patch=1,EE,7059D578,extended,00000008
+[White Stone]
+patch=1,EE,7059D578,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D578,extended,00000020
+[Red Gem]
+patch=1,EE,7059D578,extended,00000040
+[Green Gem]
+patch=1,EE,7059D578,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D579,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D579,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D579,extended,00000004
+[All Items]
+patch=1,EE,7059D578,extended,001003FF
+[>>> World 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[The Gauntlet Codes]
+[Always Low 1st Place Time]
+patch=1,EE,2059D660,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D668,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D670,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D658,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D658,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D658,extended,00000004
+[Crystal]
+patch=1,EE,7059D658,extended,00000008
+[White Stone]
+patch=1,EE,7059D658,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D658,extended,00000020
+[Red Gem]
+patch=1,EE,7059D658,extended,00000040
+[Green Gem]
+patch=1,EE,7059D658,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D659,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D659,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D659,extended,00000004
+[All Items]
+patch=1,EE,7059D658,extended,001003FF
+[>>> Tsunami Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D6D0,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D6D8,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D6E0,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D6C8,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D6C8,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D6C8,extended,00000004
+[Crystal]
+patch=1,EE,7059D6C8,extended,00000008
+[White Stone]
+patch=1,EE,7059D6C8,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D6C8,extended,00000020
+[Red Gem]
+patch=1,EE,7059D6C8,extended,00000040
+[Green Gem]
+patch=1,EE,7059D6C8,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D6C9,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D6C9,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D6C9,extended,00000004
+[All Items]
+patch=1,EE,7059D6C8,extended,001003FF
+[>>> Smokey And The Bandicoot Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D59C,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D5A4,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D5AC,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D594,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D594,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D594,extended,00000004
+[Crystal]
+patch=1,EE,7059D594,extended,00000008
+[White Stone]
+patch=1,EE,7059D594,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D594,extended,00000020
+[Red Gem]
+patch=1,EE,7059D594,extended,00000040
+[Green Gem]
+patch=1,EE,7059D594,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D595,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D595,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D595,extended,00000004
+[All Items]
+patch=1,EE,7059D594,extended,001003FF
+[>>> Eskimo Roll Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D548,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D550,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D558,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D540,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D540,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D540,extended,00000004
+[Crystal]
+patch=1,EE,7059D540,extended,00000008
+[White Stone]
+patch=1,EE,7059D540,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D540,extended,00000020
+[Red Gem]
+patch=1,EE,7059D540,extended,00000040
+[Green Gem]
+patch=1,EE,7059D540,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D541,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D541,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D541,extended,00000004
+[All Items]
+patch=1,EE,7059D540,extended,001003FF
+[>>> Fahrenheit Frenzy Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D6EC,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D6F4,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D6FC,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D6E4,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D6E4,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D6E4,extended,00000004
+[Crystal]
+patch=1,EE,7059D6E4,extended,00000008
+[White Stone]
+patch=1,EE,7059D6E4,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D6E4,extended,00000020
+[Red Gem]
+patch=1,EE,7059D6E4,extended,00000040
+[Green Gem]
+patch=1,EE,7059D6E4,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D6E5,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D6E5,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D6E5,extended,00000004
+[All Items]
+patch=1,EE,7059D6E4,extended,001003FF
+[>>> World 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Avalanche Codes]
+[Always Low 1st Place Time]
+patch=1,EE,2059D5D4,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D5DC,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D5E4,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D5CC,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D5CC,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D5CC,extended,00000004
+[Crystal]
+patch=1,EE,7059D5CC,extended,00000008
+[White Stone]
+patch=1,EE,7059D5CC,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D5CC,extended,00000020
+[Red Gem]
+patch=1,EE,7059D5CC,extended,00000040
+[Green Gem]
+patch=1,EE,7059D5CC,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D5CD,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D5CD,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D5CD,extended,00000004
+[All Items]
+patch=1,EE,7059D5CC,extended,001003FF
+[>>> Droid Void Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D778,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D780,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D788,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D770,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D770,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D770,extended,00000004
+[Crystal]
+patch=1,EE,7059D770,extended,00000008
+[White Stone]
+patch=1,EE,7059D770,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D770,extended,00000020
+[Red Gem]
+patch=1,EE,7059D770,extended,00000040
+[Green Gem]
+patch=1,EE,7059D770,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D771,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D771,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D771,extended,00000004
+[All Items]
+patch=1,EE,7059D770,extended,001003FF
+[>>> Crashteroids Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D820,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D828,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D830,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D818,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D818,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D818,extended,00000004
+[Crystal]
+patch=1,EE,7059D818,extended,00000008
+[White Stone]
+patch=1,EE,7059D818,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D818,extended,00000020
+[Red Gem]
+patch=1,EE,7059D818,extended,00000040
+[Green Gem]
+patch=1,EE,7059D818,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D819,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D819,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D819,extended,00000004
+[All Items]
+patch=1,EE,7059D818,extended,001003FF
+[>>> Coral Canyon Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D5F0,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D5F8,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D600,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D5E8,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D5E8,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D5E8,extended,00000004
+[Crystal]
+patch=1,EE,7059D5E8,extended,00000008
+[White Stone]
+patch=1,EE,7059D5E8,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D5E8,extended,00000020
+[Red Gem]
+patch=1,EE,7059D5E8,extended,00000040
+[Green Gem]
+patch=1,EE,7059D5E8,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D5E9,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D5E9,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D5E9,extended,00000004
+[All Items]
+patch=1,EE,7059D5E8,extended,001003FF
+[>>> Weathering Heights Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D890,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D898,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D8A0,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D888,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D888,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D888,extended,00000004
+[Crystal]
+patch=1,EE,7059D888,extended,00000008
+[White Stone]
+patch=1,EE,7059D888,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D888,extended,00000020
+[Red Gem]
+patch=1,EE,7059D888,extended,00000040
+[Green Gem]
+patch=1,EE,7059D888,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D889,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D889,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D889,extended,00000004
+[All Items]
+patch=1,EE,7059D888,extended,001003FF
+[>>> World 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Crash And Burn Codes]
+[Always Low 1st Place Time]
+patch=1,EE,2059D564,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D56C,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D574,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D55C,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D55C,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D55C,extended,00000004
+[Crystal]
+patch=1,EE,7059D55C,extended,00000008
+[White Stone]
+patch=1,EE,7059D55C,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D55C,extended,00000020
+[Red Gem]
+patch=1,EE,7059D55C,extended,00000040
+[Green Gem]
+patch=1,EE,7059D55C,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D55D,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D55D,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D55D,extended,00000004
+[All Items]
+patch=1,EE,7059D55C,extended,001003FF
+[>>> Gold Rush Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D75C,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D764,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D76C,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D754,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D754,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D754,extended,00000004
+[Crystal]
+patch=1,EE,7059D754,extended,00000008
+[White Stone]
+patch=1,EE,7059D754,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D754,extended,00000020
+[Red Gem]
+patch=1,EE,7059D754,extended,00000040
+[Green Gem]
+patch=1,EE,7059D754,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D755,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D755,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D755,extended,00000004
+[All Items]
+patch=1,EE,7059D754,extended,001003FF
+[>>> Medieval Madness Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D708,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D710,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D718,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D700,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D700,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D700,extended,00000004
+[Crystal]
+patch=1,EE,7059D700,extended,00000008
+[White Stone]
+patch=1,EE,7059D700,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D700,extended,00000020
+[Red Gem]
+patch=1,EE,7059D700,extended,00000040
+[Green Gem]
+patch=1,EE,7059D700,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D701,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D701,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D701,extended,00000004
+[All Items]
+patch=1,EE,7059D700,extended,001003FF
+[>>> Crate Balls Of Fire Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D8AC,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D8B4,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D8BC,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D8A4,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D8A4,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D8A4,extended,00000004
+[Crystal]
+patch=1,EE,7059D8A4,extended,00000008
+[White Stone]
+patch=1,EE,7059D8A4,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D8A4,extended,00000020
+[Red Gem]
+patch=1,EE,7059D8A4,extended,00000040
+[Green Gem]
+patch=1,EE,7059D8A4,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D8A5,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D8A5,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D8A5,extended,00000004
+[All Items]
+patch=1,EE,7059D8A4,extended,001003FF
+[>>> Cortex Vortex Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D8E4,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D8EC,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D8F4,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D8DC,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D8DC,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D8DC,extended,00000004
+[Crystal]
+patch=1,EE,7059D8DC,extended,00000008
+[White Stone]
+patch=1,EE,7059D8DC,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D8DC,extended,00000020
+[Red Gem]
+patch=1,EE,7059D8DC,extended,00000040
+[Green Gem]
+patch=1,EE,7059D8DC,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D8DD,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D8DD,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D8DD,extended,00000004
+[All Items]
+patch=1,EE,7059D8DC,extended,001003FF
+[>>> Secret World Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Knight Time Codes]
+[Always Low 1st Place Time]
+patch=1,EE,2059D83C,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D844,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D84C,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D834,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D834,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D834,extended,00000004
+[Crystal]
+patch=1,EE,7059D834,extended,00000008
+[White Stone]
+patch=1,EE,7059D834,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D834,extended,00000020
+[Red Gem]
+patch=1,EE,7059D834,extended,00000040
+[Green Gem]
+patch=1,EE,7059D834,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D835,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D835,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D835,extended,00000004
+[All Items]
+patch=1,EE,7059D834,extended,001003FF
+[>>> Ghost Town Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D858,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D860,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D868,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D850,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D850,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D850,extended,00000004
+[Crystal]
+patch=1,EE,7059D850,extended,00000008
+[White Stone]
+patch=1,EE,7059D850,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D850,extended,00000020
+[Red Gem]
+patch=1,EE,7059D850,extended,00000040
+[Green Gem]
+patch=1,EE,7059D850,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D851,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D851,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D851,extended,00000004
+[All Items]
+patch=1,EE,7059D850,extended,001003FF
+[>>> Ice Station Bandicoot Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D874,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D87C,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D884,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D86C,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D86C,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D86C,extended,00000004
+[Crystal]
+patch=1,EE,7059D86C,extended,00000008
+[White Stone]
+patch=1,EE,7059D86C,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D86C,extended,00000020
+[Red Gem]
+patch=1,EE,7059D86C,extended,00000040
+[Green Gem]
+patch=1,EE,7059D86C,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D86D,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D86D,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D86D,extended,00000004
+[All Items]
+patch=1,EE,7059D86C,extended,001003F7
+[>>> Solar Bowler Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D8C8,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D8D0,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D8D8,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D8C0,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D8C0,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D8C0,extended,00000004
+[Crystal]
+patch=1,EE,7059D8C0,extended,00000008
+[White Stone]
+patch=1,EE,7059D8C0,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D8C0,extended,00000020
+[Red Gem]
+patch=1,EE,7059D8C0,extended,00000040
+[Green Gem]
+patch=1,EE,7059D8C0,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D8C1,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D8C1,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D8C1,extended,00000004
+[All Items]
+patch=1,EE,7059D8C0,extended,001003F7
+[>>> Force Of Nature Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low 1st Place Time]
+patch=1,EE,2059D644,extended,00000000
+[Always Low 2nd Place Time]
+patch=1,EE,2059D64C,extended,00000000
+[Always Low 3rd Place Time]
+patch=1,EE,2059D654,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sapphire Relic]
+patch=1,EE,7059D63C,extended,00000001
+[Gold Relic]
+patch=1,EE,7059D63C,extended,00000002
+[Platinum Relic]
+patch=1,EE,7059D63C,extended,00000004
+[Crystal]
+patch=1,EE,7059D63C,extended,00000008
+[White Stone]
+patch=1,EE,7059D63C,extended,00000010
+[Clear Gem]
+patch=1,EE,7059D63C,extended,00000020
+[Red Gem]
+patch=1,EE,7059D63C,extended,00000040
+[Green Gem]
+patch=1,EE,7059D63C,extended,00000080
+[Blue Gem]
+patch=1,EE,7059D63D,extended,00000001
+[Yellow Gem]
+patch=1,EE,7059D63D,extended,00000002
+[Purple Gem]
+patch=1,EE,7059D63D,extended,00000004
+[All Items]
+patch=1,EE,7059D63C,extended,001003F7
+

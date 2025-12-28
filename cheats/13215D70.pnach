@@ -1,0 +1,146 @@
+gametitle=[SLUS-20859] Future Tactics-The Uprising
+[Enable Code (Must Be On)]
+patch=1,EE,9024B87C,extended,0C0969E3
+[Disable Cutscene Subtitles]
+patch=1,EE,2054FB28,extended,00000000
+[Disable Cutscenes]
+patch=1,EE,2054FB2C,extended,00000001
+[Enable Debug Mode]
+patch=1,EE,2054FB38,extended,00000001
+[Big Head Mode]
+patch=1,EE,2054FB3C,extended,00000001
+[Unlock All Maps Vs. CPU]
+patch=1,EE,105A78F0,extended,00000013
+[Unlock All Maps Vs. Player 2]
+patch=1,EE,105A78F2,extended,00000013
+[Unlock All Maps]
+patch=1,EE,205A78F0,extended,00130013
+[Health Refilled Periodically]
+patch=1,EE,20185BB0,extended,AC480044
+[>>> Unlock Story Mode Tricks Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Trick 1]
+patch=1,EE,105A78F4,extended,00000001
+[Trick 2]
+patch=1,EE,105A78F6,extended,00000001
+[Trick 3]
+patch=1,EE,105A78F8,extended,00000001
+[Trick 4]
+patch=1,EE,105A78FA,extended,00000001
+[Trick 5]
+patch=1,EE,105A78FC,extended,00000001
+[Trick 6]
+patch=1,EE,105A78FE,extended,00000001
+[Trick 7]
+patch=1,EE,105A7900,extended,00000001
+[Trick 8]
+patch=1,EE,105A7902,extended,00000001
+[Trick 9]
+patch=1,EE,105A7904,extended,00000001
+[Trick 10]
+patch=1,EE,105A7906,extended,00000001
+[Trick 11]
+patch=1,EE,105A7908,extended,00000001
+[Trick 12]
+patch=1,EE,105A790A,extended,00000001
+[Trick 13]
+patch=1,EE,105A790C,extended,00000001
+[All Tricks]
+patch=1,EE,405A78F4,extended,00060001
+[All Tricks]
+patch=1,EE,00010001,extended,00000000
+[All Tricks]
+patch=1,EE,105A790C,extended,00000001
+[>>> Max Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character 1]
+patch=1,EE,2058C10C,extended,00000063
+[Character 2]
+patch=1,EE,2058C118,extended,00000063
+[Character 3]
+patch=1,EE,2058C124,extended,00000063
+[Character 4]
+patch=1,EE,2058C130,extended,00000063
+[Character 5]
+patch=1,EE,2058C13C,extended,00000063
+[Character 6]
+patch=1,EE,2058C148,extended,00000063
+[Character 7]
+patch=1,EE,2058C154,extended,00000063
+[Character 8]
+patch=1,EE,2058C160,extended,00000063
+[Character 9]
+patch=1,EE,2058C16C,extended,00000063
+[Character 10]
+patch=1,EE,2058C178,extended,00000063
+[Character 11]
+patch=1,EE,2058C184,extended,00000063
+[Character 12]
+patch=1,EE,2058C190,extended,00000063
+[Character 13]
+patch=1,EE,2058C19C,extended,00000063
+[Character 14]
+patch=1,EE,2058C1A8,extended,00000063
+[Character 15]
+patch=1,EE,2058C1B4,extended,00000063
+[Character 16]
+patch=1,EE,2058C1C0,extended,00000063
+[Character 17]
+patch=1,EE,2058C1CC,extended,00000063
+[Character 18]
+patch=1,EE,2058C1D8,extended,00000063
+[Character 19]
+patch=1,EE,2058C1E4,extended,00000063
+[Character 20]
+patch=1,EE,2058C1F0,extended,00000063
+[All Characters]
+patch=1,EE,4058C10C,extended,00140003
+[All Characters]
+patch=1,EE,00000063,extended,00000000
+[>>> Max Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character 1]
+patch=1,EE,2058C108,extended,00000005
+[Character 2]
+patch=1,EE,2058C114,extended,00000005
+[Character 3]
+patch=1,EE,2058C120,extended,00000005
+[Character 4]
+patch=1,EE,2058C12C,extended,00000005
+[Character 5]
+patch=1,EE,2058C138,extended,00000005
+[Character 6]
+patch=1,EE,2058C144,extended,00000005
+[Character 7]
+patch=1,EE,2058C150,extended,00000005
+[Character 8]
+patch=1,EE,2058C15C,extended,00000005
+[Character 9]
+patch=1,EE,2058C168,extended,00000005
+[Character 10]
+patch=1,EE,2058C174,extended,00000005
+[Character 11]
+patch=1,EE,2058C180,extended,00000005
+[Character 12]
+patch=1,EE,2058C18C,extended,00000005
+[Character 13]
+patch=1,EE,2058C198,extended,00000005
+[Character 14]
+patch=1,EE,2058C1A4,extended,00000005
+[Character 15]
+patch=1,EE,2058C1B0,extended,00000005
+[Character 16]
+patch=1,EE,2058C1BC,extended,00000005
+[Character 17]
+patch=1,EE,2058C1C8,extended,00000005
+[Character 18]
+patch=1,EE,2058C1D4,extended,00000005
+[Character 19]
+patch=1,EE,2058C1E0,extended,00000005
+[Character 20]
+patch=1,EE,2058C1EC,extended,00000005
+[All Characters]
+patch=1,EE,4058C108,extended,00140003
+[All Characters]
+patch=1,EE,00000005,extended,00000000
+

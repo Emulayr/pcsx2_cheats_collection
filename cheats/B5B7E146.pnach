@@ -1,0 +1,66 @@
+gametitle=[SLUS-20255] Gallop Racer 2001
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,001F6347
+[Infinite Jockey Points]
+patch=1,EE,11EF42F8,extended,0000FFFF
+[Max Jockey Points]
+patch=1,EE,21EF42F8,extended,05F5E0FF
+[Buying Items In Shop Doesnt Decrease Points]
+patch=1,EE,201AAE2C,extended,00000000
+[Always Low Time]
+patch=1,EE,205B8260,extended,00000000
+[Infinite Stamina]
+patch=1,EE,104230CE,extended,00000018
+[>>> Opponent No Stamina Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Opponent 1]
+patch=1,EE,1042310E,extended,00000000
+[Opponent 2]
+patch=1,EE,1042314E,extended,00000000
+[Opponent 3]
+patch=1,EE,1042318E,extended,00000000
+[Opponent 4]
+patch=1,EE,104231CE,extended,00000000
+[Opponent 5]
+patch=1,EE,1042320E,extended,00000000
+[Opponent 6]
+patch=1,EE,1042324E,extended,00000000
+[Opponent 7]
+patch=1,EE,1042328E,extended,00000000
+[Opponent 8]
+patch=1,EE,104232CE,extended,00000000
+[Opponent 9]
+patch=1,EE,1042330E,extended,00000000
+[Opponent 10]
+patch=1,EE,1042334E,extended,00000000
+[Opponent 11]
+patch=1,EE,1042338E,extended,00000000
+[Opponent 12]
+patch=1,EE,104233CE,extended,00000000
+[>>> Opponent Infinite Stamina Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Opponent 1]
+patch=1,EE,1042310E,extended,00000018
+[Opponent 2]
+patch=1,EE,1042314E,extended,00000018
+[Opponent 3]
+patch=1,EE,1042318E,extended,00000018
+[Opponent 4]
+patch=1,EE,104231CE,extended,00000018
+[Opponent 5]
+patch=1,EE,1042320E,extended,00000018
+[Opponent 6]
+patch=1,EE,1042324E,extended,00000018
+[Opponent 7]
+patch=1,EE,1042328E,extended,00000018
+[Opponent 8]
+patch=1,EE,104232CE,extended,00000018
+[Opponent 9]
+patch=1,EE,1042330E,extended,00000018
+[Opponent 10]
+patch=1,EE,1042334E,extended,00000018
+[Opponent 11]
+patch=1,EE,1042338E,extended,00000018
+[Opponent 12]
+patch=1,EE,104233CE,extended,00000018
+

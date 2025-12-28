@@ -1,0 +1,26 @@
+gametitle=[SLUS-21455] Happy Feet
+[Enable Code (Must Be On)]
+patch=1,EE,9011DE64,extended,0C04AC48
+[Unlock All Levels]
+patch=1,EE,2079AE24,extended,448D58C6
+[>>> Dancing Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Grace Meter]
+patch=1,EE,D146E130,extended,0000F02D
+[Infinite Grace Meter]
+patch=1,EE,2146E174,extended,00000000
+[>>> Race Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low Time]
+patch=1,EE,D1211C90,extended,0000202D
+[Always Low Time]
+patch=1,EE,21211D7C,extended,24030001
+[Always Low Time]
+patch=1,EE,21211D80,extended,AC430060
+[>>> Swimming Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Air]
+patch=1,EE,D17CEB74,extended,00002023
+[Infinite Air]
+patch=1,EE,217CEB78,extended,00000000
+

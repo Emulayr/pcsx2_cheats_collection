@@ -1,0 +1,18 @@
+gametitle=[SLUS-20243] Silent Scope 2-Dark Silhouette
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,00108897
+[Infinite Health P1]
+patch=1,EE,1025084C,extended,00000100
+[Infinite Bullets P1]
+patch=1,EE,10250876,extended,00000006
+[Always Head Shot P1]
+patch=1,EE,102466C4,extended,00000000
+[Infinite Time]
+patch=1,EE,10250882,extended,000000FF
+[Infinite Credits]
+patch=1,EE,10262674,extended,00000005
+[Have All Bosses]
+patch=1,EE,103E161E,extended,0000FFFF
+[Have All Extra Options]
+cheat0_code = "203E1618 FFFFFFFF
+

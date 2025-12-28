@@ -1,0 +1,67 @@
+gametitle=Sprint Cars-Road To Knoxville
+[Enable Code (Must Be On)]
+patch=1,EE,901211D0,extended,00832021
+[Infinite Tear-Offs]
+patch=1,EE,202783AC,extended,00000000
+[Always Low Race Time]
+patch=1,EE,20508D68,extended,00000000
+[Max Money]
+patch=1,EE,200C0220,extended,3C0305F5
+[Max Money]
+patch=1,EE,200C0224,extended,3463E0FF
+[Max Money]
+patch=1,EE,200C0228,extended,AC830000
+[Max Money]
+patch=1,EE,200C022C,extended,03E00008
+[Max Money]
+patch=1,EE,200C0230,extended,DC42B088
+[Max Money]
+patch=1,EE,202B6E50,extended,0C030088
+[>>> Create Driver Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Available Points]
+patch=1,EE,202DCE74,extended,00000000
+[>>> Arcade Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Class Codes]
+[Truck]
+patch=1,EE,203FBE9C,extended,00000001
+[Police Car]
+patch=1,EE,203FBF24,extended,00000001
+[Buggy]
+patch=1,EE,203FBFF0,extended,00000001
+[Pickup]
+patch=1,EE,203FC0BC,extended,00000001
+[Golf Cart]
+patch=1,EE,203FC1CC,extended,00000001
+[Hovercraft]
+patch=1,EE,203FC254,extended,00000001
+[>>> Unlock Model Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Wind Runner]
+patch=1,EE,203FBDD0,extended,00000001
+[Spider]
+patch=1,EE,203FBE14,extended,00000001
+[Duke]
+patch=1,EE,203FBF68,extended,00000001
+[Dominator]
+patch=1,EE,203FC034,extended,00000001
+[Velocity]
+patch=1,EE,203FC100,extended,00000001
+[Shadow]
+patch=1,EE,203FC144,extended,00000001
+[>>> Unlock Track Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Stauntonville Speedway]
+patch=1,EE,203FBE58,extended,00000001
+[Wehlburg Speedway]
+patch=1,EE,203FBEE0,extended,00000001
+[Winter Eldora]
+patch=1,EE,203FBFAC,extended,00000001
+[Knife Rapids Speedway]
+patch=1,EE,203FC078,extended,00000001
+[Range Plains Speedway]
+patch=1,EE,203FC188,extended,00000001
+[Inselberg Speedway]
+patch=1,EE,203FC210,extended,00000001
+

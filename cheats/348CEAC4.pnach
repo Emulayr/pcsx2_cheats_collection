@@ -1,0 +1,8 @@
+gametitle=Adventures Of Cookie & Cream
+[Enable Code (Must Be On)]
+patch=1,EE,901E6824,extended,0C0812A5
+[Low Total Time]
+patch=1,EE,20231548,extended,00000000
+[Infinite Time]
+patch=1,EE,2023154C,extended,0000C350
+

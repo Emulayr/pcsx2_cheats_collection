@@ -1,0 +1,28 @@
+gametitle=[SLUS-20088] Fur Fighters-Viggo's Revenge
+[Enable Code (Must Be On)]
+patch=1,EE,9027E4C4,extended,0C09782B
+[Have All Cheats]
+patch=1,EE,202C7034,extended,FFFFFFFF
+[Have All Cheats]
+cheat0_code = "202D2EC0 FFFFFFFF
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Invincibility]
+patch=1,EE,002CF744,extended,00000004
+[TS Camera]
+patch=1,EE,002CF744,extended,00000008
+[Auto Aim]
+patch=1,EE,002CF744,extended,00000020
+[Auto Aim, Invincible & TS Camera]
+patch=1,EE,002CF744,extended,0000002C
+[Rocket Camera]
+patch=1,EE,002CF745,extended,00000001
+[Have All Weapons]
+patch=1,EE,002CF747,extended,00000002
+[Far Camera View]
+patch=1,EE,002CF745,extended,00000008
+[Small Characters]
+patch=1,EE,002CF745,extended,00000010
+[All Above 4]
+patch=1,EE,002CF745,extended,0000001B
+

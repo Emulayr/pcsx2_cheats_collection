@@ -1,0 +1,12 @@
+gametitle=[SLUS-20164] Project Eden
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,001D5517
+[Infinite Ammo]
+patch=1,EE,2013E2DC,extended,00000000
+[Infinite Health]
+patch=1,EE,201DFAD8,extended,C461000C
+[Infinite Health]
+patch=1,EE,201DFAE8,extended,E4610008
+[Infinite Health]
+patch=1,EE,201DF914,extended,E4400008
+

@@ -1,0 +1,50 @@
+gametitle=SpongeBob SquarePants-Battle For Bikini Bottom
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0010DD2F
+[Infinite Underwear]
+patch=1,EE,2052E010,extended,00000003
+[Extra Underwear]
+patch=1,EE,2014D6EC,extended,00501021
+[Max Shiny Objects]
+patch=1,EE,2052E470,extended,000003E7
+[Max Golden Spatulas]
+patch=1,EE,2052E474,extended,000003E7
+[Have All Socks (Overall)]
+patch=1,EE,2052E534,extended,00000050
+[Press {CROSS} For Moon Jump]
+patch=1,EE,D0533142,extended,0000BFFF
+[Press {CROSS} For Moon Jump]
+patch=1,EE,2052E41C,extended,C0000000
+[Press {CROSS} For Moon Jump]
+patch=1,EE,D0533142,extended,0010BFFF
+[Press {CROSS} For Moon Jump]
+patch=1,EE,2052E41C,extended,41F00000
+[Have All Tasks Completed]
+patch=1,EE,2019E408,extended,8D810020
+[Have All Tasks Completed]
+patch=1,EE,2019E40C,extended,24060002
+[Have All Tasks Completed]
+patch=1,EE,2019E414,extended,A4260014
+[>>> Have All Socks Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Bikini Bottom]
+patch=1,EE,2052E478,extended,00000008
+[Jellyfish Fields]
+patch=1,EE,2052E47C,extended,0000000E
+[Downtown Bikini Bottom]
+patch=1,EE,2052E480,extended,00000009
+[God Lagoon]
+patch=1,EE,2052E484,extended,0000000B
+[Rock Bottom]
+patch=1,EE,2052E48C,extended,00000009
+[Mermailair]
+patch=1,EE,2052E490,extended,00000004
+[Sand Mountain]
+patch=1,EE,2052E494,extended,0000000A
+[Keld Forest]
+patch=1,EE,2052E49C,extended,00000007
+[Flying Dutchman's Graveyard]
+patch=1,EE,2052E4A0,extended,00000003
+[Spongebob's Dream]
+patch=1,EE,2052E4A4,extended,00000005
+

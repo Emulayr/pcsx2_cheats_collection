@@ -1,0 +1,1058 @@
+gametitle=Burnout-Revenge-Battle Racing Ignited
+[Enable Code (Must Be On)]
+patch=1,EE,903A2478,extended,0C10EDF9
+[Display World Time]
+patch=1,EE,004F01C2,extended,00000001
+[Dont Lose Extra Max Boost When Crashing]
+patch=1,EE,202A3ED8,extended,00000000
+[Crash For x4 Boost Meter]
+patch=1,EE,202A3EC8,extended,24050004
+[Infinite Boost (Upon Pickup)]
+patch=1,EE,202A398C,extended,00000000
+[Crash For Full Boost]
+patch=1,EE,202A3DEC,extended,00000000
+[Max Infinite Boost]
+patch=1,EE,201616C0,extended,C481003C
+[Max Infinite Boost]
+patch=1,EE,201616CC,extended,E4810040
+[Always Maximum Boost Meter]
+patch=1,EE,2016118C,extended,3C014434
+[Always Maximum Boost Meter]
+patch=1,EE,20161190,extended,AC81246C
+[Always Maximum Boost Meter]
+patch=1,EE,201611D8,extended,24010003
+[Always Maximum Boost Meter]
+patch=1,EE,201611E0,extended,AC812468
+[Drive Through Cars]
+patch=1,EE,201F7808,extended,03E00008
+[Drive Through Cars]
+patch=1,EE,201F780C,extended,00000000
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D04F341C,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,20304190,extended,00000000
+[P1 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D04F341C,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,20304190,extended,AC6293C0
+[Have Dominator Rank]
+patch=1,EE,21F64F08,extended,05F5E0FF
+[Unlock All World Tour Tracks]
+patch=1,EE,21F652FC,extended,000000A9
+[Unlock All World Tour Tracks]
+patch=1,EE,41F64F0C,extended,00430001
+[Unlock All World Tour Tracks]
+patch=1,EE,0000000A,extended,00000000
+[Unlock All Cars]
+patch=1,EE,01F65317,extended,00000002
+[Unlock All Cars]
+patch=1,EE,41F65318,extended,00130001
+[Unlock All Cars]
+patch=1,EE,03030303,extended,00000000
+[Unlock All Cars]
+patch=1,EE,11F65364,extended,00000101
+[>>> Game Speed Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[P1 Press {R1}+Up For Faster Game Speed]
+patch=1,EE,D04F341C,extended,0000F7EF
+[P1 Press {R1}+Up For Faster Game Speed]
+patch=1,EE,204F007C,extended,3D088889
+[P1 Press {R1}+Right For Super Game Speed]
+patch=1,EE,D04F341C,extended,0000F7DF
+[P1 Press {R1}+Right For Super Game Speed]
+patch=1,EE,204F007C,extended,3D888889
+[P1 Press {R1}+Up For Slow Game Speed]
+patch=1,EE,D04F341C,extended,0000F7BF
+[P1 Press {R1}+Up For Slow Game Speed]
+patch=1,EE,204F007C,extended,3C088889
+[P1 Press {R1}+Left For Normal Speed]
+patch=1,EE,D04F341C,extended,0000F77F
+[P1 Press {R1}+Left For Normal Speed]
+patch=1,EE,204F007C,extended,3C888889
+[>>> Stats Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Total Aftertouch Takedowns]
+patch=1,EE,21F67178,extended,05F5E0FF
+[No Total Aftertouch Takedowns]
+patch=1,EE,21F67178,extended,00000000
+[Max Total Explosive Payouts]
+patch=1,EE,21F6717C,extended,05F5E0FF
+[No Total Explosive Payouts]
+patch=1,EE,21F6717C,extended,00000000
+[Max Total Psyche-Outs]
+patch=1,EE,21F67180,extended,05F5E0FF
+[No Total Psyche-Outs]
+patch=1,EE,21F67180,extended,00000000
+[Max Total Traffic Takedowns]
+patch=1,EE,21F67184,extended,05F5E0FF
+[No Total Traffic Takedowns]
+patch=1,EE,21F67184,extended,00000000
+[Max Total Vertical Takedowns]
+patch=1,EE,21F67188,extended,05F5E0FF
+[No Total Vertical Takedowns]
+patch=1,EE,21F67188,extended,00000000
+[Max Total Takedowns]
+patch=1,EE,21F6718C,extended,05F5E0FF
+[No Total Takedowns]
+patch=1,EE,21F6718C,extended,00000000
+[Max Total Revenge Takedowns]
+patch=1,EE,21F67190,extended,05F5E0FF
+[No Total Revenge Takedowns]
+patch=1,EE,21F67190,extended,00000000
+[Max Total Slams]
+patch=1,EE,21F67194,extended,05F5E0FF
+[No Total Slams]
+patch=1,EE,21F67194,extended,00000000
+[Max Total Shunts]
+patch=1,EE,21F67198,extended,05F5E0FF
+[No Total Shunts]
+patch=1,EE,21F67198,extended,00000000
+[Max Total Revenge Slams]
+patch=1,EE,21F6719C,extended,05F5E0FF
+[No Total Revenge Slams]
+patch=1,EE,21F6719C,extended,00000000
+[Max Total Revenge Shunts]
+patch=1,EE,21F671A0,extended,05F5E0FF
+[No Total Revenge Shunts]
+patch=1,EE,21F671A0,extended,00000000
+[Max Total Perfect Laps]
+patch=1,EE,21F671A4,extended,05F5E0FF
+[No Total Perfect Laps]
+patch=1,EE,21F671A4,extended,00000000
+[Max Total Burning Laps]
+patch=1,EE,21F671A8,extended,05F5E0FF
+[No Total Burning Laps]
+patch=1,EE,21F671A8,extended,00000000
+[Max Total Crash Escapes]
+patch=1,EE,21F671AC,extended,05F5E0FF
+[No Total Crash Escapes]
+patch=1,EE,21F671AC,extended,00000000
+[Max Total Traffic Vehicles Checked]
+patch=1,EE,21F671B0,extended,05F5E0FF
+[No Total Traffic Vehicles Checked]
+patch=1,EE,21F671B0,extended,00000000
+[>>> Have Challenge Complete Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Challenge 1]
+patch=1,EE,01F65020,extended,00000003
+[Challenge 2]
+patch=1,EE,01F65021,extended,00000003
+[Challenge 3]
+patch=1,EE,01F65022,extended,00000003
+[Challenge 4]
+patch=1,EE,01F65023,extended,00000003
+[Challenge 5]
+patch=1,EE,01F65024,extended,00000003
+[Challenge 6]
+patch=1,EE,01F65025,extended,00000003
+[Challenge 7]
+patch=1,EE,01F65026,extended,00000003
+[Challenge 8]
+patch=1,EE,01F65027,extended,00000003
+[Challenge 9]
+patch=1,EE,01F65028,extended,00000003
+[Challenge 10]
+patch=1,EE,01F65029,extended,00000003
+[Challenge 11]
+patch=1,EE,01F6502A,extended,00000003
+[Challenge 12]
+patch=1,EE,01F6502B,extended,00000003
+[Challenge 13]
+patch=1,EE,01F6502C,extended,00000003
+[Challenge 14]
+patch=1,EE,01F6502D,extended,00000003
+[Challenge 15]
+patch=1,EE,01F6502E,extended,00000003
+[Challenge 16]
+patch=1,EE,01F6502F,extended,00000003
+[Challenge 17]
+patch=1,EE,01F65030,extended,00000003
+[Challenge 18]
+patch=1,EE,01F65031,extended,00000003
+[Challenge 19]
+patch=1,EE,01F65032,extended,00000003
+[Challenge 20]
+patch=1,EE,01F65033,extended,00000003
+[Challenge 21]
+patch=1,EE,01F65034,extended,00000003
+[Challenge 22]
+patch=1,EE,01F65035,extended,00000003
+[Challenge 23]
+patch=1,EE,01F65036,extended,00000003
+[Challenge 24]
+patch=1,EE,01F65037,extended,00000003
+[Challenge 25]
+patch=1,EE,01F65038,extended,00000003
+[Challenge 26]
+patch=1,EE,01F65039,extended,00000003
+[Challenge 27]
+patch=1,EE,01F6503A,extended,00000003
+[Challenge 28]
+patch=1,EE,01F6503B,extended,00000003
+[Challenge 29]
+patch=1,EE,01F6503C,extended,00000003
+[Challenge 30]
+patch=1,EE,01F6503D,extended,00000003
+[Challenge 31]
+patch=1,EE,01F6503E,extended,00000003
+[Challenge 32]
+patch=1,EE,01F6503F,extended,00000003
+[Challenge 33]
+patch=1,EE,01F65040,extended,00000003
+[Challenge 34]
+patch=1,EE,01F65041,extended,00000003
+[Challenge 35]
+patch=1,EE,01F65042,extended,00000003
+[Challenge 36]
+patch=1,EE,01F65043,extended,00000003
+[Challenge 37]
+patch=1,EE,01F65044,extended,00000003
+[Challenge 38]
+patch=1,EE,01F65045,extended,00000003
+[Challenge 39]
+patch=1,EE,01F65046,extended,00000003
+[Challenge 40]
+patch=1,EE,01F65047,extended,00000003
+[Challenge 41]
+patch=1,EE,01F65048,extended,00000003
+[Challenge 42]
+patch=1,EE,01F65049,extended,00000003
+[Challenge 43]
+patch=1,EE,01F6504A,extended,00000003
+[Challenge 44]
+patch=1,EE,01F6504B,extended,00000003
+[Challenge 45]
+patch=1,EE,01F6504C,extended,00000003
+[Challenge 46]
+patch=1,EE,01F6504D,extended,00000003
+[Challenge 47]
+patch=1,EE,01F6504E,extended,00000003
+[Challenge 48]
+patch=1,EE,01F6504F,extended,00000003
+[Challenge 49]
+patch=1,EE,01F65050,extended,00000003
+[Challenge 50]
+patch=1,EE,01F65051,extended,00000003
+[Challenge 51]
+patch=1,EE,01F65052,extended,00000003
+[Challenge 52]
+patch=1,EE,01F65053,extended,00000003
+[Challenge 53]
+patch=1,EE,01F65054,extended,00000003
+[Challenge 54]
+patch=1,EE,01F65055,extended,00000003
+[Challenge 55]
+patch=1,EE,01F65056,extended,00000003
+[Challenge 56]
+patch=1,EE,01F65057,extended,00000003
+[Challenge 57]
+patch=1,EE,01F65058,extended,00000003
+[Challenge 58]
+patch=1,EE,01F65059,extended,00000003
+[Challenge 59]
+patch=1,EE,01F6505A,extended,00000003
+[Challenge 60]
+patch=1,EE,01F6505B,extended,00000003
+[Challenge 61]
+patch=1,EE,01F6505C,extended,00000003
+[Challenge 62]
+patch=1,EE,01F6505D,extended,00000003
+[Challenge 63]
+patch=1,EE,01F6505E,extended,00000003
+[Challenge 64]
+patch=1,EE,01F6505F,extended,00000003
+[All Challenges]
+patch=1,EE,41F65020,extended,00100001
+[All Challenges]
+patch=1,EE,03030303,extended,00000000
+[>>> Have Signature Takedown Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Signature Takedown 1]
+patch=1,EE,01F65061,extended,00000003
+[Signature Takedown 2]
+patch=1,EE,01F65062,extended,00000003
+[Signature Takedown 3]
+patch=1,EE,01F65063,extended,00000003
+[Signature Takedown 4]
+patch=1,EE,01F65064,extended,00000003
+[Signature Takedown 5]
+patch=1,EE,01F65065,extended,00000003
+[Signature Takedown 6]
+patch=1,EE,01F65066,extended,00000003
+[Signature Takedown 7]
+patch=1,EE,01F65067,extended,00000003
+[Signature Takedown 8]
+patch=1,EE,01F65068,extended,00000003
+[Signature Takedown 9]
+patch=1,EE,01F65069,extended,00000003
+[Signature Takedown 10]
+patch=1,EE,01F6506A,extended,00000003
+[Signature Takedown 11]
+patch=1,EE,01F6506B,extended,00000003
+[Signature Takedown 12]
+patch=1,EE,01F6506C,extended,00000003
+[Signature Takedown 13]
+patch=1,EE,01F6506D,extended,00000003
+[Signature Takedown 14]
+patch=1,EE,01F6506E,extended,00000003
+[Signature Takedown 15]
+patch=1,EE,01F6506F,extended,00000003
+[Signature Takedown 16]
+patch=1,EE,01F65070,extended,00000003
+[Signature Takedown 17]
+patch=1,EE,01F65071,extended,00000003
+[Signature Takedown 18]
+patch=1,EE,01F65072,extended,00000003
+[Signature Takedown 19]
+patch=1,EE,01F65073,extended,00000003
+[Signature Takedown 20]
+patch=1,EE,01F65074,extended,00000003
+[Signature Takedown 21]
+patch=1,EE,01F65075,extended,00000003
+[Signature Takedown 22]
+patch=1,EE,01F65076,extended,00000003
+[Signature Takedown 23]
+patch=1,EE,01F65077,extended,00000003
+[Signature Takedown 24]
+patch=1,EE,01F65078,extended,00000003
+[All Signature Takedowns]
+patch=1,EE,01F65061,extended,00000003
+[All Signature Takedowns]
+patch=1,EE,11F65062,extended,00000303
+[All Signature Takedowns]
+patch=1,EE,41F65064,extended,00050001
+[All Signature Takedowns]
+patch=1,EE,03030303,extended,00000000
+[All Signature Takedowns]
+patch=1,EE,01F65078,extended,00000003
+[>>> Have Gold Medal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Rank 1 Codes]
+[Motor City-Race-Short Reverse]
+patch=1,EE,01F650C8,extended,00000003
+[Sunshine Keys-Traffic Attack-Forwards]
+patch=1,EE,01F650C9,extended,00000003
+[Motor City-Grand Prix 1]
+patch=1,EE,01F650CA,extended,00000003
+[Preview-Angel Vally]
+patch=1,EE,01F650CB,extended,00000003
+[Motor City-Road Rage-Short Forwards]
+patch=1,EE,01F650CC,extended,00000003
+[Sunshine Keys-Race-Reverse]
+patch=1,EE,01F650CD,extended,00000003
+[Motor City-Crash-Dock Fight]
+patch=1,EE,01F650CE,extended,00000003
+[Motor City-Crash-Deconstruction Site]
+patch=1,EE,01F650CF,extended,00000003
+[Motor City-Crash-Cars Attacks]
+patch=1,EE,01F650D0,extended,00000003
+[Sunshine Keys-Burning Lap-Forwards]
+patch=1,EE,01F650D1,extended,00000003
+[Angel Valley-Crash-Hollywood Spills]
+patch=1,EE,01F650D2,extended,00000003
+[Lone Peak-Crash-Off The Beaten Truck]
+patch=1,EE,01F650D3,extended,00000003
+[>>> Rank 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eternal City-Race-Long Forwards]
+patch=1,EE,01F650D4,extended,00000003
+[White Mountain-Crashbreaker Preview Race-Forwards]
+patch=1,EE,01F650D5,extended,00000003
+[Eternal City-Road Rage-Long Reverse]
+patch=1,EE,01F650D6,extended,00000003
+[White Mountain-Eliminator-Forwards]
+patch=1,EE,01F650D7,extended,00000003
+[Eternal City-Race-Long Reverse]
+patch=1,EE,01F650D8,extended,00000003
+[Preview-Central Route]
+patch=1,EE,01F650D9,extended,00000003
+[White Mountain-Grand Prix 2]
+patch=1,EE,01F650DA,extended,00000003
+[Eternal City-Burning Lap-Long Forwards]
+patch=1,EE,01F650DB,extended,00000003
+[White Mountain-Burning Lap-Reverse]
+patch=1,EE,01F650DC,extended,00000003
+[White Mountain-Crash-Swiss Roll]
+patch=1,EE,01F650DD,extended,00000003
+[Eternal City-Crash-Road To Ruins]
+patch=1,EE,01F650DE,extended,00000003
+[White Mountain-Crash-Dangerour Swerves]
+patch=1,EE,01F650DF,extended,00000003
+[Central Route-Crash-Crispy Fried Truck]
+patch=1,EE,01F650E0,extended,00000003
+[Eternal City-Crash-City Of Strife]
+patch=1,EE,01F650E1,extended,00000003
+[>>> Rank 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eastern Bay-Road Rage-Lower Link Forwards]
+patch=1,EE,01F650E2,extended,00000003
+[Central Route-Traffic Attack-Long Forwards]
+patch=1,EE,01F650E3,extended,00000003
+[Eastern Bay-Race-Long Forwards]
+patch=1,EE,01F650E4,extended,00000003
+[Central Route-Race-Long Reverse]
+patch=1,EE,01F650E5,extended,00000003
+[Eastern Bay-Eliminator-Long Reverse]
+patch=1,EE,01F650E6,extended,00000003
+[Preview-Lone Peak]
+patch=1,EE,01F650E7,extended,00000003
+[Eastern Bay-Grand Prix 3]
+patch=1,EE,01F650E8,extended,00000003
+[Eastern Bay-Burning Lap-Lower Link Forwards]
+patch=1,EE,01F650E9,extended,00000003
+[Central Route-Burning Lap-Long Forwards]
+patch=1,EE,01F650EA,extended,00000003
+[Central Route-Crash-Prawn Smackers]
+patch=1,EE,01F650EB,extended,00000003
+[Eastern Bay-Crash-Intersection Dissection]
+patch=1,EE,01F650EC,extended,00000003
+[Central Route-Crash-Tram-A-Tised]
+patch=1,EE,01F650ED,extended,00000003
+[Eastern Bay-Crash-Smashed In Translation]
+patch=1,EE,01F650EE,extended,00000003
+[Central Route-Crash-Street Car Set On Fire]
+patch=1,EE,01F650EF,extended,00000003
+[>>> Rank 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Motor City-Traffic Attack-Long Forwards]
+patch=1,EE,01F650F0,extended,00000003
+[Angel Vally-Race-Forwards]
+patch=1,EE,01F650F1,extended,00000003
+[Angel Valley-Race-Forwards]
+patch=1,EE,01F650F2,extended,00000003
+[Motor City-Road Rage-Long Reverse]
+patch=1,EE,01F650F3,extended,00000003
+[Preview-Eternal City]
+patch=1,EE,01F650F4,extended,00000003
+[Motor City-Grand Prix 4]
+patch=1,EE,01F650F5,extended,00000003
+[Angel Valley-Road Rage-Reverse]
+patch=1,EE,01F650F6,extended,00000003
+[Lone Peak-Eliminator-Reverse]
+patch=1,EE,01F650F7,extended,00000003
+[Motor City-Eliminator-Short Forwards]
+patch=1,EE,01F650F8,extended,00000003
+[Lone Peak-Burning Lap-Reverse]
+patch=1,EE,01F650F9,extended,00000003
+[Lone Peak-Crash-Round The Bend]
+patch=1,EE,01F650FA,extended,00000003
+[Lone Peak-Crash-Forest Bump]
+patch=1,EE,01F650FB,extended,00000003
+[Angel Valley-Crash-Drain Damage]
+patch=1,EE,01F650FC,extended,00000003
+[Eternal City-Crash-Circle Of Strife]
+patch=1,EE,01F650FD,extended,00000003
+[Lone Peak-Crash-Mount Crushmore]
+patch=1,EE,01F650FE,extended,00000003
+[>>> Rank 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eternal City-Crashbreaker Race-Short Reverse]
+patch=1,EE,01F650FF,extended,00000003
+[White Mountain-Traffic Attack-Forwards]
+patch=1,EE,01F65100,extended,00000003
+[Eternal City-Eliminator-Long Reverse]
+patch=1,EE,01F65101,extended,00000003
+[Eternal City-Road Rage-Short Reverse]
+patch=1,EE,01F65102,extended,00000003
+[Eternal City-Crashbreaker Race-Long Reverse]
+patch=1,EE,01F65103,extended,00000003
+[White Mountain-Road Rage-Reverse]
+patch=1,EE,01F65104,extended,00000003
+[Eternal City-Eliminator-Short Reverse]
+patch=1,EE,01F65105,extended,00000003
+[Preview-Sunshine Keys]
+patch=1,EE,01F65106,extended,00000003
+[Eternal City-Grand Prix 5]
+patch=1,EE,01F65107,extended,00000003
+[Eternal City-Traffic Attack-Short Forwards]
+patch=1,EE,01F65108,extended,00000003
+[White Mountain-Burning Lap-Forwards]
+patch=1,EE,01F65109,extended,00000003
+[Eternal City-Crash-Rome Wrecker]
+patch=1,EE,01F6510A,extended,00000003
+[Sunshine Keys-Crash-Smash My Ride]
+patch=1,EE,01F6510B,extended,00000003
+[Eternal City-Crash-Smackeroni]
+patch=1,EE,01F6510C,extended,00000003
+[Motor City-Crash-Jump On The Jam]
+patch=1,EE,01F6510D,extended,00000003
+[Lone Peak-Crash-Doughnut Disturb]
+patch=1,EE,01F6510E,extended,00000003
+[>>> Rank 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eastern Bay-Traffic Attack-Lower Link Reverse]
+patch=1,EE,01F6510F,extended,00000003
+[Eastern Bay-Crashbreaker Race-Lower Link Reverse]
+patch=1,EE,01F65110,extended,00000003
+[Eastern Bay-Eliminator-Lower Link Forwards]
+patch=1,EE,01F65111,extended,00000003
+[Eastern Bay-Crashbreaker Race-Lower Link Forwards]
+patch=1,EE,01F65112,extended,00000003
+[Central Route-Crashbreaker Eliminator-Short Reverse]
+patch=1,EE,01F65113,extended,00000003
+[Central Route-Crashbreaker Race-Short Reverse]
+patch=1,EE,01F65114,extended,00000003
+[Central Route-Crashbreaker Road Rage-Short Reverse]
+patch=1,EE,01F65115,extended,00000003
+[Preview-White Mountain]
+patch=1,EE,01F65116,extended,00000003
+[Central Route-Grand Prix 6]
+patch=1,EE,01F65117,extended,00000003
+[Eastern Bay-Crashbreaker Road Rage-Long Reverse]
+patch=1,EE,01F65118,extended,00000003
+[Eastern Bay-Traffic Attack-Long Forwards]
+patch=1,EE,01F65119,extended,00000003
+[Central Route-Crash-Won-Ton Destruction]
+patch=1,EE,01F6511A,extended,00000003
+[Central Route-Crash-Shao-Lin Tumble]
+patch=1,EE,01F6511B,extended,00000003
+[Eastern Bay-Crash-Crashaoke]
+patch=1,EE,01F6511C,extended,00000003
+[Central Route-Crash-Street Car Set On Fire]
+patch=1,EE,01F6511D,extended,00000003
+[Central Route-Crash-Noodles Of Fun]
+patch=1,EE,01F6511E,extended,00000003
+[>>> Rank 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Angel Valley-Crashbreaker Race-Forwards]
+patch=1,EE,01F6511F,extended,00000003
+[Sunshine Keys-Crashbreak Race-Reverse]
+patch=1,EE,01F65120,extended,00000003
+[Sunshine Keys-Crashbreak Eliminator-Forwards]
+patch=1,EE,01F65121,extended,00000003
+[Motor City-Crashbreaker Race-Long Reverse]
+patch=1,EE,01F65122,extended,00000003
+[Lone Peak-Crashbreaker Eliminator-Forwards]
+patch=1,EE,01F65123,extended,00000003
+[Lone Peak-Crashbreaker Road Rage-Reverse]
+patch=1,EE,01F65124,extended,00000003
+[Sunshine Keys-Crashbreaker Road Rage-Reverse]
+patch=1,EE,01F65125,extended,00000003
+[Angel Valley-Crashbreaker Road Rage-Forwards]
+patch=1,EE,01F65126,extended,00000003
+[Angel Valley-Traffic Attack-Reverse]
+patch=1,EE,01F65127,extended,00000003
+[Lone Peak-Traffic Attack-Forwards]
+patch=1,EE,01F65128,extended,00000003
+[Preview-Eastern Bay]
+patch=1,EE,01F65129,extended,00000003
+[Lone Peak-Crashbreaker Grand Prix 7]
+patch=1,EE,01F6512A,extended,00000003
+[Angel Valley-Burning Lap-Forwards]
+patch=1,EE,01F6512B,extended,00000003
+[Motor City-Crash-Double Crossed]
+patch=1,EE,01F6512C,extended,00000003
+[Motor City-Crash-Might Docks]
+patch=1,EE,01F6512D,extended,00000003
+[Motor City-Crash-Return Of The Semi]
+patch=1,EE,01F6512E,extended,00000003
+[Lone Peak-Crash-Off The Beaten Truck]
+patch=1,EE,01F6512F,extended,00000003
+[Lone Peak-Crash-Drive-Thru Destruction]
+patch=1,EE,01F65130,extended,00000003
+[>>> Rank 8 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eternal City-Crashbreaker Race-Long Reverse]
+patch=1,EE,01F65131,extended,00000003
+[Crashbreak Eliminator-Long Forwards]
+patch=1,EE,01F65132,extended,00000003
+[Eternal City-Traffic Attack-Long Reverse]
+patch=1,EE,01F65133,extended,00000003
+[White Mountain-Crashbreaker Eliminator-Reverse]
+patch=1,EE,01F65134,extended,00000003
+[White Mountain-Crashbreaker Road Rage-Forwards]
+patch=1,EE,01F65135,extended,00000003
+[Eternal City-Crashbreaker Race-Short Reverse]
+patch=1,EE,01F65136,extended,00000003
+[White Mountain-Crashbreaker Race-Forwards]
+patch=1,EE,01F65137,extended,00000003
+[Eternal City-Crashbreaker Elimination-Short Forwards]
+patch=1,EE,01F65138,extended,00000003
+[White Mountain-Traffic Attack-Reverse]
+patch=1,EE,01F65139,extended,00000003
+[Eternal City-Traffic Attack-Long Reverse]
+patch=1,EE,01F6513A,extended,00000003
+[Eternal City-Crashbreaker Road Rage-Short Forwards]
+patch=1,EE,01F6513B,extended,00000003
+[Preview-Motor City]
+patch=1,EE,01F6513C,extended,00000003
+[Eternal City-Crashbreaker Grand Prix 8]
+patch=1,EE,01F6513D,extended,00000003
+[White Mountain-Crash-Cry For Alp]
+patch=1,EE,01F6513E,extended,00000003
+[Motor City-Crash-Van-Fire Strikes Back]
+patch=1,EE,01F6513F,extended,00000003
+[White Mountain-Crash-Mountain The Kerb]
+patch=1,EE,01F65140,extended,00000003
+[Eternal City-Crash-Eternal Flames]
+patch=1,EE,01F65141,extended,00000003
+[Angel Vally-Crash-Silly-Cone-Valley]
+patch=1,EE,01F65142,extended,00000003
+[>>> Rank 9 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Central Route-Traffic Attack-Long Reverse]
+patch=1,EE,01F65143,extended,00000003
+[Eastern Bay-Crashbreaker Race-Upper Link]
+patch=1,EE,01F65144,extended,00000003
+[Angel Valley-Eliminator-Forwards]
+patch=1,EE,01F65145,extended,00000003
+[Central Route-Crashbreaker Road Rage-Long Reverse]
+patch=1,EE,01F65146,extended,00000003
+[Central Route-Crashbreaker Race-Long Forwards]
+patch=1,EE,01F65147,extended,00000003
+[Eastern Bay-Traffic Attack-Long Reverse]
+patch=1,EE,01F65148,extended,00000003
+[Eastern Bay-Crashbreaker Road Rage-Upper Link R]
+patch=1,EE,01F65149,extended,00000003
+[Central Route-Crashbreaker Eliminator-Short F]
+patch=1,EE,01F6514A,extended,00000003
+[Angel Valley-Crashbreaker Race-Reverse]
+patch=1,EE,01F6514B,extended,00000003
+[Eastern Bay-Crashbreaker Eliminator-Upper Link R]
+patch=1,EE,01F6514C,extended,00000003
+[Central Route-Traffic Attack-Short Reverse]
+patch=1,EE,01F6514D,extended,00000003
+[Lone Peak-Crashbreaker Road Rage-Forwards]
+patch=1,EE,01F6514E,extended,00000003
+[Central Route-Crashbreaker Race-Short Reverse]
+patch=1,EE,01F6514F,extended,00000003
+[Eastern Bay-Crashbreaker Road Rage-Long Forwards]
+patch=1,EE,01F65150,extended,00000003
+[Eastern Bay-Crashbreaker Eliminator-Long Forwards]
+patch=1,EE,01F65151,extended,00000003
+[Eastern Bay-Crashbreaker Grand Prix 9]
+patch=1,EE,01F65152,extended,00000003
+[Central Route-Burning Lap-Long Reverse]
+patch=1,EE,01F65153,extended,00000003
+[Eastern Bay-Burning Lap-Eastern Bay Upper Link]
+patch=1,EE,01F65154,extended,00000003
+[Central Route-Crash-Double-Wrecker]
+patch=1,EE,01F65155,extended,00000003
+[Lone Peak-Crash-Drive-Thru Destruction]
+patch=1,EE,01F65156,extended,00000003
+[Eastern Bay-Crash-Smashimi]
+patch=1,EE,01F65157,extended,00000003
+[Angel Valley-Crash-Crash De La Vista]
+patch=1,EE,01F65158,extended,00000003
+[Motor City-Crash-Jump On The Jam]
+patch=1,EE,01F65159,extended,00000003
+[>>> Rank 10 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sunshine Keys-Traffic Attack-Forwards]
+patch=1,EE,01F6515A,extended,00000003
+[Angel Valley-Crashbreaker Road Rage-Reverse]
+patch=1,EE,01F6515B,extended,00000003
+[Lone Peak-Burning Lap-Forwards]
+patch=1,EE,01F6515C,extended,00000003
+[Sunshine Keys-Crashbreaker Eliminator-Forwards]
+patch=1,EE,01F6515D,extended,00000003
+[Motor City-Crashbreaker Road Rage-Long Forwards]
+patch=1,EE,01F6515E,extended,00000003
+[Angel Valley-Traffic Attack-Forwards]
+patch=1,EE,01F6515F,extended,00000003
+[Sunshine Keys-Crashbreaker Race-Reverse]
+patch=1,EE,01F65160,extended,00000003
+[Lone Peak-Crashbreaker Eliminator-Forwards]
+patch=1,EE,01F65161,extended,00000003
+[Eternal City-Traffic Attack-Long Forwards]
+patch=1,EE,01F65162,extended,00000003
+[Traffic Attack-Forwards]
+patch=1,EE,01F65163,extended,00000003
+[Eternal City-Crashbreaker Road Rage-Long Forwards]
+patch=1,EE,01F65164,extended,00000003
+[Central Route-Crashbreaker Eliminator-Long Reverse]
+patch=1,EE,01F65165,extended,00000003
+[Eastern Bay-Crashbreaker Race-Long Forwards]
+patch=1,EE,01F65166,extended,00000003
+[Central Route-CBreaker Road Rage-Long Forwards]
+patch=1,EE,01F65167,extended,00000003
+[Eastern Bay-Crashbreaker Grand Prix 10]
+patch=1,EE,01F65168,extended,00000003
+[Eternal City-Burning Lap-Long Reverse]
+patch=1,EE,01F65169,extended,00000003
+[Lone Peak-Burning Lap-Forwards]
+patch=1,EE,01F6516A,extended,00000003
+[Motor City-Burning Lap-Motor City Short Reverse]
+patch=1,EE,01F6516B,extended,00000003
+[Angel Valley-Crash-Silly-Cone Valley]
+patch=1,EE,01F6516C,extended,00000003
+[Lone Peak-Crash-Doughnut Disturb]
+patch=1,EE,01F6516D,extended,00000003
+[White Mountain-Crash-Cry For Alp]
+patch=1,EE,01F6516E,extended,00000003
+[Central Route-Crash-Noodles Of Fun]
+patch=1,EE,01F6516F,extended,00000003
+[Lone Peak-Crash-Mount Crushmore]
+patch=1,EE,01F65170,extended,00000003
+[All Gold Medals]
+patch=1,EE,41F650C8,extended,002A0001
+[All Gold Medals]
+patch=1,EE,03030303,extended,00000000
+[All Gold Medals]
+patch=1,EE,01F65170,extended,00000003
+[>>> Max Gold Stars Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Rank 1 Codes]
+[Motor City-Race-Short Reverse]
+patch=1,EE,01F651DB,extended,00000004
+[Sunshine Keys-Traffic Attack-Forwards]
+patch=1,EE,01F651DC,extended,00000004
+[Motor City-Grand Prix 1]
+patch=1,EE,01F651DD,extended,00000004
+[Preview-Angel Vally]
+patch=1,EE,01F651DE,extended,00000004
+[Motor City-Road Rage-Short Forwards]
+patch=1,EE,01F651DF,extended,00000004
+[Sunshine Keys-Race-Reverse]
+patch=1,EE,01F651E0,extended,00000004
+[Motor City-Crash-Dock Fight]
+patch=1,EE,01F651E1,extended,00000004
+[Motor City-Crash-Deconstruction Site]
+patch=1,EE,01F651E2,extended,00000004
+[Motor City-Crash-Cars Attacks]
+patch=1,EE,01F651E3,extended,00000004
+[Sunshine Keys-Burning Lap-Forwards]
+patch=1,EE,01F651E4,extended,00000004
+[Angel Valley-Crash-Hollywood Spills]
+patch=1,EE,01F651E5,extended,00000004
+[Lone Peak-Crash-Off The Beaten Truck]
+patch=1,EE,01F651E6,extended,00000004
+[>>> Rank 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eternal City-Race-Long Forwards]
+patch=1,EE,01F651E7,extended,00000004
+[White Mountain-Crashbreaker Preview Race-Forwards]
+patch=1,EE,01F651E8,extended,00000004
+[Eternal City-Road Rage-Long Reverse]
+patch=1,EE,01F651E9,extended,00000004
+[White Mountain-Eliminator-Forwards]
+patch=1,EE,01F651EA,extended,00000004
+[Eternal City-Race-Long Reverse]
+patch=1,EE,01F651EB,extended,00000004
+[Preview-Central Route]
+patch=1,EE,01F651EC,extended,00000004
+[White Mountain-Grand Prix 2]
+patch=1,EE,01F651ED,extended,00000004
+[Eternal City-Burning Lap-Long Forwards]
+patch=1,EE,01F651EE,extended,00000004
+[White Mountain-Burning Lap-Reverse]
+patch=1,EE,01F651EF,extended,00000004
+[White Mountain-Crash-Swiss Roll]
+patch=1,EE,01F651F0,extended,00000004
+[Eternal City-Crash-Road To Ruins]
+patch=1,EE,01F651F1,extended,00000004
+[White Mountain-Crash-Dangerour Swerves]
+patch=1,EE,01F651F2,extended,00000004
+[Central Route-Crash-Crispy Fried Truck]
+patch=1,EE,01F651F3,extended,00000004
+[Eternal City-Crash-City Of Strife]
+patch=1,EE,01F651F4,extended,00000004
+[>>> Rank 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eastern Bay-Road Rage-Lower Link Forwards]
+patch=1,EE,01F651F5,extended,00000004
+[Central Route-Traffic Attack-Long Forwards]
+patch=1,EE,01F651F6,extended,00000004
+[Eastern Bay-Race-Long Forwards]
+patch=1,EE,01F651F7,extended,00000004
+[Central Route-Race-Long Reverse]
+patch=1,EE,01F651F8,extended,00000004
+[Eastern Bay-Eliminator-Long Reverse]
+patch=1,EE,01F651F9,extended,00000004
+[Preview-Lone Peak]
+patch=1,EE,01F651FA,extended,00000004
+[Eastern Bay-Grand Prix 3]
+patch=1,EE,01F651FB,extended,00000004
+[Eastern Bay-Burning Lap-Lower Link Forwards]
+patch=1,EE,01F651FC,extended,00000004
+[Central Route-Burning Lap-Long Forwards]
+patch=1,EE,01F651FD,extended,00000004
+[Central Route-Crash-Prawn Smackers]
+patch=1,EE,01F651FE,extended,00000004
+[Eastern Bay-Crash-Intersection Dissection]
+patch=1,EE,01F651FF,extended,00000004
+[Central Route-Crash-Tram-A-Tised]
+patch=1,EE,01F65200,extended,00000004
+[Eastern Bay-Crash-Smashed In Translation]
+patch=1,EE,01F65201,extended,00000004
+[Central Route-Crash-Street Car Set On Fire]
+patch=1,EE,01F65202,extended,00000004
+[>>> Rank 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Motor City-Traffic Attack-Long Forwards]
+patch=1,EE,01F65203,extended,00000004
+[Angel Vally-Race-Forwards]
+patch=1,EE,01F65204,extended,00000004
+[Angel Valley-Race-Forwards]
+patch=1,EE,01F65205,extended,00000004
+[Motor City-Road Rage-Long Reverse]
+patch=1,EE,01F65206,extended,00000004
+[Preview-Eternal City]
+patch=1,EE,01F65207,extended,00000004
+[Motor City-Grand Prix 4]
+patch=1,EE,01F65208,extended,00000004
+[Angel Valley-Road Rage-Reverse]
+patch=1,EE,01F65209,extended,00000004
+[Lone Peak-Eliminator-Reverse]
+patch=1,EE,01F6520A,extended,00000004
+[Motor City-Eliminator-Short Forwards]
+patch=1,EE,01F6520B,extended,00000004
+[Lone Peak-Burning Lap-Reverse]
+patch=1,EE,01F6520C,extended,00000004
+[Lone Peak-Crash-Round The Bend]
+patch=1,EE,01F6520D,extended,00000004
+[Lone Peak-Crash-Forest Bump]
+patch=1,EE,01F6520E,extended,00000004
+[Angel Valley-Crash-Drain Damage]
+patch=1,EE,01F6520F,extended,00000004
+[Eternal City-Crash-Circle Of Strife]
+patch=1,EE,01F65210,extended,00000004
+[Lone Peak-Crash-Mount Crushmore]
+patch=1,EE,01F65211,extended,00000004
+[>>> Rank 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eternal City-Crashbreaker Race-Short Reverse]
+patch=1,EE,01F65212,extended,00000004
+[White Mountain-Traffic Attack-Forwards]
+patch=1,EE,01F65213,extended,00000004
+[Eternal City-Eliminator-Long Reverse]
+patch=1,EE,01F65214,extended,00000004
+[Eternal City-Road Rage-Short Reverse]
+patch=1,EE,01F65215,extended,00000004
+[Eternal City-Crashbreaker Race-Long Reverse]
+patch=1,EE,01F65216,extended,00000004
+[White Mountain-Road Rage-Reverse]
+patch=1,EE,01F65217,extended,00000004
+[Eternal City-Eliminator-Short Reverse]
+patch=1,EE,01F65218,extended,00000004
+[Preview-Sunshine Keys]
+patch=1,EE,01F65219,extended,00000004
+[Eternal City-Grand Prix 5]
+patch=1,EE,01F6521A,extended,00000004
+[Eternal City-Traffic Attack-Short Forwards]
+patch=1,EE,01F6521B,extended,00000004
+[White Mountain-Burning Lap-Forwards]
+patch=1,EE,01F6521C,extended,00000004
+[Eternal City-Crash-Rome Wrecker]
+patch=1,EE,01F6521D,extended,00000004
+[Sunshine Keys-Crash-Smash My Ride]
+patch=1,EE,01F6521E,extended,00000004
+[Eternal City-Crash-Smackeroni]
+patch=1,EE,01F6521F,extended,00000004
+[Motor City-Crash-Jump On The Jam]
+patch=1,EE,01F65220,extended,00000004
+[Lone Peak-Crash-Doughnut Disturb]
+patch=1,EE,01F65221,extended,00000004
+[>>> Rank 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eastern Bay-Traffic Attack-Lower Link Reverse]
+patch=1,EE,01F65222,extended,00000004
+[Eastern Bay-Crashbreaker Race-Lower Link Reverse]
+patch=1,EE,01F65223,extended,00000004
+[Eastern Bay-Eliminator-Lower Link Forwards]
+patch=1,EE,01F65224,extended,00000004
+[Eastern Bay-Crashbreaker Race-Lower Link Forwards]
+patch=1,EE,01F65225,extended,00000004
+[Central Route-Crashbreaker Eliminator-Short Reverse]
+patch=1,EE,01F65226,extended,00000004
+[Central Route-Crashbreaker Race-Short Reverse]
+patch=1,EE,01F65227,extended,00000004
+[Central Route-Cbreaker Road Rage-Short Reverse]
+patch=1,EE,01F65228,extended,00000004
+[Preview-White Mountain]
+patch=1,EE,01F65229,extended,00000004
+[Central Route-Grand Prix 6]
+patch=1,EE,01F6522A,extended,00000004
+[Eastern Bay-Crashbreaker Road Rage-Long Reverse]
+patch=1,EE,01F6522B,extended,00000004
+[Eastern Bay-Traffic Attack-Long Forwards]
+patch=1,EE,01F6522C,extended,00000004
+[Central Route-Crash-Won-Ton Destruction]
+patch=1,EE,01F6522D,extended,00000004
+[Central Route-Crash-Shao-Lin Tumble]
+patch=1,EE,01F6522E,extended,00000004
+[Eastern Bay-Crash-Crashaoke]
+patch=1,EE,01F6522F,extended,00000004
+[Central Route-Crash-Street Car Set On Fire]
+patch=1,EE,01F65230,extended,00000004
+[Central Route-Crash-Noodles Of Fun]
+patch=1,EE,01F65231,extended,00000004
+[>>> Rank 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Angel Valley-Crashbreaker Race-Forwards]
+patch=1,EE,01F65232,extended,00000004
+[Sunshine Keys-Crashbreak Race-Reverse]
+patch=1,EE,01F65233,extended,00000004
+[Sunshine Keys-Crashbreak Eliminator-Forwards]
+patch=1,EE,01F65234,extended,00000004
+[Motor City-Crashbreaker Race-Long Reverse]
+patch=1,EE,01F65235,extended,00000004
+[Lone Peak-Crashbreaker Eliminator-Forwards]
+patch=1,EE,01F65236,extended,00000004
+[Lone Peak-Crashbreaker Road Rage-Reverse]
+patch=1,EE,01F65237,extended,00000004
+[Sunshine Keys-Crashbreaker Road Rage-Reverse]
+patch=1,EE,01F65238,extended,00000004
+[Angel Valley-Crashbreaker Road Rage-Forwards]
+patch=1,EE,01F65239,extended,00000004
+[Angel Valley-Traffic Attack-Reverse]
+patch=1,EE,01F6523A,extended,00000004
+[Lone Peak-Traffic Attack-Forwards]
+patch=1,EE,01F6523B,extended,00000004
+[Preview-Eastern Bay]
+patch=1,EE,01F6523C,extended,00000004
+[Lone Peak-Crashbreaker Grand Prix 7]
+patch=1,EE,01F6523D,extended,00000004
+[Angel Valley-Burning Lap-Forwards]
+patch=1,EE,01F6523E,extended,00000004
+[Motor City-Crash-Double Crossed]
+patch=1,EE,01F6523F,extended,00000004
+[Motor City-Crash-Might Docks]
+patch=1,EE,01F65240,extended,00000004
+[Motor City-Crash-Return Of The Semi]
+patch=1,EE,01F65241,extended,00000004
+[Lone Peak-Crash-Off The Beaten Truck]
+patch=1,EE,01F65242,extended,00000004
+[Lone Peak-Crash-Drive-Thru Destruction]
+patch=1,EE,01F65243,extended,00000004
+[>>> Rank 8 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Eternal City-Crashbreaker Race-Long Reverse]
+patch=1,EE,01F65244,extended,00000004
+[Crashbreak Eliminator-Long Forwards]
+patch=1,EE,01F65245,extended,00000004
+[Eternal City-Traffic Attack-Long Reverse]
+patch=1,EE,01F65246,extended,00000004
+[White Mountain-Crashbreaker Eliminator-Reverse]
+patch=1,EE,01F65247,extended,00000004
+[White Mountain-Crashbreaker Road Rage-Forwards]
+patch=1,EE,01F65248,extended,00000004
+[Eternal City-Crashbreaker Race-Short Reverse]
+patch=1,EE,01F65249,extended,00000004
+[White Mountain-Crashbreaker Race-Forwards]
+patch=1,EE,01F6524A,extended,00000004
+[Eternal City-Crashbreaker Elimination-Short Forwards]
+patch=1,EE,01F6524B,extended,00000004
+[White Mountain-Traffic Attack-Reverse]
+patch=1,EE,01F6524C,extended,00000004
+[Eternal City-Traffic Attack-Long Reverse]
+patch=1,EE,01F6524D,extended,00000004
+[Eternal City-Crashbreaker Road Rage-Short Forwards]
+patch=1,EE,01F6524E,extended,00000004
+[Preview-Motor City]
+patch=1,EE,01F6524F,extended,00000004
+[Eternal City-Crashbreaker Grand Prix 8]
+patch=1,EE,01F65250,extended,00000004
+[White Mountain-Crash-Cry For Alp]
+patch=1,EE,01F65251,extended,00000004
+[Motor City-Crash-Van-Fire Strikes Back]
+patch=1,EE,01F65252,extended,00000004
+[White Mountain-Crash-Mountain The Kerb]
+patch=1,EE,01F65253,extended,00000004
+[Eternal City-Crash-Eternal Flames]
+patch=1,EE,01F65254,extended,00000004
+[Angel Vally-Crash-Silly-Cone-Valley]
+patch=1,EE,01F65255,extended,00000004
+[>>> Rank 9 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Central Route-Traffic Attack-Long Reverse]
+patch=1,EE,01F65256,extended,00000004
+[Eastern Bay-Crashbreaker Race-Upper Link]
+patch=1,EE,01F65257,extended,00000004
+[Angel Valley-Eliminator-Forwards]
+patch=1,EE,01F65258,extended,00000004
+[Central Route-Crashbreaker Road Rage-Long Reverse]
+patch=1,EE,01F65259,extended,00000004
+[Central Route-Crashbreaker Race-Long Forwards]
+patch=1,EE,01F6525A,extended,00000004
+[Eastern Bay-Traffic Attack-Long Reverse]
+patch=1,EE,01F6525B,extended,00000004
+[Eastern Bay-Crashbreaker Road Rage-Upper Link R]
+patch=1,EE,01F6525C,extended,00000004
+[Central Route-Crashbreaker Eliminator-Short F]
+patch=1,EE,01F6525D,extended,00000004
+[Angel Valley-Crashbreaker Race-Reverse]
+patch=1,EE,01F6525E,extended,00000004
+[Eastern Bay-Crashbreaker Eliminator-Upper Link R]
+patch=1,EE,01F6525F,extended,00000004
+[Central Route-Traffic Attack-Short Reverse]
+patch=1,EE,01F65260,extended,00000004
+[Lone Peak-Crashbreaker Road Rage-Forwards]
+patch=1,EE,01F65261,extended,00000004
+[Central Route-Crashbreaker Race-Short Reverse]
+patch=1,EE,01F65262,extended,00000004
+[Eastern Bay-Crashbreaker Road Rage-Long Forwards]
+patch=1,EE,01F65263,extended,00000004
+[Eastern Bay-Crashbreaker Eliminator-Long Forwards]
+patch=1,EE,01F65264,extended,00000004
+[Eastern Bay-Crashbreaker Grand Prix 9]
+patch=1,EE,01F65265,extended,00000004
+[Central Route-Burning Lap-Long Reverse]
+patch=1,EE,01F65266,extended,00000004
+[Eastern Bay-Burning Lap-Eastern Bay Upper Link]
+patch=1,EE,01F65267,extended,00000004
+[Central Route-Crash-Double-Wrecker]
+patch=1,EE,01F65268,extended,00000004
+[Lone Peak-Crash-Drive-Thru Destruction]
+patch=1,EE,01F65269,extended,00000004
+[Eastern Bay-Crash-Smashimi]
+patch=1,EE,01F6526A,extended,00000004
+[Angel Valley-Crash-Crash De La Vista]
+patch=1,EE,01F6526B,extended,00000004
+[Motor City-Crash-Jump On The Jam]
+patch=1,EE,01F6526C,extended,00000004
+[>>> Rank 10 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sunshine Keys-Traffic Attack-Forwards]
+patch=1,EE,01F6526D,extended,00000004
+[Angel Valley-Crashbreaker Road Rage-Reverse]
+patch=1,EE,01F6526E,extended,00000004
+[Lone Peak-Burning Lap-Forwards]
+patch=1,EE,01F6526F,extended,00000004
+[Sunshine Keys-Crashbreaker Eliminator-Forwards]
+patch=1,EE,01F65270,extended,00000004
+[Motor City-Crashbreaker Road Rage-Long Forwards]
+patch=1,EE,01F65271,extended,00000004
+[Angel Valley-Traffic Attack-Forwards]
+patch=1,EE,01F65272,extended,00000004
+[Sunshine Keys-Crashbreaker Race-Reverse]
+patch=1,EE,01F65273,extended,00000004
+[Lone Peak-Crashbreaker Eliminator-Forwards]
+patch=1,EE,01F65274,extended,00000004
+[Eternal City-Traffic Attack-Long Forwards]
+patch=1,EE,01F65275,extended,00000004
+[Traffic Attack-Forwards]
+patch=1,EE,01F65276,extended,00000004
+[Eternal City-Crashbreaker Road Rage-Long Forwards]
+patch=1,EE,01F65277,extended,00000004
+[Central Route-Crashbreaker Eliminator-Long Reverse]
+patch=1,EE,01F65278,extended,00000004
+[Eastern Bay-Crashbreaker Race-Long Forwards]
+patch=1,EE,01F65279,extended,00000004
+[Central Route-Cbreaker Road Rage-Long Forwards]
+patch=1,EE,01F6527A,extended,00000004
+[Eastern Bay-Crashbreaker Grand Prix 10]
+patch=1,EE,01F6527B,extended,00000004
+[Eternal City-Burning Lap-Long Reverse]
+patch=1,EE,01F6527C,extended,00000004
+[Lone Peak-Burning Lap-Forwards]
+patch=1,EE,01F6527D,extended,00000004
+[Motor City-Burning Lap-Motor City Short Reverse]
+patch=1,EE,01F6527E,extended,00000004
+[Angel Valley-Crash-Silly-Cone Valley]
+patch=1,EE,01F6527F,extended,00000004
+[Lone Peak-Crash-Doughnut Disturb]
+patch=1,EE,01F65280,extended,00000004
+[White Mountain-Crash-Cry For Alp]
+patch=1,EE,01F65281,extended,00000004
+[Central Route-Crash-Noodles Of Fun]
+patch=1,EE,01F65282,extended,00000004
+[Lone Peak-Crash-Mount Crushmore]
+patch=1,EE,01F65283,extended,00000004
+[All Gold Stars]
+patch=1,EE,01F651DB,extended,00000004
+[All Gold Stars]
+patch=1,EE,41F651DC,extended,002A0001
+[All Gold Stars]
+patch=1,EE,04040404,extended,00000000
+

@@ -1,0 +1,270 @@
+gametitle=Tony Hawk's Pro Skater 4 (Version 1.0)
+[Enable Code (Must Be On)]
+patch=1,EE,9029BEAC,extended,0C0A9225
+[Infinite Time]
+patch=1,EE,201F6024,extended,00000000
+[Max Pro Points]
+patch=1,EE,2096F5B8,extended,000000BE
+[Infinite Cash]
+patch=1,EE,1096F5BC,extended,0000FFFF
+[Max Cash]
+patch=1,EE,2096F5BC,extended,05F5E0FF
+[Buying Items Doesnt Decrease Cash]
+patch=1,EE,201FB678,extended,00000000
+[Buying Items Increases Cash]
+patch=1,EE,201FB66C,extended,00651821
+[Goal Points Dont Decrease When Using]
+patch=1,EE,201FB594,extended,00000000
+[Goal Points Increase When Using]
+patch=1,EE,201FB58C,extended,00451021
+[Perfect Rails]
+patch=1,EE,2086BACC,extended,00000000
+[Quick Special Gain]
+patch=1,EE,20871D04,extended,00000BB8
+[Easy Manual Balance]
+patch=1,EE,2086BA5C,extended,00000000
+[Large Trick Point Multiplier]
+patch=1,EE,20871CF8,extended,000003E7
+[Super Trick Point Multiplier]
+patch=1,EE,20871CF8,extended,0000270F
+[Hella Trick Point Multiplier]
+patch=1,EE,20871CF8,extended,0001869F
+[Infinite Special]
+patch=1,EE,20871D04,extended,00000BB8
+[Infinite Special]
+patch=1,EE,10871D08,extended,00000001
+[Quick Special Gain]
+patch=1,EE,20871D04,extended,00000BB8
+[Very Tiny Character]
+patch=1,EE,2086D3B0,extended,3D000000
+[Very Tiny Character]
+patch=1,EE,2086D3B4,extended,3D000000
+[Very Tiny Character]
+patch=1,EE,2086D3B8,extended,3D000000
+[Tiny Character]
+patch=1,EE,2086D3B0,extended,3E000000
+[Tiny Character]
+patch=1,EE,2086D3B4,extended,3E000000
+[Tiny Character]
+patch=1,EE,2086D3B8,extended,3E000000
+[Huge Character]
+patch=1,EE,2086D3B0,extended,40000000
+[Huge Character]
+patch=1,EE,2086D3B4,extended,40000000
+[Huge Character]
+patch=1,EE,2086D3B8,extended,40000000
+[Very Huge Character]
+patch=1,EE,2086D3B0,extended,40400000
+[Very Huge Character]
+patch=1,EE,2086D3B4,extended,40400000
+[Very Huge Character]
+patch=1,EE,2086D3B8,extended,40400000
+[Unlock All Cheats & Levels]
+patch=1,EE,2096FA40,extended,FFFFFFFF
+[Unlock All Cheats & Levels]
+patch=1,EE,0096FA44,extended,000000FF
+[Unlock All Clothes]
+patch=1,EE,2096FA48,extended,0007FFFF
+[Unlock All Boards]
+patch=1,EE,0096FA4D,extended,000000FF
+[Unlock All Boards]
+patch=1,EE,1096FA4E,extended,0000FFFF
+[Unlock All Boards]
+patch=1,EE,2096FA50,extended,FFFFFFFF
+[Unlock All Boards]
+patch=1,EE,2096FA54,extended,FFFFFFFF
+[Unlock All Boards]
+patch=1,EE,2096FA58,extended,FFFFFFFF
+[Unlock All Boards]
+patch=1,EE,2096FA5C,extended,FFFFFFFF
+[Unlock All Boards]
+patch=1,EE,2096FA60,extended,FFFFFFFF
+[Unlock All Boards]
+patch=1,EE,1096FA64,extended,0000FFFF
+[>>> Custom Invisible Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Fully Invisible]
+patch=1,EE,0086D394,extended,00000000
+[Hands/Feet]
+patch=1,EE,7086D394,extended,002000FE
+[Head Invisible]
+patch=1,EE,7086D394,extended,002000FD
+[Torso]
+patch=1,EE,7086D394,extended,002000FB
+[Pants]
+patch=1,EE,7086D394,extended,002000F7
+[Shoes]
+patch=1,EE,7086D394,extended,002000EF
+[Board]
+patch=1,EE,7086D394,extended,002000DF
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Disco Mode]
+patch=1,EE,7096FA4A,extended,00000080
+[Invisible]
+patch=1,EE,7096FA4B,extended,00000001
+[Super Blood]
+patch=1,EE,7096FA4B,extended,00000002
+[Always Special]
+patch=1,EE,7096FA4B,extended,00000004
+[Perfect Rail]
+patch=1,EE,7096FA4B,extended,00000008
+[Stats 13]
+patch=1,EE,7096FA4B,extended,00000010
+[Cool Specials]
+patch=1,EE,7096FA4B,extended,00000020
+[Kid Mode]
+patch=1,EE,7096FA4C,extended,00000001
+[Sim Mode]
+patch=1,EE,7096FA4C,extended,00000004
+[Gorilla Mode]
+patch=1,EE,7096FA4C,extended,00000008
+[Perfect Skitch]
+patch=1,EE,7096FA4C,extended,00000010
+[Big Head Mode]
+patch=1,EE,7096FA4C,extended,00000020
+[Hoverboard]
+patch=1,EE,7096FA4C,extended,00000040
+[Slomo]
+patch=1,EE,7096FA4C,extended,00000080
+[Flame]
+patch=1,EE,7096FA66,extended,00000008
+[>>> Unlock Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[College]
+patch=1,EE,7096FA40,extended,00000020
+[San Francisco]
+patch=1,EE,7096FA40,extended,00000040
+[Alcatraz]
+patch=1,EE,7096FA40,extended,00000080
+[Kona]
+patch=1,EE,7096FA41,extended,00000001
+[Shipyard]
+patch=1,EE,7096FA41,extended,00000002
+[London]
+patch=1,EE,7096FA41,extended,00000004
+[Zoo]
+patch=1,EE,7096FA41,extended,00000008
+[Carnival]
+patch=1,EE,7096FA41,extended,00000010
+[Chicago]
+patch=1,EE,7096FA41,extended,00000020
+[All Levels]
+patch=1,EE,7096FA40,extended,00103FE0
+[>>> Unlock Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Cool Specials]
+patch=1,EE,7096FA43,extended,00000001
+[Gorilla Mode]
+patch=1,EE,7096FA43,extended,00000002
+[Kid Mode]
+patch=1,EE,7096FA43,extended,00000004
+[Big Head Mode]
+patch=1,EE,7096FA43,extended,00000008
+[Hoverboard]
+patch=1,EE,7096FA43,extended,00000010
+[Slomo]
+patch=1,EE,7096FA43,extended,00000020
+[Disco Mode]
+patch=1,EE,7096FA43,extended,00000040
+[Invisible]
+patch=1,EE,7096FA43,extended,00000080
+[Super Blood]
+patch=1,EE,7096FA44,extended,00000001
+[Flame]
+patch=1,EE,7096FA44,extended,00000002
+[Sim Mode]
+patch=1,EE,7096FA44,extended,00000004
+[All Cheats]
+patch=1,EE,7096FA43,extended,000000FF
+[All Cheats]
+patch=1,EE,7096FA44,extended,00000007
+[>>> Unlock Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Tony Hawk]
+patch=1,EE,7096FA44,extended,00000080
+[Steve Caballero]
+patch=1,EE,7096FA45,extended,00000001
+[Kareem Campbell]
+patch=1,EE,7096FA45,extended,00000002
+[Rune Glifberg]
+patch=1,EE,7096FA45,extended,00000004
+[Eric Koston]
+patch=1,EE,7096FA45,extended,00000008
+[Bucky Lasek]
+patch=1,EE,7096FA45,extended,00000010
+[Bam Margera]
+patch=1,EE,7096FA45,extended,00000020
+[Rodney Mullen]
+patch=1,EE,7096FA45,extended,00000040
+[Chad Muska]
+patch=1,EE,7096FA45,extended,00000080
+[Andrew Reynolds]
+patch=1,EE,7096FA46,extended,00000001
+[Geoff Rowley]
+patch=1,EE,7096FA46,extended,00000002
+[Elissa Steamer]
+patch=1,EE,7096FA46,extended,00000004
+[Jamie Thomas]
+patch=1,EE,7096FA46,extended,00000008
+[Bob Burnquist]
+patch=1,EE,7096FA46,extended,00000010
+[Pro Bails 1]
+patch=1,EE,7096FA47,extended,00000002
+[Homies Skatin' 1]
+patch=1,EE,7096FA47,extended,00000004
+[Homies Skatin' 2]
+patch=1,EE,7096FA47,extended,00000008
+[Outtakes]
+patch=1,EE,7096FA47,extended,00000010
+[Pro Bails 2]
+patch=1,EE,7096FA47,extended,00000020
+[Kona Old School]
+patch=1,EE,7096FA66,extended,00000040
+[All Movies]
+patch=1,EE,7096FA44,extended,0010FF80
+[All Movies]
+patch=1,EE,7096FA46,extended,00103E1F
+[All Movies]
+patch=1,EE,7096FA66,extended,00000040
+[>>> Unlock Clothes Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[O.D. Head]
+patch=1,EE,7096FA48,extended,00000004
+[Ollie Head]
+patch=1,EE,7096FA48,extended,00000008
+[Kenny Head]
+patch=1,EE,7096FA48,extended,00000010
+[Metal Head]
+patch=1,EE,7096FA48,extended,00000020
+[Clown Head]
+patch=1,EE,7096FA48,extended,00000040
+[Eraser Hair]
+patch=1,EE,7096FA48,extended,00000080
+[Clown Hair]
+patch=1,EE,7096FA49,extended,00000001
+[Paper Bag]
+patch=1,EE,7096FA49,extended,00000002
+[King Glasses]
+patch=1,EE,7096FA49,extended,00000004
+[O.D. Shirt]
+patch=1,EE,7096FA49,extended,00000008
+[Ollie Coat]
+patch=1,EE,7096FA49,extended,00000010
+[Kilt]
+patch=1,EE,7096FA49,extended,00000020
+[Smile Boxers]
+patch=1,EE,7096FA49,extended,00000040
+[Heart Boxers]
+patch=1,EE,7096FA49,extended,00000080
+[Ollie Pants]
+patch=1,EE,7096FA4A,extended,00000001
+[Clown Pants]
+patch=1,EE,7096FA4A,extended,00000002
+[Clown Boots]
+patch=1,EE,7096FA4A,extended,00000004
+[All Clothes]
+patch=1,EE,7096FA48,extended,0010FFFC
+[All Clothes]
+patch=1,EE,7096FA4A,extended,00000007
+

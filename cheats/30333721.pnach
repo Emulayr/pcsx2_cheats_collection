@@ -1,0 +1,62 @@
+gametitle=World Of Outlaws-Sprint Cars 2002
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0026D137
+[Infinite Money]
+patch=1,EE,10879A68,extended,0000FFFF
+[Max Money]
+patch=1,EE,20879A68,extended,05F5E0FF
+[Infinite Total Career Earnings]
+patch=1,EE,1087B8AC,extended,0000FFFF
+[Max Total Career Earnings]
+patch=1,EE,2087B8AC,extended,05F5E0FF
+[Start On Lap 2]
+patch=1,EE,D02D7ED0,extended,00000000
+[Start On Lap 2]
+patch=1,EE,102D7ED0,extended,00000001
+[Start On Lap 3]
+patch=1,EE,D02D7ED0,extended,00000000
+[Start On Lap 3]
+patch=1,EE,102D7ED0,extended,00000002
+[Start On Lap 4]
+patch=1,EE,D02D7ED0,extended,00000000
+[Start On Lap 4]
+patch=1,EE,102D7ED0,extended,00000003
+[Start On Lap 5]
+patch=1,EE,D02D7ED0,extended,00000000
+[Start On Lap 5]
+patch=1,EE,102D7ED0,extended,00000004
+[Invisible Car Body]
+patch=1,EE,202ABAF4,extended,7FFFFFFF
+[Press {L1} To Jump]
+patch=1,EE,E001FBFF,extended,003FF102
+[Press {L1} To Jump]
+patch=1,EE,202ABB14,extended,42820000
+[Press {R1} For Nitrous Boost]
+patch=1,EE,E002F7FF,extended,003FF102
+[Press {R1} For Nitrous Boost]
+patch=1,EE,202ABCAC,extended,43160000
+[Press {R1} For Nitrous Boost]
+patch=1,EE,202ABEFC,extended,43160000
+[Hover Mode]
+patch=1,EE,402ABC00,extended,00040094
+[Hover Mode]
+patch=1,EE,41100000,extended,00000000
+[Always Good Tires]
+patch=1,EE,402ABDE0,extended,00040094
+[Always Good Tires]
+patch=1,EE,00000000,extended,00000000
+[Better Traction]
+patch=1,EE,402AC8A4,extended,00040001
+[Better Traction]
+patch=1,EE,40200000,extended,00000000
+[Absorb Less Damage]
+patch=1,EE,202ACAA4,extended,00000000
+[Absorb Less Damage]
+patch=1,EE,202ACAC8,extended,00000000
+[Absorb Less Damage]
+patch=1,EE,202ACACC,extended,00000000
+[Absorb Less Damage]
+patch=1,EE,202ACAD8,extended,00000000
+[Absorb Less Damage]
+patch=1,EE,202ACADC,extended,00000000
+

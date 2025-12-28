@@ -1,0 +1,72 @@
+gametitle=Total Overdose
+[Enable Code (Must Be On)]
+patch=1,EE,905F5224,extended,0C18077A
+[Infinite Health]
+patch=1,EE,200C0200,extended,081516FC
+[Infinite Health]
+patch=1,EE,200C0204,extended,ADE00020
+[Infinite Health]
+patch=1,EE,202A5DB0,extended,0C030080
+[Never Reload-Handguns & Shotgun]
+patch=1,EE,10521CF6,extended,00001000
+[Never Reload-Assault Rifle]
+patch=1,EE,105244B2,extended,00001000
+[Pause To Have Max Global Score]
+patch=1,EE,200C0210,extended,3C0605F5
+[Pause To Have Max Global Score]
+patch=1,EE,200C0214,extended,34C6E0FF
+[Pause To Have Max Global Score]
+patch=1,EE,200C0218,extended,08059BB8
+[Pause To Have Max Global Score]
+patch=1,EE,200C021C,extended,AC660024
+[Pause To Have Max Global Score]
+patch=1,EE,203A3650,extended,0C030084
+[Pause To Have All Red Blood Drops]
+patch=1,EE,200C0220,extended,8C4601B4
+[Pause To Have All Red Blood Drops]
+patch=1,EE,200C0224,extended,08059BB8
+[Pause To Have All Red Blood Drops]
+patch=1,EE,200C0228,extended,AC4601C4
+[Pause To Have All Red Blood Drops]
+patch=1,EE,203A38C4,extended,0C030088
+[Pause To Have All White Blood Drops]
+patch=1,EE,200C0230,extended,8C4601B8
+[Pause To Have All White Blood Drops]
+patch=1,EE,200C0234,extended,08059BB8
+[Pause To Have All White Blood Drops]
+patch=1,EE,200C0238,extended,AC4601C8
+[Pause To Have All White Blood Drops]
+patch=1,EE,203A392C,extended,0C03008C
+[Pause To Have All Weapon Skill Goodies]
+patch=1,EE,200C0240,extended,8C4601BC
+[Pause To Have All Weapon Skill Goodies]
+patch=1,EE,200C0244,extended,08059BB8
+[Pause To Have All Weapon Skill Goodies]
+patch=1,EE,200C0248,extended,AC4601CC
+[Pause To Have All Weapon Skill Goodies]
+patch=1,EE,203A3994,extended,0C030090
+[Red Blood Drops Increase By 10]
+patch=1,EE,10306AEC,extended,0000000A
+[Red Blood Drops Increase By 5]
+patch=1,EE,10306AEC,extended,00000005
+[Red Blood Drops Increase By 2]
+patch=1,EE,10306AEC,extended,00000002
+[Quick Max Red Blood Drops]
+patch=1,EE,20306AEC,extended,8E0201B4
+[White Blood Drops Increase By 10]
+patch=1,EE,10306B3C,extended,0000000A
+[White Blood Drops Increase By 5]
+patch=1,EE,10306B3C,extended,00000005
+[White Blood Drops Increase By 2]
+patch=1,EE,10306B3C,extended,00000002
+[Quick Max White Blood Drops]
+patch=1,EE,20306B3C,extended,8E0201B8
+[Weapon Skill Goodies Increase By 10]
+patch=1,EE,10306B8C,extended,0000000A
+[Weapon Skill Goodies Increase By 5]
+patch=1,EE,10306B8C,extended,00000005
+[Weapon Skill Goodies Increase By 2]
+patch=1,EE,10306B8C,extended,00000002
+[Quick Max Weapon Skill Goodies]
+patch=1,EE,20306B8C,extended,8E0201BC
+

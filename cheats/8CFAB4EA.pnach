@@ -1,0 +1,26 @@
+gametitle=[SLUS-20909] Crash Twinsanity
+[Enable Code (Must Be On)]
+patch=1,EE,902C2570,extended,00832021
+[Infinite Lives/Gems]
+patch=1,EE,200C0220,extended,24023263
+[Infinite Lives/Gems]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Lives/Gems]
+patch=1,EE,200C0228,extended,A4820000
+[Infinite Lives/Gems]
+patch=1,EE,2016961C,extended,0C030088
+[>>> Have All Gems/Extras Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Nsanity Isle]
+cheat0_code = "2098C064 FFFFFFFF
+[Jungle Bungle]
+cheat0_code = "2098C068 FFFFFFFF
+[Cavern Catastrophe]
+cheat0_code = "2098C06C FFFFFFFF
+[Totem Kokum]
+cheat0_code = "2098C070 FFFFFFFF
+[All Gems/Extras]
+patch=1,EE,4098C064,extended,00040001
+[All Gems/Extras]
+patch=1,EE,FFFFFFFF,extended,00000000
+

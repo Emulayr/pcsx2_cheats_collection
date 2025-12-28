@@ -1,0 +1,16 @@
+gametitle=Puzzle Challenge-Crosswords And More!
+[Enable Code (Must Be On)]
+patch=1,EE,9026B480,extended,00832021
+[ALways Low Time]
+patch=1,EE,201133C8,extended,AC800000
+[Time Counts 10x As Fast]
+patch=1,EE,101133C4,extended,0000000A
+[Time Counts 5x As Fast]
+patch=1,EE,101133C4,extended,00000005
+[Time Counts 4x As Fast]
+patch=1,EE,101133C4,extended,00000004
+[Time Counts 3x As Fast]
+patch=1,EE,101133C4,extended,00000003
+[Time Counts 2x As Fast]
+patch=1,EE,101133C4,extended,00000002
+

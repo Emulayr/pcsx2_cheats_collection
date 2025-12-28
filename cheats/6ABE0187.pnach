@@ -1,0 +1,40 @@
+gametitle=Powerpuff Girls-Relish Rampage
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,001CF7BF
+[Infinite Health]
+patch=1,EE,2021C910,extended,42C80000
+[Always Full Chemical X]
+patch=1,EE,2021CA04,extended,42C80000
+[Always Have 3 Bottles Of Chemical X]
+patch=1,EE,2021CA08,extended,00000003
+[Infinite Time]
+patch=1,EE,20142824,extended,00000000
+[Infinite Chemical X Usage (Rapid Fire)]
+patch=1,EE,201730F4,extended,00000000
+[Infinite Chemical X Usage (Rapid Fire)]
+patch=1,EE,20173108,extended,00000000
+[Unlock All Movies]
+patch=1,EE,2021CE60,extended,00000004
+[>>> Have Toys In Toybox Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Toy 1]
+patch=1,EE,2021C814,extended,00000001
+[Toy 2]
+patch=1,EE,2021C824,extended,00000001
+[Toy 3]
+patch=1,EE,2021C834,extended,00000001
+[Toy 4]
+patch=1,EE,2021C844,extended,00000001
+[Toy 5]
+patch=1,EE,2021C854,extended,00000001
+[Toy 6]
+patch=1,EE,2021C864,extended,00000001
+[Have All Scrapbook Mini-Games]
+patch=1,EE,4021C340,extended,001F000A
+[Have All Scrapbook Mini-Games]
+patch=1,EE,00000001,extended,00000000
+[Have All Scrapbook Pics]
+patch=1,EE,4021C354,extended,001F000A
+[Have All Scrapbook Pics]
+patch=1,EE,00000001,extended,00000000
+

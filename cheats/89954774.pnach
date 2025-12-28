@@ -1,0 +1,940 @@
+gametitle=[SLUS-20782] Blood Will Tell-Tezuka Osamu's Dororo
+[Enable Code (Must Be On)]
+patch=1,EE,90151F38,extended,0C097374
+[Infinite Health]
+patch=1,EE,21E9B760,extended,4479C000
+[Max Health]
+patch=1,EE,21E9B75C,extended,4479C000
+[Infinite Spirit Usage]
+patch=1,EE,2020B9F0,extended,00000000
+[Infinite Spirit Usage]
+patch=1,EE,2020BAF8,extended,00000000
+[Infinite Spirit Usage]
+patch=1,EE,2020BAFC,extended,00000000
+[Infinite Spirit Usage]
+patch=1,EE,2020BB28,extended,00000000
+[Max Infinite Spirit]
+patch=1,EE,2020B66C,extended,00000000
+[P1 Press {L1}+{SELECT} To Enable Save Anywhere]
+patch=1,EE,E002FBFE,extended,01E6D842
+[P1 Press {L1}+{SELECT} To Enable Save Anywhere]
+patch=1,EE,201ED1CC,extended,24010001
+[P1 Press {L1}+{SELECT} To Enable Save Anywhere]
+patch=1,EE,201ED1D4,extended,A20103BA
+[P1 Press {L1}+{SELECT} To Disable Save Anywhere]
+patch=1,EE,E002FEFE,extended,01E6D842
+[P1 Press {L1}+{SELECT} To Disable Save Anywhere]
+patch=1,EE,201ED1CC,extended,00000000
+[P1 Press {L1}+{SELECT} To Disable Save Anywhere]
+patch=1,EE,201ED1D4,extended,A20003BA
+[Always Low Play Time]
+patch=1,EE,21E9B948,extended,00000000
+[Max ARM]
+patch=1,EE,01E9B774,extended,00000063
+[Max END]
+patch=1,EE,01E9B775,extended,00000063
+[Max SPD]
+patch=1,EE,01E9B776,extended,00000063
+[Max REG]
+patch=1,EE,01E9B777,extended,00000063
+[Max HP]
+patch=1,EE,01E9B778,extended,00000063
+[Max STB]
+patch=1,EE,01E9B779,extended,00000063
+[Max MET]
+patch=1,EE,01E9B77A,extended,00000063
+[Max LCK]
+patch=1,EE,01E9B77B,extended,00000063
+[Max Level-Sword 1]
+patch=1,EE,01E9B77C,extended,00000063
+[Max Level-Sword 2]
+patch=1,EE,01E9B77D,extended,00000063
+[Max Infinite Arm Cannon]
+patch=1,EE,01E9B77E,extended,00000078
+[Infinite Arm Cannon Usage]
+patch=1,EE,202398BC,extended,00000000
+[Max Infinite Leg Cannon]
+patch=1,EE,01E9B77F,extended,00000005
+[Infinite Leg Cannon Usage]
+patch=1,EE,202399FC,extended,00000000
+[Unlock All Modes/Movie Chapters]
+patch=1,EE,11E9B42E,extended,00000009
+[Unlock All Gallery Concept Art/Movies]
+patch=1,EE,21E9BA20,extended,FFFFFFFF
+[Unlock All Gallery Concept Art/Movies]
+cheat0_code = "21E9BA24 FFFFFFFF
+[>>> Have Body Parts Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Digestive System-Esophagus]
+patch=1,EE,01E9B782,extended,00000001
+[Digestive System-Stomach]
+patch=1,EE,01E9B783,extended,00000001
+[Digestive System-Small Intestines]
+patch=1,EE,01E9B784,extended,00000001
+[Digestive System-Large Intestines]
+patch=1,EE,01E9B785,extended,00000001
+[Digestive System-Liver]
+patch=1,EE,01E9B786,extended,00000001
+[Digestive System-Gall Bladder]
+patch=1,EE,01E9B787,extended,00000001
+[Muscular System-Abdominal Muscles]
+patch=1,EE,01E9B788,extended,00000001
+[Muscular System-Pectoralis Muscle]
+patch=1,EE,01E9B789,extended,00000001
+[Muscular System-Lateral Muscles]
+patch=1,EE,01E9B78A,extended,00000001
+[Muscular System-Trapezius Muscles]
+patch=1,EE,01E9B78B,extended,00000001
+[Skeletal System-Ribs]
+patch=1,EE,01E9B78C,extended,00000001
+[Skeletal System-Spine]
+patch=1,EE,01E9B78D,extended,00000001
+[Skeletal System-Skull]
+patch=1,EE,01E9B78E,extended,00000001
+[Skeletal System-Pelvis]
+patch=1,EE,01E9B78F,extended,00000001
+[Immune System-Lymph Nodes]
+patch=1,EE,01E9B790,extended,00000001
+[Immune System-Pancreas]
+patch=1,EE,01E9B791,extended,00000001
+[Immune System-Thymus Gland]
+patch=1,EE,01E9B792,extended,00000001
+[Immune System-Bone Marrow]
+patch=1,EE,01E9B793,extended,00000001
+[Respiratory System-Lungs]
+patch=1,EE,01E9B794,extended,00000001
+[Respiratory System-Diaphragm]
+patch=1,EE,01E9B795,extended,00000001
+[Circulatory System-Heart]
+patch=1,EE,01E9B796,extended,00000001
+[Circulatory System-Platelets]
+patch=1,EE,01E9B797,extended,00000001
+[Circulatory System-Kidneys]
+patch=1,EE,01E9B798,extended,00000001
+[Oral Cavity-Teeth]
+patch=1,EE,01E9B799,extended,00000001
+[Oral Cavity-Vocal Cords]
+patch=1,EE,01E9B79A,extended,00000001
+[Appendages-Right Arm]
+patch=1,EE,01E9B79B,extended,00000001
+[Appendages-Left Arm]
+patch=1,EE,01E9B79C,extended,00000001
+[Appendages-Right Leg]
+patch=1,EE,01E9B79D,extended,00000001
+[Appendages-Left Leg]
+patch=1,EE,01E9B79E,extended,00000001
+[Sensory Systems-Right Eye]
+patch=1,EE,01E9B79F,extended,00000001
+[Sensory Systems-Left Eye]
+patch=1,EE,01E9B7A0,extended,00000001
+[Sensory Systems-Nose]
+patch=1,EE,01E9B7A1,extended,00000001
+[Sensory Systems-Ears]
+patch=1,EE,01E9B7A2,extended,00000001
+[Sensory Systems-Lacrimal Glands]
+patch=1,EE,01E9B7A3,extended,00000001
+[Nervous System-Sense Of Pain]
+patch=1,EE,01E9B7A4,extended,00000001
+[Nervous System-Hippocampal Synapse]
+patch=1,EE,01E9B7A5,extended,00000001
+[Nervous System-Cerebellum]
+patch=1,EE,01E9B7A6,extended,00000001
+[Nervous System-Cerebral Neocortex]
+patch=1,EE,01E9B7A7,extended,00000001
+[Endocrine System-Pituitary Gland]
+patch=1,EE,01E9B7A8,extended,00000001
+[Endocrine System-Thyroid Gland]
+patch=1,EE,01E9B7A9,extended,00000001
+[Endocrine System-Adrenal Glands]
+patch=1,EE,01E9B7AA,extended,00000001
+[Spiritual-Muladhara]
+patch=1,EE,01E9B7AB,extended,00000001
+[Spiritual-Svadhistana]
+patch=1,EE,01E9B7AC,extended,00000001
+[Spiritual-Manipura]
+patch=1,EE,01E9B7AD,extended,00000001
+[Spiritual-Anahala]
+patch=1,EE,01E9B7AE,extended,00000001
+[Spiritual-Vissudha]
+patch=1,EE,01E9B7AF,extended,00000001
+[Spiritual-Ajna]
+patch=1,EE,01E9B7B0,extended,00000001
+[Spiritual-Sahasrara]
+patch=1,EE,01E9B7B1,extended,00000001
+[All Digestive System]
+patch=1,EE,11E9B782,extended,00000101
+[All Digestive System]
+patch=1,EE,21E9B784,extended,01010101
+[All Muscular System]
+patch=1,EE,21E9B788,extended,01010101
+[All Skeletal System]
+patch=1,EE,21E9B78C,extended,01010101
+[Immune System]
+patch=1,EE,21E9B790,extended,01010101
+[All Respiratory System]
+patch=1,EE,11E9B794,extended,00000101
+[All Circulatory System]
+patch=1,EE,11E9B796,extended,00000101
+[All Circulatory System]
+patch=1,EE,01E9B798,extended,00000001
+[All Oral Cavity]
+patch=1,EE,01E9B799,extended,00000001
+[All Oral Cavity]
+patch=1,EE,01E9B79A,extended,00000001
+[All Appendages]
+patch=1,EE,01E9B79B,extended,00000001
+[All Appendages]
+patch=1,EE,11E9B79C,extended,00000101
+[All Appendages]
+patch=1,EE,01E9B79E,extended,00000001
+[All Sensory System]
+patch=1,EE,01E9B79F,extended,00000001
+[All Sensory System]
+patch=1,EE,21E9B7A0,extended,01010101
+[All Nervous System]
+patch=1,EE,21E9B7A4,extended,01010101
+[All Endocrine System]
+patch=1,EE,11E9B7A8,extended,00000101
+[All Endocrine System]
+patch=1,EE,01E9B7AA,extended,00000001
+[All Spiritual]
+patch=1,EE,01E9B7AB,extended,00000001
+[All Spiritual]
+patch=1,EE,21E9B7AC,extended,01010101
+[All Spiritual]
+patch=1,EE,11E9B7B0,extended,00000101
+[All Body Parts]
+patch=1,EE,11E9B782,extended,00000101
+[All Body Parts]
+patch=1,EE,41E9B784,extended,000B0001
+[All Body Parts]
+patch=1,EE,01010101,extended,00000000
+[All Body Parts]
+patch=1,EE,11E9B7B0,extended,00000101
+[>>> Have Encyclopedia Demons Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Possessed Dororo]
+patch=1,EE,01E9B49A,extended,00000001
+[Wandering Skull-Sword]
+patch=1,EE,01E9B49B,extended,00000001
+[Skeletal Warrior-Sword]
+patch=1,EE,01E9B49C,extended,00000001
+[Revenant-Sword]
+patch=1,EE,01E9B49D,extended,00000001
+[Wandering Skull-Dbl Sword]
+patch=1,EE,01E9B49E,extended,00000001
+[Skeletal Warrior-Dbl Sword]
+patch=1,EE,01E9B49F,extended,00000001
+[Revenant-Dbl Sword]
+patch=1,EE,01E9B4A0,extended,00000001
+[Wandering Skull-Shield]
+patch=1,EE,01E9B4A1,extended,00000001
+[Skeletal Warrior-Shield]
+patch=1,EE,01E9B4A2,extended,00000001
+[Revenant-Shield]
+patch=1,EE,01E9B4A3,extended,00000001
+[Wandering Skull-Spear]
+patch=1,EE,01E9B4A4,extended,00000001
+[Skeletal Warrior-Spear]
+patch=1,EE,01E9B4A5,extended,00000001
+[Revenant-Spear]
+patch=1,EE,01E9B4A6,extended,00000001
+[Wandering Death]
+patch=1,EE,01E9B4A7,extended,00000001
+[Zombie]
+patch=1,EE,01E9B4A8,extended,00000001
+[Specter]
+patch=1,EE,01E9B4A9,extended,00000001
+[Specter Lord]
+patch=1,EE,01E9B4AA,extended,00000001
+[Specter Overlord]
+patch=1,EE,01E9B4AB,extended,00000001
+[Water Devil]
+patch=1,EE,01E9B4AC,extended,00000001
+[Water Horror]
+patch=1,EE,01E9B4AD,extended,00000001
+[Poltergeist]
+patch=1,EE,01E9B4AE,extended,00000001
+[Plague]
+patch=1,EE,01E9B4AF,extended,00000001
+[Crimson Earth]
+patch=1,EE,01E9B4B0,extended,00000001
+[Rock Golem]
+patch=1,EE,01E9B4B1,extended,00000001
+[Stone Golem]
+patch=1,EE,01E9B4B2,extended,00000001
+[Bloodstone Golem]
+patch=1,EE,01E9B4B3,extended,00000001
+[Sasquatch]
+patch=1,EE,01E9B4B4,extended,00000001
+[Wendigo]
+patch=1,EE,01E9B4B5,extended,00000001
+[Raven Tengu]
+patch=1,EE,01E9B4B6,extended,00000001
+[Leech]
+patch=1,EE,01E9B4B7,extended,00000001
+[Hundred Eyes]
+patch=1,EE,01E9B4B8,extended,00000001
+[Guardian Dog]
+patch=1,EE,01E9B4B9,extended,00000001
+[Shadow Beast]
+patch=1,EE,01E9B4BA,extended,00000001
+[Windslasher]
+patch=1,EE,01E9B4BB,extended,00000001
+[Hellhound]
+patch=1,EE,01E9B4BC,extended,00000001
+[Death Otter]
+patch=1,EE,01E9B4BD,extended,00000001
+[Zombie Mole]
+patch=1,EE,01E9B4BE,extended,00000001
+[Hell Rat]
+patch=1,EE,01E9B4BF,extended,00000001
+[Demon Fox]
+patch=1,EE,01E9B4C0,extended,00000001
+[Undead Frog]
+patch=1,EE,01E9B4C1,extended,00000001
+[Carrion Beetles]
+patch=1,EE,01E9B4C2,extended,00000001
+[Carnage Beetle]
+patch=1,EE,01E9B4C3,extended,00000001
+[Raven]
+patch=1,EE,01E9B4C4,extended,00000001
+[Death Raven]
+patch=1,EE,01E9B4C5,extended,00000001
+[Cursed Weeds]
+patch=1,EE,01E9B4C6,extended,00000001
+[Bloodweed]
+patch=1,EE,01E9B4C7,extended,00000001
+[Lost Vines]
+patch=1,EE,01E9B4C8,extended,00000001
+[Dreck]
+patch=1,EE,01E9B4C9,extended,00000001
+[Muck]
+patch=1,EE,01E9B4CA,extended,00000001
+[Molten]
+patch=1,EE,01E9B4CB,extended,00000001
+[Shadow]
+patch=1,EE,01E9B4CC,extended,00000001
+[Shade]
+patch=1,EE,01E9B4CD,extended,00000001
+[Spirit Wheel]
+patch=1,EE,01E9B4CE,extended,00000001
+[Demon Wheel]
+patch=1,EE,01E9B4CF,extended,00000001
+[Clockwork]
+patch=1,EE,01E9B4D0,extended,00000001
+[Living Wall]
+patch=1,EE,01E9B4D1,extended,00000001
+[Fox Man]
+patch=1,EE,01E9B509,extended,00000001
+[Daigo Solider-Footman]
+patch=1,EE,01E9B519,extended,00000001
+[Daigo Soldier-Spearman]
+patch=1,EE,01E9B51A,extended,00000001
+[Daigo Soldier-Archer]
+patch=1,EE,01E9B51B,extended,00000001
+[All Demons]
+patch=1,EE,11E9B49A,extended,00000101
+[All Demons]
+patch=1,EE,41E9B49C,extended,000D0001
+[All Demons]
+patch=1,EE,01010101,extended,00000000
+[All Demons]
+patch=1,EE,11E9B4D0,extended,00000101
+[All Demons]
+patch=1,EE,01E9B509,extended,00000001
+[All Demons]
+patch=1,EE,11E9B519,extended,00000101
+[All Demons]
+patch=1,EE,01E9B51B,extended,00000001
+[>>> Have Encyclopedia The 48 Fiends Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gaping Maw]
+patch=1,EE,01E9B4D4,extended,00000001
+[Thunder Fiend]
+patch=1,EE,01E9B4D5,extended,00000001
+[Wind Fiend]
+patch=1,EE,01E9B4D6,extended,00000001
+[Recap]
+patch=1,EE,01E9B4D7,extended,00000001
+[Fire Golem]
+patch=1,EE,01E9B4D8,extended,00000001
+[Blood Ape]
+patch=1,EE,01E9B4D9,extended,00000001
+[Cursed Monk]
+patch=1,EE,01E9B4DA,extended,00000001
+[Great Horn]
+patch=1,EE,01E9B4DB,extended,00000001
+[Twin Blade]
+patch=1,EE,01E9B4DC,extended,00000001
+[Goliath]
+patch=1,EE,01E9B4DD,extended,00000001
+[Grave Golem]
+patch=1,EE,01E9B4E0,extended,00000001
+[Soul Stealer]
+patch=1,EE,01E9B4E1,extended,00000001
+[Minotaru]
+patch=1,EE,01E9B4E3,extended,00000001
+[Hellcat]
+patch=1,EE,01E9B4E4,extended,00000001
+[7Homunculus]
+patch=1,EE,01E9B4E5,extended,00000001
+[Night Terror]
+patch=1,EE,01E9B4E6,extended,00000001
+[Three-Tailed Fox]
+patch=1,EE,01E9B4E7,extended,00000001
+[Six-Tailed Fox]
+patch=1,EE,01E9B4E8,extended,00000001
+[Inquisitor]
+patch=1,EE,01E9B4E9,extended,00000001
+[Three Face]
+patch=1,EE,01E9B4EA,extended,00000001
+[Dreameater]
+patch=1,EE,01E9B4EC,extended,00000001
+[Carrion Feeder]
+patch=1,EE,01E9B4ED,extended,00000001
+[Draconus]
+patch=1,EE,01E9B4EE,extended,00000001
+[White Dragon]
+patch=1,EE,01E9B4EF,extended,00000001
+[Impaler]
+patch=1,EE,01E9B4F1,extended,00000001
+[Bloodgore]
+patch=1,EE,01E9B4F2,extended,00000001
+[Beast Fiend]
+patch=1,EE,01E9B4F3,extended,00000001
+[Boar Fiend]
+patch=1,EE,01E9B4F4,extended,00000001
+[Hellcrusher]
+patch=1,EE,01E9B4F5,extended,00000001
+[Death]
+patch=1,EE,01E9B4F6,extended,00000001
+[Dragon Tank]
+patch=1,EE,01E9B4F7,extended,00000001
+[Giant Fire Wheel]
+patch=1,EE,01E9B4F8,extended,00000001
+[Giant Inferno Wheel]
+patch=1,EE,01E9B4F9,extended,00000001
+[Scourge]
+patch=1,EE,01E9B4FA,extended,00000001
+[Ogress]
+patch=1,EE,01E9B4FB,extended,00000001
+[Demon Ogress]
+patch=1,EE,01E9B4FC,extended,00000001
+[Legion]
+patch=1,EE,01E9B4FD,extended,00000001
+[Chimera]
+patch=1,EE,01E9B4FE,extended,00000001
+[Maimai' Onba]
+patch=1,EE,01E9B4FF,extended,00000001
+[Nine-Tailed Fox]
+patch=1,EE,01E9B500,extended,00000001
+[Midoro]
+patch=1,EE,01E9B502,extended,00000001
+[Behemoth]
+patch=1,EE,01E9B503,extended,00000001
+[Mountainous]
+patch=1,EE,01E9B506,extended,00000001
+[Fiend Misaki]
+patch=1,EE,01E9B513,extended,00000001
+[Demon Sword Dragon Brood]
+patch=1,EE,01E9B515,extended,00000001
+[Fiend Tahoumaru]
+patch=1,EE,01E9B517,extended,00000001
+[Snake Eyes Saburota]
+patch=1,EE,01E9B518,extended,00000001
+[Nameless Fiend]
+patch=1,EE,01E9B51E,extended,00000001
+[All 48 Fiends]
+patch=1,EE,21E9B4D4,extended,01010101
+[All 48 Fiends]
+patch=1,EE,21E9B4D8,extended,01010101
+[All 48 Fiends]
+patch=1,EE,11E9B4DC,extended,00000101
+[All 48 Fiends]
+patch=1,EE,11E9B4E0,extended,00000101
+[All 48 Fiends]
+patch=1,EE,01E9B4E1,extended,00000001
+[All 48 Fiends]
+patch=1,EE,01E9B4E3,extended,00000001
+[All 48 Fiends]
+patch=1,EE,21E9B4E4,extended,01010101
+[All 48 Fiends]
+patch=1,EE,11E9B4E8,extended,00000101
+[All 48 Fiends]
+patch=1,EE,01E9B4EA,extended,00000001
+[All 48 Fiends]
+patch=1,EE,21E9B4EC,extended,01010101
+[All 48 Fiends]
+patch=1,EE,01E9B4F1,extended,00000001
+[All 48 Fiends]
+patch=1,EE,11E9B4F2,extended,00000101
+[All 48 Fiends]
+patch=1,EE,41E9B4F4,extended,00030001
+[All 48 Fiends]
+patch=1,EE,01010101,extended,00000000
+[All 48 Fiends]
+patch=1,EE,01E9B500,extended,00000001
+[All 48 Fiends]
+patch=1,EE,11E9B502,extended,00000101
+[All 48 Fiends]
+patch=1,EE,01E9B506,extended,00000001
+[All 48 Fiends]
+patch=1,EE,01E9B513,extended,00000001
+[All 48 Fiends]
+patch=1,EE,01E9B515,extended,00000001
+[All 48 Fiends]
+patch=1,EE,01E9B517,extended,00000001
+[All 48 Fiends]
+patch=1,EE,01E9B518,extended,00000001
+[All 48 Fiends]
+patch=1,EE,01E9B51E,extended,00000001
+[>>> Unlock Movies Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Prologue-Movie 1]
+patch=1,EE,01E9B594,extended,00000001
+[Prologue-Movie 2]
+patch=1,EE,01E9B595,extended,00000001
+[Prologue-Movie 3]
+patch=1,EE,01E9B596,extended,00000001
+[Prologue-Movie 4]
+patch=1,EE,01E9B597,extended,00000001
+[Prologue-Movie 5]
+patch=1,EE,01E9B598,extended,00000001
+[Prologue-Movie 6]
+patch=1,EE,01E9B59B,extended,00000001
+[Prologue-Movie 7]
+patch=1,EE,01E9B59C,extended,00000001
+[Prologue-Movie 8]
+patch=1,EE,01E9B59D,extended,00000001
+[Prologue-Movie 9]
+patch=1,EE,01E9B59E,extended,00000001
+[Prologue-Movie 10]
+patch=1,EE,01E9B59F,extended,00000001
+[Chapter 1-Movie 1]
+patch=1,EE,01E9B5A6,extended,00000001
+[Chapter 1-Movie 2]
+patch=1,EE,01E9B5A8,extended,00000001
+[Chapter 1-Movie 3]
+patch=1,EE,01E9B5AC,extended,00000001
+[Chapter 1-Movie 4]
+patch=1,EE,01E9B5AE,extended,00000001
+[Chapter 1-Movie 5]
+patch=1,EE,01E9B5B0,extended,00000001
+[Chapter 1-Movie 6]
+patch=1,EE,01E9B5B1,extended,00000001
+[Chapter 1-Movie 7]
+patch=1,EE,01E9B5B2,extended,00000001
+[Chapter 1-Movie 8]
+patch=1,EE,01E9B5B3,extended,00000001
+[Chapter 1-Movie 9]
+patch=1,EE,01E9B5B7,extended,00000001
+[Chapter 1-Movie 10]
+patch=1,EE,01E9B5B9,extended,00000001
+[Chapter 1-Movie 11]
+patch=1,EE,01E9B5BA,extended,00000001
+[Chapter 1-Movie 12]
+patch=1,EE,01E9B5BB,extended,00000001
+[Chapter 1-Movie 13]
+patch=1,EE,01E9B5BC,extended,00000001
+[Chapter 1-Movie 14]
+patch=1,EE,01E9B5BE,extended,00000001
+[Chapter 1-Movie 15]
+patch=1,EE,01E9B5BF,extended,00000001
+[Chapter 1-Movie 16]
+patch=1,EE,01E9B5C0,extended,00000001
+[Chapter 1-Movie 17]
+patch=1,EE,01E9B5C1,extended,00000001
+[Chapter 1-Movie 18]
+patch=1,EE,01E9B5C2,extended,00000001
+[Chapter 1-Movie 19]
+patch=1,EE,01E9B5C4,extended,00000001
+[Chapter 1-Movie 20]
+patch=1,EE,01E9B5C5,extended,00000001
+[Chapter 1-Movie 21]
+patch=1,EE,01E9B5C6,extended,00000001
+[Chapter 1-Movie 22]
+patch=1,EE,01E9B5C7,extended,00000001
+[Chapter 1-Movie 23]
+patch=1,EE,01E9B5C8,extended,00000001
+[Chapter 1-Movie 24]
+patch=1,EE,01E9B5CC,extended,00000001
+[Chapter 1-Movie 25]
+patch=1,EE,01E9B5CD,extended,00000001
+[Chapter 1-Movie 26]
+patch=1,EE,01E9B5CE,extended,00000001
+[Chapter 1-Movie 27]
+patch=1,EE,01E9B5D1,extended,00000001
+[Chapter 1-Movie 28]
+patch=1,EE,01E9B5D4,extended,00000001
+[Chapter 1-Movie 29]
+patch=1,EE,01E9B5D7,extended,00000001
+[Chapter 1-Movie 30]
+patch=1,EE,01E9B5D8,extended,00000001
+[Chapter 2-Movie 1]
+patch=1,EE,01E9B5DC,extended,00000001
+[Chapter 2-Movie 2]
+patch=1,EE,01E9B5DE,extended,00000001
+[Chapter 2-Movie 3]
+patch=1,EE,01E9B5E0,extended,00000001
+[Chapter 2-Movie 4]
+patch=1,EE,01E9B5E1,extended,00000001
+[Chapter 2-Movie 5]
+patch=1,EE,01E9B5E2,extended,00000001
+[Chapter 2-Movie 6]
+patch=1,EE,01E9B5E3,extended,00000001
+[Chapter 2-Movie 7]
+patch=1,EE,01E9B5E4,extended,00000001
+[Chapter 2-Movie 8]
+patch=1,EE,01E9B5E5,extended,00000001
+[Chapter 2-Movie 9]
+patch=1,EE,01E9B5E6,extended,00000001
+[Chapter 2-Movie 10]
+patch=1,EE,01E9B5E7,extended,00000001
+[Chapter 2-Movie 11]
+patch=1,EE,01E9B5E8,extended,00000001
+[Chapter 2-Movie 12]
+patch=1,EE,01E9B5EB,extended,00000001
+[Chapter 2-Movie 13]
+patch=1,EE,01E9B5EC,extended,00000001
+[Chapter 2-Movie 14]
+patch=1,EE,01E9B5ED,extended,00000001
+[Chapter 2-Movie 15]
+patch=1,EE,01E9B5EE,extended,00000001
+[Chapter 2-Movie 16]
+patch=1,EE,01E9B5EF,extended,00000001
+[Chapter 2-Movie 17]
+patch=1,EE,01E9B5F0,extended,00000001
+[Chapter 2-Movie 18]
+patch=1,EE,01E9B5F1,extended,00000001
+[Chapter 2-Movie 19]
+patch=1,EE,01E9B5F2,extended,00000001
+[Chapter 2-Movie 20]
+patch=1,EE,01E9B5F3,extended,00000001
+[Chapter 2-Movie 21]
+patch=1,EE,01E9B5F7,extended,00000001
+[Chapter 2-Movie 22]
+patch=1,EE,01E9B5F8,extended,00000001
+[Chapter 2-Movie 23]
+patch=1,EE,01E9B602,extended,00000001
+[Chapter 2-Movie 24]
+patch=1,EE,01E9B603,extended,00000001
+[Chapter 2-Movie 25]
+patch=1,EE,01E9B607,extended,00000001
+[Chapter 2-Movie 26]
+patch=1,EE,01E9B5F9,extended,00000001
+[Chapter 2-Movie 27]
+patch=1,EE,01E9B5FC,extended,00000001
+[Chapter 2-Movie 28]
+patch=1,EE,01E9B5FF,extended,00000001
+[Chapter 3-Movie 1]
+patch=1,EE,01E9B608,extended,00000001
+[Chapter 3-Movie 2]
+patch=1,EE,01E9B60A,extended,00000001
+[Chapter 3-Movie 3]
+patch=1,EE,01E9B60B,extended,00000001
+[Chapter 3-Movie 4]
+patch=1,EE,01E9B60C,extended,00000001
+[Chapter 3-Movie 5]
+patch=1,EE,01E9B60D,extended,00000001
+[Chapter 3-Movie 6]
+patch=1,EE,01E9B60E,extended,00000001
+[Chapter 3-Movie 7]
+patch=1,EE,01E9B60F,extended,00000001
+[Chapter 3-Movie 8]
+patch=1,EE,01E9B610,extended,00000001
+[Chapter 3-Movie 9]
+patch=1,EE,01E9B611,extended,00000001
+[Chapter 3-Movie 10]
+patch=1,EE,01E9B604,extended,00000001
+[Chapter 3-Movie 11]
+patch=1,EE,01E9B605,extended,00000001
+[Chapter 3-Movie 12]
+patch=1,EE,01E9B612,extended,00000001
+[Chapter 3-Movie 13]
+patch=1,EE,01E9B61A,extended,00000001
+[Chapter 3-Movie 14]
+patch=1,EE,01E9B61B,extended,00000001
+[Chapter 3-Movie 15]
+patch=1,EE,01E9B61C,extended,00000001
+[Chapter 3-Movie 16]
+patch=1,EE,01E9B61F,extended,00000001
+[Chapter 3-Movie 17]
+patch=1,EE,01E9B621,extended,00000001
+[Chapter 3-Movie 18]
+patch=1,EE,01E9B622,extended,00000001
+[Chapter 3-Movie 19]
+patch=1,EE,01E9B623,extended,00000001
+[Chapter 3-Movie 20]
+patch=1,EE,01E9B624,extended,00000001
+[Chapter 3-Movie 21]
+patch=1,EE,01E9B625,extended,00000001
+[Chapter 3-Movie 22]
+patch=1,EE,01E9B626,extended,00000001
+[Chapter 3-Movie 23]
+patch=1,EE,01E9B626,extended,00000001
+[Chapter 3-Movie 24]
+patch=1,EE,01E9B626,extended,00000001
+[Chapter 3-Movie 25]
+patch=1,EE,01E9B636,extended,00000001
+[Chapter 3-Movie 26]
+patch=1,EE,01E9B637,extended,00000001
+[Chapter 3-Movie 27]
+patch=1,EE,01E9B638,extended,00000001
+[Chapter 3-Movie 28]
+patch=1,EE,01E9B639,extended,00000001
+[Chapter 3-Movie 29]
+patch=1,EE,01E9B63C,extended,00000001
+[Chapter 3-Movie 30]
+patch=1,EE,01E9B63F,extended,00000001
+[Chapter 4-Movie 1]
+patch=1,EE,01E9B642,extended,00000001
+[Chapter 4-Movie 2]
+patch=1,EE,01E9B645,extended,00000001
+[Chapter 4-Movie 3]
+patch=1,EE,01E9B648,extended,00000001
+[Chapter 4-Movie 4]
+patch=1,EE,01E9B649,extended,00000001
+[Chapter 4-Movie 5]
+patch=1,EE,01E9B64C,extended,00000001
+[Chapter 4-Movie 6]
+patch=1,EE,01E9B64D,extended,00000001
+[Chapter 4-Movie 7]
+patch=1,EE,01E9B64E,extended,00000001
+[Chapter 4-Movie 8]
+patch=1,EE,01E9B650,extended,00000001
+[Chapter 4-Movie 9]
+patch=1,EE,01E9B651,extended,00000001
+[Chapter 4-Movie 10]
+patch=1,EE,01E9B652,extended,00000001
+[Chapter 4-Movie 11]
+patch=1,EE,01E9B653,extended,00000001
+[Chapter 4-Movie 12]
+patch=1,EE,01E9B656,extended,00000001
+[Chapter 4-Movie 13]
+patch=1,EE,01E9B65B,extended,00000001
+[Chapter 4-Movie 14]
+patch=1,EE,01E9B65D,extended,00000001
+[Chapter 4-Movie 15]
+patch=1,EE,01E9B660,extended,00000001
+[Chapter 4-Movie 16]
+patch=1,EE,01E9B662,extended,00000001
+[Chapter 4-Movie 17]
+patch=1,EE,01E9B665,extended,00000001
+[Chapter 4-Movie 18]
+patch=1,EE,01E9B666,extended,00000001
+[Chapter 4-Movie 19]
+patch=1,EE,01E9B667,extended,00000001
+[Chapter 4-Movie 20]
+patch=1,EE,01E9B669,extended,00000001
+[Chapter 4-Movie 21]
+patch=1,EE,01E9B66A,extended,00000001
+[Chapter 4-Movie 22]
+patch=1,EE,01E9B66B,extended,00000001
+[Chapter 4-Movie 23]
+patch=1,EE,01E9B66C,extended,00000001
+[Chapter 4-Movie 24]
+patch=1,EE,01E9B670,extended,00000001
+[Chapter 4-Movie 25]
+patch=1,EE,01E9B671,extended,00000001
+[Chapter 4-Movie 26]
+patch=1,EE,01E9B672,extended,00000001
+[Chapter 4-Movie 27]
+patch=1,EE,01E9B673,extended,00000001
+[Chapter 4-Movie 28]
+patch=1,EE,01E9B676,extended,00000001
+[Chapter 4-Movie 29]
+patch=1,EE,01E9B679,extended,00000001
+[Chapter 4-Movie 30]
+patch=1,EE,01E9B67C,extended,00000001
+[Chapter 5-Movie 1]
+patch=1,EE,01E9B67F,extended,00000001
+[Chapter 5-Movie 2]
+patch=1,EE,01E9B680,extended,00000001
+[Chapter 5-Movie 3]
+patch=1,EE,01E9B681,extended,00000001
+[Chapter 5-Movie 4]
+patch=1,EE,01E9B683,extended,00000001
+[Chapter 5-Movie 5]
+patch=1,EE,01E9B684,extended,00000001
+[Chapter 5-Movie 6]
+patch=1,EE,01E9B685,extended,00000001
+[Chapter 5-Movie 7]
+patch=1,EE,01E9B686,extended,00000001
+[Chapter 5-Movie 8]
+patch=1,EE,01E9B689,extended,00000001
+[Chapter 5-Movie 9]
+patch=1,EE,01E9B68A,extended,00000001
+[Chapter 5-Movie 10]
+patch=1,EE,01E9B68B,extended,00000001
+[Chapter 5-Movie 11]
+patch=1,EE,01E9B68C,extended,00000001
+[Chapter 5-Movie 12]
+patch=1,EE,01E9B68D,extended,00000001
+[Chapter 5-Movie 13]
+patch=1,EE,01E9B68E,extended,00000001
+[Chapter 5-Movie 14]
+patch=1,EE,01E9B68F,extended,00000001
+[Chapter 5-Movie 15]
+patch=1,EE,01E9B690,extended,00000001
+[Chapter 5-Movie 16]
+patch=1,EE,01E9B691,extended,00000001
+[Chapter 5-Movie 17]
+patch=1,EE,01E9B692,extended,00000001
+[Chapter 5-Movie 18]
+patch=1,EE,01E9B693,extended,00000001
+[Chapter 5-Movie 19]
+patch=1,EE,01E9B696,extended,00000001
+[Chapter 5-Movie 20]
+patch=1,EE,01E9B697,extended,00000001
+[Chapter 5-Movie 21]
+patch=1,EE,01E9B698,extended,00000001
+[Chapter 5-Movie 22]
+patch=1,EE,01E9B69C,extended,00000001
+[Chapter 5-Movie 23]
+patch=1,EE,01E9B69D,extended,00000001
+[Chapter 5-Movie 24]
+patch=1,EE,01E9B69E,extended,00000001
+[Chapter 5-Movie 25]
+patch=1,EE,01E9B6A0,extended,00000001
+[Chapter 5-Movie 26]
+patch=1,EE,01E9B6A1,extended,00000001
+[Chapter 5-Movie 27]
+patch=1,EE,01E9B6A5,extended,00000001
+[Chapter 5-Movie 28]
+patch=1,EE,01E9B6A8,extended,00000001
+[Chapter 5-Movie 29]
+patch=1,EE,01E9B6AB,extended,00000001
+[Chapter 6-Movie 1]
+patch=1,EE,01E9B6AF,extended,00000001
+[Chapter 6-Movie 2]
+patch=1,EE,01E9B6B0,extended,00000001
+[Chapter 6-Movie 3]
+patch=1,EE,01E9B6B2,extended,00000001
+[Chapter 6-Movie 4]
+patch=1,EE,01E9B6B3,extended,00000001
+[Chapter 6-Movie 5]
+patch=1,EE,01E9B6B4,extended,00000001
+[Chapter 6-Movie 6]
+patch=1,EE,01E9B6B7,extended,00000001
+[Chapter 6-Movie 7]
+patch=1,EE,01E9B6B8,extended,00000001
+[Chapter 6-Movie 8]
+patch=1,EE,01E9B6B9,extended,00000001
+[Chapter 6-Movie 9]
+patch=1,EE,01E9B6BA,extended,00000001
+[Chapter 6-Movie 10]
+patch=1,EE,01E9B6BE,extended,00000001
+[Chapter 6-Movie 11]
+patch=1,EE,01E9B6BF,extended,00000001
+[Chapter 6-Movie 12]
+patch=1,EE,01E9B6C0,extended,00000001
+[Chapter 6-Movie 13]
+patch=1,EE,01E9B6C4,extended,00000001
+[Chapter 6-Movie 14]
+patch=1,EE,01E9B6C5,extended,00000001
+[Chapter 6-Movie 15]
+patch=1,EE,01E9B6C6,extended,00000001
+[Chapter 7-Movie 1]
+patch=1,EE,01E9B6C8,extended,00000001
+[Chapter 7-Movie 2]
+patch=1,EE,01E9B6CA,extended,00000001
+[Chapter 7-Movie 3]
+patch=1,EE,01E9B6CC,extended,00000001
+[Chapter 7-Movie 4]
+patch=1,EE,01E9B6CD,extended,00000001
+[Chapter 7-Movie 5]
+patch=1,EE,01E9B6CF,extended,00000001
+[Chapter 7-Movie 6]
+patch=1,EE,01E9B6D0,extended,00000001
+[Chapter 7-Movie 7]
+patch=1,EE,01E9B6D4,extended,00000001
+[Chapter 7-Movie 8]
+patch=1,EE,01E9B6D5,extended,00000001
+[Chapter 7-Movie 9]
+patch=1,EE,01E9B6DE,extended,00000001
+[Chapter 7-Movie 10]
+patch=1,EE,01E9B6DF,extended,00000001
+[Chapter 7-Movie 11]
+patch=1,EE,01E9B6E0,extended,00000001
+[Chapter 7-Movie 12]
+patch=1,EE,01E9B6E2,extended,00000001
+[Chapter 7-Movie 13]
+patch=1,EE,01E9B6E3,extended,00000001
+[Chapter 7-Movie 14]
+patch=1,EE,01E9B6E4,extended,00000001
+[Chapter 7-Movie 15]
+patch=1,EE,01E9B6E5,extended,00000001
+[Chapter 7-Movie 16]
+patch=1,EE,01E9B6E6,extended,00000001
+[Chapter 7-Movie 17]
+patch=1,EE,01E9B6E7,extended,00000001
+[Chapter 7-Movie 18]
+patch=1,EE,01E9B6E8,extended,00000001
+[Chapter 7-Movie 19]
+patch=1,EE,01E9B6E9,extended,00000001
+[Chapter 7-Movie 20]
+patch=1,EE,01E9B6EB,extended,00000001
+[Chapter 7-Movie 21]
+patch=1,EE,01E9B6EC,extended,00000001
+[Chapter 7-Movie 22]
+patch=1,EE,01E9B6EF,extended,00000001
+[Chapter 7-Movie 23]
+patch=1,EE,01E9B6F2,extended,00000001
+[Chapter 7-Movie 24]
+patch=1,EE,01E9B6F5,extended,00000001
+[Chapter 7-Movie 25]
+patch=1,EE,01E9B6F8,extended,00000001
+[Chapter 7-Movie 26]
+patch=1,EE,01E9B6DB,extended,00000001
+[Chapter 7-Movie 27]
+patch=1,EE,71E9BA20,extended,00000001
+[Final Chapter-Movie 1]
+patch=1,EE,01E9B6FC,extended,00000001
+[Final Chapter-Movie 2]
+patch=1,EE,01E9B6FE,extended,00000001
+[Final Chapter-Movie 3]
+patch=1,EE,01E9B702,extended,00000001
+[Final Chapter-Movie 4]
+patch=1,EE,01E9B704,extended,00000001
+[All Movies]
+patch=1,EE,200C0220,extended,24020001
+[All Movies]
+patch=1,EE,200C0224,extended,03E00008
+[All Movies]
+patch=1,EE,200C0228,extended,A0227BD2
+[All Movies]
+patch=1,EE,2024EB38,extended,0C030088
+[All Movies]
+patch=1,EE,2024EB3C,extended,00410821
+[All Movies]
+patch=1,EE,71E9BA20,extended,00000001
+[>>> Dororo Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,21E9B954,extended,4479C000
+[Max Health]
+patch=1,EE,21E9B950,extended,4479C000
+[>>> Have Chapter Cleared Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Yakushi Riverside]
+patch=1,EE,01E9BA20,extended,00000001
+[Yudai's Manor-Basement]
+patch=1,EE,01E9BA21,extended,00000001
+[Nowaki Trail]
+patch=1,EE,01E9BA22,extended,00000001
+[Magistrate's Hidden Room]
+patch=1,EE,01E9BA23,extended,00000001
+[North Town-District 3]
+patch=1,EE,01E9BA24,extended,00000001
+[Shike Temple-Basement]
+patch=1,EE,01E9BA25,extended,00000001
+[Gates Of Hell]
+patch=1,EE,01E9BA26,extended,00000001
+[Daigo's Castle-3rd Floor]
+patch=1,EE,01E9BA27,extended,00000001
+[All Chapters]
+patch=1,EE,21E9BA20,extended,01010101
+[All Chapters]
+patch=1,EE,21E9BA24,extended,01010101
+

@@ -1,0 +1,142 @@
+gametitle=[SLUS-21181] DICE-DNA Integrated Cybernetic Enterprises
+[Enable Code (Must Be On)]
+patch=1,EE,9011B870,extended,00832021
+[Infinite Metal Chips]
+patch=1,EE,103240AC,extended,0000FFFF
+[Max Metal Chips]
+patch=1,EE,203240AC,extended,0098967F
+[Always Low Time]
+patch=1,EE,20324160,extended,00000000
+[Always Low Time]
+patch=1,EE,20324164,extended,00000000
+[Infinite Health P1]
+patch=1,EE,20323D40,extended,447A0000
+[Never Overheat P1]
+patch=1,EE,20323D48,extended,00000000
+[Infinite Power Gauge P1]
+patch=1,EE,20323DA8,extended,0000001E
+[Infinite Power Gauge P1]
+patch=1,EE,20323DB8,extended,0000001E
+[Infinite Health P2]
+patch=1,EE,20323E30,extended,447A0000
+[Never Overheat P2]
+patch=1,EE,20323E38,extended,00000000
+[Infinite Power Gauge P2]
+patch=1,EE,20323E98,extended,0000001E
+[Infinite Power Gauge P2]
+patch=1,EE,20323EA8,extended,0000001E
+[Enable Training]
+patch=1,EE,103248E4,extended,00000001
+[Enable Garage]
+patch=1,EE,103248E6,extended,00000001
+[>>> Enable Mission Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 01]
+patch=1,EE,10324A80,extended,00000001
+[Mission 02]
+patch=1,EE,10324A82,extended,00000001
+[Mission 03]
+patch=1,EE,10324A84,extended,00000001
+[Mission 04]
+patch=1,EE,10324A86,extended,00000001
+[Mission 05]
+patch=1,EE,10324A88,extended,00000001
+[Mission 06]
+patch=1,EE,10324A8A,extended,00000001
+[Mission 07]
+patch=1,EE,10324A8C,extended,00000001
+[Mission 08]
+patch=1,EE,10324A8E,extended,00000001
+[Mission 09]
+patch=1,EE,10324A90,extended,00000001
+[Mission 10]
+patch=1,EE,10324A92,extended,00000001
+[Mission 11]
+patch=1,EE,10324A94,extended,00000001
+[Mission 12]
+patch=1,EE,10324A96,extended,00000001
+[Mission 13]
+patch=1,EE,10324A98,extended,00000001
+[Mission 14]
+patch=1,EE,10324A9A,extended,00000001
+[Mission 15]
+patch=1,EE,10324A9C,extended,00000001
+[Mission 16]
+patch=1,EE,10324A9E,extended,00000001
+[All Missions]
+patch=1,EE,40324A80,extended,00080001
+[All Missions]
+patch=1,EE,00010001,extended,00000000
+[>>> Garage Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Garage Metal Chips]
+patch=1,EE,103248D4,extended,0000FFFF
+[Max Garage Metal Chips]
+patch=1,EE,203248D4,extended,0098967F
+[Using Metal Chips Doesnt Decrease Them]
+patch=1,EE,201CF9D4,extended,00000000
+[Using Metal Chips Increases Them]
+patch=1,EE,201CF9CC,extended,00A22821
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Bot Power Up Kit-Sensor Lv 8]
+patch=1,EE,103248D8,extended,00000008
+[Bot Power Up Kit-Recovery Lv 4]
+patch=1,EE,103248DC,extended,00000004
+[Training Ticket-Attack Class C]
+patch=1,EE,10324900,extended,00000001
+[Training Ticket-Attack Class B]
+patch=1,EE,10324902,extended,00000001
+[Training Ticket-Attack Class A]
+patch=1,EE,10324904,extended,00000001
+[Training Ticket-Speed Class C]
+patch=1,EE,10324906,extended,00000001
+[Training Ticket-Speed Class B]
+patch=1,EE,10324908,extended,00000001
+[Training Ticket-Speed Class A]
+patch=1,EE,1032490A,extended,00000001
+[New Player-Hoverrhynchus]
+patch=1,EE,1032494C,extended,00000001
+[New Player-Lambeotracker]
+patch=1,EE,1032494E,extended,00000001
+[New Player-Knightrex]
+patch=1,EE,10324950,extended,00000001
+[New Player-Motostinger]
+patch=1,EE,10324952,extended,00000001
+[New Player-Hovertap]
+patch=1,EE,10324954,extended,00000001
+[New Player-Ankylorover]
+patch=1,EE,10324956,extended,00000001
+[Satellite Bot-Boomerang]
+patch=1,EE,10324A08,extended,00000001
+[Satellite Bot-Stay Ring]
+patch=1,EE,10324A0A,extended,00000001
+[Satellite Bot-Thunder]
+patch=1,EE,10324A0C,extended,00000001
+[Satellite Bot-Fire]
+patch=1,EE,10324A0E,extended,00000001
+[Satellite Bot-Grenade]
+patch=1,EE,10324A10,extended,00000001
+[Satellite Bot-Shower]
+patch=1,EE,10324A12,extended,00000001
+[Satellite Bot-Excalibur]
+patch=1,EE,10324A14,extended,00000001
+[All Garage]
+patch=1,EE,103248D8,extended,00000008
+[All Garage]
+patch=1,EE,103248DC,extended,00000004
+[All Garage]
+patch=1,EE,40324900,extended,00030001
+[All Garage]
+patch=1,EE,00010001,extended,00000000
+[All Garage]
+patch=1,EE,4032494C,extended,00030001
+[All Garage]
+patch=1,EE,00010001,extended,00000000
+[All Garage]
+patch=1,EE,40324A08,extended,00030001
+[All Garage]
+patch=1,EE,00010001,extended,00000000
+[All Garage]
+patch=1,EE,10324A14,extended,00000001
+

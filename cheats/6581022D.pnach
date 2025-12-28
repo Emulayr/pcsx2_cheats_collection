@@ -1,0 +1,40 @@
+gametitle=[SLUS-20070] Q-Ball-Billiards Master
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,001FF9CB
+[P1 Scores 15]
+patch=1,EE,10216F2E,extended,0000000F
+[P1 Scores 0]
+patch=1,EE,10216F2E,extended,00000000
+[P1 Start With 2]
+patch=1,EE,D0216F2E,extended,00000000
+[P1 Start With 2]
+patch=1,EE,10216F2E,extended,00000002
+[P1 Start With 5]
+patch=1,EE,D0216F2E,extended,00000000
+[P1 Start With 5]
+patch=1,EE,10216F2E,extended,00000005
+[P1 Start With 10]
+patch=1,EE,D0216F2E,extended,00000000
+[P1 Start With 10]
+patch=1,EE,10216F2E,extended,0000000A
+[P2 Scores 15]
+patch=1,EE,10216F58,extended,0000000F
+[P2 Scores 0]
+patch=1,EE,10216F58,extended,00000000
+[P2 Start With 2]
+patch=1,EE,D0216F58,extended,00000000
+[P2 Start With 2]
+patch=1,EE,10216F58,extended,00000002
+[P2 Start With 5]
+patch=1,EE,D0216F58,extended,00000000
+[P2 Start With 5]
+patch=1,EE,10216F58,extended,00000005
+[P2 Start With 10]
+patch=1,EE,D0216F58,extended,00000000
+[P2 Start With 10]
+patch=1,EE,10216F58,extended,0000000A
+[Always P1's Turn]
+patch=1,EE,1075BB70,extended,00000000
+[Always P2's Turn]
+patch=1,EE,1075BB70,extended,00000001
+

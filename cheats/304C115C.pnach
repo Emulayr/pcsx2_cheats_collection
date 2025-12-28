@@ -1,0 +1,74 @@
+gametitle=Harvest Moon-A Wonder Life-Special Edition
+[Enable Code (Must Be On)]
+patch=1,EE,90457E74,extended,0C117560
+[Infinite Gold]
+patch=1,EE,1148FBE8,extended,0000FFFF
+[Max Gold]
+patch=1,EE,2148FBE8,extended,05F5E0FF
+[Max Tolerances]
+patch=1,EE,4148FE74,extended,00050002
+[Max Tolerances]
+patch=1,EE,005B7CB0,extended,00000000
+[Never Tired]
+patch=1,EE,2148FD54,extended,000186A0
+[Never Tired]
+patch=1,EE,2148FD70,extended,0001869F
+[Never Hungry]
+patch=1,EE,2148FD64,extended,00149970
+[Max Skill-Farm Tools]
+patch=1,EE,4148FD90,extended,00080003
+[Max Skill-Farm Tools]
+patch=1,EE,0000C350,extended,00000000
+[Pet 1-Always Happy]
+patch=1,EE,21493034,extended,00000064
+[Barn Can Hold Max Capacity]
+patch=1,EE,1149F73C,extended,000003E8
+[Quick Dog Training]
+patch=1,EE,2032631C,extended,00000000
+[>>> Have Tool Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Watering Can L]
+patch=1,EE,0148E6EC,extended,00000081
+[Watering Can S]
+patch=1,EE,0148E6ED,extended,00000081
+[Brush]
+patch=1,EE,0148E6EE,extended,00000081
+[Clippers]
+patch=1,EE,0148E6EF,extended,00000081
+[Sickle]
+patch=1,EE,0148E6F0,extended,00000081
+[Heavy Sickle]
+patch=1,EE,0148E6F1,extended,00000081
+[Light Sickle]
+patch=1,EE,0148E6F2,extended,00000081
+[Heavy Hoe]
+patch=1,EE,0148E6F3,extended,00000081
+[Hoe]
+patch=1,EE,0148E6F4,extended,00000081
+[Light Hoe]
+patch=1,EE,0148E6F5,extended,00000081
+[Strange Hoe]
+patch=1,EE,0148E6F6,extended,00000081
+[Weird Hoe]
+patch=1,EE,0148E6F7,extended,00000081
+[Fishing Rod]
+patch=1,EE,0148E6F8,extended,00000081
+[Fishing Pole]
+patch=1,EE,0148E6F9,extended,00000081
+[Goat Milker]
+patch=1,EE,0148E6FA,extended,00000081
+[Cow Milker]
+patch=1,EE,0148E6FB,extended,00000081
+[Watering Can W]
+patch=1,EE,0148E6FC,extended,00000081
+[Watering Can]
+patch=1,EE,0148E6FD,extended,00000081
+[Wool Clippers]
+patch=1,EE,0148E6FE,extended,00000081
+[Whool Shears]
+patch=1,EE,0148E6FF,extended,00000081
+[All Tools]
+patch=1,EE,4148E6EC,extended,00050001
+[All Tools]
+patch=1,EE,81818181,extended,00000000
+

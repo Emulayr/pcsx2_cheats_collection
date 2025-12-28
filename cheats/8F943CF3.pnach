@@ -1,0 +1,44 @@
+gametitle=[SLUS-20649] Crash Nitro Kart
+[Enable Code (Must Be On)]
+patch=1,EE,90447474,extended,0C10A1F8
+[Always Low Lap Timer]
+patch=1,EE,20186E94,extended,24010000
+[Always Low Lap Timer]
+patch=1,EE,20186E98,extended,AC41000C
+[Max Fruit]
+patch=1,EE,200C0220,extended,8E220010
+[Max Fruit]
+patch=1,EE,200C0224,extended,24010063
+[Max Fruit]
+patch=1,EE,200C0228,extended,03E00008
+[Max Fruit]
+patch=1,EE,200C022C,extended,AC4100B0
+[Max Fruit]
+patch=1,EE,20138804,extended,0C030088
+[Have All Collectables]
+patch=1,EE,207937E0,extended,DEFFBDFF
+[Have All Collectables]
+patch=1,EE,207937E4,extended,F7BFEF7F
+[Have All Collectables]
+patch=1,EE,207937E8,extended,FDEFFBDF
+[Have All Collectables]
+patch=1,EE,207937EC,extended,FF7BFEF7
+[Have All Collectables]
+patch=1,EE,207937F0,extended,7FDEFFBD
+[Have All Collectables]
+patch=1,EE,207937F4,extended,DFF7BFEF
+[Have All Collectables]
+patch=1,EE,207937F8,extended,F7FDEFFB
+[Have All Collectables]
+patch=1,EE,207937FC,extended,BDFF7BFE
+[Have All Collectables]
+patch=1,EE,20793800,extended,EF7FDEFF
+[Have All Collectables]
+patch=1,EE,20793804,extended,FBDFF7BF
+[Have All Collectables]
+patch=1,EE,20793808,extended,FEF7FDEF
+[Have All Collectables]
+patch=1,EE,2079380C,extended,FFBDFF7B
+[Have All Collectables]
+patch=1,EE,20793810,extended,000F7FDE
+

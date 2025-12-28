@@ -1,0 +1,483 @@
+gametitle=Tenchu 3-Wrath Of Heaven
+[Enable Code (Must Be On)]
+patch=1,EE,90116AEC,extended,0C0486C8
+[Infinite Item Usage]
+patch=1,EE,202D281C,extended,00000000
+[Extra Items]
+patch=1,EE,102D2818,extended,00000001
+[Infinite Health]
+patch=1,EE,2023BB14,extended,8F8286B8
+[Infinite Health]
+patch=1,EE,2023BB1C,extended,3C0142C8
+[Infinite Health]
+patch=1,EE,2023BB24,extended,AC410048
+[Max Infinite Items (All Carried Items)]
+patch=1,EE,202D3AE4,extended,24070063
+[Max Infinite Items (All Carried Items)]
+patch=1,EE,202D3AF4,extended,A087001A
+[Unlock Tesshu]
+patch=1,EE,21872DE8,extended,000000FF
+[Unlock Through The Portal]
+patch=1,EE,01872F59,extended,00000000
+[>>> Item Selection Screen Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Money]
+patch=1,EE,D067177C,extended,0000FFFF
+[Infinite Money]
+patch=1,EE,20671774,extended,0000270F
+[Infinite Items Remaining]
+patch=1,EE,D067177C,extended,0000000F
+[Infinite Items Remaining]
+patch=1,EE,2067177C,extended,00000063
+[Item Quantity Doesnt Decrease]
+patch=1,EE,202DB308,extended,00000000
+[Press {SELECT} For Max Items Equipped Slot 1]
+patch=1,EE,D1870182,extended,0000FFFE
+[Press {SELECT} For Max Items Equipped Slot 1]
+patch=1,EE,018724DE,extended,00000063
+[Press {SELECT} For Max Items Equipped Slot 2]
+patch=1,EE,D1870182,extended,0000FFFE
+[Press {SELECT} For Max Items Equipped Slot 2]
+patch=1,EE,018724E2,extended,00000063
+[Press {SELECT} For Max Items Equipped Slot 3]
+patch=1,EE,D1870182,extended,0000FFFE
+[Press {SELECT} For Max Items Equipped Slot 3]
+patch=1,EE,018724E6,extended,00000063
+[Press {SELECT} For Max Items Equipped Slot 4]
+patch=1,EE,D1870182,extended,0000FFFE
+[Press {SELECT} For Max Items Equipped Slot 4]
+patch=1,EE,018724EA,extended,00000063
+[Press {SELECT} For Max Items Equipped Slot 5]
+patch=1,EE,D1870182,extended,0000FFFE
+[Press {SELECT} For Max Items Equipped Slot 5]
+patch=1,EE,018724EE,extended,00000063
+[Press {SELECT} For Max Items Equipped Slot 6]
+patch=1,EE,D1870182,extended,0000FFFE
+[Press {SELECT} For Max Items Equipped Slot 6]
+patch=1,EE,018724F2,extended,00000063
+[>>> Ability Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Rikimaru Ability Codes]
+[Shoulder Thrust]
+patch=1,EE,01872EC4,extended,00000001
+[Ninjutsu Block]
+patch=1,EE,01872ED4,extended,00000001
+[Ninja Vision]
+patch=1,EE,01872EE4,extended,00000001
+[Grappling Hook Combo]
+patch=1,EE,01872EF4,extended,00000001
+[Clink To Ceiling]
+patch=1,EE,01872F04,extended,00000001
+[Feign Death]
+patch=1,EE,01872F14,extended,00000001
+[Wall Kick]
+patch=1,EE,01872F24,extended,00000001
+[Ninja Mind Control]
+patch=1,EE,01872F34,extended,00000001
+[Wrath Of Heaven]
+patch=1,EE,01872F44,extended,00000001
+[>>> Have Ayame Ability Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Somersault Kick]
+patch=1,EE,01872F74,extended,00000001
+[Ninjutsu Block]
+patch=1,EE,01872F84,extended,00000001
+[Ninja Vision]
+patch=1,EE,01872F94,extended,00000001
+[Grappling Hook Combo]
+patch=1,EE,01872FA4,extended,00000001
+[Clink To Ceiling]
+patch=1,EE,01872FB4,extended,00000001
+[Feign Death]
+patch=1,EE,01872FC4,extended,00000001
+[Wall Kick]
+patch=1,EE,01872FD4,extended,00000001
+[Ninja Mind Control]
+patch=1,EE,01872FE4,extended,00000001
+[Wrath Of Heaven]
+patch=1,EE,01872FF4,extended,00000001
+[>>> Have Rikimaru Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1-Layout 1]
+patch=1,EE,01872EB9,extended,00000005
+[Mission 1-Layout 2]
+patch=1,EE,01872EBA,extended,00000005
+[Mission 1-Layout 3]
+patch=1,EE,01872EBB,extended,00000005
+[Mission 2-Layout 1]
+patch=1,EE,01872EC9,extended,00000005
+[Mission 2-Layout 2]
+patch=1,EE,01872ECA,extended,00000005
+[Mission 2-Layout 3]
+patch=1,EE,01872ECB,extended,00000005
+[Mission 3-Layout 1]
+patch=1,EE,01872ED9,extended,00000005
+[Mission 3-Layout 2]
+patch=1,EE,01872EDA,extended,00000005
+[Mission 3-Layout 3]
+patch=1,EE,01872EDB,extended,00000005
+[Mission 4-Layout 1]
+patch=1,EE,01872EE9,extended,00000005
+[Mission 4-Layout 2]
+patch=1,EE,01872EEA,extended,00000005
+[Mission 4-Layout 3]
+patch=1,EE,01872EEB,extended,00000005
+[Mission 5-Layout 1]
+patch=1,EE,01872EF9,extended,00000005
+[Mission 5-Layout 2]
+patch=1,EE,01872EFA,extended,00000005
+[Mission 5-Layout 3]
+patch=1,EE,01872EFB,extended,00000005
+[Mission 6-Layout 1]
+patch=1,EE,01872F09,extended,00000005
+[Mission 6-Layout 2]
+patch=1,EE,01872F0A,extended,00000005
+[Mission 6-Layout 3]
+patch=1,EE,01872F0B,extended,00000005
+[Mission 7-Layout 1]
+patch=1,EE,01872F19,extended,00000005
+[Mission 7-Layout 2]
+patch=1,EE,01872F1A,extended,00000005
+[Mission 7-Layout 3]
+patch=1,EE,01872F1B,extended,00000005
+[Mission 8-Layout 1]
+patch=1,EE,01872F29,extended,00000005
+[Mission 8-Layout 2]
+patch=1,EE,01872F2A,extended,00000005
+[Mission 8-Layout 3]
+patch=1,EE,01872F2B,extended,00000005
+[Mission 9-Layout 1]
+patch=1,EE,01872F39,extended,00000005
+[Mission 9-Layout 2]
+patch=1,EE,01872F3A,extended,00000005
+[Mission 9-Layout 3]
+patch=1,EE,01872F3B,extended,00000005
+[Mission 10-Layout 1]
+patch=1,EE,01872F49,extended,00000005
+[Mission 10-Layout 2]
+patch=1,EE,01872F4A,extended,00000005
+[Mission 10-Layout 3]
+patch=1,EE,01872F4B,extended,00000005
+[>>> Have Ayame Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1-Layout 1]
+patch=1,EE,01872F69,extended,00000005
+[Mission 1-Layout 2]
+patch=1,EE,01872F6A,extended,00000005
+[Mission 1-Layout 3]
+patch=1,EE,01872F6B,extended,00000005
+[Mission 2-Layout 1]
+patch=1,EE,01872F79,extended,00000005
+[Mission 2-Layout 2]
+patch=1,EE,01872F7A,extended,00000005
+[Mission 2-Layout 3]
+patch=1,EE,01872F7B,extended,00000005
+[Mission 3-Layout 1]
+patch=1,EE,01872F89,extended,00000005
+[Mission 3-Layout 2]
+patch=1,EE,01872F8A,extended,00000005
+[Mission 3-Layout 3]
+patch=1,EE,01872F8B,extended,00000005
+[Mission 4-Layout 1]
+patch=1,EE,01872F99,extended,00000005
+[Mission 4-Layout 2]
+patch=1,EE,01872F9A,extended,00000005
+[Mission 4-Layout 3]
+patch=1,EE,01872F9B,extended,00000005
+[Mission 5-Layout 1]
+patch=1,EE,01872FA9,extended,00000005
+[Mission 5-Layout 2]
+patch=1,EE,01872FAA,extended,00000005
+[Mission 5-Layout 3]
+patch=1,EE,01872FAB,extended,00000005
+[Mission 6-Layout 1]
+patch=1,EE,01872FB9,extended,00000005
+[Mission 6-Layout 2]
+patch=1,EE,01872FBA,extended,00000005
+[Mission 6-Layout 3]
+patch=1,EE,01872FBB,extended,00000005
+[Mission 7-Layout 1]
+patch=1,EE,01872FC9,extended,00000005
+[Mission 7-Layout 2]
+patch=1,EE,01872FCA,extended,00000005
+[Mission 7-Layout 3]
+patch=1,EE,01872FCB,extended,00000005
+[Mission 8-Layout 1]
+patch=1,EE,01872FD9,extended,00000005
+[Mission 8-Layout 2]
+patch=1,EE,01872FDA,extended,00000005
+[Mission 8-Layout 3]
+patch=1,EE,01872FDB,extended,00000005
+[Mission 9-Layout 1]
+patch=1,EE,01872FE9,extended,00000005
+[Mission 9-Layout 2]
+patch=1,EE,01872FEA,extended,00000005
+[Mission 9-Layout 3]
+patch=1,EE,01872FEB,extended,00000005
+[Mission 10-Layout 1]
+patch=1,EE,01872FF9,extended,00000005
+[Mission 10-Layout 2]
+patch=1,EE,01872FFA,extended,00000005
+[Mission 10-Layout 3]
+patch=1,EE,01872FFB,extended,00000005
+[>>> Have Tesshu Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1-Layout 1]
+patch=1,EE,01873019,extended,00000005
+[Mission 1-Layout 2]
+patch=1,EE,0187301A,extended,00000005
+[Mission 1-Layout 3]
+patch=1,EE,0187301B,extended,00000005
+[Mission 2-Layout 1]
+patch=1,EE,01873029,extended,00000005
+[Mission 2-Layout 2]
+patch=1,EE,0187302A,extended,00000005
+[Mission 2-Layout 3]
+patch=1,EE,0187302B,extended,00000005
+[Mission 3-Layout 1]
+patch=1,EE,01873039,extended,00000005
+[Mission 3-Layout 2]
+patch=1,EE,0187303A,extended,00000005
+[Mission 3-Layout 3]
+patch=1,EE,0187303B,extended,00000005
+[Mission 4-Layout 1]
+patch=1,EE,01873049,extended,00000005
+[Mission 4-Layout 2]
+patch=1,EE,0187304A,extended,00000005
+[Mission 4-Layout 3]
+patch=1,EE,0187304B,extended,00000005
+[Mission 5-Layout 1]
+patch=1,EE,01873059,extended,00000005
+[Mission 5-Layout 2]
+patch=1,EE,0187305A,extended,00000005
+[Mission 5-Layout 3]
+patch=1,EE,0187305B,extended,00000005
+[Mission 6-Layout 1]
+patch=1,EE,01873069,extended,00000005
+[Mission 6-Layout 2]
+patch=1,EE,0187306A,extended,00000005
+[Mission 6-Layout 3]
+patch=1,EE,0187306B,extended,00000005
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kumihimo (Tesshu Only)]
+patch=1,EE,01872534,extended,000000FF
+[Tetsubishi]
+patch=1,EE,01872538,extended,000000FF
+[Healing Poition]
+patch=1,EE,0187253C,extended,000000FF
+[Poison Antidote]
+patch=1,EE,01872540,extended,000000FF
+[Shuriken]
+patch=1,EE,01872544,extended,000000FF
+[Throwing Needle (Tesshu Only)]
+patch=1,EE,01872548,extended,000000FF
+[Blow Gun]
+patch=1,EE,0187254C,extended,000000FF
+[Caltrops]
+patch=1,EE,01872550,extended,000000FF
+[Grenade]
+patch=1,EE,01872554,extended,000000FF
+[Mine]
+patch=1,EE,01872558,extended,000000FF
+[Smoke Bomb]
+patch=1,EE,0187255C,extended,000000FF
+[Poison Rice]
+patch=1,EE,01872560,extended,000000FF
+[Colored Rice]
+patch=1,EE,01872564,extended,000000FF
+[Strength Potion]
+patch=1,EE,01872568,extended,000000FF
+[Fire Spell]
+patch=1,EE,0187256C,extended,000000FF
+[Invisibility Spell]
+patch=1,EE,01872574,extended,000000FF
+[Exploding Arror]
+patch=1,EE,01872578,extended,000000FF
+[Chameleon Spell]
+patch=1,EE,01872580,extended,000000FF
+[Ninja Armor]
+patch=1,EE,01872584,extended,000000FF
+[Ninja Rebirth]
+patch=1,EE,01872588,extended,000000FF
+[Super Shuriken]
+patch=1,EE,0187258C,extended,000000FF
+[Cog Bone]
+patch=1,EE,01872590,extended,000000FF
+[Magazine (Tesshu Only)]
+patch=1,EE,01872594,extended,000000FF
+[Bamboo Gun (Tesshu Only)]
+patch=1,EE,01872598,extended,000000FF
+[Super Needle (Tesshu Only)]
+patch=1,EE,0187259C,extended,000000FF
+[Disguise (Tesshu Only)]
+patch=1,EE,018725A4,extended,000000FF
+[Sticky Bomb]
+patch=1,EE,018725A8,extended,000000FF
+[Muramasa (Rikimaru Only)]
+patch=1,EE,018725BC,extended,000000FF
+[Fugaku (Rikimaru Only)]
+patch=1,EE,018725C0,extended,000000FF
+[Kasumi And Shizuku (Ayame Only)]
+patch=1,EE,018725C8,extended,000000FF
+[Cokuto (Ayame Only)]
+patch=1,EE,018725CC,extended,000000FF
+[Tiger Trap]
+patch=1,EE,018725D4,extended,000000FF
+[Fireworks]
+patch=1,EE,018725D8,extended,000000FF
+[Binding Spell]
+patch=1,EE,018725DC,extended,000000FF
+[Decoy Whistle]
+patch=1,EE,018725E0,extended,000000FF
+[Stone Of Power]
+patch=1,EE,018725E4,extended,000000FF
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kumihimo (Tesshu Only)]
+patch=1,EE,01872536,extended,00000063
+[Tetsubishi]
+patch=1,EE,0187253A,extended,00000063
+[Healing Poition]
+patch=1,EE,0187253E,extended,00000063
+[Poison Antidote]
+patch=1,EE,01872542,extended,00000063
+[Shuriken]
+patch=1,EE,01872546,extended,00000063
+[Throwing Needle (Tesshu Only)]
+patch=1,EE,0187254A,extended,00000063
+[Blow Gun]
+patch=1,EE,0187254E,extended,00000063
+[Caltrops]
+patch=1,EE,01872552,extended,00000063
+[Grenade]
+patch=1,EE,01872556,extended,00000063
+[Mine]
+patch=1,EE,0187255A,extended,00000063
+[Smoke Bomb]
+patch=1,EE,0187255E,extended,00000063
+[Poison Rice]
+patch=1,EE,01872562,extended,00000063
+[Colored Rice]
+patch=1,EE,01872566,extended,00000063
+[Strength Potion]
+patch=1,EE,0187256A,extended,00000063
+[Fire Spell]
+patch=1,EE,0187256E,extended,00000063
+[Invisibility Spell]
+patch=1,EE,01872576,extended,00000063
+[Exploding Arror]
+patch=1,EE,0187257A,extended,00000063
+[Chameleon Spell]
+patch=1,EE,01872582,extended,00000063
+[Ninja Armor]
+patch=1,EE,01872586,extended,00000063
+[Ninja Rebirth]
+patch=1,EE,0187258A,extended,00000063
+[Super Shuriken]
+patch=1,EE,0187258E,extended,00000063
+[Cog Bone]
+patch=1,EE,01872592,extended,00000063
+[Magazine (Tesshu Only)]
+patch=1,EE,01872596,extended,00000063
+[Bamboo Gun (Tesshu Only)]
+patch=1,EE,2187259A,extended,00000063
+[Super Needle (Tesshu Only)]
+patch=1,EE,0187259E,extended,00000063
+[Disguise (Tesshu Only)]
+patch=1,EE,018725A6,extended,00000063
+[Sticky Bomb]
+patch=1,EE,018725AA,extended,00000063
+[Muramasa (Rikimaru Only)]
+patch=1,EE,018725BE,extended,00000063
+[Fugaku (Rikimaru Only)]
+patch=1,EE,018725C2,extended,00000063
+[Kasumi And Shizuku (Ayame Only)]
+patch=1,EE,018725CA,extended,00000063
+[Cokuto (Ayame Only)]
+patch=1,EE,018725CE,extended,00000063
+[Tiger Trap]
+patch=1,EE,018725D6,extended,00000063
+[Fireworks]
+patch=1,EE,018725DA,extended,00000063
+[Binding Spell]
+patch=1,EE,018725DE,extended,00000063
+[Decoy Whistle]
+patch=1,EE,018725E2,extended,00000063
+[Stone Of Power]
+patch=1,EE,018725E6,extended,00000063
+[>>> Have Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kumihimo (Tesshu Only)]
+patch=1,EE,21872534,extended,006300FF
+[Tetsubishi]
+patch=1,EE,21872538,extended,006300FF
+[Healing Poition]
+patch=1,EE,2187253C,extended,006300FF
+[Poison Antidote]
+patch=1,EE,21872540,extended,006300FF
+[Shuriken]
+patch=1,EE,21872544,extended,006300FF
+[Throwing Needle (Tesshu Only)]
+patch=1,EE,21872548,extended,006300FF
+[Blow Gun]
+patch=1,EE,2187254C,extended,006300FF
+[Caltrops]
+patch=1,EE,21872550,extended,006300FF
+[Grenade]
+patch=1,EE,21872554,extended,006300FF
+[Mine]
+patch=1,EE,21872558,extended,006300FF
+[Smoke Bomb]
+patch=1,EE,2187255C,extended,006300FF
+[Poison Rice]
+patch=1,EE,21872560,extended,006300FF
+[Colored Rice]
+patch=1,EE,21872564,extended,006300FF
+[Strength Potion]
+patch=1,EE,21872568,extended,006300FF
+[Fire Spell]
+patch=1,EE,2187256C,extended,006300FF
+[Invisibility Spell]
+patch=1,EE,21872574,extended,006300FF
+[Exploding Arror]
+patch=1,EE,21872578,extended,006300FF
+[Chameleon Spell]
+patch=1,EE,21872580,extended,006300FF
+[Ninja Armor]
+patch=1,EE,21872584,extended,006300FF
+[Ninja Rebirth]
+patch=1,EE,21872588,extended,006300FF
+[Super Shuriken]
+patch=1,EE,2187258C,extended,006300FF
+[Cog Bone]
+patch=1,EE,21872590,extended,006300FF
+[Magazine (Tesshu Only)]
+patch=1,EE,21872594,extended,006300FF
+[Bamboo Gun (Tesshu Only)]
+patch=1,EE,21872598,extended,006300FF
+[Super Needle (Tesshu Only)]
+patch=1,EE,2187259C,extended,006300FF
+[Disguise (Tesshu Only)]
+patch=1,EE,218725A4,extended,006300FF
+[Sticky Bomb]
+patch=1,EE,218725A8,extended,006300FF
+[Muramasa (Rikimaru Only)]
+patch=1,EE,218725BC,extended,006300FF
+[Fugaku (Rikimaru Only)]
+patch=1,EE,218725C0,extended,006300FF
+[Kasumi And Shizuku (Ayame Only)]
+patch=1,EE,218725C8,extended,006300FF
+[Cokuto (Ayame Only)]
+patch=1,EE,218725CC,extended,006300FF
+[Tiger Trap]
+patch=1,EE,218725D4,extended,006300FF
+[Fireworks]
+patch=1,EE,218725D8,extended,006300FF
+[Binding Spell]
+patch=1,EE,218725DC,extended,006300FF
+[Decoy Whistle]
+patch=1,EE,218725E0,extended,006300FF
+[Stone Of Power]
+patch=1,EE,218725E4,extended,006300FF
+

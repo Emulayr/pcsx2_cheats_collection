@@ -1,0 +1,236 @@
+gametitle=Breath Of Fire V-Dragon Quarter
+[Enable Code (Must Be On)]
+patch=1,EE,902303A0,extended,0C080202
+[Infinite Zenny]
+patch=1,EE,107657A8,extended,0000FFFF
+[Max Zenny]
+patch=1,EE,207657A8,extended,0098967F
+[Infinite Party XP]
+patch=1,EE,107657B0,extended,0000FFFF
+[Max Party XP]
+patch=1,EE,207657B0,extended,0098967F
+[Infinite Item Usage]
+patch=1,EE,201BC680,extended,00000000
+[Extra Items]
+patch=1,EE,201BC67C,extended,24420001
+[D-Counter Always 0.00%]
+patch=1,EE,207657AC,extended,00000000
+[D-Counter Always 99.99%]
+patch=1,EE,207657AC,extended,0000270F
+[D-Counter Never Goes Above 99.00%]
+patch=1,EE,D07657AC,extended,003026AC
+[D-Counter Never Goes Above 99.00%]
+patch=1,EE,207657AC,extended,00002648
+[>>> Ryu Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite HP]
+patch=1,EE,20765358,extended,000003E7
+[Infinite AP]
+patch=1,EE,1076535C,extended,000003E7
+[Level 99]
+patch=1,EE,1073535E,extended,00000063
+[Max HP]
+patch=1,EE,207653A4,extended,000003E7
+[Max AP]
+patch=1,EE,107653AA,extended,000003E7
+[Max Overall ATK]
+patch=1,EE,107653AC,extended,000003E7
+[Max Overall DEF]
+patch=1,EE,107653AE,extended,000003E7
+[Max Overall SPD]
+patch=1,EE,107653B0,extended,000003E7
+[Max Overall MAG]
+patch=1,EE,107653B2,extended,000003E7
+[Max Overall MOV]
+patch=1,EE,107653B4,extended,000003E7
+[Max ATK]
+patch=1,EE,107653F4,extended,000003E7
+[Max DEF]
+patch=1,EE,107653F6,extended,000003E7
+[Max SPD]
+patch=1,EE,107653F8,extended,000003E7
+[Max MAG]
+patch=1,EE,107653FA,extended,000003E7
+[Max MOV]
+patch=1,EE,107653FC,extended,000003E7
+[>>> Nina Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite HP]
+patch=1,EE,20765470,extended,000003E7
+[Infinite AP]
+patch=1,EE,10765474,extended,000003E7
+[Level 99]
+patch=1,EE,10735476,extended,00000063
+[Max HP]
+patch=1,EE,207654BC,extended,000003E7
+[Max AP]
+patch=1,EE,107654C2,extended,000003E7
+[Max Overall ATK]
+patch=1,EE,107654C4,extended,000003E7
+[Max Overall DEF]
+patch=1,EE,107654C6,extended,000003E7
+[Max Overall SPD]
+patch=1,EE,107654C8,extended,000003E7
+[Max Overall MAG]
+patch=1,EE,107654CA,extended,000003E7
+[Max Overall MOV]
+patch=1,EE,107654CC,extended,000003E7
+[Max ATK]
+patch=1,EE,1076550C,extended,000003E7
+[Max DEF]
+patch=1,EE,1076550E,extended,000003E7
+[Max SPD]
+patch=1,EE,10765510,extended,000003E7
+[Max MAG]
+patch=1,EE,10765512,extended,000003E7
+[Max MOV]
+patch=1,EE,10765514,extended,000003E7
+[>>> Lin Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite HP]
+patch=1,EE,20765588,extended,000003E7
+[Infinite AP]
+patch=1,EE,1076558C,extended,000003E7
+[Level 99]
+patch=1,EE,1073558E,extended,00000063
+[Max HP]
+patch=1,EE,207655D4,extended,000003E7
+[Max AP]
+patch=1,EE,107655DA,extended,000003E7
+[Max Overall ATK]
+patch=1,EE,107655DC,extended,000003E7
+[Max Overall DEF]
+patch=1,EE,107655DE,extended,000003E7
+[Max Overall SPD]
+patch=1,EE,107655E0,extended,000003E7
+[Max Overall MAG]
+patch=1,EE,107655E2,extended,000003E7
+[Max Overall MOV]
+patch=1,EE,107655E4,extended,000003E7
+[Max ATK]
+patch=1,EE,10765624,extended,000003E7
+[Max DEF]
+patch=1,EE,10765626,extended,000003E7
+[Max SPD]
+patch=1,EE,10765628,extended,000003E7
+[Max MAG]
+patch=1,EE,1076562A,extended,000003E7
+[Max MOV]
+patch=1,EE,1076562C,extended,000003E7
+[>>> Bosch Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite HP]
+patch=1,EE,207656A0,extended,000003E7
+[Infinite AP]
+patch=1,EE,107656A4,extended,000003E7
+[Level 99]
+patch=1,EE,107356A6,extended,00000063
+[Max HP]
+patch=1,EE,207656EC,extended,000003E7
+[Max AP]
+patch=1,EE,107656F2,extended,000003E7
+[Max Overall ATK]
+patch=1,EE,107656F4,extended,000003E7
+[Max Overall DEF]
+patch=1,EE,107656F6,extended,000003E7
+[Max Overall SPD]
+patch=1,EE,107656F8,extended,000003E7
+[Max Overall MAG]
+patch=1,EE,107656FA,extended,000003E7
+[Max Overall MOV]
+patch=1,EE,107656FC,extended,000003E7
+[Max ATK]
+patch=1,EE,1076573C,extended,000003E7
+[Max DEF]
+patch=1,EE,1076573E,extended,000003E7
+[Max SPD]
+patch=1,EE,10765740,extended,000003E7
+[Max MAG]
+patch=1,EE,10765742,extended,000003E7
+[Max MOV]
+patch=1,EE,10765744,extended,000003E7
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,1076582C,extended,00000009
+[Slot 2]
+patch=1,EE,10765830,extended,00000009
+[Slot 3]
+patch=1,EE,10765834,extended,00000009
+[Slot 4]
+patch=1,EE,10765838,extended,00000009
+[Slot 5]
+patch=1,EE,1076583C,extended,00000009
+[Slot 6]
+patch=1,EE,10765840,extended,00000009
+[Slot 7]
+patch=1,EE,10765844,extended,00000009
+[Slot 8]
+patch=1,EE,10765848,extended,00000009
+[Slot 9]
+patch=1,EE,1076584C,extended,00000009
+[Slot 10]
+patch=1,EE,10765850,extended,00000009
+[Slot 11]
+patch=1,EE,10765854,extended,00000009
+[Slot 12]
+patch=1,EE,10765858,extended,00000009
+[Slot 13]
+patch=1,EE,1076585C,extended,00000009
+[Slot 14]
+patch=1,EE,10765860,extended,00000009
+[Slot 15]
+patch=1,EE,10765864,extended,00000009
+[Slot 16]
+patch=1,EE,10765868,extended,00000009
+[Slot 17]
+patch=1,EE,1076586C,extended,00000009
+[Slot 18]
+patch=1,EE,10765870,extended,00000009
+[Slot 19]
+patch=1,EE,10765874,extended,00000009
+[Slot 20]
+patch=1,EE,10765878,extended,00000009
+[Slot 21]
+patch=1,EE,1076587C,extended,00000009
+[Slot 22]
+patch=1,EE,10765880,extended,00000009
+[Slot 23]
+patch=1,EE,10765884,extended,00000009
+[Slot 24]
+patch=1,EE,10765888,extended,00000009
+[Slot 25]
+patch=1,EE,1076588C,extended,00000009
+[Slot 26]
+patch=1,EE,10765890,extended,00000009
+[Slot 27]
+patch=1,EE,10765894,extended,00000009
+[Slot 28]
+patch=1,EE,10765898,extended,00000009
+[Slot 29]
+patch=1,EE,1076589C,extended,00000009
+[Slot 30]
+patch=1,EE,107658A0,extended,00000009
+[>>> Max Trap Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,107657C6,extended,00000063
+[Slot 2]
+patch=1,EE,107657C8,extended,00000063
+[Slot 3]
+patch=1,EE,107657CA,extended,00000063
+[Slot 4]
+patch=1,EE,107657CC,extended,00000063
+[Slot 5]
+patch=1,EE,107657CE,extended,00000063
+[Slot 6]
+patch=1,EE,107657D0,extended,00000063
+[Slot 7]
+patch=1,EE,107657D2,extended,00000063
+[Slot 8]
+patch=1,EE,107657D4,extended,00000063
+[Slot 9]
+patch=1,EE,107657D6,extended,00000063
+[Slot 10]
+patch=1,EE,107657D8,extended,00000063
+

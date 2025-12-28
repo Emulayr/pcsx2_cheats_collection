@@ -1,0 +1,102 @@
+gametitle=[SLUS-20862] Blood Rayne 2
+[Enable Code (Must Be On)]
+patch=1,EE,9044216C,extended,0C116C5B
+[Infinite Health]
+patch=1,EE,201587A8,extended,00000000
+[Infinite Rage]
+patch=1,EE,20274CC8,extended,C42D8854
+[Infinite Ammo]
+patch=1,EE,2042FD94,extended,00000000
+[Unlock Everything]
+cheat0_code = "2055FA0C FFFFFFFF
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[God Mode/Unlimited Health On]
+patch=1,EE,2048DCB8,extended,00000001
+[God Mode/Unlimited Health Off]
+patch=1,EE,2048DCB8,extended,00000000
+[Enemies Frozen On]
+patch=1,EE,2048DCC0,extended,00000001
+[Enemies Frozen Off]
+patch=1,EE,2048DCC0,extended,00000000
+[Gratuitous Dismemberment On]
+patch=1,EE,2048DCCC,extended,00000001
+[Gratuitous Dismemberment Off]
+patch=1,EE,2048DCCC,extended,00000000
+[Show Character Collision On]
+patch=1,EE,2048DCE8,extended,00000001
+[Show Character Collision Off]
+patch=1,EE,2048DCE8,extended,00000000
+[Show Triggers On]
+patch=1,EE,2048DCF4,extended,00000001
+[Show Triggers Off]
+patch=1,EE,2048DCF4,extended,00000000
+[Show Safe Area On]
+patch=1,EE,2048DCF8,extended,00000001
+[Show Safe Area Off]
+patch=1,EE,2048DCF8,extended,00000000
+[Juggy Mode On]
+patch=1,EE,2048DCFC,extended,00000001
+[Juggy Mode Off]
+patch=1,EE,2048DCFC,extended,00000000
+[Unlimited Ammo On]
+patch=1,EE,2048DD00,extended,00000001
+[Unlimited Ammo Off]
+patch=1,EE,2048DD00,extended,00000000
+[Unlimited Rage On]
+patch=1,EE,2048DD04,extended,00000001
+[Unlimited Rage Off]
+patch=1,EE,2048DD04,extended,00000000
+[Debug ODE On]
+patch=1,EE,2048DD0C,extended,00000001
+[Debug ODE Off]
+patch=1,EE,2048DD0C,extended,00000000
+[Use State Light On]
+patch=1,EE,2048DD10,extended,00000001
+[Use State Light Off]
+patch=1,EE,2048DD10,extended,00000000
+[Display Model On]
+patch=1,EE,2048DD14,extended,00000001
+[Display Model Off]
+patch=1,EE,2048DD14,extended,00000000
+[Display BV On]
+patch=1,EE,2048DD18,extended,00000001
+[Display BV Off]
+patch=1,EE,2048DD18,extended,00000000
+[Display Box On]
+patch=1,EE,2048DD1C,extended,00000001
+[Display Box Off]
+patch=1,EE,2048DD1C,extended,00000000
+[Soft Body Bones On]
+patch=1,EE,2048DD20,extended,00000001
+[Soft Body Bones Off]
+patch=1,EE,2048DD20,extended,00000000
+[Chunkables On]
+patch=1,EE,2048DD28,extended,00000001
+[Chunkables Off]
+patch=1,EE,2048DD28,extended,00000000
+[Render On]
+patch=1,EE,2048DD2C,extended,00000001
+[Render Off]
+patch=1,EE,2048DD2C,extended,00000000
+[Control On]
+patch=1,EE,2048DD30,extended,00000001
+[Control Off]
+patch=1,EE,2048DD30,extended,00000000
+[Tested Tris On]
+patch=1,EE,2048DD34,extended,00000001
+[Tested Tris Off]
+patch=1,EE,2048DD34,extended,00000000
+[Enable XRay Rendering On]
+patch=1,EE,204DC028,extended,00000001
+[Enable XRay Rendering Off]
+patch=1,EE,204DC028,extended,00000000
+[Bumb Map Set Yes]
+patch=1,EE,205605A0,extended,00000001
+[Bumb Map Set No]
+patch=1,EE,205605A0,extended,00000000
+[Motion Debug On]
+patch=1,EE,20560E70,extended,00000001
+[Motion Debug Off]
+patch=1,EE,20560E70,extended,00000000
+

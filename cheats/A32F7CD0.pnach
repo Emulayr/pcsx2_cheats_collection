@@ -1,0 +1,310 @@
+gametitle=Ace Combat 4-Shattered Skies
+[Enable Code (Must Be On)]
+patch=1,EE,9026C6BC,extended,0C0A462D
+[Have All Planes]
+patch=1,EE,202A0320,extended,FFFFFFFF
+[Have All Planes]
+patch=1,EE,102A0324,extended,000FF3FF
+[Have More Paint Schemes]
+patch=1,EE,202A0328,extended,FFFFFFFF
+[Have More Paint Schemes]
+patch=1,EE,202A032C,extended,FFFFFFFF
+[Have More Paint Schemes]
+patch=1,EE,202A0330,extended,FFFFFFFF
+[Have More Paint Schemes]
+cheat0_code = "202A0334 FFFFFFFF
+[Have All Weapons]
+patch=1,EE,202A0340,extended,FFFFFFFF
+[Have All Weapons]
+patch=1,EE,202A0344,extended,FFFFFFFF
+[Have All Weapons]
+cheat0_code = "202A0348 FFFFFFFF
+[Infinite Gun Ammo]
+patch=1,EE,201638FC,extended,2402270F
+[Infinite Gun Ammo]
+patch=1,EE,20163900,extended,A6820158
+[Infinite Missiles]
+patch=1,EE,201639FC,extended,240200FF
+[Infinite Missiles]
+patch=1,EE,20163A00,extended,A282015A
+[Infinite Specials]
+patch=1,EE,200C0220,extended,24060063
+[Infinite Specials]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Specials]
+patch=1,EE,200C0228,extended,A286015B
+[Infinite Specials]
+patch=1,EE,20163BC4,extended,0C030088
+[Infinite Health]
+patch=1,EE,200C0230,extended,2403005F
+[Infinite Health]
+patch=1,EE,200C0234,extended,08047A1E
+[Infinite Health]
+patch=1,EE,200C0238,extended,A643005E
+[Infinite Health]
+patch=1,EE,20163D08,extended,0C03008C
+[Max Score]
+patch=1,EE,200C0240,extended,2406270F
+[Max Score]
+patch=1,EE,200C0244,extended,03E00008
+[Max Score]
+patch=1,EE,200C0248,extended,A6E6005C
+[Max Score]
+patch=1,EE,20162A60,extended,0C030090
+[Infinite Credits]
+patch=1,EE,102A0D30,extended,0000FFFF
+[Max Credits]
+patch=1,EE,202A0D30,extended,05F5E0FF
+[>>> F-5E Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1CE8,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1CEA,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1CEE,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1CF2,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1CF6,extended,00000063
+[>>> F-4E Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1CF8,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1CFA,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1CFE,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D02,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D06,extended,00000063
+[>>> F-16C Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D08,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D0A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D0E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D12,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D16,extended,00000063
+[>>> F-14A Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D18,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D1A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D1E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D22,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D26,extended,00000063
+[>>> A-10A Attacker Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D28,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D2A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D2E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D32,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D36,extended,00000063
+[>>> MIR-2000 Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D38,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D3A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D3E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D42,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D46,extended,00000063
+[>>> TND-1D5 Attacker Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D48,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D4A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D4E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D52,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D56,extended,00000063
+[>>> F/A-18C Multirole Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D58,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D5A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D5E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D62,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D66,extended,00000063
+[>>> F-15C Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D68,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D6A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D6E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D72,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D76,extended,00000063
+[>>> MIG-29A Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D78,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D7A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D7E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D82,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D86,extended,00000063
+[>>> F-15E Multirole Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D88,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D8A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D8E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1D92,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1D96,extended,00000063
+[>>> F-117A Attacker Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1D98,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1D9A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1D9E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1DA2,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1DA6,extended,00000063
+[>>> EF-2000 Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1DA8,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1DAA,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1DAE,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1DB2,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1DB6,extended,00000063
+[>>> R-M01 Multirole Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1DB8,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1DBA,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1DBE,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1DC2,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1DC6,extended,00000063
+[>>> F-2A Attacker Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1DC8,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1DCA,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1DCE,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1DD2,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1DD6,extended,00000063
+[>>> SU-35 Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1DD8,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1DDA,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1DDE,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1DE2,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1DE6,extended,00000063
+[>>> F-22A Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1DE8,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1DEA,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1DEE,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1DF2,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1DF6,extended,00000063
+[>>> SU-37 Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1DF8,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1DFA,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1DFE,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1E02,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1E06,extended,00000063
+[>>> S-37A Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1E08,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1E0A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1E0E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1E12,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1E16,extended,00000063
+[>>> F-15 Active Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1E18,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1E1A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1E1E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1E22,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1E26,extended,00000063
+[>>> X-02 Multirole Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Gun Ammo]
+patch=1,EE,102A1E28,extended,0000270F
+[Max Missiles]
+patch=1,EE,102A1E2A,extended,000000FF
+[Max Specials 1]
+patch=1,EE,102A1E2E,extended,00000063
+[Max Specials 2]
+patch=1,EE,102A1E32,extended,00000063
+[Max Specials 3]
+patch=1,EE,102A1E36,extended,00000063
+

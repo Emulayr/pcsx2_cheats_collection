@@ -1,0 +1,236 @@
+gametitle=Tony Hawk's Pro Skater 3 (Version 1.0)
+[Enable Code (Must Be On)]
+patch=1,EE,90248F14,extended,0C09C8CA
+[Have All Characters]
+patch=1,EE,10AEA1C0,extended,0000FFFF
+[Have All Cheats/Movies]
+patch=1,EE,10AEA1C2,extended,0000FFFF
+[Have All Cheats/Movies]
+patch=1,EE,20AEA1C4,extended,FFFFFFFF
+[Have All Cheats/Movies]
+patch=1,EE,10AEA1C8,extended,0000FFFF
+[Infinite Time]
+patch=1,EE,20CC4490,extended,00000120
+[Infinite Time]
+patch=1,EE,20CC4498,extended,00000120
+[>>> Tony Hawk Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,1050198C,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10884958,extended,00000032
+[Max All Stats]
+patch=1,EE,40884968,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Steve Caballero Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,10501994,extended,000003FF
+[Max Stat Points]
+patch=1,EE,108855E8,extended,00000032
+[Max All Stats]
+patch=1,EE,408855F8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Kareem Campbell Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,1050199C,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10886118,extended,00000032
+[Max All Stats]
+patch=1,EE,40886128,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Rune Glifberg Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019A4,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10886C48,extended,00000032
+[Max All Stats]
+patch=1,EE,40886C58,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Eric Koston Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019AC,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10887778,extended,00000032
+[Max All Stats]
+patch=1,EE,40887788,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Bucky Lasek Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019B4,extended,000003FF
+[Max Stat Points]
+patch=1,EE,108882A8,extended,00000032
+[Max All Stats]
+patch=1,EE,408882B8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Bam Margera Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019BC,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10888DD8,extended,00000032
+[Max All Stats]
+patch=1,EE,40888DE8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Rodney Mullen Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019C4,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10889908,extended,00000032
+[Max All Stats]
+patch=1,EE,40889918,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Chad Muska Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019CC,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088A468,extended,00000032
+[Max All Stats]
+patch=1,EE,4088A478,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Andrew Reynolds Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019D4,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088AF78,extended,00000032
+[Max All Stats]
+patch=1,EE,4088AF88,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Geoff Rowley Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019DC,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088BAA8,extended,00000032
+[Max All Stats]
+patch=1,EE,4088BAB8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Elissa Steamer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019E4,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088C5D8,extended,00000032
+[Max All Stats]
+patch=1,EE,4088C5E8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Jamie Thomas Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019EC,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088D108,extended,00000032
+[Max All Stats]
+patch=1,EE,4088D118,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Darth Maul Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019F4,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088DCD8,extended,00000032
+[Max All Stats]
+patch=1,EE,4088DCE8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Wolverine Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,105019FC,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088E808,extended,00000032
+[Max All Stats]
+patch=1,EE,4088E818,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Officer Dick Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,10501A04,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088F388,extended,00000032
+[Max All Stats]
+patch=1,EE,4088F398,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Private Carrera Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,10501A0C,extended,000003FF
+[Max Stat Points]
+patch=1,EE,1088FEB8,extended,00000032
+[Max All Stats]
+patch=1,EE,4088FEC8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Ollie The Magic Bum Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,10501A14,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10890A38,extended,00000032
+[Max All Stats]
+patch=1,EE,40890A48,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Kelly Slater Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,10501A1C,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10891558,extended,00000032
+[Max All Stats]
+patch=1,EE,40891568,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Demoness Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,10501A24,extended,000003FF
+[Max Stat Points]
+patch=1,EE,108921E8,extended,00000032
+[Max All Stats]
+patch=1,EE,408921F8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Neversoft Eyeball Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,10501A2C,extended,000003FF
+[Max Stat Points]
+patch=1,EE,10892D68,extended,00000032
+[Max All Stats]
+patch=1,EE,40892D78,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Custom Skater Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Boards]
+patch=1,EE,10501A34,extended,000003FF
+[Max Stat Points]
+patch=1,EE,108939C8,extended,00000032
+[Max All Stats]
+patch=1,EE,408939D8,extended,00090004
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+

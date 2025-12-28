@@ -1,0 +1,20 @@
+gametitle=Jimmy Neutron Boy Genius
+[Enable Code (Must Be On)]
+patch=1,EE,F0200008,extended,0035869F
+[Enable Code (Must Be On)]
+patch=1,EE,B0000001,extended,00000000
+[Infinite Health]
+patch=1,EE,10498340,extended,00000003
+[Infinite Lives]
+patch=1,EE,10498344,extended,00000009
+[Extra Lives]
+patch=1,EE,2024E67C,extended,24420001
+[Infinite Lives (Rocket Game)]
+patch=1,EE,203A5194,extended,00000000
+[Extra Lives (Rocket Game)]
+patch=1,EE,103A5190,extended,00000001
+[Hella Neutron Particles]
+patch=1,EE,4049856C,extended,000A0056
+[Hella Neutron Particles]
+patch=1,EE,00000063,extended,00000000
+

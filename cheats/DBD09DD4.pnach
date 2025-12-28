@@ -1,0 +1,132 @@
+gametitle=Mark Of Kri
+[Enable Code (Must Be On)]
+patch=1,EE,9036A8EC,extended,0C0E0903
+[Infinite Health]
+patch=1,EE,203DBBC8,extended,00000001
+[Idiot AI]
+patch=1,EE,201C5130,extended,03E00008
+[Idiot AI]
+patch=1,EE,201C5134,extended,00000000
+[Infinite Arrows]
+patch=1,EE,20183C80,extended,00000000
+[Extra Arrows]
+patch=1,EE,10183C7C,extended,00000001
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+patch=1,EE,E002FBFE,extended,01F0E946
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+patch=1,EE,20192F88,extended,03E00008
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+patch=1,EE,20192F8C,extended,00000000
+[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls]
+patch=1,EE,E002FEFE,extended,01F0E946
+[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls]
+patch=1,EE,20192F88,extended,27BDFFC0
+[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls]
+patch=1,EE,20192F8C,extended,FFB20020
+[Infinite Save Scrolls]
+patch=1,EE,20288E20,extended,24020004
+[Infinite Save Scrolls]
+patch=1,EE,20288E28,extended,A0431D40
+[Disable Weapon Wall Collisions]
+patch=1,EE,2018AE70,extended,03E00008
+[Disable Weapon Wall Collisions]
+patch=1,EE,2018AE74,extended,00000000
+[Disable Wall Collisions]
+patch=1,EE,2018B6C0,extended,03E00008
+[Disable Wall Collisions]
+patch=1,EE,2018B6C4,extended,00000000
+[AI Can�t See You]
+patch=1,EE,20218F28,extended,03E00008
+[AI Can�t See You]
+patch=1,EE,20218F2C,extended,00000000
+[AI Can�t Sense You]
+patch=1,EE,20218FC0,extended,03E00008
+[AI Can�t Sense You]
+patch=1,EE,20218FC4,extended,00000000
+[AI Can�t Hear You]
+patch=1,EE,20219058,extended,03E00008
+[AI Can�t Hear You]
+patch=1,EE,2021905C,extended,00000000
+[Enemies Can�t Block Your Attacks]
+patch=1,EE,201BBD80,extended,03E00008
+[Enemies Can�t Block Your Attacks]
+patch=1,EE,201BBD84,extended,00000000
+[AI Can�t Blow Horns]
+patch=1,EE,201BF7A8,extended,03E00008
+[AI Can�t Blow Horns]
+patch=1,EE,201BF7AC,extended,00000000
+[AI Can�t Blow Big Horns]
+patch=1,EE,201BF580,extended,03E00008
+[AI Can�t Blow Big Horns]
+patch=1,EE,201BF584,extended,00000000
+[AI Can�t Shoot Arrows]
+patch=1,EE,201BB5C8,extended,03E00008
+[AI Can�t Shoot Arrows]
+patch=1,EE,201BB5CC,extended,00000000
+[AI Can�t Steal Weapons]
+patch=1,EE,201D06B0,extended,03E00008
+[AI Can�t Steal Weapons]
+patch=1,EE,201D06B4,extended,00000000
+[AI Can�t Defend Against Counter/Throw]
+patch=1,EE,201BAD48,extended,03E00008
+[AI Can�t Defend Against Counter/Throw]
+patch=1,EE,201BAD4C,extended,00000000
+[AI No Alert Troops]
+patch=1,EE,201CB348,extended,03E00008
+[AI No Alert Troops]
+patch=1,EE,201CB34C,extended,00000000
+[AI No Alert Groups]
+patch=1,EE,201D1C48,extended,03E00008
+[AI No Alert Groups]
+patch=1,EE,201D1C4C,extended,00000000
+[AI No Alert Patrols]
+patch=1,EE,201C0EE0,extended,03E00008
+[AI No Alert Patrols]
+patch=1,EE,201C0EE4,extended,00000000
+[AI No Agitated Alert]
+patch=1,EE,201C2148,extended,03E00008
+[AI No Agitated Alert]
+patch=1,EE,201C214C,extended,00000000
+[AI No Cautious Alert]
+patch=1,EE,201C17A0,extended,03E00008
+[AI No Cautious Alert]
+patch=1,EE,201C17A4,extended,00000000
+[Armor Of Enemies Disabled]
+patch=1,EE,201B4F40,extended,03E00008
+[Armor Of Enemies Disabled]
+patch=1,EE,201B4F44,extended,00000000
+[Birds Don�t Runaway]
+patch=1,EE,201F3680,extended,03E00008
+[Birds Don�t Runaway]
+patch=1,EE,201F3684,extended,00000000
+[Birds Don�t Take Off]
+patch=1,EE,201F29C8,extended,03E00008
+[Birds Don�t Take Off]
+patch=1,EE,201F29CC,extended,00000000
+[AI Can�t Update Visibility Of Player]
+patch=1,EE,201B9C28,extended,03E00008
+[AI Can�t Update Visibility Of Player]
+patch=1,EE,201B9C2C,extended,00000000
+[AI Doesn�t Attack You]
+patch=1,EE,20197B58,extended,03E00008
+[AI Doesn�t Attack You]
+patch=1,EE,20197B5C,extended,00000000
+[Show Excite Info]
+patch=1,EE,203DBC40,extended,00000001
+[Show Debug Env Collision Wire Frame Info]
+patch=1,EE,203DBAE0,extended,00000001
+[Skip Pre-Level Movie]
+patch=1,EE,20434FD4,extended,00000001
+[>>> Have Baumusu's Challenge Complete Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Challenge 1]
+patch=1,EE,203D90B4,extended,00000001
+[Challenge 2]
+patch=1,EE,203D90C0,extended,00000001
+[Challenge 3]
+patch=1,EE,203D90CC,extended,00000001
+[Challenge 4]
+patch=1,EE,203D90D8,extended,00000001
+[Challenge 5]
+patch=1,EE,203D90E4,extended,00000001
+

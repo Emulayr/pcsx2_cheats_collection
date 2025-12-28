@@ -1,0 +1,12 @@
+gametitle=IHRA Drag Racing 2005
+[Enable Code (Must Be On)]
+patch=1,EE,90111FF0,extended,0C045F8A
+[Buying Vehicles Doesnt Decrease Money]
+patch=1,EE,202F58A4,extended,00000000
+[Buying Vehicles Increases Money]
+patch=1,EE,202F5898,extended,46010000
+[Buying Parts Doesnt Decrease Money]
+patch=1,EE,202FCE60,extended,00000000
+[Buying Parts Increases Money]
+patch=1,EE,202FCE5C,extended,46010000
+

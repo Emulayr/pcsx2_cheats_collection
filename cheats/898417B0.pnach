@@ -1,0 +1,32 @@
+gametitle=Commandos 2-Men Of Courage
+[Enable Code (Must Be On)]
+patch=1,EE,906267DC,extended,0C185D12
+[Infinite Health]
+patch=1,EE,200C0220,extended,8F838D28
+[Infinite Health]
+patch=1,EE,200C0224,extended,24010001
+[Infinite Health]
+patch=1,EE,200C0228,extended,54600001
+[Infinite Health]
+patch=1,EE,200C022C,extended,A0610006
+[Infinite Health]
+patch=1,EE,200C0230,extended,03E00008
+[Infinite Health]
+patch=1,EE,200C0234,extended,00000000
+[Infinite Health]
+patch=1,EE,206267F4,extended,08030088
+[Enemies Cant See You]
+patch=1,EE,200C0240,extended,8F838D28
+[Enemies Cant See You]
+patch=1,EE,200C0244,extended,24010001
+[Enemies Cant See You]
+patch=1,EE,200C0248,extended,54600001
+[Enemies Cant See You]
+patch=1,EE,200C024C,extended,A0610003
+[Enemies Cant See You]
+patch=1,EE,200C0250,extended,03E00008
+[Enemies Cant See You]
+patch=1,EE,200C0254,extended,00000000
+[Enemies Cant See You]
+patch=1,EE,206174F0,extended,08030090
+

@@ -1,0 +1,82 @@
+gametitle=[SLUS-21203] Lara Croft Tomb Raider-Legend
+[Enable Code (Must Be On)]
+patch=1,EE,903671E8,extended,0C0D21FA
+[P1 Press {SELECT} To Skip FMV]
+patch=1,EE,D03E3DDC,extended,0000FFFE
+[P1 Press {SELECT} To Skip FMV]
+patch=1,EE,20369708,extended,24020001
+[P1 Press {SELECT} To Skip FMV]
+patch=1,EE,D03E3DDC,extended,0000FFFF
+[P1 Press {SELECT} To Skip FMV]
+patch=1,EE,20369708,extended,8C620000
+[Infinite Health]
+patch=1,EE,200C0220,extended,3C0144A0
+[Infinite Health]
+patch=1,EE,200C0224,extended,080B624E
+[Infinite Health]
+patch=1,EE,200C0228,extended,AC6105E0
+[Infinite Health]
+patch=1,EE,202239F4,extended,0C030088
+[Display Cameraunit]
+patch=1,EE,2016C80C,extended,00000000
+[Always Low Game Time]
+patch=1,EE,2016D0BC,extended,FE0004B8
+[Flashlight Still On When Disabled]
+patch=1,EE,20177148,extended,00000000
+[Infinite Flash Light]
+patch=1,EE,2026889C,extended,00000000
+[Infinite Grenades]
+patch=1,EE,20268DB8,extended,00000000
+[Max Infinite Grenades]
+patch=1,EE,20268DB0,extended,24020063
+[Extra Grenades]
+patch=1,EE,10268DB0,extended,00000001
+[Infinite Flares]
+patch=1,EE,20269858,extended,00000000
+[Max Infinite Flares]
+patch=1,EE,20269854,extended,24020063
+[Extra Flares]
+patch=1,EE,10269854,extended,00000001
+[Infinite Health Packs]
+patch=1,EE,20269ADC,extended,00000000
+[Max Infinite Health Packs]
+patch=1,EE,20269AD4,extended,24020063
+[Extra Health Packs]
+patch=1,EE,10269AD4,extended,00000001
+[Explosion Fire With Normal Weapons (1-Hit Death)]
+patch=1,EE,2028CE5C,extended,00000000
+[Never Reload]
+patch=1,EE,2028CE6C,extended,00000000
+[Never Reload With Max Clip]
+patch=1,EE,2028CE68,extended,24020063
+[Infinite Ammo]
+patch=1,EE,2028DD38,extended,00000000
+[Max Infinite Ammo]
+patch=1,EE,2028DD30,extended,240203E7
+[Extra Ammo]
+patch=1,EE,2028DD30,extended,00441021
+[Infinite Air]
+patch=1,EE,202C2508,extended,00000000
+[Enable All Weapons]
+patch=1,EE,103B900E,extended,00000008
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,D03E3DDC,extended,0000BFFF
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,2046ED88,extended,42E00000
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[P1 Press {L1}+{SELECT} To Enable Wireframe Mode]
+patch=1,EE,D03E3DDC,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Enable Wireframe Mode]
+patch=1,EE,0048DC34,extended,00000001
+[P1 Press {L2}+{SELECT} To Disable Wireframe Mode]
+patch=1,EE,D03E3DDC,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Disable Wireframe Mode]
+patch=1,EE,0048DC34,extended,00000000
+[Invulnerable]
+patch=1,EE,1048DC38,extended,00000000
+[P1 Press {L1}+{L1}+{R1}+{R2}+{SELECT} To Restart level]
+patch=1,EE,D03E3DDC,extended,0000FBFB
+[P1 Press {L1}+{L1}+{R1}+{R2}+{SELECT} To Restart level]
+patch=1,EE,1048DD00,extended,00000001
+

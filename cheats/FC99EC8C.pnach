@@ -1,0 +1,320 @@
+gametitle=Simpson's Hit And Run
+[Enable Code (Must Be On)]
+patch=1,EE,90406D34,extended,0C0FBD9B
+[Have All Levels Complete]
+patch=1,EE,005E6CF0,extended,00000006
+[Have All Levels Complete]
+patch=1,EE,005E6CF4,extended,00000006
+[Infinite Coins]
+patch=1,EE,105E6CFC,extended,000003E7
+[Tiny Characters]
+patch=1,EE,10107E24,extended,00003F00
+[Large Characters]
+patch=1,EE,10107E24,extended,00004000
+[Ultra Large Characters]
+patch=1,EE,10107E24,extended,00004040
+[Press {SQUARE} To Modify Character]
+patch=1,EE,20107FD0,extended,00000000
+[Faster Vehicle Acceleration]
+patch=1,EE,10151FE0,extended,00004040
+[Stop All Timers]
+patch=1,EE,20173B5C,extended,00000000
+[Coins Worth 100]
+patch=1,EE,2018948C,extended,24420064
+[Coins Worth 50]
+patch=1,EE,2018948C,extended,24420032
+[Coins Worth 20]
+patch=1,EE,2018948C,extended,24420014
+[Infinite Coin Usage]
+patch=1,EE,201894BC,extended,00000000
+[Infinite Coin Usage]
+patch=1,EE,201894C0,extended,00000000
+[Using Coins Increases Coins]
+patch=1,EE,201894B4,extended,00461021
+[Display Vehicle Speed]
+patch=1,EE,201D43EC,extended,00000000
+[Display Level Outline]
+patch=1,EE,201EE7A4,extended,00000000
+[Blurred Vision]
+patch=1,EE,2021B8A4,extended,00000000
+[Display Section Lines]
+patch=1,EE,2021BD38,extended,00000000
+[Press {L3} To Jump While In Car]
+patch=1,EE,202538B0,extended,00000000
+[Turbo Vehicle Speed]
+patch=1,EE,202801B4,extended,00000000
+[Hiting A Car Makes It Explode]
+patch=1,EE,202895C8,extended,00000000
+[Cars Takes No Damage]
+patch=1,EE,202899BC,extended,00000000
+[P1 Press {R1}+{SELECT} To Enable Drive Thru Walls]
+patch=1,EE,D0514802,extended,0000F7FE
+[P1 Press {R1}+{SELECT} To Enable Drive Thru Walls]
+patch=1,EE,102CEF8E,extended,00001000
+[P1 Press {L1}+{SELECT} To Disable Drive Thru Walls]
+patch=1,EE,D0514802,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Disable Drive Thru Walls]
+patch=1,EE,102CEF8E,extended,00001000
+[Super Jump]
+patch=1,EE,204AD530,extended,40800000
+[Ultra Jump]
+patch=1,EE,204AD530,extended,41000000
+[Super Ultra Jump]
+patch=1,EE,204AD530,extended,41800000
+[Super Running Speed]
+patch=1,EE,204AD5B4,extended,41400000
+[Ultra Running Speed]
+patch=1,EE,204AD5B4,extended,41800000
+[Ultra Running Speed]
+patch=1,EE,204AD5B4,extended,41C00000
+[Moon Gravity]
+patch=1,EE,204AD5B8,extended,C1000000
+[Super Moon Gravity]
+patch=1,EE,204AD5B8,extended,C0000000
+[Super Double Jump]
+patch=1,EE,204AD5D4,extended,40800000
+[Ultra Double Jump]
+patch=1,EE,204AD5D4,extended,41000000
+[Super Ultra Double Jump]
+patch=1,EE,204AD5D4,extended,41800000
+[Infinite Double Jumps]
+patch=1,EE,20125B98,extended,00000000
+[>>> Level 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Movie]
+patch=1,EE,005E5E0C,extended,00000001
+[Have All Wasp Cameras]
+patch=1,EE,005E5E18,extended,00000014
+[Have All Gags]
+patch=1,EE,005E5E2C,extended,0000000F
+[>>> Have Story Missions Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E5C9C,extended,00000001
+[Mission 2]
+patch=1,EE,005E5CBC,extended,00000001
+[Mission 3]
+patch=1,EE,005E5CDC,extended,00000001
+[Mission 4]
+patch=1,EE,005E5CFC,extended,00000001
+[Mission 5]
+patch=1,EE,005E5D1C,extended,00000001
+[Mission 6]
+patch=1,EE,005E5D3C,extended,00000001
+[Mission 7]
+patch=1,EE,005E5D5C,extended,00000001
+[Bonus Mission 1]
+patch=1,EE,005E5DDC,extended,00000001
+[>>> Have Street Races Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E5D7C,extended,00000001
+[Mission 2]
+patch=1,EE,005E5D9C,extended,00000001
+[Mission 3]
+patch=1,EE,005E5DBC,extended,00000001
+[>>> Level 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Movie]
+patch=1,EE,005E6078,extended,00000001
+[Have All Wasp Cameras]
+patch=1,EE,005E6084,extended,00000014
+[Have All Gags]
+patch=1,EE,005E6098,extended,0000000B
+[>>> Have Story Missions Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E5EE8,extended,00000001
+[Mission 2]
+patch=1,EE,005E5F08,extended,00000001
+[Mission 3]
+patch=1,EE,005E5F28,extended,00000001
+[Mission 4]
+patch=1,EE,005E5F48,extended,00000001
+[Mission 5]
+patch=1,EE,005E5F68,extended,00000001
+[Mission 6]
+patch=1,EE,005E5F88,extended,00000001
+[Mission 7]
+patch=1,EE,005E5FA8,extended,00000001
+[Bonus Mission 1]
+patch=1,EE,005E6048,extended,00000001
+[>>> Have Street Races Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E5FE8,extended,00000001
+[Mission 2]
+patch=1,EE,005E6008,extended,00000001
+[Mission 3]
+patch=1,EE,005E6028,extended,00000001
+[>>> Level 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Movie]
+patch=1,EE,005E62E4,extended,00000001
+[Have All Wasp Cameras]
+patch=1,EE,005E62F0,extended,00000014
+[Have All Gags]
+patch=1,EE,005E6304,extended,0000000B
+[>>> Have Story Missions Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E6154,extended,00000001
+[Mission 2]
+patch=1,EE,005E6174,extended,00000001
+[Mission 3]
+patch=1,EE,005E6194,extended,00000001
+[Mission 4]
+patch=1,EE,005E61B4,extended,00000001
+[Mission 5]
+patch=1,EE,005E61D4,extended,00000001
+[Mission 6]
+patch=1,EE,005E61F4,extended,00000001
+[Mission 7]
+patch=1,EE,005E6214,extended,00000001
+[Bonus Mission 1]
+patch=1,EE,005E62B4,extended,00000001
+[>>> Have Street Races Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E6254,extended,00000001
+[Mission 2]
+patch=1,EE,005E6274,extended,00000001
+[Mission 3]
+patch=1,EE,005E6294,extended,00000001
+[>>> Level 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Movie]
+patch=1,EE,005E6550,extended,00000001
+[Have All Wasp Cameras]
+patch=1,EE,005E655C,extended,00000014
+[Have All Gags]
+patch=1,EE,005E6570,extended,0000000F
+[>>> Have Story Missions Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E63E0,extended,00000001
+[Mission 2]
+patch=1,EE,005E6400,extended,00000001
+[Mission 3]
+patch=1,EE,005E6420,extended,00000001
+[Mission 4]
+patch=1,EE,005E6440,extended,00000001
+[Mission 5]
+patch=1,EE,005E6460,extended,00000001
+[Mission 6]
+patch=1,EE,005E6480,extended,00000001
+[Mission 7]
+patch=1,EE,005E64A0,extended,00000001
+[Bonus Mission 1]
+patch=1,EE,005E6520,extended,00000001
+[>>> Have Street Races Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E64C0,extended,00000001
+[Mission 2]
+patch=1,EE,005E64E0,extended,00000001
+[Mission 3]
+patch=1,EE,005E6500,extended,00000001
+[>>> Level 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Movie]
+patch=1,EE,005E67BC,extended,00000001
+[Have All Wasp Cameras]
+patch=1,EE,005E67C8,extended,00000014
+[Have All Gags]
+patch=1,EE,005E67DC,extended,00000006
+[>>> Have Story Missions Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E662C,extended,00000001
+[Mission 2]
+patch=1,EE,005E664C,extended,00000001
+[Mission 3]
+patch=1,EE,005E666C,extended,00000001
+[Mission 4]
+patch=1,EE,005E668C,extended,00000001
+[Mission 5]
+patch=1,EE,005E66AC,extended,00000001
+[Mission 6]
+patch=1,EE,005E66CC,extended,00000001
+[Mission 7]
+patch=1,EE,005E66EC,extended,00000001
+[Bonus Mission 1]
+patch=1,EE,005E678C,extended,00000001
+[>>> Have Street Races Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E672C,extended,00000001
+[Mission 2]
+patch=1,EE,005E674C,extended,00000001
+[Mission 3]
+patch=1,EE,005E676C,extended,00000001
+[>>> Level 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Movie]
+patch=1,EE,005E6A28,extended,00000001
+[Have All Wasp Cameras]
+patch=1,EE,005E6A34,extended,00000014
+[Have All Gags]
+patch=1,EE,005E6A48,extended,0000000B
+[>>> Have Story Missions Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E6898,extended,00000001
+[Mission 2]
+patch=1,EE,005E68B8,extended,00000001
+[Mission 3]
+patch=1,EE,005E68D8,extended,00000001
+[Mission 4]
+patch=1,EE,005E68F8,extended,00000001
+[Mission 5]
+patch=1,EE,005E6918,extended,00000001
+[Mission 6]
+patch=1,EE,005E6938,extended,00000001
+[Mission 7]
+patch=1,EE,005E6958,extended,00000001
+[Bonus Mission 1]
+patch=1,EE,005E69F8,extended,00000001
+[>>> Have Street Races Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E6998,extended,00000001
+[Mission 2]
+patch=1,EE,005E69B8,extended,00000001
+[Mission 3]
+patch=1,EE,005E69D8,extended,00000001
+[>>> Level 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Movie]
+patch=1,EE,005E6C94,extended,00000001
+[Have All Wasp Cameras]
+patch=1,EE,005E6CA0,extended,00000014
+[Have All Gags]
+patch=1,EE,005E6CB4,extended,0000000F
+[>>> Have Story Missions Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E6B04,extended,00000001
+[Mission 2]
+patch=1,EE,005E6B24,extended,00000001
+[Mission 3]
+patch=1,EE,005E6B44,extended,00000001
+[Mission 4]
+patch=1,EE,005E6B64,extended,00000001
+[Mission 5]
+patch=1,EE,005E6B84,extended,00000001
+[Mission 6]
+patch=1,EE,005E6BA4,extended,00000001
+[Mission 7]
+patch=1,EE,005E6BC4,extended,00000001
+[Bonus Mission 1]
+patch=1,EE,005E6C64,extended,00000001
+[>>> Have Street Races Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1]
+patch=1,EE,005E6C04,extended,00000001
+[Mission 2]
+patch=1,EE,005E6C24,extended,00000001
+[Mission 3]
+patch=1,EE,005E6C44,extended,00000001
+

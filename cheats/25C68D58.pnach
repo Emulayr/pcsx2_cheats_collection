@@ -1,0 +1,26 @@
+gametitle=RAD Robotic Alchemic Drive
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0017362F
+[Infinite Health (Everyone)]
+patch=1,EE,2011D9C8,extended,00000000
+[Infinite Boost (Everyone)]
+patch=1,EE,2011DB80,extended,00000000
+[Infinite Missiles (Everyone)]
+patch=1,EE,20127210,extended,00000000
+[Infinite Mech Specials (Everyone)]
+patch=1,EE,2011DB00,extended,00000000
+[Infinite Health (Only Players)]
+patch=1,EE,20235218,extended,848200B4
+[Infinite Health (Only Players)]
+patch=1,EE,2023521C,extended,A48200B8
+[Infinite Boost (Only Players)]
+patch=1,EE,20232E54,extended,848200BC
+[Infinite Boost (Only Players)]
+patch=1,EE,20232E58,extended,A48200BE
+[Infinite Mech Specials (Only Players)]
+patch=1,EE,20235248,extended,848200BC
+[Infinite Mech Specials (Only Players)]
+patch=1,EE,2023524C,extended,A48200BE
+[Access All Characters]
+patch=1,EE,2020D64C,extended,2402FFFF
+

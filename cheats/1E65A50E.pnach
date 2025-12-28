@@ -1,0 +1,454 @@
+gametitle=Resident Evil-Outbreak File #2
+[Enable Code (Must Be On)]
+patch=1,EE,9012B158,extended,0C041EAC
+[Infinite Health]
+patch=1,EE,E0021021,extended,006153A4
+[Infinite Health]
+patch=1,EE,206153B4,extended,A4430540
+[Infinite Health]
+patch=1,EE,206153BC,extended,84420540
+[Infinite Ammo]
+patch=1,EE,D05D0D80,extended,00001E3F
+[Infinite Ammo]
+patch=1,EE,205D0D8C,extended,00000000
+[Max Infinite Ammo]
+patch=1,EE,D05D0D80,extended,00001E3F
+[Max Infinite Ammo]
+patch=1,EE,205D0D88,extended,24020063
+[Extra Ammo]
+patch=1,EE,D05D0D80,extended,00001E3F
+[Extra Ammo]
+patch=1,EE,105D0D88,extended,00000001
+[Infinite Item Usage (Only Your Items)]
+patch=1,EE,E0031C3C,extended,005D1038
+[Infinite Item Usage (Only Your Items)]
+patch=1,EE,205D104C,extended,00000000
+[Infinite Item Usage (Only Your Items)]
+patch=1,EE,205D1060,extended,00000000
+[Infinite Item Usage (Only Your Items)]
+patch=1,EE,105D1076,extended,00001000
+[Infinite Time]
+patch=1,EE,D06BD83C,extended,00002021
+[Infinite Time]
+patch=1,EE,206BD850,extended,00000000
+[Infinite Time]
+patch=1,EE,D06C2B10,extended,00001821
+[Infinite Time]
+patch=1,EE,206C2B28,extended,00000000
+[P1 Press {L1}+{R3} To Stop Timer]
+patch=1,EE,E002FBFB,extended,0033CE5C
+[P1 Press {L1}+{R3} To Stop Timer]
+patch=1,EE,206BD850,extended,00000000
+[P1 Press {L1}+{R3} To Stop Timer]
+patch=1,EE,206C2B28,extended,00000000
+[P1 Press {L1}+{R3} To Restart Timer]
+patch=1,EE,E002FEFB,extended,0033CE5C
+[P1 Press {L1}+{R3} To Restart Timer]
+patch=1,EE,206BD850,extended,A48300A8
+[P1 Press {L1}+{R3} To Restart Timer]
+patch=1,EE,206C2B28,extended,AC620000
+[1-Hit Deaths (Enemies)]
+patch=1,EE,D0666D40,extended,0000802D
+[1-Hit Deaths (Enemies)]
+patch=1,EE,20666D4C,extended,A6620138
+[Don't Become A Zombie Over Time]
+patch=1,EE,D068D1D0,extended,0000202D
+[Don't Become A Zombie Over Time]
+patch=1,EE,2068D1DC,extended,00000000
+[Don't Become A Zombie When Bitten]
+patch=1,EE,D0684F48,extended,00001021
+[Don't Become A Zombie When Bitten]
+patch=1,EE,20684F50,extended,00000000
+[Don't Bleed When Bitten By A Zombie]
+patch=1,EE,D0685784,extended,0000802D
+[Don't Bleed When Bitten By A Zombie]
+patch=1,EE,206857D0,extended,00000000
+[Enemies Dont Damage You With Attacks]
+patch=1,EE,D0685C94,extended,0000882D
+[Enemies Dont Damage You With Attacks]
+patch=1,EE,20685CBC,extended,00000000
+[Become A Zombie After Death (Offline Mode)]
+patch=1,EE,D0684A48,extended,0000202D
+[Become A Zombie After Death (Offline Mode)]
+patch=1,EE,10684A6E,extended,00001000
+[Become A Zombie After Death (Offline Mode)]
+patch=1,EE,D06C01E4,extended,00001021
+[Become A Zombie After Death (Offline Mode)]
+patch=1,EE,106C0202,extended,00001000
+[Infection Always 0.00%]
+patch=1,EE,D068D1D0,extended,0000202D
+[Infection Always 0.00%]
+patch=1,EE,2068D1DC,extended,AE200BC4
+[P1 Press {L1}+{SELECT} For Infection 100%]
+patch=1,EE,D033CE5C,extended,0000FBFE
+[P1 Press {L1}+{SELECT} For Infection 100%]
+patch=1,EE,2068D1A8,extended,24900000
+[P1 Press {L1}+{SELECT} For Infection 100%]
+patch=1,EE,D033CE5C,extended,0000FFFF
+[P1 Press {L1}+{SELECT} For Infection 100%]
+patch=1,EE,2068D1A8,extended,4410C000
+[AI Controls You]
+patch=1,EE,004C69C4,extended,00000001
+[Can Choose Same Characters As Partners]
+patch=1,EE,E002102D,extended,005A0224
+[Can Choose Same Characters As Partners]
+patch=1,EE,105A0232,extended,00001000
+[Can Choose Same Characters As Partners]
+patch=1,EE,105A0252,extended,00001000
+[Unlock All Difficulties]
+cheat0_code = "202FEEC4 FFFFFFFF
+[Unlock All Scenarios]
+cheat0_code = "2030022C FFFFFFFF
+[>>> Unlock Costume Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kevin-Type B]
+patch=1,EE,702FEEA8,extended,00000001
+[Kevin-Type C]
+patch=1,EE,702FEEA8,extended,00000002
+[Kevin-Type D]
+patch=1,EE,702FEEA8,extended,00000004
+[Kevin-Type E]
+patch=1,EE,702FEEA8,extended,00000008
+[Kevin-Type F]
+patch=1,EE,702FEEA8,extended,00000010
+[All Kevin Types]
+patch=1,EE,702FEEA8,extended,0000001F
+[Mark-Type B]
+patch=1,EE,702FEEA9,extended,00000001
+[Mark-Type C]
+patch=1,EE,702FEEA9,extended,00000002
+[Mark-Type D]
+patch=1,EE,702FEEA9,extended,00000004
+[Mark-Type E]
+patch=1,EE,702FEEA9,extended,00000008
+[Mark-Type F]
+patch=1,EE,702FEEA9,extended,00000010
+[All Mark Types]
+patch=1,EE,702FEEAA,extended,0000001F
+[Jim-Type B]
+patch=1,EE,702FEEAA,extended,00000001
+[Jim-Type C]
+patch=1,EE,702FEEAA,extended,00000002
+[Jim-Type D]
+patch=1,EE,702FEEAA,extended,00000004
+[Jim-Type E]
+patch=1,EE,702FEEAA,extended,00000008
+[Jim-Type F]
+patch=1,EE,702FEEAA,extended,00000010
+[All Jim Types]
+patch=1,EE,702FEEAA,extended,0000001F
+[George-Type B]
+patch=1,EE,702FEEAB,extended,00000001
+[George-Type C]
+patch=1,EE,702FEEAB,extended,00000002
+[George-Type D]
+patch=1,EE,702FEEAB,extended,00000004
+[George-Type E]
+patch=1,EE,702FEEAB,extended,00000008
+[George-Type F]
+patch=1,EE,702FEEAB,extended,00000010
+[All George Types]
+patch=1,EE,702FEEAB,extended,0000001F
+[David-Type B]
+patch=1,EE,702FEEAC,extended,00000001
+[David-Type C]
+patch=1,EE,702FEEAC,extended,00000002
+[David-Type D]
+patch=1,EE,702FEEAC,extended,00000004
+[David-Type E]
+patch=1,EE,702FEEAC,extended,00000008
+[David-Type F]
+patch=1,EE,702FEEAC,extended,00000010
+[All David Types]
+patch=1,EE,702FEEA8,extended,0000001F
+[Alyssa-Type B]
+patch=1,EE,702FEEAD,extended,00000001
+[Alyssa-Type C]
+patch=1,EE,702FEEAD,extended,00000002
+[Alyssa-Type D]
+patch=1,EE,702FEEAD,extended,00000004
+[Alyssa-Type E]
+patch=1,EE,702FEEAD,extended,00000008
+[Alyssa-Type F]
+patch=1,EE,702FEEAD,extended,00000010
+[All Alyssa Types]
+patch=1,EE,702FEEAD,extended,0000001F
+[Yoko-Type B]
+patch=1,EE,702FEEAE,extended,00000001
+[Yoko-Type C]
+patch=1,EE,702FEEAE,extended,00000002
+[Yoko-Type D]
+patch=1,EE,702FEEAE,extended,00000004
+[Yoko-Type E]
+patch=1,EE,702FEEAE,extended,00000008
+[Yoko-Type F]
+patch=1,EE,702FEEAE,extended,00000010
+[All Yoko Types]
+patch=1,EE,702FEEAE,extended,0000001F
+[Cindy-Type B]
+patch=1,EE,702FEEAF,extended,00000001
+[Cindy-Type C]
+patch=1,EE,702FEEAF,extended,00000002
+[Cindy-Type D]
+patch=1,EE,702FEEAF,extended,00000004
+[Cindy-Type E]
+patch=1,EE,702FEEAF,extended,00000008
+[Cindy-Type F]
+patch=1,EE,702FEEAF,extended,00000010
+[All Cindy Types]
+patch=1,EE,702FEEAF,extended,0000001F
+[All Characters-All Types]
+patch=1,EE,202FEEA8,extended,FFFFFFFF
+[All Characters-All Types]
+cheat0_code = "202FEEAC FFFFFFFF
+[>>> Unlock NPC Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mac]
+patch=1,EE,702FEEB0,extended,00000001
+[Rodrigez]
+patch=1,EE,702FEEB0,extended,00000002
+[Conrad]
+patch=1,EE,702FEEB0,extended,00000004
+[Hunk. B]
+patch=1,EE,702FEEB0,extended,00000008
+[Hunk]
+patch=1,EE,702FEEB0,extended,00000010
+[Miguel]
+patch=1,EE,702FEEB0,extended,00000020
+[Luke]
+patch=1,EE,702FEEB0,extended,00000040
+[Arnold]
+patch=1,EE,702FEEB0,extended,00000080
+[Matt]
+patch=1,EE,702FEEB1,extended,00000001
+[Billy]
+patch=1,EE,702FEEB1,extended,00000002
+[Hursh]
+patch=1,EE,702FEEB1,extended,00000004
+[Peter]
+patch=1,EE,702FEEB1,extended,00000008
+[Marvin]
+patch=1,EE,702FEEB1,extended,00000010
+[Fred]
+patch=1,EE,702FEEB1,extended,00000020
+[Andy]
+patch=1,EE,702FEEB1,extended,00000040
+[Jean]
+patch=1,EE,702FEEB1,extended,00000080
+[Tony]
+patch=1,EE,702FEEB2,extended,00000001
+[Patrick]
+patch=1,EE,702FEEB2,extended,00000002
+[Lloyd]
+patch=1,EE,702FEEB2,extended,00000004
+[Austin]
+patch=1,EE,702FEEB2,extended,00000008
+[Clint]
+patch=1,EE,702FEEB2,extended,00000010
+[Bone]
+patch=1,EE,702FEEB2,extended,00000020
+[Bob]
+patch=1,EE,702FEEB2,extended,00000040
+[Nathan]
+patch=1,EE,702FEEB2,extended,00000080
+[Samuel]
+patch=1,EE,702FEEB3,extended,00000001
+[Will]
+patch=1,EE,702FEEB3,extended,00000002
+[Roger]
+patch=1,EE,702FEEB3,extended,00000004
+[Carter]
+patch=1,EE,702FEEB3,extended,00000008
+[Greg]
+patch=1,EE,702FEEB3,extended,00000010
+[Frost]
+patch=1,EE,702FEEB3,extended,00000020
+[Frost. B]
+patch=1,EE,702FEEB3,extended,00000040
+[Jake]
+patch=1,EE,702FEEB3,extended,00000080
+[Gary]
+patch=1,EE,702FEEB4,extended,00000001
+[Richard]
+patch=1,EE,702FEEB4,extended,00000002
+[Micky]
+patch=1,EE,702FEEB4,extended,00000004
+[Al]
+patch=1,EE,702FEEB4,extended,00000008
+[Axeman]
+patch=1,EE,702FEEB4,extended,00000010
+[Al. B]
+patch=1,EE,702FEEB4,extended,00000020
+[Ben]
+patch=1,EE,702FEEB4,extended,00000040
+[Regan]
+patch=1,EE,702FEEB4,extended,00000080
+[Regan. B]
+patch=1,EE,702FEEB5,extended,00000001
+[Monica]
+patch=1,EE,702FEEB5,extended,00000002
+[Linda]
+patch=1,EE,702FEEB5,extended,00000004
+[Rita]
+patch=1,EE,702FEEB5,extended,00000008
+[Mary]
+patch=1,EE,702FEEB5,extended,00000010
+[Kate]
+patch=1,EE,702FEEB5,extended,00000020
+[Danny]
+patch=1,EE,702FEEB5,extended,00000040
+[Danny. B]
+patch=1,EE,702FEEB5,extended,00000080
+[Gill]
+patch=1,EE,702FEEB6,extended,00000001
+[Gill. B]
+patch=1,EE,702FEEB6,extended,00000002
+[Keith]
+patch=1,EE,702FEEB6,extended,00000004
+[Kurt]
+patch=1,EE,702FEEB6,extended,00000008
+[Kurt. B]
+patch=1,EE,702FEEB6,extended,00000010
+[Gary. B]
+patch=1,EE,702FEEB6,extended,00000020
+[Al. C]
+patch=1,EE,702FEEB6,extended,00000040
+[Dorothy]
+patch=1,EE,702FEEB6,extended,00000080
+[Yoko. Z]
+patch=1,EE,702FEEB7,extended,00000001
+[Raymond]
+patch=1,EE,702FEEB7,extended,00000002
+[Arthur]
+patch=1,EE,702FEEB7,extended,00000004
+[Aaron]
+patch=1,EE,702FEEB7,extended,00000008
+[Dorian]
+patch=1,EE,702FEEB7,extended,00000010
+[Elliot]
+patch=1,EE,702FEEB7,extended,00000020
+[Eric]
+patch=1,EE,702FEEB7,extended,00000040
+[Harry]
+patch=1,EE,702FEEB7,extended,00000080
+[Karl]
+patch=1,EE,702FEEB8,extended,00000001
+[Dustin]
+patch=1,EE,702FEEB8,extended,00000002
+[Derek]
+patch=1,EE,702FEEB8,extended,00000004
+[Len]
+patch=1,EE,702FEEB8,extended,00000008
+[Nicolas]
+patch=1,EE,702FEEB8,extended,00000010
+[Sean]
+patch=1,EE,702FEEB8,extended,00000020
+[Philip]
+patch=1,EE,702FEEB8,extended,00000040
+[Don]
+patch=1,EE,702FEEB8,extended,00000080
+[Matthew]
+patch=1,EE,702FEEB9,extended,00000001
+[Robert]
+patch=1,EE,702FEEB9,extended,00000002
+[Chuck]
+patch=1,EE,702FEEB9,extended,00000004
+[Ginger]
+patch=1,EE,702FEEB9,extended,00000008
+[Laura]
+patch=1,EE,702FEEB9,extended,00000010
+[Amelia]
+patch=1,EE,702FEEB9,extended,00000020
+[Ethan]
+patch=1,EE,702FEEB9,extended,00000040
+[Howard]
+patch=1,EE,702FEEB9,extended,00000080
+[Issac]
+patch=1,EE,702FEEBA,extended,00000001
+[Kathy]
+patch=1,EE,702FEEBA,extended,00000002
+[Elena]
+patch=1,EE,702FEEBA,extended,00000004
+[Frank]
+patch=1,EE,702FEEBA,extended,00000008
+[Rodney]
+patch=1,EE,702FEEBA,extended,00000010
+[Mr. Red]
+patch=1,EE,702FEEBA,extended,00000020
+[Mr. Blue]
+patch=1,EE,702FEEBA,extended,00000040
+[Mr. Green]
+patch=1,EE,702FEEBA,extended,00000080
+[Mr. Gold]
+patch=1,EE,702FEEBB,extended,00000001
+[Mr. Black]
+patch=1,EE,702FEEBB,extended,00000002
+[Ms. White]
+patch=1,EE,702FEEBB,extended,00000004
+[Ms. Peach]
+patch=1,EE,702FEEBB,extended,00000008
+[Ms. Water]
+patch=1,EE,702FEEBB,extended,00000010
+[All NPC's]
+patch=1,EE,202FEEB0,extended,FFFFFFFF
+[All NPC's]
+patch=1,EE,202FEEB4,extended,FFFFFFFF
+[All NPC's]
+patch=1,EE,202FEEB8,extended,1FFFFFFF
+[>>> Collection Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Reward Points]
+patch=1,EE,102FEEA4,extended,0000FFFF
+[Max Reward Points]
+patch=1,EE,202FEEA4,extended,05F5E0FF
+[Infinite Rewards Points Usage]
+patch=1,EE,D059514C,extended,0000802D
+[Infinite Rewards Points Usage]
+patch=1,EE,20595178,extended,00000000
+[Collection All Cost 0 Pts]
+patch=1,EE,E002A021,extended,005948C0
+[Collection All Cost 0 Pts]
+patch=1,EE,205948D8,extended,AE800004
+[Collection All Cost 0 Pts]
+patch=1,EE,205948DC,extended,AE6002B0
+[Have All Gallery Available For Purchase]
+patch=1,EE,40300248,extended,00050001
+[Have All Gallery Available For Purchase]
+patch=1,EE,FFFFFFFF,extended,00000000
+[Have All Costume Available For Purchase]
+patch=1,EE,2030025C,extended,FFFFFFFF
+[Have All Costume Available For Purchase]
+cheat0_code = "20300260 FFFFFFFF
+[Have All Movies Available For Purchase]
+patch=1,EE,40300270,extended,00050001
+[Have All Movies Available For Purchase]
+patch=1,EE,FFFFFFFF,extended,00000000
+[Have All Sounds Available For Purchase]
+cheat0_code = "20300284 FFFFFFFF
+[Have All Extra Available For Purchase]
+cheat0_code = "20300298 FFFFFFFF
+[Have All Collection Available For Purchase]
+patch=1,EE,40300248,extended,00190001
+[Have All Collection Available For Purchase]
+patch=1,EE,FFFFFFFF,extended,00000000
+[Have All Gallery Available For Purchase]
+patch=1,EE,403002AC,extended,00050001
+[Have All Gallery Available For Purchase]
+patch=1,EE,FFFFFFFF,extended,00000000
+[Have All Costume Available For Purchase]
+patch=1,EE,203002C0,extended,FFFFFFFF
+[Have All Costume Available For Purchase]
+cheat0_code = "203002C4 FFFFFFFF
+[Have All Movies Available For Purchase]
+patch=1,EE,403002D4,extended,00050001
+[Have All Movies Available For Purchase]
+patch=1,EE,FFFFFFFF,extended,00000000
+[Have All Sounds Available For Purchase]
+cheat0_code = "203002E8 FFFFFFFF
+[Have All Extra Available For Purchase]
+cheat0_code = "203002FC FFFFFFFF
+[Have All Collection Purchased]
+patch=1,EE,403002AC,extended,00190001
+[Have All Collection Purchased]
+patch=1,EE,FFFFFFFF,extended,00000000
+

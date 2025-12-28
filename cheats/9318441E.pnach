@@ -1,0 +1,20 @@
+gametitle=Friends-The One With All The Trivia
+[Enable Code (Must Be On)]
+patch=1,EE,9021A260,extended,00832021
+[Infinite Time To Answer Questions]
+patch=1,EE,2022D4DC,extended,00000000
+[Infinite Time To Answer Questions]
+patch=1,EE,20233750,extended,00000000
+[P1 Press {L1}+{SELECT} To Stop Question Timer]
+patch=1,EE,E002FBFE,extended,00613282
+[P1 Press {L1}+{SELECT} To Stop Question Timer]
+patch=1,EE,2022D4DC,extended,00000000
+[P1 Press {L1}+{SELECT} To Stop Question Timer]
+patch=1,EE,20233750,extended,00000000
+[P1 Press {L1}+{SELECT} To Restart Question Timer]
+patch=1,EE,E002FEFE,extended,00613282
+[P1 Press {L1}+{SELECT} To Restart Question Timer]
+patch=1,EE,2022D4DC,extended,AC45610C
+[P1 Press {L1}+{SELECT} To Restart Question Timer]
+patch=1,EE,20233750,extended,E4402DFC
+

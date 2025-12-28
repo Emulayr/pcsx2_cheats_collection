@@ -1,0 +1,244 @@
+gametitle=Star Trek Shattered Universe
+[Enable Code (Must Be On)]
+patch=1,EE,90171C8C,extended,0C060148
+[Disable FMV]
+patch=1,EE,20175678,extended,24020001
+[Infinite Shield]
+patch=1,EE,200C0220,extended,C62C0E80
+[Infinite Shield]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Shield]
+patch=1,EE,200C0228,extended,E62C0E68
+[Infinite Shield]
+patch=1,EE,2011B15C,extended,0C030088
+[Infinite Health]
+patch=1,EE,200C0230,extended,C62C0E84
+[Infinite Health]
+patch=1,EE,200C0234,extended,03E00008
+[Infinite Health]
+patch=1,EE,200C0238,extended,E62C0E70
+[Infinite Health]
+patch=1,EE,2011B1AC,extended,0C03008C
+[Infinite Primary Weapon]
+patch=1,EE,2010DD94,extended,00000000
+[Infinite Secondary Weapon]
+patch=1,EE,2010DDA0,extended,00000000
+[Infinite Primary & Secondary Weapons]
+patch=1,EE,2010DD60,extended,03E00008
+[Infinite Primary & Secondary Weapons]
+patch=1,EE,2010DD64,extended,00000000
+[Always Low Time]
+patch=1,EE,20132B5C,extended,00000000
+[Infinite Shield (ISS Excelsior)]
+patch=1,EE,200C0240,extended,C4820E80
+[Infinite Shield (ISS Excelsior)]
+patch=1,EE,200C0244,extended,08047806
+[Infinite Shield (ISS Excelsior)]
+patch=1,EE,200C0248,extended,E4820E68
+[Infinite Shield (ISS Excelsior)]
+patch=1,EE,2011E010,extended,08030090
+[Infinite Health (ISS Excelsior)]
+patch=1,EE,200C0250,extended,C4800E84
+[Infinite Health (ISS Excelsior)]
+patch=1,EE,200C0254,extended,08047809
+[Infinite Health (ISS Excelsior)]
+patch=1,EE,200C0258,extended,E4800E70
+[Infinite Health (ISS Excelsior)]
+patch=1,EE,2011E01C,extended,08030094
+[Unlock All Levels/Movies]
+patch=1,EE,201A5CB8,extended,00000012
+[Unlock Kobayashi Maru Difficulty]
+patch=1,EE,201A5CC0,extended,00000001
+[Rank Commander]
+patch=1,EE,201A5E1C,extended,00000009
+[Have All Levels Completed]
+patch=1,EE,401A5CC4,extended,004C0001
+[Have All Levels Completed]
+patch=1,EE,00000001,extended,00000000
+[Unlock All Ships]
+patch=1,EE,401A5DF4,extended,00060001
+[Unlock All Ships]
+patch=1,EE,00000001,extended,00000000
+[Have All Medals]
+patch=1,EE,401A5E0C,extended,00040001
+[Have All Medals]
+patch=1,EE,00000001,extended,00000000
+[>>> Have Level Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Shattered Universe-Easy]
+patch=1,EE,201A5CC4,extended,00000001
+[Shattered Universe-Normal]
+patch=1,EE,201A5CC8,extended,00000001
+[Shattered Universe-Hard]
+patch=1,EE,201A5CCC,extended,00000001
+[Shattered Universe-Kobayashi Maru]
+patch=1,EE,201A5CD0,extended,00000001
+[Fire And Ice-Easy]
+patch=1,EE,201A5CD4,extended,00000001
+[Fire And Ice-Normal]
+patch=1,EE,201A5CD8,extended,00000001
+[Fire And Ice-Hard]
+patch=1,EE,201A5CDC,extended,00000001
+[Fire And Ice-Kobayashi Maru]
+patch=1,EE,201A5CE0,extended,00000001
+[Renegade-Easy]
+patch=1,EE,201A5CE4,extended,00000001
+[Renegade-Normal]
+patch=1,EE,201A5CE8,extended,00000001
+[Renegade-Hard]
+patch=1,EE,201A5CEC,extended,00000001
+[Renegade-Kobayashi Maru]
+patch=1,EE,201A5CF0,extended,00000001
+[Tyrenny Of Numbers-Easy]
+patch=1,EE,201A5CF4,extended,00000001
+[Tyrenny Of Numbers-Normal]
+patch=1,EE,201A5CF8,extended,00000001
+[Tyrenny Of Numbers-Hard]
+patch=1,EE,201A5CFC,extended,00000001
+[Tyrenny Of Numbers-Kobayashi Maru]
+patch=1,EE,201A5D00,extended,00000001
+[The Way Of All Empires-Easy]
+patch=1,EE,201A5D04,extended,00000001
+[The Way Of All Empires-Normal]
+patch=1,EE,201A5D08,extended,00000001
+[The Way Of All Empires-Hard]
+patch=1,EE,201A5D0C,extended,00000001
+[The Way Of All Empires-Kobayashi Maru]
+patch=1,EE,201A5D10,extended,00000001
+[Field Of Honor-Easy]
+patch=1,EE,201A5D14,extended,00000001
+[Field Of Honor-Normal]
+patch=1,EE,201A5D18,extended,00000001
+[Field Of Honor-Hard]
+patch=1,EE,201A5D1C,extended,00000001
+[Field Of Honor-Kobayashi Maru]
+patch=1,EE,201A5D20,extended,00000001
+[A Dish Best Served Cold-Easy]
+patch=1,EE,201A5D24,extended,00000001
+[A Dish Best Served Cold-Normal]
+patch=1,EE,201A5D28,extended,00000001
+[A Dish Best Served Cold-Hard]
+patch=1,EE,201A5D2C,extended,00000001
+[A Dish Best Served Cold-Kobayashi Maru]
+patch=1,EE,201A5D30,extended,00000001
+[From Hell's Heart-Easy]
+patch=1,EE,201A5D34,extended,00000001
+[From Hell's Heart-Normal]
+patch=1,EE,201A5D38,extended,00000001
+[From Hell's Heart-Hard]
+patch=1,EE,201A5D3C,extended,00000001
+[From Hell's Heart-Kobayashi Maru]
+patch=1,EE,201A5D40,extended,00000001
+[Enemy Of My Enemy-Easy]
+patch=1,EE,201A5D44,extended,00000001
+[Enemy Of My Enemy-Normal]
+patch=1,EE,201A5D48,extended,00000001
+[Enemy Of My Enemy-Hard]
+patch=1,EE,201A5D4C,extended,00000001
+[Enemy Of My Enemy-Kobayashi Maru]
+patch=1,EE,201A5D50,extended,00000001
+[Balok's War-Easy]
+patch=1,EE,201A5D54,extended,00000001
+[Balok's War-Normal]
+patch=1,EE,201A5D58,extended,00000001
+[Balok's War-Hard]
+patch=1,EE,201A5D5C,extended,00000001
+[Balok's War-Kobayashi Maru]
+patch=1,EE,201A5D60,extended,00000001
+[The Excelsior Incident-Easy]
+patch=1,EE,201A5D64,extended,00000001
+[The Excelsior Incident-Normal]
+patch=1,EE,201A5D68,extended,00000001
+[The Excelsior Incident-Hard]
+patch=1,EE,201A5D6C,extended,00000001
+[The Excelsior Incident-Kobayashi Maru]
+patch=1,EE,201A5D70,extended,00000001
+[Sign Unseen-Easy]
+patch=1,EE,201A5D74,extended,00000001
+[Sign Unseen-Normal]
+patch=1,EE,201A5D78,extended,00000001
+[Sign Unseen-Hard]
+patch=1,EE,201A5D7C,extended,00000001
+[Sign Unseen-Kobayashi Maru]
+patch=1,EE,201A5D80,extended,00000001
+[No Immunity-Easy]
+patch=1,EE,201A5D84,extended,00000001
+[No Immunity-Normal]
+patch=1,EE,201A5D88,extended,00000001
+[No Immunity-Hard]
+patch=1,EE,201A5D8C,extended,00000001
+[No Immunity-Kobayashi Maru]
+patch=1,EE,201A5D90,extended,00000001
+[Antibody-Easy]
+patch=1,EE,201A5D94,extended,00000001
+[Antibody-Normal]
+patch=1,EE,201A5D98,extended,00000001
+[Antibody-Hard]
+patch=1,EE,201A5D9C,extended,00000001
+[Antibody-Kobayashi Maru]
+patch=1,EE,201A5DA0,extended,00000001
+[Sunstorm-Easy]
+patch=1,EE,201A5DA4,extended,00000001
+[Sunstorm-Normal]
+patch=1,EE,201A5DA8,extended,00000001
+[Sunstorm-Hard]
+patch=1,EE,201A5DAC,extended,00000001
+[Sunstorm-Kobayashi Maru]
+patch=1,EE,201A5DB0,extended,00000001
+[Wormhole-Easy]
+patch=1,EE,201A5DB4,extended,00000001
+[Wormhole-Normal]
+patch=1,EE,201A5DB8,extended,00000001
+[Wormhole-Hard]
+patch=1,EE,201A5DBC,extended,00000001
+[Wormhole-Kobayashi Maru]
+patch=1,EE,201A5DC0,extended,00000001
+[The Unwound Skein-Easy]
+patch=1,EE,201A5DC4,extended,00000001
+[The Unwound Skein-Normal]
+patch=1,EE,201A5DC8,extended,00000001
+[The Unwound Skein-Hard]
+patch=1,EE,201A5DCC,extended,00000001
+[The Unwound Skein-Kobayashi Maru]
+patch=1,EE,201A5DD0,extended,00000001
+[Vortex-Easy]
+patch=1,EE,201A5DD4,extended,00000001
+[Vortex-Normal]
+patch=1,EE,201A5DD8,extended,00000001
+[Vortex-Hard]
+patch=1,EE,201A5DDC,extended,00000001
+[Vortex-Kobayashi Maru]
+patch=1,EE,201A5DE0,extended,00000001
+[Mirror, Mirror-Easy]
+patch=1,EE,201A5DE4,extended,00000001
+[Mirror, Mirror-Normal]
+patch=1,EE,201A5DE8,extended,00000001
+[Mirror, Mirror-Hard]
+patch=1,EE,201A5DEC,extended,00000001
+[Mirror, Mirror-Kobayashi Maru]
+patch=1,EE,201A5DF0,extended,00000001
+[>>> Unlock Ship Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Imperial 'Wraith']
+patch=1,EE,201A5DF4,extended,00000001
+[Imperial 'Spectre']
+patch=1,EE,201A5DF8,extended,00000001
+[Orion 'Corsair']
+patch=1,EE,201A5DFC,extended,00000001
+[Imperial 'Phantom']
+patch=1,EE,201A5E00,extended,00000001
+[Klingon 'Bird Of Prey']
+patch=1,EE,201A5E04,extended,00000001
+[Romulan 'Shrike']
+patch=1,EE,201A5E08,extended,00000001
+[>>> Have Medal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Starfleet Citation For Conspicuous Gallantry]
+patch=1,EE,201A5E0C,extended,00000001
+[Preantares Ribbon Of Commendation]
+patch=1,EE,201A5E10,extended,00000001
+[Grankite Order Of Tactics (Class Of Excellence)]
+patch=1,EE,201A5E14,extended,00000001
+[Starfleet Medal Of Honor]
+patch=1,EE,201A5E18,extended,00000001
+

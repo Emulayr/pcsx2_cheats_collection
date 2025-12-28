@@ -1,0 +1,118 @@
+gametitle=King Of Route 66, The
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,001140EF
+[Infinite Nitros P1]
+patch=1,EE,007899C2,extended,00000012
+[No Nitros P1]
+patch=1,EE,007899C2,extended,00000000
+[Infinite Nitros P2]
+patch=1,EE,0078A282,extended,00000012
+[No Nitros P2]
+patch=1,EE,0078A282,extended,00000000
+[Infinite Time]
+patch=1,EE,10789A22,extended,000003E7
+[Unlock All Characters]
+patch=1,EE,006D498C,extended,000000FF
+[>>> Rival Challenge Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,204E2BEC,extended,00000000
+[Instant Win]
+patch=1,EE,201CF89C,extended,AC820824
+[Press {L1}+{SELECT} To Beat Rival]
+patch=1,EE,D04ED34C,extended,0000FBFE
+[Press {L1}+{SELECT} To Beat Rival]
+patch=1,EE,201CF89C,extended,AC820824
+[Press {L1}+{SELECT} To Beat Rival]
+patch=1,EE,D04ED34C,extended,0010FBFE
+[Press {L1}+{SELECT} To Beat Rival]
+patch=1,EE,201CF89C,extended,00000000
+[>>> Rival Challenge & King Of Route 66 Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Total Emblems]
+patch=1,EE,206D3FE8,extended,0098967F
+[Max Current Stage Emblems]
+patch=1,EE,207899E0,extended,000003E7
+[>>> The King Of Route 66 Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Gain]
+patch=1,EE,107899E8,extended,0000FFFF
+[Max Money]
+patch=1,EE,207899E8,extended,0098967F
+[100% Complete]
+patch=1,EE,206D4AF8,extended,FFFFFFFF
+[100% Complete]
+patch=1,EE,206D4AFC,extended,FFFFFFFF
+[100% Complete]
+cheat0_code = "206D4B00 FFFFFFFF
+[>>> The Queen Of Route 66 Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Start With 5 Gems]
+patch=1,EE,D0813558,extended,00000000
+[Start With 5 Gems]
+patch=1,EE,20813558,extended,00000005
+[Start With 10 Gems]
+patch=1,EE,D0813558,extended,00000000
+[Start With 10 Gems]
+patch=1,EE,20813558,extended,0000000A
+[Infinite Money]
+patch=1,EE,106D4284,extended,0000FFFF
+[Max Money]
+patch=1,EE,206D4284,extended,0098967F
+[All States Completed]
+patch=1,EE,006D425E,extended,0000001B
+[>>> Route 66 Challenge Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Emblems]
+patch=1,EE,007899DF,extended,00000064
+[>>> Have Medal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Emblem Catch-Bronze]
+patch=1,EE,006D43DE,extended,00000001
+[Emblem Catch-Silver]
+patch=1,EE,006D43DD,extended,00000001
+[Emblem Catch-Gold]
+patch=1,EE,006D43DC,extended,00000001
+[Emblem Catch 2-Bronze]
+patch=1,EE,006D43E1,extended,00000001
+[Emblem Catch 2-Silver]
+patch=1,EE,006D43E0,extended,00000001
+[Emblem Catch 2-Gold]
+patch=1,EE,006D43DF,extended,00000001
+[Convoy Golf-Bronze]
+patch=1,EE,006D43E4,extended,00000001
+[Convoy Golf-Silver]
+patch=1,EE,006D43E3,extended,00000001
+[Convoy Golf-Gold]
+patch=1,EE,006D43E2,extended,00000001
+[Moving Targets-Bronze]
+patch=1,EE,006D43E7,extended,00000001
+[Moving Targets-Silver]
+patch=1,EE,006D43E6,extended,00000001
+[Moving Targets-Gold]
+patch=1,EE,006D43E5,extended,00000001
+[Destroy The Cars-Bronze]
+patch=1,EE,006D43EA,extended,00000001
+[Destroy The Cars-Silver]
+patch=1,EE,006D43E9,extended,00000001
+[Destroy The Cars-Gold]
+patch=1,EE,006D43E8,extended,00000001
+[Long Haul Slam-Bronze]
+patch=1,EE,006D43ED,extended,00000001
+[Long Haul Slam-Silver]
+patch=1,EE,006D43EC,extended,00000001
+[Long Haul Slam-Gold]
+patch=1,EE,006D43EB,extended,00000001
+[Protect Annie-Bronze]
+patch=1,EE,006D43F0,extended,00000001
+[Protect Annie-Silver]
+patch=1,EE,006D43EF,extended,00000001
+[Protect Annie-Gold]
+patch=1,EE,006D43EE,extended,00000001
+[Sooner The Better-Bronze]
+patch=1,EE,006D43F3,extended,00000001
+[Sooner The Better-Silver]
+patch=1,EE,006D43F2,extended,00000001
+[Sooner The Better-Gold]
+patch=1,EE,006D43F1,extended,00000001
+

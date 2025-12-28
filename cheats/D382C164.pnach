@@ -1,0 +1,360 @@
+gametitle=Shin Megami Tensei-Digital Devil Saga II
+[Enable Code (Must Be On)]
+patch=1,EE,9034B104,extended,0C0D6CB7
+[Infinite Money]
+patch=1,EE,1117433C,extended,0000FFFF
+[Max Money]
+patch=1,EE,2117433C,extended,05F5E0FF
+[P1 Press {L1}+Up To Increase Money]
+patch=1,EE,E002FBEF,extended,00476282
+[P1 Press {L1}+Up To Increase Money]
+patch=1,EE,30400000,extended,0117433C
+[P1 Press {L1}+Up To Increase Money]
+patch=1,EE,00000101,extended,00000000
+[Always Low  Total Time]
+patch=1,EE,21174338,extended,00000000
+[>>> Character 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite HP]
+patch=1,EE,11174D66,extended,0000270F
+[Max HP]
+patch=1,EE,11174D68,extended,0000270F
+[Infinite MP]
+patch=1,EE,11174D6A,extended,0000270F
+[Max MP]
+patch=1,EE,11174D6C,extended,0000270F
+[Quick Exp Gain]
+patch=1,EE,11174D70,extended,0000FFFF
+[Max Exp]
+patch=1,EE,21174D70,extended,3B9AC9FF
+[Level 99]
+patch=1,EE,11174D74,extended,00000063
+[Max St]
+patch=1,EE,01174D76,extended,00000063
+[Max Vi]
+patch=1,EE,01174D77,extended,00000063
+[Max Ma]
+patch=1,EE,01174D78,extended,00000063
+[Max Ag]
+patch=1,EE,01174D79,extended,00000063
+[Max Lu]
+patch=1,EE,01174D7A,extended,00000063
+[Max All Stats]
+patch=1,EE,11174D76,extended,00006363
+[Max All Stats]
+patch=1,EE,11174D78,extended,00006363
+[Max All Stats]
+patch=1,EE,01174D7A,extended,00000063
+[Have All Skills]
+patch=1,EE,41174DB8,extended,00520001
+[Have All Skills]
+patch=1,EE,FFFFFFFF,extended,00000000
+[>>> Character 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite HP]
+patch=1,EE,11174F2A,extended,0000270F
+[Max HP]
+patch=1,EE,11174F2C,extended,0000270F
+[Infinite MP]
+patch=1,EE,11174F2E,extended,0000270F
+[Max MP]
+patch=1,EE,11174F30,extended,0000270F
+[Quick Exp Gain]
+patch=1,EE,11174F34,extended,0000FFFF
+[Max Exp]
+patch=1,EE,21174F34,extended,3B9AC9FF
+[Level 99]
+patch=1,EE,11174F38,extended,00000063
+[Max St]
+patch=1,EE,01174F3A,extended,00000063
+[Max Vi]
+patch=1,EE,01174F3B,extended,00000063
+[Max Ma]
+patch=1,EE,01174F3C,extended,00000063
+[Max Ag]
+patch=1,EE,01174F3D,extended,00000063
+[Max Lu]
+patch=1,EE,01174F3E,extended,00000063
+[Max All Stats]
+patch=1,EE,11174F3A,extended,00006363
+[Max All Stats]
+patch=1,EE,11174F3C,extended,00006363
+[Max All Stats]
+patch=1,EE,01174F3E,extended,00000063
+[Have All Skills]
+patch=1,EE,41174F7C,extended,00520001
+[Have All Skills]
+patch=1,EE,FFFFFFFF,extended,00000000
+[>>> Character 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite HP]
+patch=1,EE,111750EE,extended,0000270F
+[Max HP]
+patch=1,EE,111750F0,extended,0000270F
+[Infinite MP]
+patch=1,EE,111750F2,extended,0000270F
+[Max MP]
+patch=1,EE,111750F4,extended,0000270F
+[Quick Exp Gain]
+patch=1,EE,111750F8,extended,0000FFFF
+[Max Exp]
+patch=1,EE,211750F8,extended,3B9AC9FF
+[Level 99]
+patch=1,EE,111750FC,extended,00000063
+[Max St]
+patch=1,EE,011750FE,extended,00000063
+[Max Vi]
+patch=1,EE,011750FF,extended,00000063
+[Max Ma]
+patch=1,EE,01175100,extended,00000063
+[Max Ag]
+patch=1,EE,01175101,extended,00000063
+[Max Lu]
+patch=1,EE,01175102,extended,00000063
+[Max All Stats]
+patch=1,EE,111750FE,extended,00006363
+[Max All Stats]
+patch=1,EE,11175100,extended,00006363
+[Max All Stats]
+patch=1,EE,01175102,extended,00000063
+[Have All Skills]
+patch=1,EE,41175140,extended,00520001
+[Have All Skills]
+patch=1,EE,FFFFFFFF,extended,00000000
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Ration]
+patch=1,EE,01175641,extended,00000063
+[Brave Ration]
+patch=1,EE,01175642,extended,00000063
+[Hero Ration]
+patch=1,EE,01175643,extended,00000063
+[Graven Shard]
+patch=1,EE,01175644,extended,00000063
+[Graven Image]
+patch=1,EE,01175645,extended,00000063
+[Medical Kit]
+patch=1,EE,01175646,extended,00000063
+[Medical Tool]
+patch=1,EE,01175647,extended,00000063
+[Medical Gear]
+patch=1,EE,01175648,extended,00000063
+[Chakra Drop]
+patch=1,EE,01175649,extended,00000063
+[Chakra Elixir]
+patch=1,EE,0117564A,extended,00000063
+[Chakra Pot]
+patch=1,EE,0117564B,extended,00000063
+[Great Chakra]
+patch=1,EE,0117564C,extended,00000063
+[Soma Drop]
+patch=1,EE,0117564D,extended,00000063
+[Soma]
+patch=1,EE,0117564E,extended,00000063
+[Muscle Drink]
+patch=1,EE,0117564F,extended,00000063
+[Revival Bead]
+patch=1,EE,01175650,extended,00000063
+[Revival Gem]
+patch=1,EE,01175651,extended,00000063
+[Revival Orb]
+patch=1,EE,01175652,extended,00000063
+[Dis-Poison]
+patch=1,EE,01175655,extended,00000063
+[Dis-Ache]
+patch=1,EE,01175656,extended,00000063
+[Dis-Mute]
+patch=1,EE,01175657,extended,00000063
+[Dis-Stun]
+patch=1,EE,01175658,extended,00000063
+[Dis-Stone]
+patch=1,EE,01175659,extended,00000063
+[Dis-Curse]
+patch=1,EE,0117565A,extended,00000063
+[Panacea]
+patch=1,EE,0117565B,extended,00000063
+[Odd Morsel]
+patch=1,EE,0117565C,extended,00000063
+[Moldy Roll]
+patch=1,EE,0117565D,extended,00000063
+[Rancid Gravy]
+patch=1,EE,0117565E,extended,00000063
+[Magic Mirror]
+patch=1,EE,01175662,extended,00000063
+[Attack Mirror]
+patch=1,EE,01175663,extended,00000063
+[Dekaja Rock]
+patch=1,EE,01175664,extended,00000063
+[Molotov]
+patch=1,EE,01175666,extended,00000063
+[Fire Bomb]
+patch=1,EE,01175667,extended,00000063
+[Ice BLast]
+patch=1,EE,01175668,extended,00000063
+[Frost Bomb]
+patch=1,EE,01175669,extended,00000063
+[Thunder Rod]
+patch=1,EE,0117566A,extended,00000063
+[Shock Bomb]
+patch=1,EE,0117566B,extended,00000063
+[Sonic Stone]
+patch=1,EE,0117566C,extended,00000063
+[Impact Bomb]
+patch=1,EE,0117566D,extended,00000063
+[Land Mine]
+patch=1,EE,0117566E,extended,00000063
+[Magni Bomb]
+patch=1,EE,0117566F,extended,00000063
+[Holy Arrow]
+patch=1,EE,01175670,extended,00000063
+[Dark Veil]
+patch=1,EE,01175671,extended,00000063
+[Al Azif]
+patch=1,EE,01175672,extended,00000063
+[Murder Rock]
+patch=1,EE,01175673,extended,00000063
+[Wild Card]
+patch=1,EE,01175676,extended,00000063
+[Megido Fire]
+patch=1,EE,01175677,extended,00000063
+[Wild BOmb]
+patch=1,EE,01175678,extended,00000063
+[Spyglass]
+patch=1,EE,0117567A,extended,00000063
+[Estoma Spray]
+patch=1,EE,0117567B,extended,00000063
+[Magic Reed]
+patch=1,EE,0117567C,extended,00000063
+[Core shield]
+patch=1,EE,0117567D,extended,00000063
+[Light Ball]
+patch=1,EE,0117567E,extended,00000063
+[Fire Wall]
+patch=1,EE,01175682,extended,00000063
+[Ice Wall]
+patch=1,EE,01175683,extended,00000063
+[Bolt Wall]
+patch=1,EE,01175684,extended,00000063
+[Wind Wall]
+patch=1,EE,01175685,extended,00000063
+[Earth Wall]
+patch=1,EE,01175686,extended,00000063
+[Rage]
+patch=1,EE,01175693,extended,00000063
+[Impel Stone]
+patch=1,EE,01175694,extended,00000063
+[Power Data]
+patch=1,EE,01175699,extended,00000063
+[Vital Data]
+patch=1,EE,0117569A,extended,00000063
+[Magic Data]
+patch=1,EE,0117569B,extended,00000063
+[Quick Data]
+patch=1,EE,0117569C,extended,00000063
+[Luck Data]
+patch=1,EE,0117569D,extended,00000063
+[HP Data]
+patch=1,EE,0117569E,extended,00000063
+[MP Data]
+patch=1,EE,0117569F,extended,00000063
+[Clover]
+patch=1,EE,011756A1,extended,00000063
+[Narcissus]
+patch=1,EE,011756A2,extended,00000063
+[Amaryllis]
+patch=1,EE,011756A3,extended,00000063
+[Daisy]
+patch=1,EE,011756A4,extended,00000063
+[Rose]
+patch=1,EE,011756A5,extended,00000063
+[Sakura]
+patch=1,EE,011756A6,extended,00000063
+[Jasmine]
+patch=1,EE,011756A7,extended,00000063
+[Manjusaka]
+patch=1,EE,011756A8,extended,00000063
+[Olive Branch]
+patch=1,EE,011756A9,extended,00000063
+[Lotus Seed]
+patch=1,EE,011756AA,extended,00000063
+[Lotus Flower]
+patch=1,EE,011756AB,extended,00000063
+[Cat's Eye]
+patch=1,EE,011756AD,extended,00000063
+[Tiger's Eye]
+patch=1,EE,011756AE,extended,00000063
+[Malachite]
+patch=1,EE,011756AF,extended,00000063
+[Blue Diamond]
+patch=1,EE,011756B0,extended,00000063
+[Red Diamond]
+patch=1,EE,011756B1,extended,00000063
+[Hope Diamond]
+patch=1,EE,011756B2,extended,00000063
+[Yellow Crystal]
+patch=1,EE,011756B3,extended,00000063
+[Pink Crystal]
+patch=1,EE,011756B4,extended,00000063
+[Purple Crystal]
+patch=1,EE,011756B5,extended,00000063
+[Ruby]
+patch=1,EE,011756B6,extended,00000063
+[Blood Ruby]
+patch=1,EE,011756B7,extended,00000063
+[Star Ruby]
+patch=1,EE,011756B8,extended,00000063
+[Pearl]
+patch=1,EE,011756B9,extended,00000063
+[Scarlet Pearl]
+patch=1,EE,011756BA,extended,00000063
+[Black Pearl]
+patch=1,EE,011756BB,extended,00000063
+[Sappphire]
+patch=1,EE,011756BC,extended,00000063
+[Pink Sapphire]
+patch=1,EE,011756BD,extended,00000063
+[Star Sapphire]
+patch=1,EE,011756BE,extended,00000063
+[>>> Max Ammo Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Bullet]
+patch=1,EE,011756E1,extended,00000063
+[Shot Shell]
+patch=1,EE,011756E2,extended,00000063
+[Charge Shot]
+patch=1,EE,011756E3,extended,00000063
+[Frigid Shot]
+patch=1,EE,011756E4,extended,00000063
+[Panic Shell]
+patch=1,EE,011756E5,extended,00000063
+[Metal Jacket]
+patch=1,EE,011756E6,extended,00000063
+[Tranq Shot]
+patch=1,EE,011756E7,extended,00000063
+[Hollow Point]
+patch=1,EE,011756E8,extended,00000063
+[Nerve Shot]
+patch=1,EE,011756E9,extended,00000063
+[Curse Shot]
+patch=1,EE,011756EA,extended,00000063
+[Mute Shot]
+patch=1,EE,011756EB,extended,00000063
+[Iron Shot]
+patch=1,EE,011756EC,extended,00000063
+[Neutron Shot]
+patch=1,EE,011756ED,extended,00000063
+[Silver Shot]
+patch=1,EE,011756EE,extended,00000063
+[Charm Shot]
+patch=1,EE,011756EF,extended,00000063
+[Dead End]
+patch=1,EE,011756F0,extended,00000063
+[Forged Shot]
+patch=1,EE,011756F1,extended,00000063
+[Gospel]
+patch=1,EE,011756F2,extended,00000063
+[Magatama]
+patch=1,EE,011756F3,extended,00000063
+[Pandemonium]
+patch=1,EE,011756F4,extended,00000063
+

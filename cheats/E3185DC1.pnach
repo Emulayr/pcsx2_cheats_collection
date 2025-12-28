@@ -1,0 +1,238 @@
+gametitle=Evil Dead-A Fistful Of Boomstick
+[Enable Code (Must Be On)]
+patch=1,EE,90219B84,extended,0C08D4CD
+[Infinite Health]
+patch=1,EE,2014ADE8,extended,240207D0
+[Infinite Health]
+patch=1,EE,2014ADEC,extended,A4620110
+[Infinite Health]
+patch=1,EE,1014ADF2,extended,00001000
+[Max Health]
+patch=1,EE,102D2E2C,extended,000007D0
+[Infinite Magic]
+patch=1,EE,202E8368,extended,43200000
+[Max Magic]
+patch=1,EE,202E836C,extended,43200000
+[Never Reload]
+patch=1,EE,201CBFF4,extended,00000000
+[Infinite Ammo]
+patch=1,EE,201CBE90,extended,00000000
+[Extra Ammo]
+patch=1,EE,201CBE88,extended,01022821
+[Debug Mode On]
+patch=1,EE,202B70C8,extended,00000001
+[Strong Ash]
+patch=1,EE,202D2E4C,extended,40400000
+[Super Strong Ash]
+patch=1,EE,202D2E4C,extended,40C00000
+[>>> Have Left Weapon Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Shovel]
+patch=1,EE,202E9410,extended,00000001
+[Chainsaw]
+patch=1,EE,202E9414,extended,00000001
+[Sickle]
+patch=1,EE,202E9428,extended,00000001
+[Sword]
+patch=1,EE,202E942C,extended,00000001
+[Pistol]
+patch=1,EE,202E943C,extended,00000001
+[Shotgun]
+patch=1,EE,202E9444,extended,00000001
+[Upgraded Shotgun]
+patch=1,EE,202E944C,extended,00000001
+[Hand-Cannon]
+patch=1,EE,202E9450,extended,00000001
+[Molotov Cocktail]
+patch=1,EE,202E9454,extended,00000001
+[Launcher]
+patch=1,EE,202E9460,extended,00000001
+[Dynamite]
+patch=1,EE,202E9470,extended,00000001
+[>>> Have Right Weapon Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sharpened Chainsaw]
+patch=1,EE,202E9418,extended,00000001
+[Chainsaw]
+patch=1,EE,202E9420,extended,00000001
+[Diamond Chainsaw]
+patch=1,EE,202E9424,extended,00000001
+[Leecher]
+patch=1,EE,202E9434,extended,00000001
+[Exsanguinator]
+patch=1,EE,202E9438,extended,00000001
+[Spray Pump]
+patch=1,EE,202E9464,extended,00000001
+[Flame-Thrower]
+patch=1,EE,202E9468,extended,00000001
+[Gatling Gun]
+patch=1,EE,202E946C,extended,00000001
+[>>> Infinite Ammo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Shotguns-Standard]
+patch=1,EE,20250074,extended,000903DE
+[Shotguns-Shrapnel]
+patch=1,EE,20250084,extended,000903DE
+[Shotguns-Explosive]
+patch=1,EE,20250094,extended,000903DE
+[Pistols-Standard]
+patch=1,EE,202500A4,extended,000903DE
+[Pistols-Armor Piercing]
+patch=1,EE,202500B4,extended,000903DE
+[Pistols-Incendiary]
+patch=1,EE,202500C4,extended,000903DE
+[Gatling Gun-Standard]
+patch=1,EE,202500D4,extended,000903DE
+[Gatling Gun-Armor Piercing]
+patch=1,EE,202500E4,extended,000903DE
+[Gatling Gun-Incendiary]
+patch=1,EE,202500F4,extended,000903DE
+[Exsanguinator-Deadite Blood]
+patch=1,EE,20250104,extended,000903DE
+[Hand-Cannon-Standard]
+patch=1,EE,20250114,extended,000903DE
+[Hand-Cannon-Grape-Shot]
+patch=1,EE,20250124,extended,000903DE
+[Molotov Cocktail-Standard]
+patch=1,EE,20250134,extended,000903DE
+[Dynamite]
+patch=1,EE,20250144,extended,000903DE
+[Launcher-Flare]
+patch=1,EE,20250154,extended,000903DE
+[Flamethrower/Spray Pump-Gasoline]
+patch=1,EE,20250164,extended,000903DE
+[Unlock All Galleries]
+patch=1,EE,402E2090,extended,00060001
+[Unlock All Galleries]
+patch=1,EE,00000001,extended,00000000
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Health Pack]
+patch=1,EE,002BAA31,extended,00000063
+[Health Vessel]
+patch=1,EE,002BAA32,extended,00000063
+[Old Silver Coin]
+patch=1,EE,002BAA34,extended,00000001
+[Silver Pendant]
+patch=1,EE,002BAA35,extended,00000001
+[Silver Cigar Case]
+patch=1,EE,002BAA36,extended,00000001
+[Silver Jug]
+patch=1,EE,002BAA37,extended,00000001
+[Silver Goblet]
+patch=1,EE,002BAA38,extended,00000001
+[Professor Knowby's Notebook]
+patch=1,EE,002BAA39,extended,00000001
+[Old Gold Watch]
+patch=1,EE,002BAA3A,extended,00000001
+[Cipher Key]
+patch=1,EE,002BAA3B,extended,00000001
+[Brass Ornament]
+patch=1,EE,002BAA3C,extended,00000001
+[Key To The Church]
+patch=1,EE,002BAA3D,extended,00000001
+[Key To The Park]
+patch=1,EE,002BAA3E,extended,00000001
+[Sealed Envelope]
+patch=1,EE,002BAA3F,extended,00000001
+[Key To The Museum]
+patch=1,EE,002BAA40,extended,00000001
+[Silver Spoon]
+patch=1,EE,002BAA42,extended,00000001
+[Bar Of Silver]
+patch=1,EE,002BAA44,extended,00000001
+[Cell Key]
+patch=1,EE,002BAA48,extended,00000001
+[Wrench]
+patch=1,EE,002BAA49,extended,00000001
+[S-Mart Name Badge]
+patch=1,EE,002BAA4A,extended,00000001
+[Piece Of Torn Parchment]
+patch=1,EE,002BAA4D,extended,00000001
+[Spell Book?]
+patch=1,EE,002BAA4F,extended,00000001
+[To-Do List]
+patch=1,EE,002BAA50,extended,00000001
+[Bizarre Occult Thing]
+patch=1,EE,002BAA51,extended,00000001
+[Bizarre Occult Thing 2]
+patch=1,EE,002BAA52,extended,00000001
+[Bizarre Occult Thing 3]
+patch=1,EE,002BAA53,extended,00000001
+[Diamond Blade Used With A Chainsaw]
+patch=1,EE,002BAA54,extended,00000001
+[More Powerful Seismic Smash]
+patch=1,EE,002BAA55,extended,00000001
+[Super Crazy Door Opening SPell]
+patch=1,EE,002BAA56,extended,00000001
+[Possession Spell]
+patch=1,EE,002BAA57,extended,00000001
+[Key To The Lumber Yard]
+patch=1,EE,002BAA58,extended,00000063
+[Police Badge]
+patch=1,EE,002BAA59,extended,00000001
+[Key To The TV Station Gates]
+patch=1,EE,002BAA5A,extended,00000001
+[TV Station Pass Card]
+patch=1,EE,002BAA5B,extended,00000001
+[West Wing Security Pass]
+patch=1,EE,002BAA5C,extended,00000001
+[Last Wing Security Pass]
+patch=1,EE,002BAA5D,extended,00000001
+[Staff Pass Card]
+patch=1,EE,002BAA5E,extended,00000001
+[Supernatural Divining Device]
+patch=1,EE,002BAA5F,extended,00000001
+[Some Kind Of Vase]
+patch=1,EE,002BAA60,extended,00000001
+[Red Crystal]
+patch=1,EE,002BAA62,extended,00000001
+[Yellow Crystal]
+patch=1,EE,002BAA63,extended,00000001
+[Blue Crystal]
+patch=1,EE,002BAA64,extended,00000001
+[Silver Ring]
+patch=1,EE,002BAA65,extended,00000001
+[Lighter]
+patch=1,EE,002BAA66,extended,00000001
+[Bill Can]
+patch=1,EE,002BAA67,extended,00000001
+[Piece Of Scrap Metal]
+patch=1,EE,002BAA68,extended,00000001
+[Item Fragment]
+patch=1,EE,002BAA69,extended,00000001
+[Item Fragment 2]
+patch=1,EE,002BAA6A,extended,00000001
+[Set Of Bolt Cutters]
+patch=1,EE,002BAA6B,extended,00000001
+[Pentagonal Piece Of Stone]
+patch=1,EE,002BAA6C,extended,00000001
+[Piece Of A Spell Scroll]
+patch=1,EE,002BAA6D,extended,00000001
+[Piece Of A Spell Scroll 2]
+patch=1,EE,002BAA6E,extended,00000001
+[Piece Of A Spell Scroll 3]
+patch=1,EE,002BAA6F,extended,00000001
+[Piece Of A Spell Scroll 4]
+patch=1,EE,002BAA70,extended,00000001
+[Piece Of A Spell Scroll 5]
+patch=1,EE,002BAA71,extended,00000001
+[Possession Spell For Using Against Guardians]
+patch=1,EE,002BAA72,extended,00000001
+[Save Game Token]
+patch=1,EE,002BAA73,extended,00000063
+[Locker Key]
+patch=1,EE,002BAA74,extended,00000001
+[Green Crystal]
+patch=1,EE,002BAA75,extended,00000001
+[Medical Bag]
+patch=1,EE,002BAA76,extended,00000063
+[Cheap Tin Ring]
+patch=1,EE,002BAA77,extended,00000001
+[Mana Vessel]
+patch=1,EE,002BAA78,extended,00000063
+[Have All Spells (In Spell Book)]
+patch=1,EE,402E8390,extended,000B0001
+[Have All Spells (In Spell Book)]
+patch=1,EE,00000001,extended,00000000
+

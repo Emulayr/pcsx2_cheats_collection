@@ -1,0 +1,88 @@
+gametitle=Terminator 3-Rise Of The Machines
+[Enable Code (Must Be On)]
+patch=1,EE,902D58BC,extended,0C0BAFA3
+[Infinite Health]
+patch=1,EE,E0032021,extended,00241E5C
+[Infinite Health]
+patch=1,EE,20241E64,extended,240203E8
+[Infinite Health]
+patch=1,EE,20241E68,extended,03E00008
+[Infinite Health]
+patch=1,EE,20241E6C,extended,A4620584
+[Infinite Ammunition-Energy]
+patch=1,EE,1042065A,extended,000003E7
+[Infinite Ammunition-Plasma Charges]
+patch=1,EE,1042065C,extended,00000028
+[Extra Ammunition-Plasma Charges Ammo]
+patch=1,EE,1015DBA8,extended,00000001
+[Infinite Ammunition-Grenades]
+patch=1,EE,1042065E,extended,000003E7
+[Infinite Ammunition-Rockets]
+patch=1,EE,10420660,extended,000003E7
+[Unlock Centipede]
+patch=1,EE,0038FBB9,extended,00000001
+[Unlock Missile Command]
+patch=1,EE,0038FBBA,extended,00000001
+[Unlock All In-Game CG Scenes]
+patch=1,EE,0038FB11,extended,00000001
+[Unlock All In-Game CG Scenes]
+patch=1,EE,1038FB12,extended,00000101
+[Unlock All In-Game CG Scenes]
+patch=1,EE,2038FB14,extended,01010101
+[Unlock All Movie Scenes]
+patch=1,EE,0038FB19,extended,00000001
+[Unlock All Movie Scenes]
+patch=1,EE,1038FB1A,extended,00000101
+[Unlock All Movie Scenes]
+patch=1,EE,2038FB1C,extended,01010101
+[Unlock All Movie Scenes]
+patch=1,EE,1038FB20,extended,00000101
+[Unlock All Movie Scenes]
+patch=1,EE,0038FB22,extended,00000001
+[Unlock All Exclusive Movie Scenes]
+patch=1,EE,0038FB23,extended,00000001
+[Unlock All Exclusive Movie Scenes]
+patch=1,EE,1038FB24,extended,00000101
+[Unlock All Exclusive Movie Scenes]
+patch=1,EE,0038FB26,extended,00000001
+[Unlock All Movie Concept Arts]
+patch=1,EE,1038FB2A,extended,00000101
+[Unlock All Movie Concept Arts]
+patch=1,EE,4038FB2C,extended,000B0001
+[Unlock All Movie Concept Arts]
+patch=1,EE,01010101,extended,00000000
+[Unlock All Movie Concept Arts]
+patch=1,EE,1038FB58,extended,00000101
+[Unlock All Production Shots]
+patch=1,EE,1038FB5A,extended,00000101
+[Unlock All Production Shots]
+patch=1,EE,4038FB5C,extended,000B0001
+[Unlock All Production Shots]
+patch=1,EE,01010101,extended,00000000
+[Unlock All Production Shots]
+patch=1,EE,1038FB88,extended,00000101
+[Unlock All Production Shots]
+patch=1,EE,0038FB8A,extended,00000001
+[Unlock All Game Concept Arts]
+patch=1,EE,0038FB8B,extended,00000001
+[Unlock All Game Concept Arts]
+patch=1,EE,4038FB8C,extended,000B0001
+[Unlock All Game Concept Arts]
+patch=1,EE,01010101,extended,00000000
+[Unlock All Game Concept Arts]
+patch=1,EE,0038FBB8,extended,00000001
+[>>> Activate In-Game Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Invincibility]
+patch=1,EE,203889B8,extended,00000001
+[Unlimited Ammunition]
+patch=1,EE,203889BC,extended,00000001
+[All Weapons-Present]
+patch=1,EE,203889C0,extended,00000001
+[All Weapons-Future]
+patch=1,EE,203889C4,extended,00000001
+[T-X HP's 50 More In Every Fight]
+patch=1,EE,203889E8,extended,00000001
+[Terminator HP's 50 More In Every Fight]
+patch=1,EE,203889EC,extended,00000001
+

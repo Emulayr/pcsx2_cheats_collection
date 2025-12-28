@@ -1,0 +1,20 @@
+gametitle=Surfing H3O
+[Enable Code (Must Be On)]
+patch=1,EE,901FDE0C,extended,0C089BC1
+[Quick Score Gain]
+patch=1,EE,10457E20,extended,0000FFFF
+[Max Score]
+patch=1,EE,20457E20,extended,0098967F
+[Always Clear Level]
+patch=1,EE,20457E28,extended,00000001
+[Infinite Takeoffs]
+patch=1,EE,20456AA4,extended,00000009
+[Extra Takeoffs]
+patch=1,EE,101509F8,extended,00000001
+[Infinite Continues]
+patch=1,EE,2024A5E4,extended,00000009
+[Extra Continues]
+patch=1,EE,1017F6A0,extended,00000001
+[Access All Characters]
+patch=1,EE,2018E6F4,extended,00000000
+

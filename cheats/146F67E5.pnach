@@ -1,0 +1,14 @@
+gametitle=[SLUS-20601] Rayman 3-Hoodlum Havoc
+[Enable Code (Must Be On)]
+patch=1,EE,901168EC,extended,0C049106
+[Quick Score Gain]
+patch=1,EE,105C9F5C,extended,0000FFFF
+[Max Score]
+patch=1,EE,205C9F5C,extended,000F423F
+[Infinite Health]
+patch=1,EE,211C7E2C,extended,00000029
+[Press {L1}+{CROSS} For Moon Jump]
+patch=1,EE,D05D0B72,extended,0000BBFF
+[Press {L1}+{CROSS} For Moon Jump]
+patch=1,EE,211675D4,extended,413FFFFF
+

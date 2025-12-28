@@ -1,0 +1,300 @@
+gametitle=Godfather-The Game, The
+[Enable Code (Must Be On)]
+patch=1,EE,904D2D18,extended,00832021
+[Infinite Health]
+patch=1,EE,201EF19C,extended,C654104C
+[Infinite Health]
+patch=1,EE,201EF1A4,extended,E6541048
+[Infinite Ammo]
+patch=1,EE,20156C4C,extended,00000000
+[Max Infinite Ammo]
+patch=1,EE,20156C44,extended,240203E7
+[Extra Ammo]
+patch=1,EE,20156C44,extended,00461021
+[Never Reload]
+patch=1,EE,201582C4,extended,00000000
+[Never Reload With Max Clip Size]
+patch=1,EE,201582BC,extended,24020063
+[Max Skill Points]
+patch=1,EE,200C0200,extended,3C014CBE
+[Max Skill Points]
+patch=1,EE,200C0204,extended,3421BC20
+[Max Skill Points]
+patch=1,EE,200C0208,extended,44816000
+[Max Skill Points]
+patch=1,EE,200C020C,extended,080B6856
+[Max Skill Points]
+patch=1,EE,200C0210,extended,AD410008
+[Max Skill Points]
+patch=1,EE,202CC294,extended,0C030080
+[Buying Upgrades Doesnt Decrease Skill Points]
+patch=1,EE,20290754,extended,24110000
+[Buying Upgrades Increases Skill Points]
+patch=1,EE,20290754,extended,2411FFFF
+[>>> Rap Sheet Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Activation Code (Must Be On)]
+patch=1,EE,200C0000,extended,3C03005C
+[Activation Code (Must Be On)]
+patch=1,EE,200C0004,extended,8C630740
+[Activation Code (Must Be On)]
+patch=1,EE,200C0008,extended,1060001B
+[Activation Code (Must Be On)]
+patch=1,EE,200C0078,extended,03E00008
+[Activation Code (Must Be On)]
+patch=1,EE,200C007C,extended,00000000
+[Activation Code (Must Be On)]
+patch=1,EE,204D2D5C,extended,08030000
+[Max Wealth]
+patch=1,EE,200C000C,extended,3C0105F5
+[Max Wealth]
+patch=1,EE,200C0010,extended,3421E0FF
+[Max Wealth]
+patch=1,EE,200C0014,extended,AC61001C
+[No Wealth]
+patch=1,EE,200C0010,extended,24010000
+[No Wealth]
+patch=1,EE,200C0014,extended,AC61001C
+[Max Total Income]
+patch=1,EE,200C0018,extended,3C0105F5
+[Max Total Income]
+patch=1,EE,200C001C,extended,3421E0FF
+[Max Total Income]
+patch=1,EE,200C0020,extended,AC610020
+[No Total Income]
+patch=1,EE,200C001C,extended,24010000
+[No Total Income]
+patch=1,EE,200C0020,extended,AC610020
+[Max Total Spent]
+patch=1,EE,200C0024,extended,3C0105F5
+[Max Total Spent]
+patch=1,EE,200C0028,extended,3421E0FF
+[Max Total Spent]
+patch=1,EE,200C002C,extended,AC610024
+[No Total Spent]
+patch=1,EE,200C0024,extended,3C0105F5
+[No Total Spent]
+patch=1,EE,200C0028,extended,24010000
+[No Total Spent]
+patch=1,EE,200C002C,extended,AC610024
+[Max Tributes Paid]
+patch=1,EE,200C0030,extended,3C0105F5
+[Max Tributes Paid]
+patch=1,EE,200C0034,extended,3421E0FF
+[Max Tributes Paid]
+patch=1,EE,200C0038,extended,AC610028
+[No Tributes Paid]
+patch=1,EE,200C0034,extended,24010000
+[No Tributes Paid]
+patch=1,EE,200C0038,extended,AC610028
+[Max Extortion Income]
+patch=1,EE,200C003C,extended,3C0105F5
+[Max Extortion Income]
+patch=1,EE,200C0040,extended,3421E0FF
+[Max Extortion Income]
+patch=1,EE,200C0044,extended,AC61002C
+[No Extortion Income]
+patch=1,EE,200C0040,extended,24010000
+[No Extortion Income]
+patch=1,EE,200C0044,extended,AC61002C
+[Max Racket Income]
+patch=1,EE,200C0048,extended,3C0105F5
+[Max Racket Income]
+patch=1,EE,200C004C,extended,3421E0FF
+[Max Racket Income]
+patch=1,EE,200C0050,extended,AC610030
+[No Racket Income]
+patch=1,EE,200C004C,extended,24010000
+[No Racket Income]
+patch=1,EE,200C0050,extended,AC610030
+[>>> Advanced Game Variable Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Activation Code (Must Be On)]
+patch=1,EE,200C0100,extended,3C04000F
+[Activation Code (Must Be On)]
+patch=1,EE,200C0104,extended,24060000
+[Activation Code (Must Be On)]
+patch=1,EE,200C0108,extended,8C810000
+[Activation Code (Must Be On)]
+patch=1,EE,200C010C,extended,14250002
+[Activation Code (Must Be On)]
+patch=1,EE,200C0110,extended,8C810004
+[Activation Code (Must Be On)]
+patch=1,EE,200C0114,extended,AC410008
+[Activation Code (Must Be On)]
+patch=1,EE,200C0118,extended,24C60001
+[Activation Code (Must Be On)]
+patch=1,EE,200C011C,extended,2CC10032
+[Activation Code (Must Be On)]
+patch=1,EE,200C0120,extended,1420FFF9
+[Activation Code (Must Be On)]
+patch=1,EE,200C0124,extended,24840008
+[Activation Code (Must Be On)]
+patch=1,EE,200C0128,extended,080A3EF0
+[Activation Code (Must Be On)]
+patch=1,EE,200C012C,extended,C4400008
+[Activation Code (Must Be On)]
+patch=1,EE,2028FBBC,extended,08030040
+[Max Respect Level]
+patch=1,EE,200F0000,extended,C96BA6EB
+[Max Respect Level]
+patch=1,EE,200F0004,extended,42480000
+[Max Skill Points]
+patch=1,EE,200F0008,extended,48EA4531
+[Max Skill Points]
+patch=1,EE,200F000C,extended,4CBEBC20
+[Max Fighting Level]
+patch=1,EE,200F0010,extended,01F24959
+[Max Fighting Level]
+patch=1,EE,200F0014,extended,41200000
+[Max Shooting Level]
+patch=1,EE,200F0018,extended,57B16748
+[Max Shooting Level]
+patch=1,EE,200F001C,extended,41200000
+[Max Health Level]
+patch=1,EE,200F0020,extended,D5FC1905
+[Max Health Level]
+patch=1,EE,200F0024,extended,41200000
+[Max Speed Level]
+patch=1,EE,200F0028,extended,6C62528C
+[Max Speed Level]
+patch=1,EE,200F002C,extended,41200000
+[Max Street Smarts Level]
+patch=1,EE,200F0030,extended,D878E3E4
+[Max Street Smarts Level]
+patch=1,EE,200F0034,extended,41200000
+[>>> Collectables Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Crack All Safes]
+patch=1,EE,200F0038,extended,AAFB4DC0
+[Crack All Safes]
+patch=1,EE,200F003C,extended,42C80000
+[Crack No Safes]
+patch=1,EE,200F0038,extended,AAFB4DC0
+[Crack No Safes]
+patch=1,EE,200F003C,extended,00000000
+[Own All Safehouses]
+patch=1,EE,200F0040,extended,4E6A0986
+[Own All Safehouses]
+patch=1,EE,200F0044,extended,41C00000
+[Own No Safehouses]
+patch=1,EE,200F0040,extended,4E6A0986
+[Own No Safehouses]
+patch=1,EE,200F0044,extended,00000000
+[Have All Execution Styles]
+patch=1,EE,200F0048,extended,6C6F8186
+[Have All Execution Styles]
+patch=1,EE,200F004C,extended,41B00000
+[Have No Execution Styles]
+patch=1,EE,200F0048,extended,6C6F8186
+[Have No Execution Styles]
+patch=1,EE,200F004C,extended,00000000
+[Have All Film Feels (Bonus)]
+patch=1,EE,200F0050,extended,D1515D40
+[Have All Film Feels (Bonus)]
+patch=1,EE,200F0054,extended,42C80000
+[Have No Film Feels (Bonus)]
+patch=1,EE,200F0050,extended,D1515D40
+[Have No Film Feels (Bonus)]
+patch=1,EE,200F0054,extended,00000000
+[>>> Public Records Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Jail Visits]
+patch=1,EE,200F0058,extended,156A04C2
+[Max Jail Visits]
+patch=1,EE,200F005C,extended,4CBEBC20
+[No Jail Visits]
+patch=1,EE,200F0058,extended,156A04C2
+[No Jail Visits]
+patch=1,EE,200F005C,extended,00000000
+[Max Hospital Visits]
+patch=1,EE,200F0060,extended,CC2F81AF
+[Max Hospital Visits]
+patch=1,EE,200F0064,extended,4CBEBC20
+[No Hospital Visits]
+patch=1,EE,200F0060,extended,CC2F81AF
+[No Hospital Visits]
+patch=1,EE,200F0064,extended,00000000
+[>>> Suspected Crimes Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Arson Cases]
+patch=1,EE,200F0068,extended,BEE8A0F7
+[Max Arson Cases]
+patch=1,EE,200F006C,extended,4CBEBC20
+[No Arson Cases]
+patch=1,EE,200F0068,extended,BEE8A0F7
+[No Arson Cases]
+patch=1,EE,200F006C,extended,00000000
+[Max Murder Cases]
+patch=1,EE,200F0070,extended,00666F0A
+[Max Murder Cases]
+patch=1,EE,200F0074,extended,4CBEBC20
+[No Murder Cases]
+patch=1,EE,200F0070,extended,00666F0A
+[No Murder Cases]
+patch=1,EE,200F0074,extended,00000000
+[Max Stolen Vehicles]
+patch=1,EE,200F0078,extended,810002DF
+[Max Stolen Vehicles]
+patch=1,EE,200F007C,extended,4CBEBC20
+[No Stolen Vehicles]
+patch=1,EE,200F0078,extended,810002DF
+[No Stolen Vehicles]
+patch=1,EE,200F007C,extended,00000000
+[Have All Fronts Seized]
+patch=1,EE,200F0080,extended,7A8C3257
+[Have All Fronts Seized]
+patch=1,EE,200F0084,extended,42600000
+[Have No Fronts Seized]
+patch=1,EE,200F0080,extended,7A8C3257
+[Have No Fronts Seized]
+patch=1,EE,200F0084,extended,00000000
+[Have All Warehouses Seized]
+patch=1,EE,200F0088,extended,0FA16771
+[Have All Warehouses Seized]
+patch=1,EE,200F008C,extended,41000000
+[Have No Warehouses Seized]
+patch=1,EE,200F0088,extended,0FA16771
+[Have No Warehouses Seized]
+patch=1,EE,200F008C,extended,00000000
+[Have All Hubs Seized]
+patch=1,EE,200F0090,extended,596BA003
+[Have All Hubs Seized]
+patch=1,EE,200F0094,extended,40800000
+[Have No Hubs Seized]
+patch=1,EE,200F0090,extended,596BA003
+[Have No Hubs Seized]
+patch=1,EE,200F0094,extended,00000000
+[Have All Compounds Taken]
+patch=1,EE,200F0098,extended,B2B37350
+[Have All Compounds Taken]
+patch=1,EE,200F009C,extended,40800000
+[Have No Compounds Taken]
+patch=1,EE,200F0098,extended,B2B37350
+[Have No Compounds Taken]
+patch=1,EE,200F009C,extended,00000000
+[Max Mob Wars Started]
+patch=1,EE,200F00A0,extended,CB92BE2A
+[Max Mob Wars Started]
+patch=1,EE,200F00A4,extended,4CBEBC20
+[No Mob Wars Started]
+patch=1,EE,200F00A0,extended,CB92BE2A
+[No Mob Wars Started]
+patch=1,EE,200F00A4,extended,00000000
+[Max Mob Wars Won]
+patch=1,EE,200F00A8,extended,A85CBD2C
+[Max Mob Wars Won]
+patch=1,EE,200F00AC,extended,4CBEBC20
+[No Mob Wars Won]
+patch=1,EE,200F00A8,extended,A85CBD2C
+[No Mob Wars Won]
+patch=1,EE,200F00AC,extended,00000000
+[Max Mob Wars Lost]
+patch=1,EE,200F00B0,extended,256529F5
+[Max Mob Wars Lost]
+patch=1,EE,200F00B4,extended,4CBEBC20
+[No Mob Wars Lost]
+patch=1,EE,200F00B0,extended,256529F5
+[No Mob Wars Lost]
+patch=1,EE,200F00B4,extended,00000000
+

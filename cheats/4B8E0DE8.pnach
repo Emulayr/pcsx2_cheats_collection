@@ -1,0 +1,96 @@
+gametitle=Spyro-Enter The Dragonfly
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,00116937
+[Infinite Lives]
+patch=1,EE,2034BDEC,extended,00000063
+[Max Treasure]
+patch=1,EE,2034BE3C,extended,000003E7
+[Have All Powers]
+cheat0_code = "2034BF90 FFFFFFFF
+[Access All Powers (Press {R1} To Change)]
+patch=1,EE,201C3E8C,extended,240700FF
+[Infinite Time (Timed Missions)]
+patch=1,EE,201BB610,extended,00000000
+[Infinite Time (Timed Missions)]
+patch=1,EE,201BB618,extended,00000000
+[Infinite Time (Timed Missions)]
+patch=1,EE,201BA748,extended,00000000
+[>>> Unlock Warp To Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dragonfly Dojo]
+patch=1,EE,0034C0DD,extended,00000001
+[Crop Circle Country]
+patch=1,EE,0034C0DE,extended,00000001
+[Luau Island]
+patch=1,EE,0034C0DF,extended,00000001
+[Cloud 9]
+patch=1,EE,0034C0E0,extended,00000001
+[Monkey Monastery]
+patch=1,EE,0034C0E1,extended,00000001
+[Honey Marsh]
+patch=1,EE,0034C0E2,extended,00000001
+[Theives Den]
+patch=1,EE,0034C0E3,extended,00000001
+[Jurassic Jungle]
+patch=1,EE,0034C0E4,extended,00000001
+[>>> Max Gold Dragonfly Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dragon Realms]
+patch=1,EE,2034BDF4,extended,0000000A
+[Dragonfly Dojo]
+patch=1,EE,2034BDF8,extended,0000000A
+[Crop Circle Country]
+patch=1,EE,2034BDFC,extended,0000000A
+[Luau Island]
+patch=1,EE,2034BE00,extended,0000000A
+[Cloud 9]
+patch=1,EE,2034BE04,extended,0000000A
+[Monkey Monastery]
+patch=1,EE,2034BE08,extended,0000000A
+[Honey Marsh]
+patch=1,EE,2034BE0C,extended,0000000A
+[Theives Den]
+patch=1,EE,2034BE10,extended,0000000A
+[Jurassic Jungle]
+patch=1,EE,2034BE14,extended,0000000A
+[>>> Max Treasure Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dragon Realms]
+patch=1,EE,2034BE18,extended,00000320
+[Dragonfly Dojo]
+patch=1,EE,2034BE1C,extended,000002BC
+[Crop Circle Country]
+patch=1,EE,2034BE20,extended,00000320
+[Luau Island]
+patch=1,EE,2034BE24,extended,00000384
+[Cloud 9]
+patch=1,EE,2034BE28,extended,00000320
+[Monkey Monastery]
+patch=1,EE,2034BE2C,extended,00000384
+[Honey Marsh]
+patch=1,EE,2034BE30,extended,00000320
+[Theives Den]
+patch=1,EE,2034BE34,extended,000002BC
+[Jurassic Jungle]
+patch=1,EE,2034BE38,extended,00000258
+[>>> Have Missions Complete Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dragon Realms]
+cheat0_code = "2034BE88 FFFFFFFF
+[Dragonfly Dojo]
+cheat0_code = "2034BEA8 FFFFFFFF
+[Crop Circle Country]
+cheat0_code = "2034BEC8 FFFFFFFF
+[Luau Island]
+cheat0_code = "2034BEE8 FFFFFFFF
+[Cloud 9]
+cheat0_code = "2034BF08 FFFFFFFF
+[Monkey Monastery]
+cheat0_code = "2034BF28 FFFFFFFF
+[Honey Marsh]
+cheat0_code = "2034BF48 FFFFFFFF
+[Theives Den]
+cheat0_code = "2034BF68 FFFFFFFF
+[Jurassic Jungle]
+cheat0_code = "2034BF88 FFFFFFFF
+

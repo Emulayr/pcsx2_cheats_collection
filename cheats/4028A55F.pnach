@@ -1,0 +1,276 @@
+gametitle=Champions-Return To Arms
+[Enable Code (Must Be On)]
+patch=1,EE,903512A8,extended,00832021
+[Display Pause Menu Coordinates/Debug Menu]
+patch=1,EE,204F8EE0,extended,00000001
+[Have All Difficulties Completed]
+patch=1,EE,004F8F38,extended,000000FF
+[Noone Is Ever An Enemy]
+patch=1,EE,20119328,extended,03E00008
+[Noone Is Ever An Enemy]
+patch=1,EE,2011932C,extended,24020000
+[Demons Are Never Enemies]
+patch=1,EE,2025F38C,extended,24020000
+[Skeletons Are Never Enemies]
+patch=1,EE,202A7E24,extended,24020000
+[Wraiths Are Never Enemies]
+patch=1,EE,202C0760,extended,24020000
+[Wraiths Are Never Enemies]
+patch=1,EE,202C077C,extended,03E00008
+[Unknown Are Never Enemies]
+patch=1,EE,202C1D04,extended,24020000
+[Unknown Are Never Enemies]
+patch=1,EE,202C1D20,extended,03E00008
+[Infinite Mana Usage]
+patch=1,EE,201A4690,extended,00000000
+[Exp Worth 30000]
+patch=1,EE,201D3194,extended,24427530
+[Exp Worth 25000]
+patch=1,EE,201D3194,extended,244231A8
+[Exp Worth 20000]
+patch=1,EE,201D3194,extended,24424E20
+[Exp Worth 15000]
+patch=1,EE,201D3194,extended,24423A98
+[Exp Worth 10000]
+patch=1,EE,201D3194,extended,24422710
+[Exp Worth 1000]
+patch=1,EE,201D3194,extended,244203E8
+[Exp Worth 500]
+patch=1,EE,201D3194,extended,244201F4
+[1 Kill For Max Level]
+patch=1,EE,201D319C,extended,00000000
+[Debug Menu Only (Hold {L1}+{R2}, Press {START})]
+patch=1,EE,2018E398,extended,00000000
+[Drop Item For Max Quantity]
+patch=1,EE,201C46C4,extended,24020063
+[Item Duplication]
+patch=1,EE,201C46D0,extended,00000000
+[Portals Automatically Activated]
+patch=1,EE,2027D1D8,extended,24020001
+[Portals Automatically Activated]
+patch=1,EE,2027D1DC,extended,A222004D
+[Invulnerability Cheat Activated]
+patch=1,EE,2044F20C,extended,00000001
+[Quick Max Spell Upgrades]
+patch=1,EE,201C26DC,extended,24060014
+[Quick Max Spell Upgrades]
+patch=1,EE,201C27A4,extended,24060014
+[Quick Max Spell Upgrades]
+patch=1,EE,201D3480,extended,24060014
+[P1 Press {L3} When Viewing Stats For No Weight]
+patch=1,EE,200C0220,extended,8C830000
+[P1 Press {L3} When Viewing Stats For No Weight]
+patch=1,EE,200C0224,extended,08040F82
+[P1 Press {L3} When Viewing Stats For No Weight]
+patch=1,EE,200C0228,extended,AC600008
+[P1 Press {L3} When Viewing Stats For No Weight]
+patch=1,EE,D07CB142,extended,0000FFFD
+[P1 Press {L3} When Viewing Stats For No Weight]
+patch=1,EE,201B642C,extended,0C030088
+[P1 Press {L3} When Viewing Stats For No Weight]
+patch=1,EE,D07CB142,extended,0000FFFF
+[P1 Press {L3} When Viewing Stats For No Weight]
+patch=1,EE,201B642C,extended,0C040F82
+[P1 Press {R3} When Viewing Stats for Max Attack]
+patch=1,EE,200C0230,extended,24037FFF
+[P1 Press {R3} When Viewing Stats for Max Attack]
+patch=1,EE,200C0234,extended,A443000E
+[P1 Press {R3} When Viewing Stats for Max Attack]
+patch=1,EE,200C0238,extended,A4430010
+[P1 Press {R3} When Viewing Stats for Max Attack]
+patch=1,EE,200C023C,extended,A443001A
+[P1 Press {R3} When Viewing Stats for Max Attack]
+patch=1,EE,200C0240,extended,03E00008
+[P1 Press {R3} When Viewing Stats for Max Attack]
+patch=1,EE,200C0244,extended,8442000E
+[P1 Press {R3} When Viewing Stats for Max Attack]
+patch=1,EE,20104140,extended,0C03008C
+[>>> Ability Points In-Game Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[P1 Press {L1}+{SELECT} For More Ability Points P1]
+patch=1,EE,D07CB142,extended,0000FBFE
+[P1 Press {L1}+{SELECT} For More Ability Points P1]
+patch=1,EE,204D8BDC,extended,00000063
+[P1 Press {L2}+{SELECT} For No Ability Points P1]
+patch=1,EE,D07CB142,extended,0000FEFE
+[P1 Press {L2}+{SELECT} For No Ability Points P1]
+patch=1,EE,204D8BDC,extended,00010000
+[Always No Weight Carried]
+patch=1,EE,204D8C10,extended,00000000
+[Ability Points Are Worth 50]
+patch=1,EE,101C25D0,extended,00000032
+[Ability Points Are Worth 20]
+patch=1,EE,101C25D0,extended,00000014
+[Ability Points Are Worth 10]
+patch=1,EE,101C25D0,extended,0000000A
+[Ability Points Are Worth 5]
+patch=1,EE,101C25D0,extended,0000000A
+[Ability Points Are Worth 4]
+patch=1,EE,101C25D0,extended,00000004
+[Ability Points Are Worth 3]
+patch=1,EE,101C25D0,extended,00000003
+[Ability Points Are Worth 2]
+patch=1,EE,101C25D0,extended,0000000A
+[>>> Upgrade Spell Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Spells Gain 5 Levels]
+patch=1,EE,101C27A4,extended,00000005
+[Spells Gain 5 Levels]
+patch=1,EE,101C26DC,extended,00000005
+[Spells Gain 4 Levels]
+patch=1,EE,101C27A4,extended,00000004
+[Spells Gain 4 Levels]
+patch=1,EE,101C26DC,extended,00000004
+[Spells Gain 3 Levels]
+patch=1,EE,101C27A4,extended,00000003
+[Spells Gain 3 Levels]
+patch=1,EE,101C26DC,extended,00000003
+[Spells Gain 2 Levels]
+patch=1,EE,101C27A4,extended,00000002
+[Spells Gain 2 Levels]
+patch=1,EE,101C26DC,extended,00000002
+[>>> Create A New Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Points Remaining]
+patch=1,EE,10227B7E,extended,00001000
+[Infinite Points Remaining]
+patch=1,EE,208E2BB0,extended,000003E7
+[Ability Points Art Worth 10]
+patch=1,EE,10227D30,extended,0000000A
+[Ability Points Art Worth 5]
+patch=1,EE,10227D30,extended,00000005
+[Ability Points Art Worth 4]
+patch=1,EE,10227D30,extended,00000004
+[Ability Points Art Worth 3]
+patch=1,EE,10227D30,extended,00000003
+[Ability Points Art Worth 2]
+patch=1,EE,10227D30,extended,00000002
+[Remove Ability Points To Get More]
+patch=1,EE,10227E34,extended,00000002
+[>>> P1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Level]
+patch=1,EE,204D8B48,extended,00005050
+[Quick Exp Gain]
+patch=1,EE,104D8B4C,extended,0000FFFF
+[Max Exp]
+patch=1,EE,204D8B4C,extended,0098967E
+[Max Strength]
+patch=1,EE,204D8B68,extended,000003E7
+[Max Intelligence]
+patch=1,EE,204D8B6C,extended,000003E7
+[Max Dexterity]
+patch=1,EE,204D8B70,extended,000003E7
+[Max Stamina]
+patch=1,EE,204D8B74,extended,000003E7
+[Infinite Health]
+patch=1,EE,204D8B9C,extended,461C3C00
+[Max Health]
+patch=1,EE,204D8BA0,extended,461C3C00
+[Infinite Mana]
+patch=1,EE,204D8BB0,extended,461C3C00
+[Max Mana]
+patch=1,EE,204D8BB4,extended,461C3C00
+[Infinite Gold]
+patch=1,EE,104D8BD4,extended,0000FFFF
+[Max Gold]
+patch=1,EE,204D8BD4,extended,05F5E0FF
+[Infinite Points Remaining]
+patch=1,EE,204D8BD8,extended,00000063
+[>>> P2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Level]
+patch=1,EE,204DD778,extended,00005050
+[Quick Exp Gain]
+patch=1,EE,104DD77C,extended,0000FFFF
+[Max Exp]
+patch=1,EE,204DD77C,extended,0098967E
+[Max Strength]
+patch=1,EE,204DD798,extended,000003E7
+[Max Intelligence]
+patch=1,EE,204DD79C,extended,000003E7
+[Max Dexterity]
+patch=1,EE,204DD7A0,extended,000003E7
+[Max Stamina]
+patch=1,EE,204DD7A4,extended,000003E7
+[Infinite Health]
+patch=1,EE,204DD7CC,extended,461C3C00
+[Max Health]
+patch=1,EE,204DD7D0,extended,461C3C00
+[Infinite Mana]
+patch=1,EE,204DD7E0,extended,461C3C00
+[Max Mana]
+patch=1,EE,204DD7E4,extended,461C3C00
+[Infinite Gold]
+patch=1,EE,104DD804,extended,0000FFFF
+[Max Gold]
+patch=1,EE,204DD804,extended,05F5E0FF
+[Infinite Points Remaining]
+patch=1,EE,204DD808,extended,00000063
+[Always No Weight Carried]
+patch=1,EE,204DD840,extended,00000000
+[>>> P3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Level]
+patch=1,EE,204E23A8,extended,00005050
+[Quick Exp Gain]
+patch=1,EE,104E23AC,extended,0000FFFF
+[Max Exp]
+patch=1,EE,204E23AC,extended,0098967E
+[Max Strength]
+patch=1,EE,204E23C8,extended,000003E7
+[Max Intelligence]
+patch=1,EE,204E23CC,extended,000003E7
+[Max Dexterity]
+patch=1,EE,204E23D0,extended,000003E7
+[Max Stamina]
+patch=1,EE,204E23D4,extended,000003E7
+[Infinite Health]
+patch=1,EE,204E23FC,extended,461C3C00
+[Max Health]
+patch=1,EE,204E2400,extended,461C3C00
+[Infinite Mana]
+patch=1,EE,204E2410,extended,461C3C00
+[Max Mana]
+patch=1,EE,204E2414,extended,461C3C00
+[Infinite Gold]
+patch=1,EE,104E2434,extended,0000FFFF
+[Max Gold]
+patch=1,EE,204E2434,extended,05F5E0FF
+[Infinite Points Remaining]
+patch=1,EE,204E2438,extended,00000063
+[Always No Weight Carried]
+patch=1,EE,204E2470,extended,00000000
+[>>> P4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Level]
+patch=1,EE,204E6FD8,extended,00005050
+[Quick Exp Gain]
+patch=1,EE,104E6FDC,extended,0000FFFF
+[Max Exp]
+patch=1,EE,204E6FDC,extended,0098967E
+[Max Strength]
+patch=1,EE,204E6FF8,extended,000003E7
+[Max Intelligence]
+patch=1,EE,204E6FFC,extended,000003E7
+[Max Dexterity]
+patch=1,EE,204E7000,extended,000003E7
+[Max Stamina]
+patch=1,EE,204E7004,extended,000003E7
+[Infinite Health]
+patch=1,EE,204E702C,extended,461C3C00
+[Max Health]
+patch=1,EE,204E7030,extended,461C3C00
+[Infinite Mana]
+patch=1,EE,204E7040,extended,461C3C00
+[Max Mana]
+patch=1,EE,204E7044,extended,461C3C00
+[Infinite Gold]
+patch=1,EE,104E7064,extended,0000FFFF
+[Max Gold]
+patch=1,EE,204E7064,extended,05F5E0FF
+[Infinite Points Remaining]
+patch=1,EE,204E7068,extended,00000063
+[Always No Weight Carried]
+patch=1,EE,204E70A0,extended,00000000
+

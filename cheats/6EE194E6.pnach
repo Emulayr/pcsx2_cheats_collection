@@ -1,0 +1,12 @@
+gametitle=[SLUS-20599] Whiteout
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0011428F
+[Infinite Health]
+patch=1,EE,2029C6F8,extended,00000000
+[Quick Score Gain]
+patch=1,EE,202FBA00,extended,24C2270F
+[Hella Score Gain]
+patch=1,EE,202FBA00,extended,24C27FFF
+[Max Money (Career Mode)]
+patch=1,EE,208A1FDC,extended,4B18967F
+

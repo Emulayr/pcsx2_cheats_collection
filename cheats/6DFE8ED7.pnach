@@ -1,0 +1,274 @@
+gametitle=Incredibles-Rise Of The Underminer, The
+[Enable Code (Must Be On)]
+patch=1,EE,90113AE0,extended,0C047C42
+[Infinite Health]
+patch=1,EE,200C0220,extended,A441001C
+[Infinite Health]
+patch=1,EE,200C0224,extended,0808EF19
+[Infinite Health]
+patch=1,EE,200C0228,extended,8442001C
+[Infinite Health]
+patch=1,EE,2023BC58,extended,08030088
+[Infinite Health]
+patch=1,EE,2023BC5C,extended,8441001E
+[Max Health]
+patch=1,EE,200C0230,extended,A441001E
+[Max Health]
+patch=1,EE,200C0234,extended,0808EF2B
+[Max Health]
+patch=1,EE,200C0238,extended,8442001E
+[Max Health]
+patch=1,EE,2023BCA0,extended,0803008C
+[Max Health]
+patch=1,EE,2023BCA4,extended,240103E7
+[Display Pad Debug Info]
+patch=1,EE,20595FF0,extended,00000001
+[>>> Frozone Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max EXP]
+patch=1,EE,2065A300,extended,00006B6C
+[>>> Max Upgrade Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Ice Punch]
+patch=1,EE,2065A2EC,extended,00000002
+[Ice Glide]
+patch=1,EE,2065A2F0,extended,00000002
+[Freeze Ray]
+patch=1,EE,2065A2F4,extended,00000002
+[Health]
+patch=1,EE,2065A2F8,extended,00000002
+[Super Move]
+patch=1,EE,2065A2FC,extended,00000002
+[All Upgrades]
+patch=1,EE,4065A2EC,extended,00050001
+[All Upgrades]
+patch=1,EE,00000002,extended,00000000
+[>>> Mr. Incredible Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max EXP]
+patch=1,EE,2065B640,extended,00006B6C
+[>>> Max Upgrade Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Power Punch]
+patch=1,EE,2065B62C,extended,00000002
+[Incredi-Slam]
+patch=1,EE,2065B630,extended,00000002
+[Throw]
+patch=1,EE,2065B634,extended,00000002
+[Health]
+patch=1,EE,2065B638,extended,00000002
+[Super Move]
+patch=1,EE,2065B63C,extended,00000002
+[All Upgrades]
+patch=1,EE,4065B62C,extended,00050001
+[All Upgrades]
+patch=1,EE,00000002,extended,00000000
+[>>> Unlock Scene Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Underminer Threat]
+patch=1,EE,7065E6B4,extended,00000002
+[Digging Deeper]
+patch=1,EE,7065E6E4,extended,00000002
+[Sludge Station]
+patch=1,EE,7065E714,extended,00000002
+[Blizzard Backdoor]
+patch=1,EE,7065E744,extended,00000002
+[Magnomizer Guardian]
+patch=1,EE,7065E774,extended,00000002
+[Magnomizer]
+patch=1,EE,7065E7A4,extended,00000002
+[Giant Robot Factory]
+patch=1,EE,7065E7D4,extended,00000002
+[The Crustodian]
+patch=1,EE,7065E804,extended,00000002
+[Underwater Station]
+patch=1,EE,7065E834,extended,00000002
+[The Corrupterator]
+patch=1,EE,7065E864,extended,00000002
+[Last Ditch Effort]
+patch=1,EE,7065E894,extended,00000002
+[Metroville Melee-Mission 1]
+patch=1,EE,7065E8C4,extended,00000002
+[Metroville Melee-Mission 2]
+patch=1,EE,7065E8F4,extended,00000002
+[Metroville Melee-Mission 3]
+patch=1,EE,7065E924,extended,00000002
+[Furious Frozen Fight-Mission 1]
+patch=1,EE,7065E954,extended,00000002
+[Furious Frozen Fight-Mission 2]
+patch=1,EE,7065E984,extended,00000002
+[Furious Frozen Fight-Mission 3]
+patch=1,EE,7065E9B4,extended,00000002
+[Mechanical Mayhem-Mission 1]
+patch=1,EE,7065E9E4,extended,00000002
+[Mechanical Mayhem-Mission 2]
+patch=1,EE,7065EA14,extended,00000002
+[Mechanical Mayhem-Mission 3]
+patch=1,EE,7065EA44,extended,00000002
+[>>> Unlock Artwork Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Artwork 1]
+patch=1,EE,0065EF80,extended,00000001
+[Artwork 2]
+patch=1,EE,0065EF81,extended,00000001
+[Artwork 3]
+patch=1,EE,0065EF82,extended,00000001
+[Artwork 4]
+patch=1,EE,0065EF83,extended,00000001
+[Artwork 5]
+patch=1,EE,0065EF84,extended,00000001
+[Artwork 6]
+patch=1,EE,0065EF85,extended,00000001
+[Artwork 7]
+patch=1,EE,0065EF86,extended,00000001
+[Artwork 8]
+patch=1,EE,0065EF87,extended,00000001
+[Artwork 9]
+patch=1,EE,0065EF88,extended,00000001
+[Artwork 10]
+patch=1,EE,0065EF89,extended,00000001
+[Artwork 11]
+patch=1,EE,0065EF8A,extended,00000001
+[Artwork 12]
+patch=1,EE,0065EF8B,extended,00000001
+[Artwork 13]
+patch=1,EE,0065EF8C,extended,00000001
+[Artwork 14]
+patch=1,EE,0065EF8D,extended,00000001
+[Artwork 15]
+patch=1,EE,0065EF8E,extended,00000001
+[Artwork 16]
+patch=1,EE,0065EF8F,extended,00000001
+[Artwork 17]
+patch=1,EE,0065EF90,extended,00000001
+[Artwork 18]
+patch=1,EE,0065EF91,extended,00000001
+[Artwork 19]
+patch=1,EE,0065EF92,extended,00000001
+[Artwork 20]
+patch=1,EE,0065EF93,extended,00000001
+[Artwork 21]
+patch=1,EE,0065EF94,extended,00000001
+[Artwork 22]
+patch=1,EE,0065EF95,extended,00000001
+[Artwork 23]
+patch=1,EE,0065EF96,extended,00000001
+[Artwork 24]
+patch=1,EE,0065EF97,extended,00000001
+[Artwork 25]
+patch=1,EE,0065EF98,extended,00000001
+[Artwork 26]
+patch=1,EE,0065EF99,extended,00000001
+[Artwork 27]
+patch=1,EE,0065EF9A,extended,00000001
+[Artwork 28]
+patch=1,EE,0065EF9B,extended,00000001
+[Artwork 29]
+patch=1,EE,0065EF9C,extended,00000001
+[Artwork 30]
+patch=1,EE,0065EF9D,extended,00000001
+[Artwork 31]
+patch=1,EE,0065EF9E,extended,00000001
+[Artwork 32]
+patch=1,EE,0065EF9F,extended,00000001
+[Artwork 33]
+patch=1,EE,0065EFA0,extended,00000001
+[Artwork 34]
+patch=1,EE,0065EFA1,extended,00000001
+[Artwork 35]
+patch=1,EE,0065EFA2,extended,00000001
+[Artwork 36]
+patch=1,EE,0065EFA3,extended,00000001
+[Artwork 37]
+patch=1,EE,0065EFA4,extended,00000001
+[Artwork 38]
+patch=1,EE,0065EFA5,extended,00000001
+[Artwork 39]
+patch=1,EE,0065EFA6,extended,00000001
+[Artwork 40]
+patch=1,EE,0065EFA7,extended,00000001
+[Artwork 41]
+patch=1,EE,0065EFA8,extended,00000001
+[Artwork 42]
+patch=1,EE,0065EFA9,extended,00000001
+[Artwork 43]
+patch=1,EE,0065EFAA,extended,00000001
+[Artwork 44]
+patch=1,EE,0065EFAB,extended,00000001
+[Artwork 45]
+patch=1,EE,0065EFAC,extended,00000001
+[Artwork 46]
+patch=1,EE,0065EFAD,extended,00000001
+[Artwork 47]
+patch=1,EE,0065EFAE,extended,00000001
+[Artwork 48]
+patch=1,EE,0065EFAF,extended,00000001
+[Artwork 49]
+patch=1,EE,0065EFB0,extended,00000001
+[Artwork 50]
+patch=1,EE,0065EFB1,extended,00000001
+[Artwork 51]
+patch=1,EE,0065EFB2,extended,00000001
+[Artwork 52]
+patch=1,EE,0065EFB3,extended,00000001
+[Artwork 53]
+patch=1,EE,0065EFB4,extended,00000001
+[Artwork 54]
+patch=1,EE,0065EFB5,extended,00000001
+[Artwork 55]
+patch=1,EE,0065EFB6,extended,00000001
+[Artwork 56]
+patch=1,EE,0065EFB7,extended,00000001
+[Artwork 57]
+patch=1,EE,0065EFB8,extended,00000001
+[Artwork 58]
+patch=1,EE,0065EFB9,extended,00000001
+[Artwork 59]
+patch=1,EE,0065EFBA,extended,00000001
+[Artwork 60]
+patch=1,EE,0065EFBB,extended,00000001
+[Artwork 61]
+patch=1,EE,0065EFBC,extended,00000001
+[Artwork 62]
+patch=1,EE,0065EFBD,extended,00000001
+[Artwork 63]
+patch=1,EE,0065EFBE,extended,00000001
+[Artwork 64]
+patch=1,EE,0065EFBF,extended,00000001
+[Artwork 65]
+patch=1,EE,0065EFC0,extended,00000001
+[Artwork 66]
+patch=1,EE,0065EFC1,extended,00000001
+[Artwork 67]
+patch=1,EE,0065EFC2,extended,00000001
+[Artwork 68]
+patch=1,EE,0065EFC3,extended,00000001
+[Artwork 69]
+patch=1,EE,0065EFC4,extended,00000001
+[Artwork 70]
+patch=1,EE,0065EFC5,extended,00000001
+[Artwork 71]
+patch=1,EE,0065EFC6,extended,00000001
+[Artwork 72]
+patch=1,EE,0065EFC7,extended,00000001
+[Artwork 73]
+patch=1,EE,0065EFC8,extended,00000001
+[Artwork 74]
+patch=1,EE,0065EFC9,extended,00000001
+[Artwork 75]
+patch=1,EE,0065EFCA,extended,00000001
+[Artwork 76]
+patch=1,EE,0065EFCB,extended,00000001
+[Artwork 77]
+patch=1,EE,0065EFCC,extended,00000001
+[Artwork 78]
+patch=1,EE,0065EFCD,extended,00000001
+[Artwork 79]
+patch=1,EE,0065EFCE,extended,00000001
+[Artwork 80]
+patch=1,EE,0065EFCF,extended,00000001
+[All Artwork]
+patch=1,EE,4065EF80,extended,00140001
+[All Artwork]
+patch=1,EE,01010101,extended,00000000
+

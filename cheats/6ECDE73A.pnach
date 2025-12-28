@@ -1,0 +1,84 @@
+gametitle=Hypersonic Xtreme
+[Enable Code (Must Be On)]
+patch=1,EE,9023B96C,extended,0C06ACFA
+[Infinite Restart Races]
+patch=1,EE,20596948,extended,00000006
+[Super Widescreen]
+patch=1,EE,205969BC,extended,40000000
+[Widescreen]
+patch=1,EE,205969BC,extended,3FAA0000
+[Normal Screen]
+patch=1,EE,205969BC,extended,3F800000
+[Lesser Widescreen]
+patch=1,EE,205969BC,extended,3F400000
+[Always Low Time]
+patch=1,EE,20596AB4,extended,00000000
+[Always Low Time]
+patch=1,EE,20596AB8,extended,00000000
+[Weather Always On]
+patch=1,EE,20596A9C,extended,00000001
+[Weather Always On]
+patch=1,EE,205974AC,extended,00000001
+[Weather Always Off]
+patch=1,EE,20596A9C,extended,00000000
+[Weather Always Off]
+patch=1,EE,205974AC,extended,00000000
+[Have All Series]
+cheat0_code = "20599118 FFFFFFFF
+[Infinite Damage P1]
+patch=1,EE,10371958,extended,00000000
+[Infinite Turbo P1]
+patch=1,EE,0037196A,extended,00000080
+[No Turbo P1]
+patch=1,EE,0037196A,extended,00000000
+[Infinite Damage P2]
+patch=1,EE,10371DE4,extended,00000000
+[Infinite Turbo P2]
+patch=1,EE,00371DF6,extended,00000080
+[No Turbo P2]
+patch=1,EE,00371DF6,extended,00000000
+[>>> Max Points (Series Standings) Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Racer 1]
+patch=1,EE,205AC010,extended,000003E7
+[Racer 2]
+patch=1,EE,205AC014,extended,000003E7
+[Racer 3]
+patch=1,EE,205AC018,extended,000003E7
+[Racer 4]
+patch=1,EE,205AC01C,extended,000003E7
+[Racer 5]
+patch=1,EE,205AC020,extended,000003E7
+[Racer 6]
+patch=1,EE,205AC024,extended,000003E7
+[Racer 7]
+patch=1,EE,205AC028,extended,000003E7
+[Racer 8]
+patch=1,EE,205AC02C,extended,000003E7
+[Racer 9]
+patch=1,EE,205AC030,extended,000003E7
+[Racer 10]
+patch=1,EE,205AC034,extended,000003E7
+[>>> No Points (Series Standings) Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Racer 1]
+patch=1,EE,205AC010,extended,00000000
+[Racer 2]
+patch=1,EE,205AC014,extended,00000000
+[Racer 3]
+patch=1,EE,205AC018,extended,00000000
+[Racer 4]
+patch=1,EE,205AC01C,extended,00000000
+[Racer 5]
+patch=1,EE,205AC020,extended,00000000
+[Racer 6]
+patch=1,EE,205AC024,extended,00000000
+[Racer 7]
+patch=1,EE,205AC028,extended,00000000
+[Racer 8]
+patch=1,EE,205AC02C,extended,00000000
+[Racer 9]
+patch=1,EE,205AC030,extended,00000000
+[Racer 10]
+patch=1,EE,205AC034,extended,00000000
+

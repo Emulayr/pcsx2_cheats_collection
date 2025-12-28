@@ -1,0 +1,76 @@
+gametitle=Tom And Jerry-War Of The Whiskers
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0016B0D7
+[Infinite Health P1]
+patch=1,EE,21D558FC,extended,42C80000
+[75% Health P1]
+patch=1,EE,D1D558FE,extended,000042C8
+[75% Health P1]
+patch=1,EE,21D558FC,extended,42960000
+[50% Health P1]
+patch=1,EE,D1D558FE,extended,000042C8
+[50% Health P1]
+patch=1,EE,21D558FC,extended,42480000
+[25% Health P1]
+patch=1,EE,D1D558FE,extended,000042C8
+[25% Health P1]
+patch=1,EE,21D558FC,extended,41C80000
+[No Health P1]
+patch=1,EE,21D558FC,extended,00000000
+[1-Hit Death P1]
+patch=1,EE,D1D558FE,extended,000042C8
+[1-Hit Death P1]
+patch=1,EE,21D558FC,extended,3F800000
+[Max Berserk P1]
+patch=1,EE,21D558F0,extended,42C80000
+[No Berserk P1]
+patch=1,EE,21D558F0,extended,00000000
+[P1 Needs 1 Win To Win]
+patch=1,EE,D1D515E0,extended,00000000
+[P1 Needs 1 Win To Win]
+patch=1,EE,01D515E0,extended,00000001
+[P1 Needs 1 Win To Win]
+patch=1,EE,D1D515E0,extended,00000100
+[P1 Needs 1 Win To Win]
+patch=1,EE,01D515E0,extended,00000001
+[P1 Never Wins]
+patch=1,EE,01D515E0,extended,00000000
+[Infinite Health P2]
+patch=1,EE,21D5BD9C,extended,42C80000
+[75% Health P2]
+patch=1,EE,D1D5BD9E,extended,000042C8
+[75% Health P2]
+patch=1,EE,21D5BD9C,extended,42960000
+[50% Health P2]
+patch=1,EE,D1D5BD9E,extended,000042C8
+[50% Health P2]
+patch=1,EE,21D5BD9C,extended,42480000
+[25% Health P2]
+patch=1,EE,D1D5BD9E,extended,000042C8
+[25% Health P2]
+patch=1,EE,21D5BD9C,extended,41C80000
+[No Health P2]
+patch=1,EE,21D5BD9C,extended,00000000
+[1-Hit Death P2]
+patch=1,EE,D1D5BD9E,extended,000042C8
+[1-Hit Death P2]
+patch=1,EE,21D5BD9C,extended,3F800000
+[Max Berserk P2]
+patch=1,EE,21D5BD90,extended,42C80000
+[No Berserk P2]
+patch=1,EE,21D5BD90,extended,00000000
+[P2 Needs 1 Win To Win]
+patch=1,EE,D1D515E0,extended,00000000
+[P2 Needs 1 Win To Win]
+patch=1,EE,01D515E1,extended,00000001
+[P2 Needs 1 Win To Win]
+patch=1,EE,D1D515E0,extended,00000001
+[P2 Needs 1 Win To Win]
+patch=1,EE,01D515E1,extended,00000001
+[P2 Never Wins]
+patch=1,EE,01D515E1,extended,00000000
+[Unlock All Characters]
+patch=1,EE,4021CEE4,extended,000B0001
+[Unlock All Characters]
+patch=1,EE,00000001,extended,00000000
+

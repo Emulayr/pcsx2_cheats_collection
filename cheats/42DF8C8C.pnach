@@ -1,0 +1,228 @@
+gametitle=Destroy All Humans! 2-Make War Not Love
+[Enable Code (Must Be On)]
+patch=1,EE,90153008,extended,0C059C95
+[Infinite Health]
+patch=1,EE,200C0880,extended,8C8100D0
+[Infinite Health]
+patch=1,EE,200C0884,extended,01800008
+[Infinite Health]
+patch=1,EE,200C0888,extended,AC8100CC
+[Infinite Health]
+patch=1,EE,20205F78,extended,0C030220
+[Infinite Zap-O-Matic]
+patch=1,EE,202BAC28,extended,00000000
+[Infinite Zap-O-Matic]
+patch=1,EE,202BB544,extended,00000000
+[Infinite Dislocator]
+patch=1,EE,202AE0D4,extended,00000000
+[Infinite Jetpack]
+patch=1,EE,201EC188,extended,00000000
+[Super High Jetpack]
+patch=1,EE,201EC188,extended,00000000
+[Super High Jetpack]
+patch=1,EE,20501940,extended,40000000
+[Ultra High Jetpack]
+patch=1,EE,201EC188,extended,00000000
+[Ultra High Jetpack]
+patch=1,EE,20501940,extended,40800000
+[Infinite Anal Probe]
+patch=1,EE,20299F58,extended,00000000
+[Max Infinite Anal Probe]
+patch=1,EE,20299F54,extended,241103E7
+[Infinite Burrow Beast]
+patch=1,EE,202A0C94,extended,00000000
+[Max Infinite Burrow Beast]
+patch=1,EE,202A0C90,extended,241503E7
+[Infinite Disintegrator Ray]
+patch=1,EE,202AAAC0,extended,00000000
+[Max Infinite Disintegrator Ray]
+patch=1,EE,202AAABC,extended,241703E7
+[Infinite Ion Detonator/Gastro]
+patch=1,EE,202AFDAC,extended,00000000
+[Max Infinite Ion Detonator/Gastro]
+patch=1,EE,202AFDA8,extended,241103E7
+[Infinite Meteor Strike]
+patch=1,EE,202B6120,extended,00000000
+[Max Infinite Meteor Strike]
+patch=1,EE,202B611C,extended,240503E7
+[Infinite Mind Blast]
+patch=1,EE,203E4914,extended,00000000
+[>>> Alert Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Alert Level Never Increases]
+patch=1,EE,201D6488,extended,AE000098
+[Alert Level Always Level 0]
+patch=1,EE,200C0880,extended,240D0000
+[Alert Level Always Level 0]
+patch=1,EE,200C0884,extended,03E00008
+[Alert Level Always Level 0]
+patch=1,EE,200C0888,extended,ADED0098
+[Alert Level Always Level 0]
+patch=1,EE,20205244,extended,0C030220
+[Alert Level Always Level 1]
+patch=1,EE,200C0880,extended,240D0001
+[Alert Level Always Level 1]
+patch=1,EE,200C0884,extended,03E00008
+[Alert Level Always Level 1]
+patch=1,EE,200C0888,extended,ADED0098
+[Alert Level Always Level 1]
+patch=1,EE,20205244,extended,0C030220
+[Alert Level Always Level 2]
+patch=1,EE,200C0880,extended,240D0002
+[Alert Level Always Level 2]
+patch=1,EE,200C0884,extended,03E00008
+[Alert Level Always Level 2]
+patch=1,EE,200C0888,extended,ADED0098
+[Alert Level Always Level 2]
+patch=1,EE,20205244,extended,0C030220
+[Alert Level Always Level 3]
+patch=1,EE,200C0880,extended,240D0003
+[Alert Level Always Level 3]
+patch=1,EE,200C0884,extended,03E00008
+[Alert Level Always Level 3]
+patch=1,EE,200C0888,extended,ADED0098
+[Alert Level Always Level 3]
+patch=1,EE,20205244,extended,0C030220
+[Alert Level Always Level 4]
+patch=1,EE,200C0880,extended,240D0004
+[Alert Level Always Level 4]
+patch=1,EE,200C0884,extended,03E00008
+[Alert Level Always Level 4]
+patch=1,EE,200C0888,extended,ADED0098
+[Alert Level Always Level 4]
+patch=1,EE,20205244,extended,0C030220
+[Alert Level Always Level 5]
+patch=1,EE,200C0880,extended,240D0005
+[Alert Level Always Level 5]
+patch=1,EE,200C0884,extended,03E00008
+[Alert Level Always Level 5]
+patch=1,EE,200C0888,extended,ADED0098
+[Alert Level Always Level 5]
+patch=1,EE,20205244,extended,0C030220
+[>>> Saucer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Cloak]
+patch=1,EE,202553D4,extended,00000000
+[Infinite Cloak]
+patch=1,EE,20255248,extended,00000000
+[Infinite Cloak]
+patch=1,EE,2025524C,extended,00000000
+[Infinite Cloak]
+patch=1,EE,202554E4,extended,00000000
+[Infinite Death Ray]
+patch=1,EE,202A2F18,extended,00000000
+[Infinite Ammo-All Other Weapons]
+patch=1,EE,202B5054,extended,00000000
+[Max Infinite Ammo-All Other Weapons]
+patch=1,EE,202B5050,extended,241003E7
+[>>> Invasion Report Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0800,extended,3C010050
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0804,extended,8C24276C
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0808,extended,1080000E
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C080C,extended,24843E18
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0810,extended,3C05000C
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0814,extended,24060100
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0818,extended,8C810000
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C081C,extended,10200009
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0820,extended,8CA30000
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0824,extended,8CA70004
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0828,extended,50230004
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C082C,extended,AC870008
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0830,extended,24C6FFFF
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0834,extended,1CC0FFF8
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0838,extended,24A50008
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C083C,extended,1000FFF4
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0840,extended,2484000C
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0844,extended,03E00008
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200C0848,extended,00000000
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,20153054,extended,08030200
+[Max Jetpack Upgrades]
+patch=1,EE,200C0700,extended,A9CD1442
+[Max Jetpack Upgrades]
+patch=1,EE,200C0704,extended,00000002
+[Max Crypto's Shields Upgrades]
+patch=1,EE,200C0700,extended,010C29F9
+[Max Crypto's Shields Upgrades]
+patch=1,EE,200C0704,extended,00000003
+[>>> Bay City Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Datacores Recovered]
+patch=1,EE,200C0000,extended,09D61EBE
+[Have All Datacores Recovered]
+patch=1,EE,200C0004,extended,00000007
+[Have All Furotech Cells Retrieved]
+patch=1,EE,200C0008,extended,02DCFC18
+[Have All Furotech Cells Retrieved]
+patch=1,EE,200C000C,extended,00000028
+[Have All Alien Artifacts]
+patch=1,EE,200C0010,extended,280BB42C
+[Have All Alien Artifacts]
+patch=1,EE,200C0014,extended,0000000A
+[>>> Pox-Mart Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0800,extended,3C010050
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0804,extended,8C24276C
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0808,extended,1080000E
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E080C,extended,24843214
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0810,extended,3C05000E
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0814,extended,24060100
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0818,extended,8C810000
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E081C,extended,10200009
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0820,extended,8CA30000
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0824,extended,8CA70004
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0828,extended,50230004
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E082C,extended,AC870008
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0830,extended,24C6FFFF
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0834,extended,1CC0FFF8
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0838,extended,24A50008
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E083C,extended,1000FFF4
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0840,extended,2484000C
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0844,extended,03E00008
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,200E0848,extended,00000000
+[Activation Code (Must Be On For Below Codes)]
+patch=1,EE,2015347C,extended,08038200
+[Max Upgrade Points]
+patch=1,EE,200E0000,extended,4829C177
+[Max Upgrade Points]
+patch=1,EE,200E0004,extended,4479C000
+

@@ -1,0 +1,44 @@
+gametitle=[SLUS-21222] Top Spin
+[Enable Code (Must Be On)]
+patch=1,EE,90133F20,extended,00832021
+[Display FPS]
+patch=1,EE,2059073C,extended,00000001
+[Display Memory Usage]
+patch=1,EE,20590744,extended,00000001
+[All Points Score For Team 1]
+patch=1,EE,E001802D,extended,0062ECD4
+[All Points Score For Team 1]
+patch=1,EE,2062ECF4,extended,24050000
+[All Points Score For Team 2]
+patch=1,EE,E001802D,extended,0062ECD4
+[All Points Score For Team 2]
+patch=1,EE,2062ECF4,extended,24050001
+[Score Once To Win]
+patch=1,EE,E001802D,extended,0062ECD4
+[Score Once To Win]
+patch=1,EE,2062ED2C,extended,24020004
+[All Matches Score For Team 1]
+patch=1,EE,E001802D,extended,0062EB78
+[All Matches Score For Team 1]
+patch=1,EE,2062EB8C,extended,24420000
+[All Matches Score For Team 2]
+patch=1,EE,E001802D,extended,0062EB78
+[All Matches Score For Team 2]
+patch=1,EE,2062EB8C,extended,24420001
+[>>> Career Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Buying Shop Items Doesnt Decrease Coins]
+patch=1,EE,E001282D,extended,006F4700
+[Buying Shop Items Doesnt Decrease Coins]
+patch=1,EE,206F472C,extended,00000000
+[Buying Shop Items Increases Coins]
+patch=1,EE,E001282D,extended,006F4700
+[Buying Shop Items Increases Coins]
+patch=1,EE,206F4728,extended,00621021
+[Buying Shop Items Increases Coins To Max]
+patch=1,EE,E002282D,extended,006F4700
+[Buying Shop Items Increases Coins To Max]
+patch=1,EE,206F4718,extended,3C0205F5
+[Buying Shop Items Increases Coins To Max]
+patch=1,EE,206F4728,extended,3442E0FF
+

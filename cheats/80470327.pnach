@@ -1,0 +1,261 @@
+gametitle=Wakeboarding Unleashed-Shaun Murray
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,00298AD7
+[Infinite Time]
+patch=1,EE,20258204,extended,00000000
+[Quick Score Gain]
+patch=1,EE,201685EC,extended,2406270F
+[Quick Score Gain]
+patch=1,EE,201685F0,extended,44860800
+[Hella Quick Score Gain]
+patch=1,EE,201685EC,extended,3406FFFF
+[Hella Quick Score Gain]
+patch=1,EE,201685F0,extended,44860800
+[Max Score]
+patch=1,EE,20385424,extended,4E6E6B28
+[Infinite Special Meter (Upon Fillup)]
+patch=1,EE,201EE1FC,extended,00000000
+[Infinite Groove Meter]
+patch=1,EE,201EEAB0,extended,00000000
+[Unlock All Boards]
+cheat0_code = "21FB4C98 FFFFFFFF
+[Unlock All Characters]
+cheat0_code = "21FB4CB0 FFFFFFFF
+[Unlock All Videos]
+cheat0_code = "21FB4CB4 FFFFFFFF
+[Always Perfect Boardslide Balance]
+patch=1,EE,2013FAD4,extended,00000000
+[Always Perfect Normal Balance]
+patch=1,EE,2014D218,extended,00000000
+[Easier Trick Mode]
+patch=1,EE,20385420,extended,4479C000
+[Easier Trick Mode]
+patch=1,EE,20385448,extended,4479C000
+[>>> Shaun Murray Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34C0,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB33A8,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Cobe Mikacich Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34C4,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB33C4,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Collin Wright Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34C8,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB33E0,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Dallas Friday Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34CC,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB33FC,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Darin Shapiro Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34D0,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB3418,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Parks Bonifay Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34D4,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB3434,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Tara Hamilton Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34D8,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB3450,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Summer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34DC,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB346C,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Jordan Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34E0,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB3490,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Sensei Shaun Murray Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Stat Points]
+patch=1,EE,21FB34E4,extended,00000063
+[Max All Stats]
+patch=1,EE,41FB34A4,extended,00070001
+[Max All Stats]
+patch=1,EE,0000000A,extended,00000000
+[>>> Training Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+[Challenge 1]
+patch=1,EE,21FAF9C0,extended,00000001
+[>>> Lake Powell Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenge Completed]
+patch=1,EE,41FAFA10,extended,00090001
+[Have All Challenge Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB0040,extended,00100001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF510,extended,00060001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> The Bayou Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFA60,extended,00090001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB01C0,extended,00270001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF560,extended,00080001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Springfield Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFAB0,extended,00080001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB0340,extended,00140001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF5B0,extended,00080001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Florida Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFB00,extended,00080001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Hong Kong Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFB50,extended,00080001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB0640,extended,00140001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF650,extended,00080001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Belize Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFBA0,extended,00080001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB07C0,extended,00130001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF6A0,extended,00080001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Venice Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFBF0,extended,00090001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB0940,extended,00140001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF6F0,extended,00080001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> The Delta Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFC40,extended,00090001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> The Boneyard Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFC90,extended,00090001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB0C40,extended,00350001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF790,extended,00090001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Timber Lake Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFCE0,extended,00090001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB0DC0,extended,003B0001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF7E0,extended,00090001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Ocean World Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,41FAFD30,extended,00090001
+[Have All Challenges Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Gaps Completed]
+patch=1,EE,41FB0F40,extended,00270001
+[Have All Gaps Completed]
+patch=1,EE,00000001,extended,00000000
+[Have All Objectives Completed]
+patch=1,EE,41FAF830,extended,00070001
+[Have All Objectives Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Credits Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Challenges Completed]
+patch=1,EE,21FAFE70,extended,00000001
+

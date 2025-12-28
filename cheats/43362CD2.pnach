@@ -1,0 +1,20 @@
+gametitle=Warriors Of Might & Magic
+[Enable Code (Must Be On)]
+patch=1,EE,903033C4,extended,0C0BC9A2
+[Items Worth 2]
+patch=1,EE,2018ED94,extended,24630002
+[Items Worth 5]
+patch=1,EE,2018ED94,extended,24630005
+[Max Items After 2 Pickups]
+patch=1,EE,2018ED94,extended,2403270F
+[Infinite Health]
+patch=1,EE,20238104,extended,E6000028
+[Infinite Mana]
+patch=1,EE,202380D8,extended,00401821
+[Infinite Level Up Points]
+patch=1,EE,20452A8C,extended,0000000A
+[Infinite Level Up Points]
+patch=1,EE,20452A90,extended,0000000A
+[Have All Spells]
+patch=1,EE,20467DE4,extended,3FFFFFFF
+

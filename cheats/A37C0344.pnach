@@ -1,0 +1,364 @@
+gametitle=[SLUS-20335] Mat Hoffman's Pro BMX 2
+[Enable Code (Must Be On)]
+patch=1,EE,903AAD74,extended,0C0E7706
+[Unlock Tiki Battle]
+patch=1,EE,208DD6C4,extended,00000001
+[>>> Unlock Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Vanessa]
+patch=1,EE,D08DD668,extended,00000001
+[Vanessa]
+patch=1,EE,208DD66C,extended,00000001
+[Mime]
+patch=1,EE,D08DD668,extended,00000001
+[Mime]
+patch=1,EE,208DD674,extended,00000001
+[Day Smith]
+patch=1,EE,D08DD668,extended,00000001
+[Day Smith]
+patch=1,EE,208DD680,extended,00000001
+[Volcano]
+patch=1,EE,D08DD668,extended,00000001
+[Volcano]
+patch=1,EE,208DD688,extended,00000001
+[Bigfoot]
+patch=1,EE,D08DD668,extended,00000001
+[Bigfoot]
+patch=1,EE,208DD698,extended,00000001
+[>>> Unlock Music Playlist Media Songs <<<]
+patch=1,EE,00000000,extended,00000000
+[Bomfunk-Freestyler]
+patch=1,EE,208DD6A4,extended,00000001
+[Gang Of Four-Damaged Goods]
+patch=1,EE,208DD6A8,extended,00000001
+[Ice T & Chris Glove Taylor-Reckless]
+patch=1,EE,208DD6AC,extended,00000001
+[MC Cool Rock-Boot The Booty]
+patch=1,EE,208DD6B0,extended,00000001
+[Jazzhole-Forward Motion]
+patch=1,EE,208DD6B4,extended,00000001
+[Nerd-Rock Star]
+patch=1,EE,208DD6B8,extended,00000001
+[Bad Ronald-All A Dream]
+patch=1,EE,208DD6BC,extended,00000001
+[>>> Mat Hoffman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208DD918,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208DDF44,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208DDF48,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208DDF50,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208DDF54,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208DDF58,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208DDF20,extended,00000001
+[Chicago, IL]
+patch=1,EE,208DDF24,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208DDF28,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208DDF2C,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208DDF30,extended,00000001
+[Portland, OR]
+patch=1,EE,208DDF34,extended,00000001
+[Boston, MA]
+patch=1,EE,208DDF38,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208DDF3C,extended,00000001
+[>>> Joe Kowalski Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208DF8B0,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208DFEDC,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208DFEE0,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208DFEE8,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208DFEEC,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208DFEF0,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208DFEB8,extended,00000001
+[Chicago, IL]
+patch=1,EE,208DFEBC,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208DFEC0,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208DFEC4,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208DFEC8,extended,00000001
+[Portland, OR]
+patch=1,EE,208DFECC,extended,00000001
+[Boston, MA]
+patch=1,EE,208DFED0,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208DFED4,extended,00000001
+[>>> Rick Thorne Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208E1848,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208E1E74,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208E1E78,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208E1E80,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208E1E84,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208E1E88,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208E1E50,extended,00000001
+[Chicago, IL]
+patch=1,EE,208E1E54,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208E1E58,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208E1E5C,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208E1E60,extended,00000001
+[Portland, OR]
+patch=1,EE,208E1E64,extended,00000001
+[Boston, MA]
+patch=1,EE,208E1E68,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208E1E6C,extended,00000001
+[>>> Mike Escamilla Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208E37E0,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208E3E0C,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208E3E10,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208E3E18,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208E3E1C,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208E3E20,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208E3DE8,extended,00000001
+[Chicago, IL]
+patch=1,EE,208E3DEC,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208E3DF0,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208E3DF4,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208E3DF8,extended,00000001
+[Portland, OR]
+patch=1,EE,208E3DFC,extended,00000001
+[Boston, MA]
+patch=1,EE,208E3E00,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208E3E04,extended,00000001
+[>>> Simon Tabron Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208E5778,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208E5DA4,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208E5DA8,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208E5DB0,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208E5DB4,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208E5DB8,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208E5D80,extended,00000001
+[Chicago, IL]
+patch=1,EE,208E5D84,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208E5D88,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208E5D8C,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208E5D90,extended,00000001
+[Portland, OR]
+patch=1,EE,208E5D94,extended,00000001
+[Boston, MA]
+patch=1,EE,208E5D98,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208E5D9C,extended,00000001
+[>>> Kevin Robinson Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208E7710,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208E7D3C,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208E7D40,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208E7D48,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208E7D4C,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208E7D50,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208E7D18,extended,00000001
+[Chicago, IL]
+patch=1,EE,208E7D1C,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208E7D20,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208E7D24,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208E7D28,extended,00000001
+[Portland, OR]
+patch=1,EE,208E7D2C,extended,00000001
+[Boston, MA]
+patch=1,EE,208E7D30,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208E7D34,extended,00000001
+[>>> Cory Nastazio Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208E96A8,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208E9CD4,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208E9CD8,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208E9CE0,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208E9CE4,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208E9CE8,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208E9CB0,extended,00000001
+[Chicago, IL]
+patch=1,EE,208E9CB4,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208E9CB8,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208E9CBC,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208E9CC0,extended,00000001
+[Portland, OR]
+patch=1,EE,208E9CC4,extended,00000001
+[Boston, MA]
+patch=1,EE,208E9CC8,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208E9CCC,extended,00000001
+[>>> Ruben Alcantara Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208EB640,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208EBC6C,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208EBC70,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208EBC78,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208EBC7C,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208EBC80,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208EBC48,extended,00000001
+[Chicago, IL]
+patch=1,EE,208EBC4C,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208EBC50,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208EBC54,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208EBC58,extended,00000001
+[Portland, OR]
+patch=1,EE,208EBC5C,extended,00000001
+[Boston, MA]
+patch=1,EE,208EBC60,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208EBC64,extended,00000001
+[>>> Seth Kimbrough Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208ED5D8,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208EDC04,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208EDC08,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208EDC10,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208EDC14,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208EDC18,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208EDBE0,extended,00000001
+[Chicago, IL]
+patch=1,EE,208EDBE4,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208EDBE8,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208EDBEC,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208EDBF0,extended,00000001
+[Portland, OR]
+patch=1,EE,208EDBF4,extended,00000001
+[Boston, MA]
+patch=1,EE,208EDBF8,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208EDBFC,extended,00000001
+[>>> Nate Wessel Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points-Road Trip]
+patch=1,EE,208EF570,extended,0000270F
+[Have Extra Bike 1]
+patch=1,EE,208EFB9C,extended,00000001
+[Have Extra Bike 2]
+patch=1,EE,208EFBA0,extended,00000001
+[Have Extra Outfit 1]
+patch=1,EE,208EFBA8,extended,00000001
+[Have Extra Outfit 2]
+patch=1,EE,208EFBAC,extended,00000001
+[Have Extra Outfit 3]
+patch=1,EE,208EFBB0,extended,00000001
+[>>> Unlock Road Trip Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[OK City, OK]
+patch=1,EE,208EFB78,extended,00000001
+[Chicago, IL]
+patch=1,EE,208EFB7C,extended,00000001
+[Los Angeles, CA]
+patch=1,EE,208EFB80,extended,00000001
+[Las Vegas, NV]
+patch=1,EE,208EFB84,extended,00000001
+[New Orleans, LA]
+patch=1,EE,208EFB88,extended,00000001
+[Portland, OR]
+patch=1,EE,208EFB8C,extended,00000001
+[Boston, MA]
+patch=1,EE,208EFB90,extended,00000001
+[Tiki Park, HI]
+patch=1,EE,208EFB94,extended,00000001
+

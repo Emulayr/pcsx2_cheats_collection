@@ -1,0 +1,18 @@
+gametitle=Thunderstrike-Operation Phoenix (Version 1.0)
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,00151DC7
+[Never Overheat]
+patch=1,EE,10565364,extended,00000000
+[Infinite Armor]
+patch=1,EE,20565374,extended,437A0000
+[Have Rapid Missile Fire]
+patch=1,EE,10565360,extended,00000000
+[>>> Infinite Ammo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Weapon 1]
+patch=1,EE,10423120,extended,00000063
+[Weapon 2]
+patch=1,EE,10423124,extended,00000063
+[Weapon 3]
+patch=1,EE,10423128,extended,00000063
+

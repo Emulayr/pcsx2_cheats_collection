@@ -1,0 +1,1022 @@
+gametitle=Stacked-With Daniel Negreanu
+[Enable Code (Must Be On)]
+patch=1,EE,90418518,extended,00832021
+[No Money (Player)]
+patch=1,EE,20605280,extended,00000000
+[Infinite Money (Player)]
+patch=1,EE,10605280,extended,0000FFFF
+[Max Money (Player)]
+patch=1,EE,20605280,extended,05F5E0FF
+[Do Not Lose Money From Bets]
+patch=1,EE,2015D60C,extended,00000000
+[Gain Money From Bets]
+patch=1,EE,2015D5FC,extended,00C3302D
+[No Money (All Dealers/CPU)]
+patch=1,EE,40605308,extended,007D0022
+[No Money (All Dealers/CPU)]
+patch=1,EE,00000000,extended,00000000
+[Max Money (All Dealers/CPU)]
+patch=1,EE,40605308,extended,007D0022
+[Max Money (All Dealers/CPU)]
+patch=1,EE,05F5E0FF,extended,00000000
+[>>> Dealer 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605308,extended,00000000
+[Infinite Money]
+patch=1,EE,10605308,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605308,extended,05F5E0FF
+[>>> Dealer 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605390,extended,00000000
+[Infinite Money]
+patch=1,EE,10605390,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605390,extended,05F5E0FF
+[>>> Dealer 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605418,extended,00000000
+[Infinite Money]
+patch=1,EE,10605418,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605418,extended,05F5E0FF
+[>>> Dealer 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206054A0,extended,00000000
+[Infinite Money]
+patch=1,EE,106054A0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206054A0,extended,05F5E0FF
+[>>> Dealer 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605528,extended,00000000
+[Infinite Money]
+patch=1,EE,10605528,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605528,extended,05F5E0FF
+[>>> Dealer 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206055B0,extended,00000000
+[Infinite Money]
+patch=1,EE,106055B0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206055B0,extended,05F5E0FF
+[>>> Dealer 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605638,extended,00000000
+[Infinite Money]
+patch=1,EE,10605638,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605638,extended,05F5E0FF
+[>>> Dealer 8 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206056C0,extended,00000000
+[Infinite Money]
+patch=1,EE,106056C0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206056C0,extended,05F5E0FF
+[>>> Dealer 9 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605748,extended,00000000
+[Infinite Money]
+patch=1,EE,10605748,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605748,extended,05F5E0FF
+[>>> Dealer 10 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206057D0,extended,00000000
+[Infinite Money]
+patch=1,EE,106057D0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206057D0,extended,05F5E0FF
+[>>> CPU 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605858,extended,00000000
+[Infinite Money]
+patch=1,EE,10605858,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605858,extended,05F5E0FF
+[>>> CPU 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206058E0,extended,00000000
+[Infinite Money]
+patch=1,EE,106058E0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206058E0,extended,05F5E0FF
+[>>> CPU 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605968,extended,00000000
+[Infinite Money]
+patch=1,EE,10605968,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605968,extended,05F5E0FF
+[>>> CPU 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206059F0,extended,00000000
+[Infinite Money]
+patch=1,EE,106059F0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206059F0,extended,05F5E0FF
+[>>> CPU 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605A78,extended,00000000
+[Infinite Money]
+patch=1,EE,10605A78,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605A78,extended,05F5E0FF
+[>>> CPU 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605B00,extended,00000000
+[Infinite Money]
+patch=1,EE,10605B00,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605B00,extended,05F5E0FF
+[>>> CPU 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605B88,extended,00000000
+[Infinite Money]
+patch=1,EE,10605B88,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605B88,extended,05F5E0FF
+[>>> CPU 8 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605C10,extended,00000000
+[Infinite Money]
+patch=1,EE,10605C10,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605C10,extended,05F5E0FF
+[>>> CPU 9 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605C98,extended,00000000
+[Infinite Money]
+patch=1,EE,10605C98,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605C98,extended,05F5E0FF
+[>>> CPU 10 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605D20,extended,00000000
+[Infinite Money]
+patch=1,EE,10605D20,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605D20,extended,05F5E0FF
+[>>> CPU 11 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605DA8,extended,00000000
+[Infinite Money]
+patch=1,EE,10605DA8,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605DA8,extended,05F5E0FF
+[>>> CPU 12 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605E30,extended,00000000
+[Infinite Money]
+patch=1,EE,10605E30,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605E30,extended,05F5E0FF
+[>>> CPU 13 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605EB8,extended,00000000
+[Infinite Money]
+patch=1,EE,10605EB8,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605EB8,extended,05F5E0FF
+[>>> CPU 14 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605F40,extended,00000000
+[Infinite Money]
+patch=1,EE,10605F40,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605F40,extended,05F5E0FF
+[>>> CPU 15 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20605FC8,extended,00000000
+[Infinite Money]
+patch=1,EE,10605FC8,extended,0000FFFF
+[Max Money]
+patch=1,EE,20605FC8,extended,05F5E0FF
+[>>> CPU 16 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606050,extended,00000000
+[Infinite Money]
+patch=1,EE,10606050,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606050,extended,05F5E0FF
+[>>> CPU 17 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206060D8,extended,00000000
+[Infinite Money]
+patch=1,EE,106060D8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206060D8,extended,05F5E0FF
+[>>> CPU 18 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606160,extended,00000000
+[Infinite Money]
+patch=1,EE,10606160,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606160,extended,05F5E0FF
+[>>> CPU 19 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206061E8,extended,00000000
+[Infinite Money]
+patch=1,EE,106061E8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206061E8,extended,05F5E0FF
+[>>> CPU 20 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606270,extended,00000000
+[Infinite Money]
+patch=1,EE,10606270,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606270,extended,05F5E0FF
+[>>> CPU 21 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206062F8,extended,00000000
+[Infinite Money]
+patch=1,EE,106062F8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206062F8,extended,05F5E0FF
+[>>> CPU 22 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606380,extended,00000000
+[Infinite Money]
+patch=1,EE,10606380,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606380,extended,05F5E0FF
+[>>> CPU 23 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606408,extended,00000000
+[Infinite Money]
+patch=1,EE,10606408,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606408,extended,05F5E0FF
+[>>> CPU 24 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606490,extended,00000000
+[Infinite Money]
+patch=1,EE,10606490,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606490,extended,05F5E0FF
+[>>> CPU 25 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606518,extended,00000000
+[Infinite Money]
+patch=1,EE,10606518,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606518,extended,05F5E0FF
+[>>> CPU 26 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206065A0,extended,00000000
+[Infinite Money]
+patch=1,EE,106065A0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206065A0,extended,05F5E0FF
+[>>> CPU 27 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606628,extended,00000000
+[Infinite Money]
+patch=1,EE,10606628,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606628,extended,05F5E0FF
+[>>> CPU 28 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206066B0,extended,00000000
+[Infinite Money]
+patch=1,EE,106066B0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206066B0,extended,05F5E0FF
+[>>> CPU 29 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606738,extended,00000000
+[Infinite Money]
+patch=1,EE,10606738,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606738,extended,05F5E0FF
+[>>> CPU 30 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206067C0,extended,00000000
+[Infinite Money]
+patch=1,EE,106067C0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206067C0,extended,05F5E0FF
+[>>> CPU 31 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606848,extended,00000000
+[Infinite Money]
+patch=1,EE,10606848,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606848,extended,05F5E0FF
+[>>> CPU 32 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206068D0,extended,00000000
+[Infinite Money]
+patch=1,EE,106068D0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206068D0,extended,05F5E0FF
+[>>> CPU 33 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606958,extended,00000000
+[Infinite Money]
+patch=1,EE,10606958,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606958,extended,05F5E0FF
+[>>> CPU 34 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206069E0,extended,00000000
+[Infinite Money]
+patch=1,EE,106069E0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206069E0,extended,05F5E0FF
+[>>> CPU 35 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606A68,extended,00000000
+[Infinite Money]
+patch=1,EE,10606A68,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606A68,extended,05F5E0FF
+[>>> CPU 36 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606AF0,extended,00000000
+[Infinite Money]
+patch=1,EE,10606AF0,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606AF0,extended,05F5E0FF
+[>>> CPU 37 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606B78,extended,00000000
+[Infinite Money]
+patch=1,EE,10606B78,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606B78,extended,05F5E0FF
+[>>> CPU 38 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606C00,extended,00000000
+[Infinite Money]
+patch=1,EE,10606C00,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606C00,extended,05F5E0FF
+[>>> CPU 39 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606C88,extended,00000000
+[Infinite Money]
+patch=1,EE,10606C88,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606C88,extended,05F5E0FF
+[>>> CPU 40 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606D10,extended,00000000
+[Infinite Money]
+patch=1,EE,10606D10,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606D10,extended,05F5E0FF
+[>>> CPU 41 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606D98,extended,00000000
+[Infinite Money]
+patch=1,EE,10606D98,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606D98,extended,05F5E0FF
+[>>> CPU 42 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606E20,extended,00000000
+[Infinite Money]
+patch=1,EE,10606E20,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606E20,extended,05F5E0FF
+[>>> CPU 43 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606EA8,extended,00000000
+[Infinite Money]
+patch=1,EE,10606EA8,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606EA8,extended,05F5E0FF
+[>>> CPU 44 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606F30,extended,00000000
+[Infinite Money]
+patch=1,EE,10606F30,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606F30,extended,05F5E0FF
+[>>> CPU 45 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20606FB8,extended,00000000
+[Infinite Money]
+patch=1,EE,10606FB8,extended,0000FFFF
+[Max Money]
+patch=1,EE,20606FB8,extended,05F5E0FF
+[>>> CPU 46 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607040,extended,00000000
+[Infinite Money]
+patch=1,EE,10607040,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607040,extended,05F5E0FF
+[>>> CPU 47 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206070C8,extended,00000000
+[Infinite Money]
+patch=1,EE,106070C8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206070C8,extended,05F5E0FF
+[>>> CPU 48 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607150,extended,00000000
+[Infinite Money]
+patch=1,EE,10607150,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607150,extended,05F5E0FF
+[>>> CPU 49 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206071D8,extended,00000000
+[Infinite Money]
+patch=1,EE,106071D8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206071D8,extended,05F5E0FF
+[>>> CPU 50 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607260,extended,00000000
+[Infinite Money]
+patch=1,EE,10607260,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607260,extended,05F5E0FF
+[>>> CPU 51 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206072E8,extended,00000000
+[Infinite Money]
+patch=1,EE,106072E8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206072E8,extended,05F5E0FF
+[>>> CPU 52 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607370,extended,00000000
+[Infinite Money]
+patch=1,EE,10607370,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607370,extended,05F5E0FF
+[>>> CPU 53 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206073F8,extended,00000000
+[Infinite Money]
+patch=1,EE,106073F8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206073F8,extended,05F5E0FF
+[>>> CPU 54 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607480,extended,00000000
+[Infinite Money]
+patch=1,EE,10607480,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607480,extended,05F5E0FF
+[>>> CPU 55 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607508,extended,00000000
+[Infinite Money]
+patch=1,EE,10607508,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607508,extended,05F5E0FF
+[>>> CPU 56 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607590,extended,00000000
+[Infinite Money]
+patch=1,EE,10607590,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607590,extended,05F5E0FF
+[>>> CPU 57 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607618,extended,00000000
+[Infinite Money]
+patch=1,EE,10607618,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607618,extended,05F5E0FF
+[>>> CPU 58 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206076A0,extended,00000000
+[Infinite Money]
+patch=1,EE,106076A0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206076A0,extended,05F5E0FF
+[>>> CPU 59 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607728,extended,00000000
+[Infinite Money]
+patch=1,EE,10607728,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607728,extended,05F5E0FF
+[>>> CPU 60 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206077B0,extended,00000000
+[Infinite Money]
+patch=1,EE,106077B0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206077B0,extended,05F5E0FF
+[>>> CPU 61 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607838,extended,00000000
+[Infinite Money]
+patch=1,EE,10607838,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607838,extended,05F5E0FF
+[>>> CPU 62 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206078C0,extended,00000000
+[Infinite Money]
+patch=1,EE,106078C0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206078C0,extended,05F5E0FF
+[>>> CPU 63 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607948,extended,00000000
+[Infinite Money]
+patch=1,EE,10607948,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607948,extended,05F5E0FF
+[>>> CPU 64 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206079D0,extended,00000000
+[Infinite Money]
+patch=1,EE,106079D0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206079D0,extended,05F5E0FF
+[>>> CPU 65 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607A58,extended,00000000
+[Infinite Money]
+patch=1,EE,10607A58,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607A58,extended,05F5E0FF
+[>>> CPU 66 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607AE0,extended,00000000
+[Infinite Money]
+patch=1,EE,10607AE0,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607AE0,extended,05F5E0FF
+[>>> CPU 67 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607B68,extended,00000000
+[Infinite Money]
+patch=1,EE,10607B68,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607B68,extended,05F5E0FF
+[>>> CPU 68 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607BF0,extended,00000000
+[Infinite Money]
+patch=1,EE,10607BF0,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607BF0,extended,05F5E0FF
+[>>> CPU 69 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607C78,extended,00000000
+[Infinite Money]
+patch=1,EE,10607C78,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607C78,extended,05F5E0FF
+[>>> CPU 70 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607D00,extended,00000000
+[Infinite Money]
+patch=1,EE,10607D00,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607D00,extended,05F5E0FF
+[>>> CPU 71 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607D88,extended,00000000
+[Infinite Money]
+patch=1,EE,10607D88,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607D88,extended,05F5E0FF
+[>>> CPU 72 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607E10,extended,00000000
+[Infinite Money]
+patch=1,EE,10607E10,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607E10,extended,05F5E0FF
+[>>> CPU 73 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607E98,extended,00000000
+[Infinite Money]
+patch=1,EE,10607E98,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607E98,extended,05F5E0FF
+[>>> CPU 74 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607F20,extended,00000000
+[Infinite Money]
+patch=1,EE,10607F20,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607F20,extended,05F5E0FF
+[>>> CPU 75 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20607FA8,extended,00000000
+[Infinite Money]
+patch=1,EE,10607FA8,extended,0000FFFF
+[Max Money]
+patch=1,EE,20607FA8,extended,05F5E0FF
+[>>> CPU 76 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608030,extended,00000000
+[Infinite Money]
+patch=1,EE,10608030,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608030,extended,05F5E0FF
+[>>> CPU 77 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206080B8,extended,00000000
+[Infinite Money]
+patch=1,EE,106080B8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206080B8,extended,05F5E0FF
+[>>> CPU 78 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608140,extended,00000000
+[Infinite Money]
+patch=1,EE,10608140,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608140,extended,05F5E0FF
+[>>> CPU 79 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206081C8,extended,00000000
+[Infinite Money]
+patch=1,EE,106081C8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206081C8,extended,05F5E0FF
+[>>> CPU 80 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608250,extended,00000000
+[Infinite Money]
+patch=1,EE,10608250,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608250,extended,05F5E0FF
+[>>> CPU 81 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206082D8,extended,00000000
+[Infinite Money]
+patch=1,EE,106082D8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206082D8,extended,05F5E0FF
+[>>> CPU 82 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608360,extended,00000000
+[Infinite Money]
+patch=1,EE,10608360,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608360,extended,05F5E0FF
+[>>> CPU 83 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206083E8,extended,00000000
+[Infinite Money]
+patch=1,EE,106083E8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206083E8,extended,05F5E0FF
+[>>> CPU 84 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608470,extended,00000000
+[Infinite Money]
+patch=1,EE,10608470,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608470,extended,05F5E0FF
+[>>> CPU 85 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206084F8,extended,00000000
+[Infinite Money]
+patch=1,EE,106084F8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206084F8,extended,05F5E0FF
+[>>> CPU 86 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608580,extended,00000000
+[Infinite Money]
+patch=1,EE,10608580,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608580,extended,05F5E0FF
+[>>> CPU 87 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608608,extended,00000000
+[Infinite Money]
+patch=1,EE,10608608,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608608,extended,05F5E0FF
+[>>> CPU 88 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608690,extended,00000000
+[Infinite Money]
+patch=1,EE,10608690,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608690,extended,05F5E0FF
+[>>> CPU 89 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608718,extended,00000000
+[Infinite Money]
+patch=1,EE,10608718,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608718,extended,05F5E0FF
+[>>> CPU 90 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206087A0,extended,00000000
+[Infinite Money]
+patch=1,EE,106087A0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206087A0,extended,05F5E0FF
+[>>> CPU 91 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608828,extended,00000000
+[Infinite Money]
+patch=1,EE,10608828,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608828,extended,05F5E0FF
+[>>> CPU 92 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206088B0,extended,00000000
+[Infinite Money]
+patch=1,EE,106088B0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206088B0,extended,05F5E0FF
+[>>> CPU 93 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608938,extended,00000000
+[Infinite Money]
+patch=1,EE,10608938,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608938,extended,05F5E0FF
+[>>> CPU 94 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206089C0,extended,00000000
+[Infinite Money]
+patch=1,EE,106089C0,extended,0000FFFF
+[Max Money]
+patch=1,EE,206089C0,extended,05F5E0FF
+[>>> CPU 95 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608A48,extended,00000000
+[Infinite Money]
+patch=1,EE,10608A48,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608A48,extended,05F5E0FF
+[>>> CPU 96 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608AD0,extended,00000000
+[Infinite Money]
+patch=1,EE,10608AD0,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608AD0,extended,05F5E0FF
+[>>> CPU 97 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608B58,extended,00000000
+[Infinite Money]
+patch=1,EE,10608B58,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608B58,extended,05F5E0FF
+[>>> CPU 98 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608BE0,extended,00000000
+[Infinite Money]
+patch=1,EE,10608BE0,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608BE0,extended,05F5E0FF
+[>>> CPU 99 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608C68,extended,00000000
+[Infinite Money]
+patch=1,EE,10608C68,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608C68,extended,05F5E0FF
+[>>> CPU 100 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608CF0,extended,00000000
+[Infinite Money]
+patch=1,EE,10608CF0,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608CF0,extended,05F5E0FF
+[>>> CPU 101 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608D78,extended,00000000
+[Infinite Money]
+patch=1,EE,10608D78,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608D78,extended,05F5E0FF
+[>>> CPU 102 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608E00,extended,00000000
+[Infinite Money]
+patch=1,EE,10608E00,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608E00,extended,05F5E0FF
+[>>> CPU 103 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608E88,extended,00000000
+[Infinite Money]
+patch=1,EE,10608E88,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608E88,extended,05F5E0FF
+[>>> CPU 104 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608F10,extended,00000000
+[Infinite Money]
+patch=1,EE,10608F10,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608F10,extended,05F5E0FF
+[>>> CPU 105 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20608F98,extended,00000000
+[Infinite Money]
+patch=1,EE,10608F98,extended,0000FFFF
+[Max Money]
+patch=1,EE,20608F98,extended,05F5E0FF
+[>>> CPU 106 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20609020,extended,00000000
+[Infinite Money]
+patch=1,EE,10609020,extended,0000FFFF
+[Max Money]
+patch=1,EE,20609020,extended,05F5E0FF
+[>>> CPU 107 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206090A8,extended,00000000
+[Infinite Money]
+patch=1,EE,106090A8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206090A8,extended,05F5E0FF
+[>>> CPU 108 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20609130,extended,00000000
+[Infinite Money]
+patch=1,EE,10609130,extended,0000FFFF
+[Max Money]
+patch=1,EE,20609130,extended,05F5E0FF
+[>>> CPU 109 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206091B8,extended,00000000
+[Infinite Money]
+patch=1,EE,106091B8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206091B8,extended,05F5E0FF
+[>>> CPU 110 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20609240,extended,00000000
+[Infinite Money]
+patch=1,EE,10609240,extended,0000FFFF
+[Max Money]
+patch=1,EE,20609240,extended,05F5E0FF
+[>>> CPU 111 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206092C8,extended,00000000
+[Infinite Money]
+patch=1,EE,106092C8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206092C8,extended,05F5E0FF
+[>>> CPU 112 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20609350,extended,00000000
+[Infinite Money]
+patch=1,EE,10609350,extended,0000FFFF
+[Max Money]
+patch=1,EE,20609350,extended,05F5E0FF
+[>>> CPU 113 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206093D8,extended,00000000
+[Infinite Money]
+patch=1,EE,106093D8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206093D8,extended,05F5E0FF
+[>>> CPU 114 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,20609460,extended,00000000
+[Infinite Money]
+patch=1,EE,10609460,extended,0000FFFF
+[Max Money]
+patch=1,EE,20609460,extended,05F5E0FF
+[>>> CPU 115 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Money]
+patch=1,EE,206094E8,extended,00000000
+[Infinite Money]
+patch=1,EE,106094E8,extended,0000FFFF
+[Max Money]
+patch=1,EE,206094E8,extended,05F5E0FF
+

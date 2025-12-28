@@ -1,0 +1,626 @@
+gametitle=Guilty Gear-Isuka
+[Enable Code (Must Be On)]
+patch=1,EE,90115724,extended,0C0483CC
+[Infinite Time]
+patch=1,EE,203A3310,extended,00001770
+[Survival Level 1]
+patch=1,EE,103A4F78,extended,00000001
+[Survival Level 99]
+patch=1,EE,103A4F78,extended,00000063
+[Survival Level 999]
+patch=1,EE,103A4F78,extended,000003E7
+[Max Current Data Bank Points]
+patch=1,EE,203B3ECC,extended,000F423F
+[Max Total Data Bank Points]
+patch=1,EE,203B3ED0,extended,000F423F
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0363B42,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,201A4618,extended,00000000
+[P1 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D0363B42,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,201A4618,extended,AC433310
+[P2 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0363C42,extended,0000FBFE
+[P2 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,201A4618,extended,00000000
+[P2 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D0363C42,extended,0000FEFE
+[P2 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,201A4618,extended,AC433310
+[P3 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0363D42,extended,0000FBFE
+[P3 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,201A4618,extended,00000000
+[P3 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D0363D42,extended,0000FEFE
+[P3 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,201A4618,extended,AC433310
+[P4 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0363E42,extended,0000FBFE
+[P4 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,201A4618,extended,00000000
+[P4 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D0363E42,extended,0000FEFE
+[P4 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,201A4618,extended,AC433310
+[P5 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0363F42,extended,0000FBFE
+[P5 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,201A4618,extended,00000000
+[P5 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D0363F42,extended,0000FEFE
+[P5 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,201A4618,extended,AC433310
+[P6 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0364042,extended,0000FBFE
+[P6 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,201A4618,extended,00000000
+[P6 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D0364042,extended,0000FEFE
+[P6 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,201A4618,extended,AC433310
+[P7 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0364142,extended,0000FBFE
+[P7 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,201A4618,extended,00000000
+[P7 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D0364142,extended,0000FEFE
+[P7 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,201A4618,extended,AC433310
+[P8 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0364242,extended,0000FBFE
+[P8 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,201A4618,extended,00000000
+[P8 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D0364242,extended,0000FEFE
+[P8 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,201A4618,extended,AC433310
+[Infinite Health P1]
+patch=1,EE,11F80016,extended,000001A4
+[75% Health P1]
+patch=1,EE,D1F80016,extended,000001A4
+[75% Health P1]
+patch=1,EE,11F80016,extended,0000013B
+[50% Health P1]
+patch=1,EE,D1F80016,extended,000001A4
+[50% Health P1]
+patch=1,EE,11F80016,extended,000000D2
+[25% Health P1]
+patch=1,EE,D1F80016,extended,000001A4
+[25% Health P1]
+patch=1,EE,11F80016,extended,00000069
+[1-Hit Death P1]
+patch=1,EE,D1F80016,extended,000001A4
+[1-Hit Death P1]
+patch=1,EE,11F80016,extended,00000001
+[Max Guard P1]
+patch=1,EE,103AA43A,extended,00000080
+[No Guard P1]
+patch=1,EE,103AA43A,extended,00000000
+[Max Burst P1]
+patch=1,EE,103AA522,extended,00003A98
+[No Burst P1]
+patch=1,EE,103AA522,extended,00000000
+[Infinite Souls P1]
+patch=1,EE,003AA540,extended,00000009
+[No Souls P1]
+patch=1,EE,003AA540,extended,00000009
+[Always Full Tension Gauge P1]
+patch=1,EE,103AA420,extended,0000270F
+[Always Full Tension Gauge P1]
+patch=1,EE,103AA516,extended,0000270F
+[Always Empty Tension Gauge P1]
+patch=1,EE,103AA420,extended,00000000
+[Always Empty Tension Gauge P1]
+patch=1,EE,103AA516,extended,00000000
+[Infinite Health P2]
+patch=1,EE,11F8015A,extended,000001A4
+[75% Health P2]
+patch=1,EE,D1F8015A,extended,000001A4
+[75% Health P2]
+patch=1,EE,11F8015A,extended,0000013B
+[50% Health P2]
+patch=1,EE,D1F8015A,extended,000001A4
+[50% Health P2]
+patch=1,EE,11F8015A,extended,000000D2
+[25% Health P2]
+patch=1,EE,D1F8015A,extended,000001A4
+[25% Health P2]
+patch=1,EE,11F8015A,extended,00000069
+[1-Hit Death P2]
+patch=1,EE,D1F8015A,extended,000001A4
+[1-Hit Death P2]
+patch=1,EE,11F8015A,extended,00000001
+[Max Guard P2]
+patch=1,EE,103AA566,extended,00000080
+[No Guard P2]
+patch=1,EE,103AA566,extended,00000000
+[Max Burst P2]
+patch=1,EE,103AA64E,extended,00003A98
+[No Burst P2]
+patch=1,EE,103AA64E,extended,00000000
+[Infinite Souls P2]
+patch=1,EE,003AA66C,extended,00000009
+[No Souls P2]
+patch=1,EE,003AA66C,extended,00000009
+[Always Full Tension Gauge P2]
+patch=1,EE,103AA63C,extended,0000270F
+[Always Full Tension Gauge P2]
+patch=1,EE,103AA642,extended,0000270F
+[Always Empty Tension Gauge P2]
+patch=1,EE,103AA63C,extended,00000000
+[Always Empty Tension Gauge P2]
+patch=1,EE,103AA642,extended,00000000
+[Infinite Health P3]
+patch=1,EE,11F8029E,extended,000001A4
+[75% Health P3]
+patch=1,EE,D1F8029E,extended,000001A4
+[75% Health P3]
+patch=1,EE,11F8029E,extended,0000013B
+[50% Health P3]
+patch=1,EE,D1F8029E,extended,000001A4
+[50% Health P3]
+patch=1,EE,11F8029E,extended,000000D2
+[25% Health P3]
+patch=1,EE,D1F8029E,extended,000001A4
+[25% Health P3]
+patch=1,EE,11F8029E,extended,00000069
+[1-Hit Death P3]
+patch=1,EE,D1F8029E,extended,000001A4
+[1-Hit Death P3]
+patch=1,EE,11F8029E,extended,00000001
+[Max Guard P3]
+patch=1,EE,103AA692,extended,00000080
+[No Guard P3]
+patch=1,EE,103AA692,extended,00000000
+[Max Burst P3]
+patch=1,EE,103AA77A,extended,00003A98
+[No Burst P3]
+patch=1,EE,103AA77A,extended,00000000
+[Infinite Souls P3]
+patch=1,EE,003AA798,extended,00000009
+[No Souls P3]
+patch=1,EE,003AA798,extended,00000009
+[Always Full Tension Gauge P3]
+patch=1,EE,103AA768,extended,0000270F
+[Always Full Tension Gauge P3]
+patch=1,EE,103AA76E,extended,0000270F
+[Always Empty Tension Gauge P3]
+patch=1,EE,103AA768,extended,00000000
+[Always Empty Tension Gauge P3]
+patch=1,EE,103AA76E,extended,00000000
+[Max Guard P4]
+patch=1,EE,103AA7BE,extended,00000080
+[No Guard P4]
+patch=1,EE,103AA7BE,extended,00000000
+[Max Burst P4]
+patch=1,EE,103AA8A6,extended,00003A98
+[No Burst P4]
+patch=1,EE,103AA8A6,extended,00000000
+[Infinite Souls P4]
+patch=1,EE,003AA8C4,extended,00000009
+[No Souls P4]
+patch=1,EE,003AA8C4,extended,00000009
+[Always Full Tension Gauge P4]
+patch=1,EE,103AA894,extended,0000270F
+[Always Full Tension Gauge P4]
+patch=1,EE,103AA89A,extended,0000270F
+[Always Empty Tension Gauge P4]
+patch=1,EE,103AA894,extended,00000000
+[Always Empty Tension Gauge P4]
+patch=1,EE,103AA89A,extended,00000000
+[Infinite Health P4]
+patch=1,EE,11F803E2,extended,000001A4
+[75% Health P4]
+patch=1,EE,D1F803E2,extended,000001A4
+[75% Health P4]
+patch=1,EE,11F803E2,extended,0000013B
+[50% Health P4]
+patch=1,EE,D1F803E2,extended,000001A4
+[50% Health P4]
+patch=1,EE,11F803E2,extended,000000D2
+[25% Health P4]
+patch=1,EE,D1F803E2,extended,000001A4
+[25% Health P4]
+patch=1,EE,11F803E2,extended,00000069
+[1-Hit Death P4]
+patch=1,EE,D1F803E2,extended,000001A4
+[1-Hit Death P4]
+patch=1,EE,11F803E2,extended,00000001
+[>>> Have Technique Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Do You Want To Suffer?]
+patch=1,EE,203B3F78,extended,00000001
+[Stun Dipper]
+patch=1,EE,203B3F80,extended,00000001
+[Applause For The Victim]
+patch=1,EE,203B3F88,extended,00000001
+[Tandem Top]
+patch=1,EE,203B3F90,extended,00000001
+[Drunkard Shade]
+patch=1,EE,203B3F98,extended,00000001
+[Mega Fist]
+patch=1,EE,203B3FA0,extended,00000001
+[What's Next?]
+patch=1,EE,203B3FA8,extended,00000001
+[Gekirin]
+patch=1,EE,203B3FB0,extended,00000001
+[Glistering Gold]
+patch=1,EE,203B3FB8,extended,00000001
+[Rasho Sen]
+patch=1,EE,203B3FC0,extended,00000001
+[Shitsu]
+patch=1,EE,203B3FC8,extended,00000001
+[Mad Struggle]
+patch=1,EE,203B3FD0,extended,00000001
+[EXE Beast]
+patch=1,EE,203B3FD8,extended,00000001
+[Antidepressant Scale]
+patch=1,EE,203B3FE0,extended,00000001
+[Undertow]
+patch=1,EE,203B3FE8,extended,00000001
+[Go Away And Don't Come Back]
+patch=1,EE,203B3FF0,extended,00000001
+[Roger Rush]
+patch=1,EE,203B3FF8,extended,00000001
+[Stranger Electric Wave]
+patch=1,EE,203B4000,extended,00000001
+[Overhead Kiss]
+patch=1,EE,203B4008,extended,00000001
+[Damudo Fang]
+patch=1,EE,203B4010,extended,00000001
+[Potemkin Buster]
+patch=1,EE,203B4018,extended,00000001
+[Gamma Blade]
+patch=1,EE,203B4020,extended,00000001
+[Youshijin]
+patch=1,EE,203B4028,extended,00000001
+[Kenrokaku]
+patch=1,EE,203B4030,extended,00000001
+[Hachisubako]
+patch=1,EE,203B4038,extended,00000001
+[Hitomi]
+patch=1,EE,203B4040,extended,00000001
+[Bloodsucking Cosmos]
+patch=1,EE,203B4048,extended,00000001
+[Jaggard Roger]
+patch=1,EE,203B4050,extended,00000001
+[USB500]
+patch=1,EE,203B4058,extended,00000001
+[Bargain Of Street Meeting]
+patch=1,EE,203B4060,extended,00000001
+[Aerial Stun Edge]
+patch=1,EE,203B4068,extended,00000001
+[Bad Moon]
+patch=1,EE,203B4070,extended,00000001
+[Love]
+patch=1,EE,203B4078,extended,00000001
+[Chemical Love]
+patch=1,EE,203B4080,extended,00000001
+[Phenomenon]
+patch=1,EE,203B4088,extended,00000001
+[Riot Stamp]
+patch=1,EE,203B4090,extended,00000001
+[Greed Sever]
+patch=1,EE,203B4098,extended,00000001
+[Lust Shaker]
+patch=1,EE,203B40A0,extended,00000001
+[Invite Hell]
+patch=1,EE,203B40A8,extended,00000001
+[Sliding Head]
+patch=1,EE,203B40B0,extended,00000001
+[Mist Finer]
+patch=1,EE,203B40B8,extended,00000001
+[Kai]
+patch=1,EE,203B40C0,extended,00000001
+[Ball Formation]
+patch=1,EE,203B40C8,extended,00000001
+[Zeinest]
+patch=1,EE,203B40D0,extended,00000001
+[Hunter Strike]
+patch=1,EE,203B40DD,extended,00000001
+[Mach Punch]
+patch=1,EE,203B40E0,extended,00000001
+[Game-Opening Home Run]
+patch=1,EE,203B40E8,extended,00000001
+[Volcanic Viper]
+patch=1,EE,203B40F0,extended,00000001
+[Restive Folling]
+patch=1,EE,203B40F8,extended,00000001
+[Tsuyoshi-Shiki Teni]
+patch=1,EE,203B4100,extended,00000001
+[Yozansen]
+patch=1,EE,203B4108,extended,00000001
+[Ryujin]
+patch=1,EE,203B4110,extended,00000001
+[Axl Bomber]
+patch=1,EE,203B4118,extended,00000001
+[On]
+patch=1,EE,203B4120,extended,00000001
+[Carcass Raid]
+patch=1,EE,203B4128,extended,00000001
+[Starship]
+patch=1,EE,203B4130,extended,00000001
+[Whatever Is Done, A Fellow No Good Is No Good]
+patch=1,EE,203B4138,extended,00000001
+[Tyrant Rave Ver. Beta]
+patch=1,EE,203B4140,extended,00000001
+[Gamma Ray]
+patch=1,EE,203B4148,extended,00000001
+[Bellows Malice]
+patch=1,EE,203B4150,extended,00000001
+[Floating]
+patch=1,EE,203B4160,extended,00000001
+[Three Level Jump]
+patch=1,EE,203B4168,extended,00000001
+[Suzuran]
+patch=1,EE,203B4170,extended,00000001
+[Breath Of Asanagi]
+patch=1,EE,203B4178,extended,00000001
+[Hover Jump]
+patch=1,EE,203B4180,extended,00000001
+[All Techniques]
+patch=1,EE,403B3F78,extended,00420001
+[All Techniques]
+patch=1,EE,00000001,extended,00000000
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Speed Kits]
+patch=1,EE,203B4290,extended,00000063
+[Jump Kit]
+patch=1,EE,203B4298,extended,00000063
+[Attack Kit]
+patch=1,EE,203B42A0,extended,00000063
+[Defensivve Kit]
+patch=1,EE,203B42A8,extended,00000063
+[Charge Kit]
+patch=1,EE,203B42B0,extended,00000063
+[Strength Kit]
+patch=1,EE,203B42B8,extended,00000063
+[Weight Kit]
+patch=1,EE,203B42C0,extended,00000063
+[Thermostat Kit]
+patch=1,EE,203B42C8,extended,00000063
+[Aerial Kit]
+patch=1,EE,203B42D0,extended,00000063
+[Spirit Kit]
+patch=1,EE,203B42D8,extended,00000063
+[Japanese Kit]
+patch=1,EE,203B42E0,extended,00000063
+[FRC Chip]
+patch=1,EE,203B42E8,extended,00000063
+[YRS Chip]
+patch=1,EE,203B42F0,extended,00000063
+[Hercules Engine]
+patch=1,EE,203B42F8,extended,00000063
+[All Items]
+patch=1,EE,403B4290,extended,000E0002
+[All Items]
+patch=1,EE,00000063,extended,00000000
+[>>> P1 Character Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sol]
+patch=1,EE,203BF7F0,extended,00000001
+[Ky]
+patch=1,EE,203BF7F0,extended,00000002
+[May]
+patch=1,EE,203BF7F0,extended,00000003
+[Millia]
+patch=1,EE,203BF7F0,extended,00000004
+[Axl]
+patch=1,EE,203BF7F0,extended,00000005
+[Potemkin]
+patch=1,EE,203BF7F0,extended,00000006
+[Chipp]
+patch=1,EE,203BF7F0,extended,00000007
+[Eddie]
+patch=1,EE,203BF7F0,extended,00000008
+[Baiken]
+patch=1,EE,203BF7F0,extended,00000009
+[Faust]
+patch=1,EE,203BF7F0,extended,0000000A
+[Testament]
+patch=1,EE,203BF7F0,extended,0000000B
+[Jam]
+patch=1,EE,203BF7F0,extended,0000000C
+[Anji]
+patch=1,EE,203BF7F0,extended,0000000D
+[Johnny]
+patch=1,EE,203BF7F0,extended,0000000E
+[Venom]
+patch=1,EE,203BF7F0,extended,0000000F
+[Dizzy]
+patch=1,EE,203BF7F0,extended,00000010
+[Slayer]
+patch=1,EE,203BF7F0,extended,00000011
+[I-No]
+patch=1,EE,203BF7F0,extended,00000012
+[Zappa]
+patch=1,EE,203BF7F0,extended,00000013
+[Bridget]
+patch=1,EE,203BF7F0,extended,00000014
+[Leo]
+patch=1,EE,203BF7F0,extended,00000015
+[Robo-Ky]
+patch=1,EE,203BF7F0,extended,00000016
+[Robo-Ky 2]
+patch=1,EE,203BF7F0,extended,00000017
+[A.B.A.]
+patch=1,EE,203BF7F0,extended,00000018
+[Zako-A]
+patch=1,EE,203BF7F0,extended,00000019
+[Zako-B]
+patch=1,EE,203BF7F0,extended,0000001A
+[Zako-C]
+patch=1,EE,203BF7F0,extended,0000001B
+[>>> P2 Character Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sol]
+patch=1,EE,203BF7F4,extended,00000001
+[Ky]
+patch=1,EE,203BF7F4,extended,00000002
+[May]
+patch=1,EE,203BF7F4,extended,00000003
+[Millia]
+patch=1,EE,203BF7F4,extended,00000004
+[Axl]
+patch=1,EE,203BF7F4,extended,00000005
+[Potemkin]
+patch=1,EE,203BF7F4,extended,00000006
+[Chipp]
+patch=1,EE,203BF7F4,extended,00000007
+[Eddie]
+patch=1,EE,203BF7F4,extended,00000008
+[Baiken]
+patch=1,EE,203BF7F4,extended,00000009
+[Faust]
+patch=1,EE,203BF7F4,extended,0000000A
+[Testament]
+patch=1,EE,203BF7F4,extended,0000000B
+[Jam]
+patch=1,EE,203BF7F4,extended,0000000C
+[Anji]
+patch=1,EE,203BF7F4,extended,0000000D
+[Johnny]
+patch=1,EE,203BF7F4,extended,0000000E
+[Venom]
+patch=1,EE,203BF7F4,extended,0000000F
+[Dizzy]
+patch=1,EE,203BF7F4,extended,00000010
+[Slayer]
+patch=1,EE,203BF7F4,extended,00000011
+[I-No]
+patch=1,EE,203BF7F4,extended,00000012
+[Zappa]
+patch=1,EE,203BF7F4,extended,00000013
+[Bridget]
+patch=1,EE,203BF7F4,extended,00000014
+[Leo]
+patch=1,EE,203BF7F4,extended,00000015
+[Robo-Ky]
+patch=1,EE,203BF7F4,extended,00000016
+[Robo-Ky 2]
+patch=1,EE,203BF7F4,extended,00000017
+[A.B.A.]
+patch=1,EE,203BF7F4,extended,00000018
+[Zako-A]
+patch=1,EE,203BF7F4,extended,00000019
+[Zako-B]
+patch=1,EE,203BF7F4,extended,0000001A
+[Zako-C]
+patch=1,EE,203BF7F4,extended,0000001B
+[>>> P3 Character Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sol]
+patch=1,EE,203BF7F8,extended,00000001
+[Ky]
+patch=1,EE,203BF7F8,extended,00000002
+[May]
+patch=1,EE,203BF7F8,extended,00000003
+[Millia]
+patch=1,EE,203BF7F8,extended,00000004
+[Axl]
+patch=1,EE,203BF7F8,extended,00000005
+[Potemkin]
+patch=1,EE,203BF7F8,extended,00000006
+[Chipp]
+patch=1,EE,203BF7F8,extended,00000007
+[Eddie]
+patch=1,EE,203BF7F8,extended,00000008
+[Baiken]
+patch=1,EE,203BF7F8,extended,00000009
+[Faust]
+patch=1,EE,203BF7F8,extended,0000000A
+[Testament]
+patch=1,EE,203BF7F8,extended,0000000B
+[Jam]
+patch=1,EE,203BF7F8,extended,0000000C
+[Anji]
+patch=1,EE,203BF7F8,extended,0000000D
+[Johnny]
+patch=1,EE,203BF7F8,extended,0000000E
+[Venom]
+patch=1,EE,203BF7F8,extended,0000000F
+[Dizzy]
+patch=1,EE,203BF7F8,extended,00000010
+[Slayer]
+patch=1,EE,203BF7F8,extended,00000011
+[I-No]
+patch=1,EE,203BF7F8,extended,00000012
+[Zappa]
+patch=1,EE,203BF7F8,extended,00000013
+[Bridget]
+patch=1,EE,203BF7F8,extended,00000014
+[Leo]
+patch=1,EE,203BF7F8,extended,00000015
+[Robo-Ky]
+patch=1,EE,203BF7F8,extended,00000016
+[Robo-Ky 2]
+patch=1,EE,203BF7F8,extended,00000017
+[A.B.A.]
+patch=1,EE,203BF7F8,extended,00000018
+[Zako-A]
+patch=1,EE,203BF7F8,extended,00000019
+[Zako-B]
+patch=1,EE,203BF7F8,extended,0000001A
+[Zako-C]
+patch=1,EE,203BF7F8,extended,0000001B
+[>>> P4 Character Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sol]
+patch=1,EE,203BF7FC,extended,00000001
+[Ky]
+patch=1,EE,203BF7FC,extended,00000002
+[May]
+patch=1,EE,203BF7FC,extended,00000003
+[Millia]
+patch=1,EE,203BF7FC,extended,00000004
+[Axl]
+patch=1,EE,203BF7FC,extended,00000005
+[Potemkin]
+patch=1,EE,203BF7FC,extended,00000006
+[Chipp]
+patch=1,EE,203BF7FC,extended,00000007
+[Eddie]
+patch=1,EE,203BF7FC,extended,00000008
+[Baiken]
+patch=1,EE,203BF7FC,extended,00000009
+[Faust]
+patch=1,EE,203BF7FC,extended,0000000A
+[Testament]
+patch=1,EE,203BF7FC,extended,0000000B
+[Jam]
+patch=1,EE,203BF7FC,extended,0000000C
+[Anji]
+patch=1,EE,203BF7FC,extended,0000000D
+[Johnny]
+patch=1,EE,203BF7FC,extended,0000000E
+[Venom]
+patch=1,EE,203BF7FC,extended,0000000F
+[Dizzy]
+patch=1,EE,203BF7FC,extended,00000010
+[Slayer]
+patch=1,EE,203BF7FC,extended,00000011
+[I-No]
+patch=1,EE,203BF7FC,extended,00000012
+[Zappa]
+patch=1,EE,203BF7FC,extended,00000013
+[Bridget]
+patch=1,EE,203BF7FC,extended,00000014
+[Leo]
+patch=1,EE,203BF7FC,extended,00000015
+[Robo-Ky]
+patch=1,EE,203BF7FC,extended,00000016
+[Robo-Ky 2]
+patch=1,EE,203BF7FC,extended,00000017
+[A.B.A.]
+patch=1,EE,203BF7FC,extended,00000018
+[Zako-A]
+patch=1,EE,203BF7FC,extended,00000019
+[Zako-B]
+patch=1,EE,203BF7FC,extended,0000001A
+[Zako-C]
+patch=1,EE,203BF7FC,extended,0000001B
+

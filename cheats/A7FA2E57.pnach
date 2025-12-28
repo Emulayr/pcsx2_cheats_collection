@@ -1,0 +1,216 @@
+gametitle=[SLUS-21316] Capcom Classics Collection Vol. 1
+[Enable Code (Must Be On)]
+patch=1,EE,90154818,extended,00832021
+[Enable Debug Features]
+patch=1,EE,202568AC,extended,ABCD0DBF
+[>>> Unlock Bonus Content Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Bionic Commando-Art]
+patch=1,EE,00250B30,extended,00000002
+[Bionic Commando-Tips]
+patch=1,EE,00250B31,extended,00000002
+[Bionic Commando-Music]
+patch=1,EE,00250B33,extended,00000002
+[Bionic Command-All Content]
+patch=1,EE,20250B30,extended,02020202
+[Final Fight-Art]
+patch=1,EE,00250CFC,extended,00000002
+[Final Fight-Tips]
+patch=1,EE,00250CFD,extended,00000002
+[Final Fight-Cast]
+patch=1,EE,00250CFE,extended,00000002
+[Final Fight-Music]
+patch=1,EE,00250CFF,extended,00000002
+[Final Fight-All Content]
+patch=1,EE,20250CFC,extended,02020202
+[Forgotten Worlds-Art]
+patch=1,EE,00250EC8,extended,00000002
+[Forgotten Worlds-Tips]
+patch=1,EE,00250EC9,extended,00000002
+[Forgotten Worlds-Cast]
+patch=1,EE,00250ECA,extended,00000002
+[Forgotten Worlds-Music]
+patch=1,EE,00250ECB,extended,00000002
+[Forgotten Worlds-All Content]
+patch=1,EE,20250EC8,extended,02020202
+[Legendary Wings-Art]
+patch=1,EE,00251094,extended,00000002
+[Legendary Wings-Tips]
+patch=1,EE,00251095,extended,00000002
+[Legendary Wings-Music]
+patch=1,EE,00251097,extended,00000002
+[Legendary Wings-All Content]
+patch=1,EE,20251094,extended,02020202
+[Section Z-Art]
+patch=1,EE,00251260,extended,00000002
+[Section Z-Tips]
+patch=1,EE,00251261,extended,00000002
+[Section Z-Music]
+patch=1,EE,00251263,extended,00000002
+[Section Z-All Content]
+patch=1,EE,20251260,extended,02020202
+[Trojan-Art]
+patch=1,EE,0025142C,extended,00000002
+[Trojan-Tips]
+patch=1,EE,0025142D,extended,00000002
+[Trojan-Cast]
+patch=1,EE,0025142E,extended,00000002
+[Trojan-Music]
+patch=1,EE,0025142F,extended,00000002
+[Trojan-All Content]
+patch=1,EE,2025142C,extended,02020202
+[Ghouls 'N Ghosts-Art]
+patch=1,EE,002515F8,extended,00000002
+[Ghouls 'N Ghosts-Tips]
+patch=1,EE,002515F9,extended,00000002
+[Ghouls 'N Ghosts-Cast]
+patch=1,EE,002515FA,extended,00000002
+[Ghouls 'N Ghosts-Music]
+patch=1,EE,002515FB,extended,00000002
+[Ghouls 'N Ghosts-All Content]
+patch=1,EE,202515F8,extended,02020202
+[Mercs-Art]
+patch=1,EE,002517C4,extended,00000002
+[Mercs-Tips]
+patch=1,EE,002517C5,extended,00000002
+[Mercs-Cast]
+patch=1,EE,002517C6,extended,00000002
+[Mercs-Music]
+patch=1,EE,002517C7,extended,00000002
+[Mercs-All Content]
+patch=1,EE,202517C4,extended,02020202
+[Street Fighter II-Art]
+patch=1,EE,00251990,extended,00000002
+[Street Fighter II-Art 2]
+patch=1,EE,00251991,extended,00000002
+[Street Fighter II-Tips]
+patch=1,EE,00251992,extended,00000002
+[Street Fighter II-Cast]
+patch=1,EE,00251993,extended,00000002
+[Street Fighter II-All Content]
+patch=1,EE,20251990,extended,02020202
+[SFII Champion Edition-Art]
+patch=1,EE,00251B5C,extended,00000002
+[SFII Champion Edition-Art 2]
+patch=1,EE,00251B5D,extended,00000002
+[SFII Champion Edition-Tips]
+patch=1,EE,00251B5E,extended,00000002
+[SFII Champion Edition-Cast]
+patch=1,EE,00251B5F,extended,00000002
+[SFII Champion Edition-All Content]
+patch=1,EE,20251B5C,extended,02020202
+[SFII Hyper Fighting-Art]
+patch=1,EE,00251D28,extended,00000002
+[SFII Hyper Fighting-Art 2]
+patch=1,EE,00251D28,extended,00000002
+[SFII Hyper Fighting-Tips]
+patch=1,EE,00251D2A,extended,00000002
+[SFII Hyper Fighting-Music]
+patch=1,EE,00251D2B,extended,00000002
+[SFII Hyper Fighting-All Content]
+patch=1,EE,20251D28,extended,02020202
+[Pirate Ship Higemaru-Art]
+patch=1,EE,00251EF4,extended,00000002
+[Pirate Ship Higemaru-Tips]
+patch=1,EE,00251EF5,extended,00000002
+[Pirate Ship Higemaru-Cast]
+patch=1,EE,00251EF6,extended,00000002
+[Pirate Ship Higemaru-Music]
+patch=1,EE,00251EF7,extended,00000002
+[Pirate Ship Higemaru-All Content]
+patch=1,EE,20251EF4,extended,02020202
+[1942-Art]
+patch=1,EE,002520C0,extended,00000002
+[1942-Tips]
+patch=1,EE,002520C1,extended,00000002
+[1942-Music]
+patch=1,EE,002520C3,extended,00000002
+[1942-All Content]
+patch=1,EE,202520C0,extended,02020202
+[Vulgus-Art]
+patch=1,EE,0025228C,extended,00000002
+[Vulgus-Tips]
+patch=1,EE,0025228D,extended,00000002
+[Vulgus-Cast]
+patch=1,EE,0025228E,extended,00000002
+[Vulgus-Music]
+patch=1,EE,0025228F,extended,00000002
+[Vulgus-All Content]
+patch=1,EE,2025228C,extended,02020202
+[Exed Exes-Art]
+patch=1,EE,00252458,extended,00000002
+[Exed Exes-Tips]
+patch=1,EE,00252459,extended,00000002
+[Exed Exes-Cast]
+patch=1,EE,0025245A,extended,00000002
+[Exed Exes-Music]
+patch=1,EE,0025245B,extended,00000002
+[Exed Exes-All Content]
+patch=1,EE,20252458,extended,02020202
+[Commando-Art]
+patch=1,EE,00252624,extended,00000002
+[Commando-Tips]
+patch=1,EE,00252625,extended,00000002
+[Commando-Cast]
+patch=1,EE,00252626,extended,00000002
+[Commando-Music]
+patch=1,EE,00252627,extended,00000002
+[Commando-All Content]
+patch=1,EE,20252624,extended,02020202
+[Gun. Smoke-Art]
+patch=1,EE,002527F0,extended,00000002
+[Gun. Smoke-Tips]
+patch=1,EE,002527F1,extended,00000002
+[Gun. Smoke-Cast]
+patch=1,EE,002527F2,extended,00000002
+[Gun. Smoke-Music]
+patch=1,EE,002527F3,extended,00000002
+[Gun. Smoke-All Content]
+patch=1,EE,202527F0,extended,02020202
+[1943-Art]
+patch=1,EE,002529BC,extended,00000002
+[1943-Tips]
+patch=1,EE,002529BD,extended,00000002
+[1943-Music]
+patch=1,EE,002529BF,extended,00000002
+[1943-All Content]
+patch=1,EE,202529BC,extended,02020202
+[1943 Kai-Art]
+patch=1,EE,00252B88,extended,00000002
+[1943 Kai-Tips]
+patch=1,EE,00252B89,extended,00000002
+[1943 Kai-Music]
+patch=1,EE,00252B8B,extended,00000002
+[1943 Kai-All Content]
+patch=1,EE,20252B88,extended,02020202
+[Ghosts 'N Goblins-Art]
+patch=1,EE,00252D54,extended,00000002
+[Ghosts 'N Goblins-Tips]
+patch=1,EE,00252D55,extended,00000002
+[Ghosts 'N Goblins-Cast]
+patch=1,EE,00252D56,extended,00000002
+[Ghosts 'N Goblins-Music]
+patch=1,EE,00252D57,extended,00000002
+[Ghosts 'N Goblins-All Content]
+patch=1,EE,20252D54,extended,02020202
+[Son Son-Art]
+patch=1,EE,00252F20,extended,00000002
+[Son Son-Tips]
+patch=1,EE,00252F21,extended,00000002
+[Son Son-Cast]
+patch=1,EE,00252F22,extended,00000002
+[Son Son-Music]
+patch=1,EE,00252F23,extended,00000002
+[Son Son-All Content]
+patch=1,EE,20252F20,extended,02020202
+[Super Ghouls 'N Ghosts-Art]
+patch=1,EE,002530EC,extended,00000002
+[Super Ghouls 'N Ghosts-Tips]
+patch=1,EE,002530ED,extended,00000002
+[Super Ghouls 'N Ghosts-Cast]
+patch=1,EE,002530EE,extended,00000002
+[Super Ghouls 'N Ghosts-Music]
+patch=1,EE,002530EF,extended,00000002
+[Super Ghouls 'N Ghosts-All Content]
+patch=1,EE,202530EC,extended,02020202
+

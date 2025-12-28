@@ -1,0 +1,170 @@
+gametitle=Lego-Star Wars-The Video Game
+[Enable Code (Must Be On)]
+patch=1,EE,902E8E08,extended,0C0BEB0B
+[Infinite Hearts]
+patch=1,EE,2025FEBC,extended,2413000A
+[Infinite Hearts]
+patch=1,EE,2025FEC0,extended,A0931061
+[Max Hearts]
+patch=1,EE,2025FEC4,extended,2414000A
+[Max Hearts]
+patch=1,EE,2025FEC8,extended,A0941060
+[Max LEGO Studs (In-Battle)]
+patch=1,EE,200C0220,extended,3C0605F5
+[Max LEGO Studs (In-Battle)]
+patch=1,EE,200C0224,extended,34C6E0FF
+[Max LEGO Studs (In-Battle)]
+patch=1,EE,200C0228,extended,080BEE62
+[Max LEGO Studs (In-Battle)]
+patch=1,EE,200C022C,extended,AC460140
+[Max LEGO Studs (In-Battle)]
+patch=1,EE,2025FB0C,extended,0C030088
+[Max Overall LEGO Studs]
+patch=1,EE,20547B1C,extended,05F5E0FF
+[>>> Unlock Extras Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Invincibility]
+patch=1,EE,70547AE8,extended,00000001
+[Invincibility]
+patch=1,EE,70547B18,extended,00000001
+[Silhoouettes]
+patch=1,EE,70547AE8,extended,00000002
+[Silhoouettes]
+patch=1,EE,70547B18,extended,00000002
+[Purple]
+patch=1,EE,70547AE8,extended,00000004
+[Purple]
+patch=1,EE,70547B18,extended,00000004
+[Moustaches]
+patch=1,EE,70547AE8,extended,00000008
+[Moustaches]
+patch=1,EE,70547B18,extended,00000008
+[Minikit Detector]
+patch=1,EE,70547AE8,extended,00000010
+[Minikit Detector]
+patch=1,EE,70547B18,extended,00000010
+[Tea Cups]
+patch=1,EE,70547AE8,extended,00000020
+[Tea Cups]
+patch=1,EE,70547B18,extended,00000020
+[Brushes]
+patch=1,EE,70547AE8,extended,00000040
+[Brushes]
+patch=1,EE,70547B18,extended,00000040
+[Big Blasters]
+patch=1,EE,70547AE8,extended,00000080
+[Big Blasters]
+patch=1,EE,70547B18,extended,00000080
+[Classic Blasters]
+patch=1,EE,70547AE9,extended,00000001
+[Classic Blasters]
+patch=1,EE,70547B19,extended,00000001
+[Silly Blasters]
+patch=1,EE,70547AE9,extended,00000002
+[Silly Blasters]
+patch=1,EE,70547B19,extended,00000002
+[All Extras]
+patch=1,EE,10547AE8,extended,0000FFFF
+[All Extras]
+patch=1,EE,10547B18,extended,0000FFFF
+[>>> Unlock Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gonk Droid]
+patch=1,EE,20576080,extended,0100004D
+[PK Droid]
+patch=1,EE,20576110,extended,0100004D
+[Battle Droid (Security)]
+patch=1,EE,205761A0,extended,0100004D
+[Battle Droid]
+patch=1,EE,20576230,extended,0100004D
+[Battle Droid (Commander)]
+patch=1,EE,205762C0,extended,0100004D
+[Droideka]
+patch=1,EE,20576350,extended,0100004D
+[Royal Guard]
+patch=1,EE,205763E0,extended,0100004D
+[Padme]
+patch=1,EE,20576470,extended,0100004D
+[Darth Maul]
+patch=1,EE,20576500,extended,0100004D
+[Clone]
+patch=1,EE,20576590,extended,0100004D
+[Geonasian]
+patch=1,EE,20576620,extended,0100004D
+[Battle Droi (Geonosis)]
+patch=1,EE,205766B0,extended,0100004D
+[Super Battle Droid]
+patch=1,EE,20576740,extended,0100004D
+[Tango Fett]
+patch=1,EE,205767D0,extended,0100004D
+[Boba Fett]
+patch=1,EE,20576860,extended,0100004D
+[Luminara]
+patch=1,EE,205768F0,extended,0100004D
+[Ki-Adi Mundi]
+patch=1,EE,20576980,extended,0100004D
+[Kit Fisto]
+patch=1,EE,20576A10,extended,0100004D
+[Shaak Ti]
+patch=1,EE,20576AA0,extended,0100004D
+[Count Dooku]
+patch=1,EE,20576B30,extended,0100004D
+[Grievous' Bodyguard]
+patch=1,EE,20576BC0,extended,0100004D
+[General Grievous]
+patch=1,EE,20576C50,extended,0100004D
+[Clone (Episode III)]
+patch=1,EE,20576CE0,extended,0100004D
+[Clone (Episode III, Pilot)]
+patch=1,EE,20576D70,extended,0100004D
+[Clone (Episode III, Swamp)]
+patch=1,EE,20576E00,extended,0100004D
+[Clone (Episode III, Walker)]
+patch=1,EE,20576E90,extended,0100004D
+[Mace Windu (Episode III)]
+patch=1,EE,20576F20,extended,0100004D
+[Disguised Clone]
+patch=1,EE,20576FB0,extended,0100004D
+[Darth Sidious]
+patch=1,EE,20577040,extended,0100004D
+[Rebel Trooper]
+patch=1,EE,205770D0,extended,0100004D
+[Princess Leia]
+patch=1,EE,20577160,extended,0100004D
+[All Characters]
+patch=1,EE,40576080,extended,001F0024
+[All Characters]
+patch=1,EE,0100004D,extended,00000000
+[>>> Enable Hint Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Hint 1]
+patch=1,EE,20578480,extended,01010000
+[Hint 2]
+patch=1,EE,20578510,extended,01010001
+[Hint 3]
+patch=1,EE,205785A0,extended,01010002
+[Hint 4]
+patch=1,EE,20578630,extended,01010003
+[Hint 5]
+patch=1,EE,205786C0,extended,01010004
+[Hint 6]
+patch=1,EE,20578750,extended,01010005
+[Hint 7]
+patch=1,EE,205787E0,extended,01010006
+[Hint 8]
+patch=1,EE,20578870,extended,01010007
+[Hint 9]
+patch=1,EE,20578900,extended,01010008
+[Hint 10]
+patch=1,EE,20578990,extended,01010009
+[Hint 11]
+patch=1,EE,20578A20,extended,0101000A
+[Hint 12]
+patch=1,EE,20578AB0,extended,0101000B
+[Hint 13]
+patch=1,EE,20578B40,extended,0101000C
+[All Hints]
+patch=1,EE,40578480,extended,000D0024
+[All Hints]
+patch=1,EE,01010000,extended,00000001
+

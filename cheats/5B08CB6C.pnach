@@ -1,0 +1,32 @@
+gametitle=Buffy The Vampire Slayer-Chaos Bleeds
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0029EDBF
+[Disable FMV]
+patch=1,EE,202A2C00,extended,24020001
+[Infinite Health]
+patch=1,EE,200C0220,extended,C4610608
+[Infinite Health]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Health]
+patch=1,EE,200C0228,extended,E4610604
+[Infinite Health]
+patch=1,EE,2014DCD4,extended,0C030088
+[Have All Items]
+patch=1,EE,200C0230,extended,02BE1818
+[Have All Items]
+patch=1,EE,200C0234,extended,00731021
+[Have All Items]
+patch=1,EE,200C0238,extended,24010009
+[Have All Items]
+patch=1,EE,200C023C,extended,03E00008
+[Have All Items]
+patch=1,EE,200C0240,extended,A4410028
+[Have All Items]
+patch=1,EE,20158F6C,extended,0C03008C
+[Have All Items]
+patch=1,EE,201590D4,extended,0C03008C
+[Infinite Item Usage]
+patch=1,EE,20158188,extended,00000000
+[Extra Items]
+patch=1,EE,20158184,extended,01261021
+

@@ -1,0 +1,176 @@
+gametitle=Shamu's Deep Sea Adventures
+[Enable Code (Must Be On)]
+patch=1,EE,9012B37C,extended,0C041264
+[Infinite Health]
+patch=1,EE,204B9A34,extended,AE82017C
+[Infinite Air]
+patch=1,EE,2044D34C,extended,3C0142C8
+[Infinite Air]
+patch=1,EE,2044D364,extended,AC810248
+[Infinite Air]
+patch=1,EE,2044D368,extended,44040000
+[Max Kracken Krystals]
+patch=1,EE,2062D150,extended,000003E7
+[Infinite Points]
+patch=1,EE,1062D340,extended,0000FFFF
+[Max Points]
+patch=1,EE,2062D340,extended,05F5E0FF
+[Buying Items Doesnt Decrease Points]
+patch=1,EE,20511CF8,extended,00000000
+[Buying Items Increases Points]
+patch=1,EE,20511CEC,extended,00701823
+[>>> Have Artwork Purchased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Artwork 1]
+patch=1,EE,2062D3F4,extended,00000001
+[Artwork 2]
+patch=1,EE,2062D3F8,extended,00000001
+[Artwork 3]
+patch=1,EE,2062D3FC,extended,00000001
+[Artwork 4]
+patch=1,EE,2062D400,extended,00000001
+[Artwork 5]
+patch=1,EE,2062D404,extended,00000001
+[Artwork 6]
+patch=1,EE,2062D408,extended,00000001
+[Artwork 7]
+patch=1,EE,2062D40C,extended,00000001
+[Artwork 8]
+patch=1,EE,2062D410,extended,00000001
+[Artwork 9]
+patch=1,EE,2062D414,extended,00000001
+[Artwork 10]
+patch=1,EE,2062D418,extended,00000001
+[Artwork 11]
+patch=1,EE,2062D41C,extended,00000001
+[Artwork 12]
+patch=1,EE,2062D420,extended,00000001
+[Artwork 13]
+patch=1,EE,2062D424,extended,00000001
+[Artwork 14]
+patch=1,EE,2062D428,extended,00000001
+[Artwork 15]
+patch=1,EE,2062D42C,extended,00000001
+[Artwork 16]
+patch=1,EE,2062D430,extended,00000001
+[Artwork 17]
+patch=1,EE,2062D434,extended,00000001
+[Artwork 18]
+patch=1,EE,2062D438,extended,00000001
+[All Artworks]
+patch=1,EE,4062D3F4,extended,00120001
+[All Artworks]
+patch=1,EE,00000001,extended,00000000
+[>>> Have Photo Purchased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Photo 1]
+patch=1,EE,2062D480,extended,00000001
+[Photo 2]
+patch=1,EE,2062D484,extended,00000001
+[Photo 3]
+patch=1,EE,2062D488,extended,00000001
+[Photo 4]
+patch=1,EE,2062D48C,extended,00000001
+[Photo 5]
+patch=1,EE,2062D490,extended,00000001
+[Photo 6]
+patch=1,EE,2062D494,extended,00000001
+[Photo 7]
+patch=1,EE,2062D498,extended,00000001
+[Photo 8]
+patch=1,EE,2062D49C,extended,00000001
+[Photo 9]
+patch=1,EE,2062D4A0,extended,00000001
+[Photo 10]
+patch=1,EE,2062D4A4,extended,00000001
+[Photo 11]
+patch=1,EE,2062D4A8,extended,00000001
+[Photo 12]
+patch=1,EE,2062D4AC,extended,00000001
+[Photo 13]
+patch=1,EE,2062D4B0,extended,00000001
+[Photo 14]
+patch=1,EE,2062D4B4,extended,00000001
+[Photo 15]
+patch=1,EE,2062D4B8,extended,00000001
+[Photo 16]
+patch=1,EE,2062D4BC,extended,00000001
+[Photo 17]
+patch=1,EE,2062D4C0,extended,00000001
+[Photo 18]
+patch=1,EE,2062D4C4,extended,00000001
+[Photo 19]
+patch=1,EE,2062D4C8,extended,00000001
+[Photo 20]
+patch=1,EE,2062D4CC,extended,00000001
+[Photo 21]
+patch=1,EE,2062D4D0,extended,00000001
+[Photo 22]
+patch=1,EE,2062D4D4,extended,00000001
+[Photo 23]
+patch=1,EE,2062D4D8,extended,00000001
+[Photo 24]
+patch=1,EE,2062D4DC,extended,00000001
+[All Photos]
+patch=1,EE,4062D480,extended,00180001
+[All Photos]
+patch=1,EE,00000001,extended,00000000
+[>>> Have Movie Purchased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Movie 1]
+patch=1,EE,2062D4E0,extended,00000001
+[Movie 2]
+patch=1,EE,2062D4E4,extended,00000001
+[Movie 3]
+patch=1,EE,2062D4E8,extended,00000001
+[Movie 4]
+patch=1,EE,2062D4EC,extended,00000001
+[Movie 5]
+patch=1,EE,2062D4F0,extended,00000001
+[Movie 6]
+patch=1,EE,2062D4F4,extended,00000001
+[Movie 7]
+patch=1,EE,2062D4F8,extended,00000001
+[Movie 8]
+patch=1,EE,2062D4FC,extended,00000001
+[Movie 9]
+patch=1,EE,2062D500,extended,00000001
+[Movie 10]
+patch=1,EE,2062D504,extended,00000001
+[Movie 11]
+patch=1,EE,2062D444,extended,00000001
+[Movie 12]
+patch=1,EE,2062D448,extended,00000001
+[Movie 13]
+patch=1,EE,2062D44C,extended,00000001
+[Movie 14]
+patch=1,EE,2062D450,extended,00000001
+[Movie 15]
+patch=1,EE,2062D454,extended,00000001
+[Movie 16]
+patch=1,EE,2062D458,extended,00000001
+[Movie 17]
+patch=1,EE,2062D45C,extended,00000001
+[Movie 18]
+patch=1,EE,2062D460,extended,00000001
+[Movie 19]
+patch=1,EE,2062D464,extended,00000001
+[Movie 20]
+patch=1,EE,2062D468,extended,00000001
+[Movie 21]
+patch=1,EE,2062D46C,extended,00000001
+[Movie 22]
+patch=1,EE,2062D470,extended,00000001
+[Movie 23]
+patch=1,EE,2062D474,extended,00000001
+[Movie 24]
+patch=1,EE,2062D478,extended,00000001
+[All Movies]
+patch=1,EE,4062D4E0,extended,000A0001
+[All Movies]
+patch=1,EE,00000001,extended,00000000
+[All Movies]
+patch=1,EE,4062D444,extended,000E0001
+[All Movies]
+patch=1,EE,00000001,extended,00000000
+

@@ -1,0 +1,84 @@
+gametitle=Prince Of Persia-The Sands Of Time
+[Enable Code (Must Be On)]
+patch=1,EE,901040E4,extended,0C045A80
+[Infinite Health (Hold {SELECT} To Die)]
+patch=1,EE,202D9EB4,extended,2402012C
+[Infinite Health (Hold {SELECT} To Die)]
+patch=1,EE,102D9EBE,extended,00001000
+[Infinite Health (Hold {SELECT} To Die)]
+patch=1,EE,D06CDF82,extended,0010FFFE
+[Infinite Health (Hold {SELECT} To Die)]
+patch=1,EE,202D9EB8,extended,AC620000
+[Infinite Health (Hold {SELECT} To Die)]
+patch=1,EE,D06CDF82,extended,0000FFFE
+[Infinite Health (Hold {SELECT} To Die)]
+patch=1,EE,202D9EB8,extended,00000000
+[Max Health]
+patch=1,EE,202DA078,extended,2403012C
+[Max Health]
+patch=1,EE,202DA07C,extended,AC430000
+[Max Health]
+patch=1,EE,102DA082,extended,00001000
+[Max Health]
+patch=1,EE,102DA08E,extended,00001000
+[Max Sand Meter]
+patch=1,EE,202DA130,extended,2403000A
+[Max Sand Meter]
+patch=1,EE,202DA134,extended,AC430000
+[Max Sand Meter]
+patch=1,EE,102DA13A,extended,00001000
+[Infinite Sand Meter]
+patch=1,EE,202DA158,extended,2403000A
+[Infinite Sand Meter]
+patch=1,EE,202DA15C,extended,AC430000
+[Infinite Sand Meter]
+patch=1,EE,102DA162,extended,00001000
+[Max Power Tanks]
+patch=1,EE,202DA1BC,extended,24030014
+[Max Power Tanks]
+patch=1,EE,202DA1C0,extended,AC430000
+[Max Power Tanks]
+patch=1,EE,102DA1D6,extended,00001000
+[Infinite Power Tanks]
+patch=1,EE,202DA1F4,extended,24030014
+[Infinite Power Tanks]
+patch=1,EE,202DA1F8,extended,AC430000
+[Infinite Power Tanks]
+patch=1,EE,102DA1FE,extended,00001000
+[Infinite Check Point Meter]
+patch=1,EE,203F0218,extended,00000000
+[Infinite Check Point Meter]
+patch=1,EE,203F0C64,extended,00000000
+[Infinite Check Point Meter]
+patch=1,EE,203F0DA8,extended,00000000
+[Infinite Sand Usage]
+patch=1,EE,203341A8,extended,00000000
+[Use Sand For Max Sand]
+patch=1,EE,20334170,extended,24020005
+[Use Sand For Max Sand]
+patch=1,EE,20334178,extended,AE0207A8
+[Unlock Prince Of Persia 1]
+patch=1,EE,202348C0,extended,8C410000
+[Unlock Prince Of Persia 1]
+patch=1,EE,202348C4,extended,34211000
+[Unlock Prince Of Persia 1]
+patch=1,EE,202348C8,extended,AC410000
+[Infinite Health (Farah)]
+patch=1,EE,2029A2BC,extended,AE83007C
+[P1 Press {L1}+{SELECT} For Normal Speed]
+patch=1,EE,D06CDF82,extended,0000FBFE
+[P1 Press {L1}+{SELECT} For Normal Speed]
+patch=1,EE,2066CF88,extended,3F800000
+[P1 Press {L2}+{SELECT} For Super Speed]
+patch=1,EE,D06CDF82,extended,0000FEFE
+[P1 Press {L2}+{SELECT} For Super Speed]
+patch=1,EE,2066CF88,extended,3FC00000
+[P1 Press {R1}+{SELECT} For Turbo Speed]
+patch=1,EE,D06CDF82,extended,0000F7FE
+[P1 Press {R1}+{SELECT} For Turbo Speed]
+patch=1,EE,2066CF88,extended,40000000
+[P1 Press {R2}+{SELECT} For Ultra Speed]
+patch=1,EE,D06CDF82,extended,0000FDFE
+[P1 Press {R2}+{SELECT} For Ultra Speed]
+patch=1,EE,2066CF88,extended,40800000
+

@@ -1,0 +1,344 @@
+gametitle=Matrix-Path Of Neo, The
+[Enable Code (Must Be On)]
+patch=1,EE,90342B44,extended,0C0E63FF
+[Infinite Health]
+patch=1,EE,20240830,extended,C44103C4
+[Infinite Health]
+patch=1,EE,2024083C,extended,E44103C0
+[Infinite Focus]
+patch=1,EE,20243348,extended,C46103D4
+[Infinite Focus]
+patch=1,EE,20243350,extended,E46103D0
+[Infinite Focus Usage]
+patch=1,EE,20140EC4,extended,00000000
+[1-Hit Death (Enemies)]
+patch=1,EE,20140AD8,extended,AC8003C0
+[Infinite Ammo]
+patch=1,EE,202DBFA0,extended,00000000
+[Max Infinite Ammo]
+patch=1,EE,202DBF9C,extended,240303E7
+[Extra Ammo]
+patch=1,EE,202DBF9C,extended,00701821
+[Never Reload]
+patch=1,EE,202DC1A0,extended,00000000
+[P1 Press {R1}+{SELECT} For More Upgrade Points]
+patch=1,EE,D044E882,extended,0000F7FE
+[P1 Press {R1}+{SELECT} For More Upgrade Points]
+patch=1,EE,2046C500,extended,00000005
+[P1 Press R+{SELECT} For No Upgrade Points]
+patch=1,EE,D044E882,extended,0000FDFE
+[P1 Press R+{SELECT} For No Upgrade Points]
+patch=1,EE,2046C500,extended,00000000
+[>>> Training Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quicker Score Gain]
+patch=1,EE,201F0BD0,extended,248403E7
+[Quicker Score Gain]
+patch=1,EE,201F0BD0,extended,2484270F
+[Super  Quick Score Gain]
+patch=1,EE,201F0BD0,extended,248461A8
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,E003FBFE,extended,0044E882
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,202D4868,extended,00000000
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,202D487C,extended,00000000
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,202D4880,extended,00000000
+[P1 Press {L1}+{SELECT} To Restart Timer]
+patch=1,EE,E003FEFE,extended,0044E882
+[P1 Press {L1}+{SELECT} To Restart Timer]
+patch=1,EE,202D4868,extended,A2020079
+[P1 Press {L1}+{SELECT} To Restart Timer]
+patch=1,EE,202D487C,extended,A2020078
+[P1 Press {L1}+{SELECT} To Restart Timer]
+patch=1,EE,202D4880,extended,A2030079
+[>>> Unlock Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lots Of Guns]
+patch=1,EE,70464E51,extended,00000004
+[Indestructible Melee Weapons]
+patch=1,EE,70464E51,extended,00000008
+[Unlimited Ammo]
+patch=1,EE,70464E51,extended,00000010
+[Reflect Bullets]
+patch=1,EE,70464E51,extended,00000020
+[Unlimited Health]
+patch=1,EE,70464E51,extended,00000040
+[Vampiric Regeneration]
+patch=1,EE,70464E51,extended,00000080
+[All Cheats]
+patch=1,EE,70464E51,extended,000000FC
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lots Of Guns]
+patch=1,EE,70468181,extended,00000004
+[Indestructible Melee Weapons]
+patch=1,EE,70468181,extended,00000008
+[Unlimited Ammo]
+patch=1,EE,70468181,extended,00000010
+[Reflect Bullets]
+patch=1,EE,70468181,extended,00000020
+[Unlimited Health]
+patch=1,EE,70468181,extended,00000040
+[Vampiric Regeneration]
+patch=1,EE,70468181,extended,00000080
+[All Cheats]
+patch=1,EE,70468181,extended,000000FC
+[>>> Unlock Media Viewer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level Concepts]
+patch=1,EE,70465648,extended,00000001
+[Character Concepts (Part 1)]
+patch=1,EE,70465648,extended,00000002
+[Level Studies]
+patch=1,EE,70465648,extended,00000004
+[Renderings (Part 1)]
+patch=1,EE,70465648,extended,00000008
+[Art Graveyard]
+patch=1,EE,70465648,extended,00000010
+[Character Concepts (Part 2)]
+patch=1,EE,70465649,extended,00000008
+[Renderings (Part 2)]
+patch=1,EE,70465654,extended,00000040
+[All Media Viewer]
+patch=1,EE,70465648,extended,0010081F
+[All Media Viewer]
+patch=1,EE,70465654,extended,00000040
+[>>> Unlock Movies Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Zion Archives]
+patch=1,EE,70465648,extended,00000020
+[PON Cinematics]
+patch=1,EE,70465648,extended,00000040
+[Follow The White Rabbit]
+patch=1,EE,70465649,extended,00000010
+[OUtside, There's A Seafielding]
+patch=1,EE,70465649,extended,00000020
+[Welcome To The Real World]
+patch=1,EE,70465649,extended,00000040
+[I Know Kung Fu]
+patch=1,EE,7046564A,extended,00000001
+[The Oracle]
+patch=1,EE,7046564A,extended,00000002
+[We Can't Leave Him]
+patch=1,EE,7046564A,extended,00000004
+[Guns. Lots Of Guns]
+patch=1,EE,7046564A,extended,00000008
+[There Is No Spoon]
+patch=1,EE,7046564A,extended,00000010
+[Mr. Anderson ...]
+patch=1,EE,7046564A,extended,00000020
+[He's Going To Make It]
+patch=1,EE,7046564A,extended,00000040
+[He Is The One]
+patch=1,EE,7046564A,extended,00000080
+[System Failure]
+patch=1,EE,7046564B,extended,00000001
+[A List Of Potentials]
+patch=1,EE,7046564B,extended,00000002
+[Hiya, Fellas]
+patch=1,EE,7046564B,extended,00000004
+[I Must Apologize]
+patch=1,EE,7046564B,extended,00000008
+[Purpose]
+patch=1,EE,7046564B,extended,00000010
+[Cause And Effect]
+patch=1,EE,7046564B,extended,00000020
+[This Is A Dead End]
+patch=1,EE,7046564B,extended,00000040
+[The Architect]
+patch=1,EE,7046564B,extended,00000080
+[It Ends Tonight]
+patch=1,EE,7046564C,extended,00000001
+[This Is My World]
+patch=1,EE,7046564D,extended,00000010
+[The War Is Over]
+patch=1,EE,7046564D,extended,00000040
+[In-Game Cinematic Bloopers]
+patch=1,EE,70465654,extended,00000080
+[All Movies]
+patch=1,EE,70465648,extended,00107060
+[All Movies]
+patch=1,EE,1046564A,extended,0000FFFF
+[All Movies]
+patch=1,EE,7046564C,extended,00105001
+[All Movies]
+patch=1,EE,70465654,extended,00000080
+[>>> Unlock The Making Of ... Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Staff Combos]
+patch=1,EE,70465648,extended,00000080
+[Sword Combos]
+patch=1,EE,70465649,extended,00000001
+[Storyboard Sequence 1]
+patch=1,EE,70465649,extended,00000004
+[Hand-To-Hand Combos]
+patch=1,EE,7046564D,extended,00000080
+[Storyboard Sequence 2]
+patch=1,EE,7046564E,extended,00000001
+[Storyboard Sequence 3]
+patch=1,EE,7046564E,extended,00000002
+[Storyboard Sequence 4]
+patch=1,EE,7046564E,extended,00000004
+[Storyboard Sequence 5]
+patch=1,EE,7046564E,extended,00000008
+[All The Making Of ...]
+patch=1,EE,70465648,extended,00100580
+[All The Making Of ...]
+patch=1,EE,7046564D,extended,00000080
+[All The Making Of ...]
+patch=1,EE,7046564E,extended,0000000F
+[>>> Unlock Special Combos Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[The Code Breaker]
+patch=1,EE,7046564F,extended,00000080
+[Quick Kicks]
+patch=1,EE,70465650,extended,00000001
+[Machine Gun Kick]
+patch=1,EE,70465650,extended,00000002
+[Ultimate Hyper Strike]
+patch=1,EE,70465650,extended,00000004
+[The Beginning Of The End]
+patch=1,EE,70465650,extended,00000008
+[The One]
+patch=1,EE,70465650,extended,00000010
+[All Special Combos]
+patch=1,EE,7046564F,extended,00000080
+[All Special Combos]
+patch=1,EE,70465650,extended,0000001F
+[>>> Have Level Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Ever Had A Dream, Neo?]
+patch=1,EE,2046565C,extended,FFFFFFFF
+[Ever Had A Dream, Neo?]
+patch=1,EE,20465660,extended,00000003
+[They're Coming For You, Neo]
+patch=1,EE,204656E8,extended,FFFFFFFF
+[They're Coming For You, Neo]
+patch=1,EE,204656EC,extended,00000004
+[He's Heading For The Street]
+patch=1,EE,20465774,extended,FFFFFFFF
+[He's Heading For The Street]
+patch=1,EE,20465778,extended,00020004
+[Kung Fu Training]
+patch=1,EE,20465800,extended,FFFFFFFF
+[Kung Fu Training]
+patch=1,EE,20465804,extended,00000005
+[Sword Training]
+patch=1,EE,2046588C,extended,00010005
+[Sword Training]
+patch=1,EE,20465890,extended,00010013
+[Winter Training]
+patch=1,EE,20465918,extended,00020005
+[Winter Training]
+patch=1,EE,2046591C,extended,00010013
+[Aerial Training]
+patch=1,EE,204659A4,extended,00030005
+[Aerial Training]
+patch=1,EE,204659A8,extended,00010013
+[Weapon Training]
+patch=1,EE,20465A30,extended,00040005
+[Weapon Training]
+patch=1,EE,20465A34,extended,00010013
+[Dojo Training]
+patch=1,EE,20465ABC,extended,00050005
+[Dojo Training]
+patch=1,EE,20465AC0,extended,00010013
+[Deja Vu-It's A Trap!]
+patch=1,EE,20465B48,extended,00000006
+[Deja Vu-It's A Trap!]
+patch=1,EE,20465B4C,extended,00010013
+[Storming The Drain]
+patch=1,EE,20465BD4,extended,00020006
+[Storming The Drain]
+patch=1,EE,20465BD8,extended,00010013
+[Lobby Shooting Spree]
+patch=1,EE,20465C60,extended,00000007
+[Lobby Shooting Spree]
+patch=1,EE,20465C64,extended,00010013
+[Rooftop Assault-Dodge This]
+patch=1,EE,20465CEC,extended,00010007
+[Rooftop Assault-Dodge This]
+patch=1,EE,20465CF0,extended,00010013
+[Helicopter Rescue]
+patch=1,EE,20465D78,extended,FFFFFFFF
+[Helicopter Rescue]
+patch=1,EE,20465D7C,extended,00020007
+[Subway Showdown]
+patch=1,EE,20465E04,extended,FFFFFFFF
+[Subway Showdown]
+patch=1,EE,20465E08,extended,00000008
+[Stuck In The Loop]
+patch=1,EE,20465E90,extended,00010008
+[Stuck In The Loop]
+patch=1,EE,20465E94,extended,00010013
+[The Chase-I Need An Exit]
+patch=1,EE,20465F1C,extended,00030008
+[The Chase-I Need An Exit]
+patch=1,EE,20465F20,extended,00010013
+[He Is The One]
+patch=1,EE,20465FA8,extended,FFFFFFFF
+[He Is The One]
+patch=1,EE,20465FAC,extended,00000009
+[Red Pill Rescue]
+patch=1,EE,20466034,extended,0009000A
+[Red Pill Rescue]
+patch=1,EE,20466038,extended,00010013
+[The Captains' Meeting]
+patch=1,EE,204660C0,extended,0000000B
+[The Captains' Meeting]
+patch=1,EE,204660C4,extended,00010013
+[Captains Rescue]
+patch=1,EE,2046614C,extended,0007000B
+[Captains Rescue]
+patch=1,EE,20466150,extended,00010013
+[Seraph's Apology]
+patch=1,EE,204661D8,extended,0000000C
+[Seraph's Apology]
+patch=1,EE,204661DC,extended,00010013
+[The Burly Brawl]
+patch=1,EE,20466264,extended,0000000D
+[The Burly Brawl]
+patch=1,EE,20466268,extended,00010013
+[The Frenchman]
+patch=1,EE,204662F0,extended,0000000E
+[The Frenchman]
+patch=1,EE,204662F4,extended,00010013
+[Distorted Dimensions]
+patch=1,EE,2046637C,extended,FFFFFFFF
+[Distorted Dimensions]
+patch=1,EE,20466380,extended,0001000E
+[Downside Up]
+patch=1,EE,20466408,extended,FFFFFFFF
+[Downside Up]
+patch=1,EE,2046640C,extended,0002000E
+[The Witch]
+patch=1,EE,20466494,extended,FFFFFFFF
+[The Witch]
+patch=1,EE,20466498,extended,0003000E
+[Turned Out]
+patch=1,EE,20466520,extended,0000000F
+[Turned Out]
+patch=1,EE,20466524,extended,00010013
+[Ministry Of Smiths]
+patch=1,EE,204665AC,extended,FFFFFFFF
+[Ministry Of Smiths]
+patch=1,EE,204665B0,extended,0001000F
+[Taking The Floor]
+patch=1,EE,20466638,extended,FFFFFFFF
+[Taking The Floor]
+patch=1,EE,2046663C,extended,0002000F
+[Mr. Anderson, Welcome Back]
+patch=1,EE,204666C4,extended,FFFFFFFF
+[Mr. Anderson, Welcome Back]
+patch=1,EE,204666C8,extended,00010011
+[Aerial Battle]
+patch=1,EE,20466750,extended,FFFFFFFF
+[Aerial Battle]
+patch=1,EE,20466754,extended,00040011
+[This Is My World]
+patch=1,EE,204667DC,extended,FFFFFFFF
+[This Is My World]
+patch=1,EE,204667E0,extended,00050011
+

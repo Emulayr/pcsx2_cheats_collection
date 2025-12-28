@@ -1,0 +1,34 @@
+gametitle=VCL Presents Motor Mayhem
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0015F1AF
+[Max Kills]
+patch=1,EE,006BF180,extended,00000063
+[Enable Buzzsaw]
+patch=1,EE,101AB7B6,extended,00000001
+[>>> Unlock Track Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[City Canal]
+patch=1,EE,001AB7B1,extended,00000001
+[Downtown]
+patch=1,EE,001AB7B2,extended,00000001
+[Dual Carriers]
+patch=1,EE,001AB7B3,extended,00000001
+[VCL Coliseum 2]
+patch=1,EE,001AB7B4,extended,00000001
+[Park Hill]
+patch=1,EE,001AB7B5,extended,00000001
+[>>> Unlock Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Cheat Menu Itself (Options Menu)]
+patch=1,EE,001AB795,extended,00000001
+[Secret Combo Cheat]
+patch=1,EE,001AB7A3,extended,00000001
+[Unlimited Hover Mode]
+patch=1,EE,001AB7A4,extended,00000001
+[Unlimited Ammo]
+patch=1,EE,001AB7A5,extended,00000001
+[Unlimited Energy]
+patch=1,EE,001AB7A6,extended,00000001
+[Start With No Health]
+patch=1,EE,001AB7A7,extended,00000001
+

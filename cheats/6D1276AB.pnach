@@ -1,0 +1,1422 @@
+gametitle=Xenosaga-Episode I-DWZM
+[Enable Code (Must Be On)]
+patch=1,EE,9020BCA4,extended,0C0CBB33
+[Infinite Money]
+patch=1,EE,104DBB68,extended,0000FFFF
+[Max Money]
+patch=1,EE,204DBB68,extended,3B9AC9FF
+[Hella Exp Gained After Battle]
+patch=1,EE,20A57B90,extended,0000270F
+[Hella TP Gained After Battle]
+patch=1,EE,20A57B94,extended,0000270F
+[Hella EP Gained After Battle]
+patch=1,EE,20A57B98,extended,0000270F
+[Hella SP Gained After Battle]
+patch=1,EE,20A57B9C,extended,0000270F
+[Hella Money Gained After Battle]
+patch=1,EE,20A57BA0,extended,0000270F
+[Infinite Item Usage]
+patch=1,EE,202BCC2C,extended,00000000
+[Extra Items]
+patch=1,EE,102BCC1C,extended,00000001
+[Use Item For Max Item]
+patch=1,EE,202BCC20,extended,24050063
+[Dont Need E.Pts To Transfer Ethers]
+patch=1,EE,202AAACC,extended,00000000
+[Dont Need E.Pts To Transfer Ethers]
+patch=1,EE,202AECC0,extended,00000000
+[Can Evolve & Transfer Transferred Ethers]
+patch=1,EE,102A9FDE,extended,00001000
+[Enemies Dont Move]
+patch=1,EE,202CDAC0,extended,0C0B2E84
+[Enemies Dont Move]
+patch=1,EE,202CDB40,extended,0C0B2E84
+[Enemies Run From You]
+patch=1,EE,202CDAC0,extended,0C0B32C2
+[Enemies Run From You]
+patch=1,EE,202CDB40,extended,0C0B32C2
+[Extra Gold]
+patch=1,EE,202BCE74,extended,0064282D
+[Faster Movement]
+patch=1,EE,20364910,extended,40000000
+[Faster Movement]
+patch=1,EE,20364914,extended,40000000
+[Faster Movement]
+patch=1,EE,20364918,extended,40000000
+[Faster Movement]
+patch=1,EE,2036491C,extended,40000000
+[Ultra Fast Movement]
+patch=1,EE,20364910,extended,40800000
+[Ultra Fast Movement]
+patch=1,EE,20364914,extended,40800000
+[Ultra Fast Movement]
+patch=1,EE,20364918,extended,40800000
+[Ultra Fast Movement]
+patch=1,EE,2036491C,extended,40800000
+[Enable 60 FPS Mode]
+patch=1,EE,004DC3BC,extended,00000001
+[God Of Tech Equip]
+patch=1,EE,102B3B32,extended,00001000
+[God Of Tech Equip]
+patch=1,EE,202B3B54,extended,00000000
+[God Of Tech Equip]
+patch=1,EE,102B3B62,extended,00001000
+[God Of Tech Set Tech Level]
+patch=1,EE,102AF962,extended,00001000
+[God Of Tech Set Speed Level]
+patch=1,EE,102AF9D2,extended,00001000
+[God Of Tech Set Wait Level]
+patch=1,EE,102AFA42,extended,00001000
+[God Of Ether Evolve]
+patch=1,EE,202AAACC,extended,00000000
+[God Of Ether Evolve]
+patch=1,EE,202AEC84,extended,00000000
+[Have All Characters In Reserve]
+patch=1,EE,104A1850,extended,0000FFFF
+[Enable Debug Info]
+patch=1,EE,10881188,extended,00000003
+[Enable Anim Debug Info]
+patch=1,EE,202CD320,extended,00000000
+[Press {START} For Debug Menu]
+patch=1,EE,202451B8,extended,24030008
+[Press {START} For Debug Menu]
+patch=1,EE,10881188,extended,00000003
+[Press {START} For Event Tools Menu]
+patch=1,EE,202451B8,extended,24030007
+[Press {START} For Event Tools Menu]
+patch=1,EE,10881188,extended,00000003
+[Press {CIRCLE} To Save Anywhere]
+patch=1,EE,D0490D92,extended,0000DBFF
+[Press {CIRCLE} To Save Anywhere]
+patch=1,EE,202442FC,extended,00000000
+[Press {CIRCLE} To Save Anywhere]
+patch=1,EE,D0490D92,extended,0010DBFF
+[Press {CIRCLE} To Save Anywhere]
+patch=1,EE,202442FC,extended,45030001
+[Infinite E. Pts Usage (Evolving)]
+patch=1,EE,202AEF30,extended,00000000
+[Infinite E. Pts Usage (Transferring)]
+patch=1,EE,202AF248,extended,00000000
+[>>> In-Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite EP Usage]
+patch=1,EE,D0A12564,extended,10004404
+[Infinite EP Usage]
+patch=1,EE,20A1256C,extended,00000000
+[Press {L1}+{SELECT} To Escape Battle]
+patch=1,EE,D0490D92,extended,1000FBFE
+[Press {L1}+{SELECT} To Escape Battle]
+patch=1,EE,20A57BE8,extended,00000001
+[>>> Character 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10A57E90,extended,0000270F
+[Max EP]
+patch=1,EE,10A57E92,extended,00000063
+[Max Str]
+patch=1,EE,10A57E94,extended,000003E7
+[Max Vit]
+patch=1,EE,10A57E96,extended,000003E7
+[Max Eatk]
+patch=1,EE,10A57E98,extended,000003E7
+[Max Edef]
+patch=1,EE,10A57E9A,extended,000003E7
+[Max Dex]
+patch=1,EE,00A57E9C,extended,00000063
+[Max Eva]
+patch=1,EE,00A57E9D,extended,00000063
+[Max Agl]
+patch=1,EE,00A57E9E,extended,00000063
+[Infinite HP]
+patch=1,EE,10A57EC4,extended,0000270F
+[Infinite EP]
+patch=1,EE,10A57EC6,extended,00000063
+[>>> Character 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10A58010,extended,0000270F
+[Max EP]
+patch=1,EE,10A58012,extended,00000063
+[Max Str]
+patch=1,EE,10A58014,extended,000003E7
+[Max Vit]
+patch=1,EE,10A58016,extended,000003E7
+[Max Eatk]
+patch=1,EE,10A58018,extended,000003E7
+[Max Edef]
+patch=1,EE,10A5801A,extended,000003E7
+[Max Dex]
+patch=1,EE,00A5801C,extended,00000063
+[Max Eva]
+patch=1,EE,00A5801D,extended,00000063
+[Max Agl]
+patch=1,EE,00A5801E,extended,00000063
+[Infinite HP]
+patch=1,EE,10A58044,extended,0000270F
+[Infinite EP]
+patch=1,EE,10A58046,extended,00000063
+[>>> Character 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10A58190,extended,0000270F
+[Max EP]
+patch=1,EE,10A58192,extended,00000063
+[Max Str]
+patch=1,EE,10A58194,extended,000003E7
+[Max Vit]
+patch=1,EE,10A58196,extended,000003E7
+[Max Eatk]
+patch=1,EE,10A58198,extended,000003E7
+[Max Edef]
+patch=1,EE,10A5819A,extended,000003E7
+[Max Dex]
+patch=1,EE,00A5819C,extended,00000063
+[Max Eva]
+patch=1,EE,00A5819D,extended,00000063
+[Max Agl]
+patch=1,EE,00A5819E,extended,00000063
+[Infinite HP]
+patch=1,EE,10A581C4,extended,0000270F
+[Infinite EP]
+patch=1,EE,10A581C6,extended,00000063
+[>>> A.G.W.S. 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10A58310,extended,0000270F
+[Max EP]
+patch=1,EE,10A58312,extended,00000063
+[Max Str]
+patch=1,EE,10A58314,extended,000003E7
+[Max Vit]
+patch=1,EE,10A58316,extended,000003E7
+[Max Eatk]
+patch=1,EE,10A58318,extended,000003E7
+[Max Edef]
+patch=1,EE,10A5831A,extended,000003E7
+[Max Dex]
+patch=1,EE,00A5831C,extended,00000063
+[Max Eva]
+patch=1,EE,00A5831D,extended,00000063
+[Max Agl]
+patch=1,EE,00A5831E,extended,00000063
+[Infinite HP]
+patch=1,EE,10A58344,extended,0000270F
+[Infinite EP]
+patch=1,EE,10A58346,extended,00000063
+[>>> A.G.W.S. 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10A58490,extended,0000270F
+[Max EP]
+patch=1,EE,10A58492,extended,00000063
+[Max Str]
+patch=1,EE,10A58494,extended,000003E7
+[Max Vit]
+patch=1,EE,10A58496,extended,000003E7
+[Max Eatk]
+patch=1,EE,10A58498,extended,000003E7
+[Max Edef]
+patch=1,EE,10A5849A,extended,000003E7
+[Max Dex]
+patch=1,EE,00A5849C,extended,00000063
+[Max Eva]
+patch=1,EE,00A5849D,extended,00000063
+[Max Agl]
+patch=1,EE,00A5849E,extended,00000063
+[Infinite HP]
+patch=1,EE,10A584C4,extended,0000270F
+[Infinite EP]
+patch=1,EE,10A584C6,extended,00000063
+[>>> A.G.W.S. 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10A58610,extended,0000270F
+[Max EP]
+patch=1,EE,10A58612,extended,00000063
+[Max Str]
+patch=1,EE,10A58614,extended,000003E7
+[Max Vit]
+patch=1,EE,10A58616,extended,000003E7
+[Max Eatk]
+patch=1,EE,10A58618,extended,000003E7
+[Max Edef]
+patch=1,EE,10A5861A,extended,000003E7
+[Max Dex]
+patch=1,EE,00A5861C,extended,00000063
+[Max Eva]
+patch=1,EE,00A5861D,extended,00000063
+[Max Agl]
+patch=1,EE,00A5861E,extended,00000063
+[Infinite HP]
+patch=1,EE,10A58644,extended,0000270F
+[Infinite EP]
+patch=1,EE,10A58646,extended,00000063
+[>>> Enemy 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Str]
+patch=1,EE,10A58914,extended,00000000
+[No Vit]
+patch=1,EE,10A58916,extended,00000000
+[No Eatk]
+patch=1,EE,10A58918,extended,00000000
+[No Edef]
+patch=1,EE,10A5891A,extended,00000000
+[No Dex]
+patch=1,EE,00A5891C,extended,00000000
+[No Eva]
+patch=1,EE,00A5891D,extended,00000000
+[No Agl]
+patch=1,EE,00A5891E,extended,00000000
+[1-Hit Death]
+patch=1,EE,D0A58944,extended,10200001
+[1-Hit Death]
+patch=1,EE,10A58944,extended,00000001
+[No EP]
+patch=1,EE,10A58946,extended,00000000
+[>>> Enemy 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Str]
+patch=1,EE,10A58A94,extended,00000000
+[No Vit]
+patch=1,EE,10A58A96,extended,00000000
+[No Eatk]
+patch=1,EE,10A58A98,extended,00000000
+[No Edef]
+patch=1,EE,10A58A9A,extended,00000000
+[No Dex]
+patch=1,EE,00A58A9C,extended,00000000
+[No Eva]
+patch=1,EE,00A58A9D,extended,00000000
+[No Agl]
+patch=1,EE,00A58A9E,extended,00000000
+[1-Hit Death]
+patch=1,EE,D0A58AC4,extended,10200001
+[1-Hit Death]
+patch=1,EE,10A58AC4,extended,00000001
+[No EP]
+patch=1,EE,10A58AC6,extended,00000000
+[>>> Enemy 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Str]
+patch=1,EE,10A58C14,extended,00000000
+[No Vit]
+patch=1,EE,10A58C16,extended,00000000
+[No Eatk]
+patch=1,EE,10A58C18,extended,00000000
+[No Edef]
+patch=1,EE,10A58C1A,extended,00000000
+[No Dex]
+patch=1,EE,00A58C1C,extended,00000000
+[No Eva]
+patch=1,EE,00A58C1D,extended,00000000
+[No Agl]
+patch=1,EE,00A58C1E,extended,00000000
+[1-Hit Death]
+patch=1,EE,D0A58C44,extended,10200001
+[1-Hit Death]
+patch=1,EE,10A58C44,extended,00000001
+[No EP]
+patch=1,EE,10A58C46,extended,00000000
+[>>> Enemy 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Str]
+patch=1,EE,10A58D94,extended,00000000
+[No Vit]
+patch=1,EE,10A58D96,extended,00000000
+[No Eatk]
+patch=1,EE,10A58D98,extended,00000000
+[No Edef]
+patch=1,EE,10A58D9A,extended,00000000
+[No Dex]
+patch=1,EE,00A58D9C,extended,00000000
+[No Eva]
+patch=1,EE,00A58D9D,extended,00000000
+[No Agl]
+patch=1,EE,00A58D9E,extended,00000000
+[1-Hit Death]
+patch=1,EE,D0A58DC4,extended,10200001
+[1-Hit Death]
+patch=1,EE,10A58DC4,extended,00000001
+[No EP]
+patch=1,EE,10A58DC6,extended,00000000
+[>>> Chaos Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10422940,extended,0000270F
+[Max EP]
+patch=1,EE,10422942,extended,00000063
+[Max Str]
+patch=1,EE,10422944,extended,000003E7
+[Max Vit]
+patch=1,EE,10422946,extended,000003E7
+[Max Eatk]
+patch=1,EE,10422948,extended,000003E7
+[Max Edef]
+patch=1,EE,1042294A,extended,000003E7
+[Max Dex]
+patch=1,EE,0042294C,extended,00000063
+[Max Eva]
+patch=1,EE,0042294D,extended,00000063
+[Max Agl]
+patch=1,EE,0042294E,extended,00000063
+[Level 99]
+patch=1,EE,00422954,extended,00000063
+[Infinite HP]
+patch=1,EE,10422974,extended,0000270F
+[Infinite EP]
+patch=1,EE,10422976,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,10425AC0,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20425AC0,extended,0098967F
+[Always 1 Exp For Next Level]
+patch=1,EE,20425AC4,extended,00000001
+[Max T. Pts]
+patch=1,EE,20425ACC,extended,0000270F
+[Max E. Pts]
+patch=1,EE,20425AD0,extended,0000270F
+[Max S. Pts]
+patch=1,EE,20425AD4,extended,0000270F
+[Have All Ethers]
+patch=1,EE,20425AE8,extended,FFFFFFFF
+[Have All Ethers]
+patch=1,EE,20425AEC,extended,03FFFFFF
+[Have All Ethers]
+patch=1,EE,20425AF0,extended,FFFFFF80
+[Have All Skills]
+patch=1,EE,20425AF8,extended,FFFFFFFB
+[Have All Skills]
+patch=1,EE,20425AFC,extended,F17FFFFF
+[Have All Skills]
+patch=1,EE,20425B00,extended,00000003
+[>>> KOS-MOS Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10422AC0,extended,0000270F
+[Max EP]
+patch=1,EE,10422AC2,extended,00000063
+[Max Str]
+patch=1,EE,10422AC4,extended,000003E7
+[Max Vit]
+patch=1,EE,10422AC6,extended,000003E7
+[Max Eatk]
+patch=1,EE,10422AC8,extended,000003E7
+[Max Edef]
+patch=1,EE,10422ACA,extended,000003E7
+[Max Dex]
+patch=1,EE,00422ACC,extended,00000063
+[Max Eva]
+patch=1,EE,00422ACD,extended,00000063
+[Max Agl]
+patch=1,EE,00422ACE,extended,00000063
+[Level 99]
+patch=1,EE,00422AD4,extended,00000063
+[Infinite HP]
+patch=1,EE,10422AF4,extended,0000270F
+[Infinite EP]
+patch=1,EE,10422AF6,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,10425B68,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20425B68,extended,0098967F
+[Always 1 Exp For Next Level]
+patch=1,EE,20425B6C,extended,00000001
+[Max T. Pts]
+patch=1,EE,20425B74,extended,0000270F
+[Max E. Pts]
+patch=1,EE,20425B78,extended,0000270F
+[Max S. Pts]
+patch=1,EE,20425B7C,extended,0000270F
+[Have All Ethers]
+patch=1,EE,20425B90,extended,FFFFFFFF
+[Have All Ethers]
+patch=1,EE,20425B94,extended,03FFFFFF
+[Have All Ethers]
+patch=1,EE,20425B98,extended,FFFFFF80
+[Have All Skills]
+patch=1,EE,20425BA0,extended,FFFFFFFB
+[Have All Skills]
+patch=1,EE,20425BA4,extended,F17FFFFF
+[Have All Skills]
+patch=1,EE,20425BA8,extended,00000003
+[>>> Shion Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10422C40,extended,0000270F
+[Max EP]
+patch=1,EE,10422C42,extended,00000063
+[Max Str]
+patch=1,EE,10422C44,extended,000003E7
+[Max Vit]
+patch=1,EE,10422C46,extended,000003E7
+[Max Eatk]
+patch=1,EE,10422C48,extended,000003E7
+[Max Edef]
+patch=1,EE,10422C4A,extended,000003E7
+[Max Dex]
+patch=1,EE,00422C4C,extended,00000063
+[Max Eva]
+patch=1,EE,00422C4D,extended,00000063
+[Max Agl]
+patch=1,EE,00422C4E,extended,00000063
+[Level 99]
+patch=1,EE,00422C54,extended,00000063
+[Infinite HP]
+patch=1,EE,10422C74,extended,0000270F
+[Infinite EP]
+patch=1,EE,10422C76,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,10425C10,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20425C10,extended,0098967F
+[Always 1 Exp For Next Level]
+patch=1,EE,20425C14,extended,00000001
+[Max T. Pts]
+patch=1,EE,20425C1C,extended,0000270F
+[Max E. Pts]
+patch=1,EE,20425C20,extended,0000270F
+[Max S. Pts]
+patch=1,EE,20425C24,extended,0000270F
+[Have All Ethers]
+patch=1,EE,20425C38,extended,FFFFFFFF
+[Have All Ethers]
+patch=1,EE,20425C3C,extended,03FFFFFF
+[Have All Ethers]
+patch=1,EE,20425C40,extended,FFFFFF80
+[Have All Skills]
+patch=1,EE,20425C48,extended,FFFFFFFB
+[Have All Skills]
+patch=1,EE,20425C4C,extended,F17FFFFF
+[Have All Skills]
+patch=1,EE,20425C50,extended,00000003
+[>>> Ziggy Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10422F40,extended,0000270F
+[Max EP]
+patch=1,EE,10422F42,extended,00000063
+[Max Str]
+patch=1,EE,10422F44,extended,000003E7
+[Max Vit]
+patch=1,EE,10422F46,extended,000003E7
+[Max Eatk]
+patch=1,EE,10422F48,extended,000003E7
+[Max Edef]
+patch=1,EE,10422F4A,extended,000003E7
+[Max Dex]
+patch=1,EE,00422F4C,extended,00000063
+[Max Eva]
+patch=1,EE,00422F4D,extended,00000063
+[Max Agl]
+patch=1,EE,00422F4E,extended,00000063
+[Level 99]
+patch=1,EE,00422F54,extended,00000063
+[Infinite HP]
+patch=1,EE,10422F74,extended,0000270F
+[Infinite EP]
+patch=1,EE,10422F76,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,10425D60,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20425D60,extended,0098967F
+[Always 1 Exp For Next Level]
+patch=1,EE,20425D64,extended,00000001
+[Max T. Pts]
+patch=1,EE,20425D6C,extended,0000270F
+[Max E. Pts]
+patch=1,EE,20425D70,extended,0000270F
+[Max S. Pts]
+patch=1,EE,20425D74,extended,0000270F
+[Have All Ethers]
+patch=1,EE,20425D88,extended,FFFFFFFF
+[Have All Ethers]
+patch=1,EE,20425D8C,extended,03FFFFFF
+[Have All Ethers]
+patch=1,EE,20425D90,extended,FFFFFF80
+[Have All Skills]
+patch=1,EE,20425D98,extended,FFFFFFFB
+[Have All Skills]
+patch=1,EE,20425D9C,extended,F17FFFFF
+[Have All Skills]
+patch=1,EE,20425DA0,extended,00000003
+[>>> MOMO Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,104230C0,extended,0000270F
+[Max EP]
+patch=1,EE,104230C2,extended,00000063
+[Max Str]
+patch=1,EE,104230C4,extended,000003E7
+[Max Vit]
+patch=1,EE,104230C6,extended,000003E7
+[Max Eatk]
+patch=1,EE,104230C8,extended,000003E7
+[Max Edef]
+patch=1,EE,104230CA,extended,000003E7
+[Max Dex]
+patch=1,EE,004230CC,extended,00000063
+[Max Eva]
+patch=1,EE,004230CD,extended,00000063
+[Max Agl]
+patch=1,EE,004230CE,extended,00000063
+[Level 99]
+patch=1,EE,004230D4,extended,00000063
+[Infinite HP]
+patch=1,EE,104230F4,extended,0000270F
+[Infinite EP]
+patch=1,EE,104230F6,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,10425E08,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20425E08,extended,0098967F
+[Always 1 Exp For Next Level]
+patch=1,EE,20425E0C,extended,00000001
+[Max T. Pts]
+patch=1,EE,20425E14,extended,0000270F
+[Max E. Pts]
+patch=1,EE,20425E18,extended,0000270F
+[Max S. Pts]
+patch=1,EE,20425E1C,extended,0000270F
+[Have All Ethers]
+patch=1,EE,20425E30,extended,FFFFFFFF
+[Have All Ethers]
+patch=1,EE,20425E34,extended,03FFFFFF
+[Have All Ethers]
+patch=1,EE,20425E38,extended,FFFFFF80
+[Have All Skills]
+patch=1,EE,20425E40,extended,FFFFFFFB
+[Have All Skills]
+patch=1,EE,20425E44,extended,F17FFFFF
+[Have All Skills]
+patch=1,EE,20425E48,extended,00000003
+[>>> Jr. Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10423240,extended,0000270F
+[Max EP]
+patch=1,EE,10423242,extended,00000063
+[Max Str]
+patch=1,EE,10423244,extended,000003E7
+[Max Vit]
+patch=1,EE,10423246,extended,000003E7
+[Max Eatk]
+patch=1,EE,10423248,extended,000003E7
+[Max Edef]
+patch=1,EE,1042324A,extended,000003E7
+[Max Dex]
+patch=1,EE,0042324C,extended,00000063
+[Max Eva]
+patch=1,EE,0042324D,extended,00000063
+[Max Agl]
+patch=1,EE,0042324E,extended,00000063
+[Level 99]
+patch=1,EE,00423254,extended,00000063
+[Infinite HP]
+patch=1,EE,10423274,extended,0000270F
+[Infinite EP]
+patch=1,EE,10423276,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,10425EB0,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20425EB0,extended,0098967F
+[Always 1 Exp For Next Level]
+patch=1,EE,20425EB4,extended,00000001
+[Max T. Pts]
+patch=1,EE,20425EBC,extended,0000270F
+[Max E. Pts]
+patch=1,EE,20425EC0,extended,0000270F
+[Max S. Pts]
+patch=1,EE,20425EC4,extended,0000270F
+[Have All Ethers]
+patch=1,EE,20425ED8,extended,FFFFFFFF
+[Have All Ethers]
+patch=1,EE,20425EDC,extended,03FFFFFF
+[Have All Ethers]
+patch=1,EE,20425EE0,extended,FFFFFF80
+[Have All Skills]
+patch=1,EE,20425EE8,extended,FFFFFFFB
+[Have All Skills]
+patch=1,EE,20425EEC,extended,F17FFFFF
+[Have All Skills]
+patch=1,EE,20425EF0,extended,00000003
+[>>> Max Items Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Med Kit]
+patch=1,EE,10426540,extended,00000063
+[Med Kit S]
+patch=1,EE,10426542,extended,00000063
+[Med Kit DX]
+patch=1,EE,10426544,extended,00000063
+[Med Kit MAX]
+patch=1,EE,10426546,extended,00000063
+[Ether Pack]
+patch=1,EE,10426548,extended,00000063
+[Ether Pack S]
+patch=1,EE,1042654A,extended,00000063
+[Ether Pack DX]
+patch=1,EE,1042654C,extended,00000063
+[Ether Pack MAX]
+patch=1,EE,1042654E,extended,00000063
+[Rejuvenator]
+patch=1,EE,10426550,extended,00000063
+[Revive]
+patch=1,EE,10426552,extended,00000063
+[Revive DX]
+patch=1,EE,10426554,extended,00000063
+[Cure-All]
+patch=1,EE,10426556,extended,00000063
+[Antidote]
+patch=1,EE,10426558,extended,00000063
+[Neuro Stim]
+patch=1,EE,1042655A,extended,00000063
+[Booster Pack]
+patch=1,EE,1042655C,extended,00000063
+[Escape Pack]
+patch=1,EE,1042655E,extended,00000063
+[Stim]
+patch=1,EE,10426560,extended,00000063
+[Stim DX]
+patch=1,EE,10426562,extended,00000063
+[Hemlock]
+patch=1,EE,10426564,extended,00000063
+[Speed Stim]
+patch=1,EE,10426566,extended,00000063
+[Speed Stim SX]
+patch=1,EE,10426568,extended,00000063
+[Defense Shield]
+patch=1,EE,1042656A,extended,00000063
+[Speed Stim DX]
+patch=1,EE,1042656C,extended,00000063
+[Veil]
+patch=1,EE,1042656E,extended,00000063
+[Anti-Veil]
+patch=1,EE,10426570,extended,00000063
+[Bio Sphere]
+patch=1,EE,10426586,extended,00000063
+[Frame Repair A]
+patch=1,EE,10426588,extended,00000063
+[Frame Repair Z]
+patch=1,EE,1042658A,extended,00000063
+[Scrap Iron]
+patch=1,EE,1042658C,extended,00000063
+[JUnked Circuit A]
+patch=1,EE,1042658E,extended,00000063
+[Skill Upgrade]
+patch=1,EE,10426590,extended,00000063
+[Tech Upgrade A]
+patch=1,EE,10426592,extended,00000063
+[Tech Upgrade S]
+patch=1,EE,10426594,extended,00000063
+[Tech Upgrade Z]
+patch=1,EE,10426596,extended,00000063
+[Ether Upgrade A]
+patch=1,EE,10426598,extended,00000063
+[Ether Upgrade S]
+patch=1,EE,1042659A,extended,00000063
+[Ether Upgrade Z]
+patch=1,EE,1042659C,extended,00000063
+[Skill Upgrade A]
+patch=1,EE,1042659E,extended,00000063
+[Skill Upgrade S]
+patch=1,EE,104265A0,extended,00000063
+[Skill Upgrade Z]
+patch=1,EE,104265A2,extended,00000063
+[Unicorn Horn]
+patch=1,EE,104265A6,extended,00000063
+[Kobold Blade]
+patch=1,EE,104265A8,extended,00000063
+[Precious Stone]
+patch=1,EE,104265AA,extended,00000063
+[Junked Circuit B]
+patch=1,EE,104265AC,extended,00000063
+[Garnet]
+patch=1,EE,104265B0,extended,00000063
+[Sapphire]
+patch=1,EE,104265B2,extended,00000063
+[Ruby]
+patch=1,EE,104265B4,extended,00000063
+[Emerald]
+patch=1,EE,104265B6,extended,00000063
+[Diamond]
+patch=1,EE,104265B8,extended,00000063
+[>>> Max Character Weapon Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Space Gloves]
+patch=1,EE,10426740,extended,00000063
+[Navy Gloves]
+patch=1,EE,10426742,extended,00000063
+[Rider Gloves]
+patch=1,EE,10426744,extended,00000063
+[Work Gloves]
+patch=1,EE,10426746,extended,00000063
+[Holey Golves]
+patch=1,EE,1042674A,extended,00000063
+[F-GShot]
+patch=1,EE,10426762,extended,00000063
+[F-MShot]
+patch=1,EE,10426764,extended,00000063
+[F-BShot]
+patch=1,EE,10426766,extended,00000063
+[F-RShot]
+patch=1,EE,10426768,extended,00000063
+[F-Scythe]
+patch=1,EE,1042676A,extended,00000063
+[Battle Rod]
+patch=1,EE,1042676E,extended,00000063
+[Metal Rod]
+patch=1,EE,10426770,extended,00000063
+[Platinum Rod]
+patch=1,EE,10426772,extended,00000063
+[Mithril Rod]
+patch=1,EE,10426774,extended,00000063
+[W Hammer Rod]
+patch=1,EE,10426776,extended,00000063
+[Saint Rod]
+patch=1,EE,10426778,extended,00000063
+[Dragon Rod]
+patch=1,EE,1042677C,extended,00000063
+[Penguin Rod]
+patch=1,EE,1042677E,extended,00000063
+[BMP55SX]
+patch=1,EE,10426792,extended,00000063
+[MSP89SX]
+patch=1,EE,10426794,extended,00000063
+[Rook505]
+patch=1,EE,1042679A,extended,00000063
+[Makarov]
+patch=1,EE,1042679C,extended,00000063
+[Saifar45]
+patch=1,EE,1042679E,extended,00000063
+[Cross]
+patch=1,EE,104267A0,extended,00000063
+[Blood9]
+patch=1,EE,104267A2,extended,00000063
+[M.W.S.]
+patch=1,EE,104267C8,extended,00000063
+[>>> Max A.G.W.S. Weapon Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Hand]
+patch=1,EE,104267CA,extended,00000063
+[AXE11AG]
+patch=1,EE,104267CC,extended,00000063
+[SWD21AG]
+patch=1,EE,104267CE,extended,00000063
+[SWD34VX]
+patch=1,EE,104267D0,extended,00000063
+[DLCO2AG4]
+patch=1,EE,104267D2,extended,00000063
+[HG45VX]
+patch=1,EE,104267D4,extended,00000063
+[HG75VX]
+patch=1,EE,104267D6,extended,00000063
+[HMR55AG]
+patch=1,EE,104267D8,extended,00000063
+[VCT02AG4]
+patch=1,EE,104267DA,extended,00000063
+[HMR-AG5]
+patch=1,EE,104267DC,extended,00000063
+[SMG99AG]
+patch=1,EE,104267DE,extended,00000063
+[SMG32VX]
+patch=1,EE,104267E0,extended,00000063
+[LG10AG]
+patch=1,EE,104267E2,extended,00000063
+[LG24VX]
+patch=1,EE,104267E4,extended,00000063
+[LG100VX]
+patch=1,EE,104267E6,extended,00000063
+[BA15VX]
+patch=1,EE,104267E8,extended,00000063
+[BSW13AG]
+patch=1,EE,104267EA,extended,00000063
+[LM11VX]
+patch=1,EE,104267EC,extended,00000063
+[PB55AG]
+patch=1,EE,104267EE,extended,00000063
+[FLM64AG]
+patch=1,EE,104267F0,extended,00000063
+[GRD20AG]
+patch=1,EE,104267F2,extended,00000063
+[GLG76AG]
+patch=1,EE,104267F4,extended,00000063
+[HGG-AG5]
+patch=1,EE,104267F6,extended,00000063
+[HMP33AG]
+patch=1,EE,104267F8,extended,00000063
+[HMP-AG5]
+patch=1,EE,104267FA,extended,00000063
+[BL24AG]
+patch=1,EE,104267FC,extended,00000063
+[CB85VX]
+patch=1,EE,104267FE,extended,00000063
+[AIRC-AG2]
+patch=1,EE,10426800,extended,00000063
+[BMP45VX]
+patch=1,EE,10426802,extended,00000063
+[LC-AG5]
+patch=1,EE,10426804,extended,00000063
+[BMP-AG5]
+patch=1,EE,10426806,extended,00000063
+[SHB67AG]
+patch=1,EE,10426808,extended,00000063
+[SHD02AG]
+patch=1,EE,1042680A,extended,00000063
+[SHD12VX]
+patch=1,EE,1042680C,extended,00000063
+[BBC-AG5]
+patch=1,EE,1042680E,extended,00000063
+[AIRD-AG2]
+patch=1,EE,10426810,extended,00000063
+[ECM1-VX]
+patch=1,EE,10426812,extended,00000063
+[ECM2-VX]
+patch=1,EE,10426814,extended,00000063
+[SMP53AG]
+patch=1,EE,10426816,extended,00000063
+[ER-VX]
+patch=1,EE,10426818,extended,00000063
+[LW-VX2]
+patch=1,EE,1042681A,extended,00000063
+[DEF-VX]
+patch=1,EE,1042681C,extended,00000063
+[GLG76AG]
+patch=1,EE,1042681E,extended,00000063
+[HGG-AG5]
+patch=1,EE,10426820,extended,00000063
+[HMP-AG5]
+patch=1,EE,10426822,extended,00000063
+[>>> Max Character Ammo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[BXS001V]
+patch=1,EE,10426940,extended,00000063
+[BXS002V]
+patch=1,EE,10426942,extended,00000063
+[BXS003V]
+patch=1,EE,10426944,extended,00000063
+[BXS004V]
+patch=1,EE,10426946,extended,00000063
+[BXS005V]
+patch=1,EE,10426948,extended,00000063
+[BXS006V]
+patch=1,EE,1042694A,extended,00000063
+[BXS007V]
+patch=1,EE,1042694C,extended,00000063
+[BXS008V]
+patch=1,EE,1042694E,extended,00000063
+[BXS009V]
+patch=1,EE,10426950,extended,00000063
+[BXS000V]
+patch=1,EE,10426952,extended,00000063
+[BXS011V]
+patch=1,EE,10426954,extended,00000063
+[BXS012V]
+patch=1,EE,10426956,extended,00000063
+[BXS013V]
+patch=1,EE,10426958,extended,00000063
+[BXS014V]
+patch=1,EE,1042695A,extended,00000063
+[BXS015V]
+patch=1,EE,1042695C,extended,00000063
+[KSG10V]
+patch=1,EE,1042695E,extended,00000063
+[KMS30V]
+patch=1,EE,10426960,extended,00000063
+[KGS12V]
+patch=1,EE,10426962,extended,00000063
+[KMS32V]
+patch=1,EE,10426964,extended,00000063
+[KRS50V]
+patch=1,EE,10426966,extended,00000063
+[KGS14V]
+patch=1,EE,10426968,extended,00000063
+[KMS34V]
+patch=1,EE,1042696A,extended,00000063
+[KRS52V]
+patch=1,EE,1042696C,extended,00000063
+[KMS36V]
+patch=1,EE,1042696E,extended,00000063
+[KGS16V]
+patch=1,EE,10426970,extended,00000063
+[KMS38V]
+patch=1,EE,10426972,extended,00000063
+[KRS54V]
+patch=1,EE,10426974,extended,00000063
+[MSS500]
+patch=1,EE,1042697C,extended,00000063
+[MSS520]
+patch=1,EE,1042697E,extended,00000063
+[MSS540]
+patch=1,EE,10426980,extended,00000063
+[MSS560]
+patch=1,EE,10426982,extended,00000063
+[MSS580]
+patch=1,EE,10426984,extended,00000063
+[RK200]
+patch=1,EE,1042699A,extended,00000063
+[MAKAROV Bullets]
+patch=1,EE,1042699C,extended,00000063
+[RK280]
+patch=1,EE,1042699E,extended,00000063
+[SR500]
+patch=1,EE,104269A2,extended,00000063
+[CS700]
+patch=1,EE,104269A6,extended,00000063
+[BD900]
+patch=1,EE,104269A8,extended,00000063
+[CS700SLW]
+patch=1,EE,104269AA,extended,00000063
+[CS700PWD]
+patch=1,EE,104269AC,extended,00000063
+[CS700DFD]
+patch=1,EE,104269AE,extended,00000063
+[CS700UVL]
+patch=1,EE,104269B0,extended,00000063
+[>>> Max A.G.W.S. Ammo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[HG45B1]
+patch=1,EE,104269C8,extended,00000063
+[LG10B1]
+patch=1,EE,104269D2,extended,00000063
+[SMG99B1]
+patch=1,EE,104269DC,extended,00000063
+[GRD20B1]
+patch=1,EE,104269E6,extended,00000063
+[HMP33B1]
+patch=1,EE,104269F0,extended,00000063
+[LG100B1]
+patch=1,EE,104269FA,extended,00000063
+[CB85B1]
+patch=1,EE,10426A04,extended,00000063
+[CB85B2]
+patch=1,EE,10426A06,extended,00000063
+[CB85B3]
+patch=1,EE,10426A08,extended,00000063
+[CB85B4]
+patch=1,EE,10426A0A,extended,00000063
+[CB85B5]
+patch=1,EE,10426A0C,extended,00000063
+[ECM1B1]
+patch=1,EE,10426A0E,extended,00000063
+[ECM1B2]
+patch=1,EE,10426A10,extended,00000063
+[ECM1B3]
+patch=1,EE,10426A12,extended,00000063
+[ECM1B4]
+patch=1,EE,10426A14,extended,00000063
+[ECM1B5]
+patch=1,EE,10426A16,extended,00000063
+[HG75B1]
+patch=1,EE,10426A22,extended,00000063
+[GLG76B1]
+patch=1,EE,10426A2C,extended,00000063
+[AXE11B1]
+patch=1,EE,10426A36,extended,00000063
+[SMP53B1]
+patch=1,EE,10426A40,extended,00000063
+[SMG32B1]
+patch=1,EE,10426A4A,extended,00000063
+[ECM2B1]
+patch=1,EE,10426A54,extended,00000063
+[ECM2B2]
+patch=1,EE,10426A56,extended,00000063
+[ECM2B3]
+patch=1,EE,10426A58,extended,00000063
+[ECM2B4]
+patch=1,EE,10426A5A,extended,00000063
+[ECM2B5]
+patch=1,EE,10426A5C,extended,00000063
+[BMPB1]
+patch=1,EE,10426A68,extended,00000063
+[HMPB1]
+patch=1,EE,10426A72,extended,00000063
+[HGGB1]
+patch=1,EE,10426A7C,extended,00000063
+[LCB1]
+patch=1,EE,10426A86,extended,00000063
+[>>> Max Character Accessories Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Uniform]
+patch=1,EE,10426B40,extended,00000063
+[Metal Wear]
+patch=1,EE,10426B42,extended,00000063
+[Fiber Suit]
+patch=1,EE,10426B44,extended,00000063
+[Stylish Armor]
+patch=1,EE,10426B46,extended,00000063
+[Battle Gear]
+patch=1,EE,10426B48,extended,00000063
+[Neo Armor Alpha]
+patch=1,EE,10426B4A,extended,00000063
+[Neo Armor Beta]
+patch=1,EE,10426B4C,extended,00000063
+[Ruby Suit]
+patch=1,EE,10426B4E,extended,00000063
+[Techtron Clothes]
+patch=1,EE,10426B50,extended,00000063
+[D Unit V1]
+patch=1,EE,10426B52,extended,00000063
+[D Unit V2]
+patch=1,EE,10426B54,extended,00000063
+[D Unit V3]
+patch=1,EE,10426B56,extended,00000063
+[D Unit V4]
+patch=1,EE,10426B58,extended,00000063
+[D Unit V5]
+patch=1,EE,10426B5A,extended,00000063
+[D Unit V6]
+patch=1,EE,10426B5C,extended,00000063
+[Survival Wear]
+patch=1,EE,10426B60,extended,00000063
+[VOLG10]
+patch=1,EE,10426B66,extended,00000063
+[VOLG20]
+patch=1,EE,10426B68,extended,00000063
+[VOLG30]
+patch=1,EE,10426B6A,extended,00000063
+[VOLG40]
+patch=1,EE,10426B6C,extended,00000063
+[VOLG50]
+patch=1,EE,10426B6E,extended,00000063
+[Shield Armor]
+patch=1,EE,10426B7E,extended,00000063
+[Craft Apron]
+patch=1,EE,10426B80,extended,00000063
+[Coat-Fire]
+patch=1,EE,10426B82,extended,00000063
+[Coat-Lightning]
+patch=1,EE,10426B84,extended,00000063
+[Coat-Ice]
+patch=1,EE,10426B86,extended,00000063
+[Coat-Beam]
+patch=1,EE,10426B88,extended,00000063
+[Coat-Sword]
+patch=1,EE,10426B8A,extended,00000063
+[Soul]
+patch=1,EE,10426B8C,extended,00000063
+[Spirit]
+patch=1,EE,10426B8E,extended,00000063
+[Swimsuit]
+patch=1,EE,10426B98,extended,00000063
+[Metal Helmet]
+patch=1,EE,10426B9A,extended,00000063
+[Cowboy Hat]
+patch=1,EE,10426B9C,extended,00000063
+[Space Helmet]
+patch=1,EE,10426B9E,extended,00000063
+[Ruby Helmet]
+patch=1,EE,10426BA4,extended,00000063
+[Techtron Helmet]
+patch=1,EE,10426BA6,extended,00000063
+[Nightwalker]
+patch=1,EE,10426BAE,extended,00000063
+[Magical Hat]
+patch=1,EE,10426BB0,extended,00000063
+[Star Hat]
+patch=1,EE,10426BB4,extended,00000063
+[Protector]
+patch=1,EE,10426BC0,extended,00000063
+[Trauma Plate]
+patch=1,EE,10426BC8,extended,00000063
+[Venom Block]
+patch=1,EE,10426BCA,extended,00000063
+[Wooden Idol]
+patch=1,EE,10426BCE,extended,00000063
+[Rune Crystal]
+patch=1,EE,10426BD0,extended,00000063
+[Sniper Goggles]
+patch=1,EE,10426BD2,extended,00000063
+[Hyper Shoes]
+patch=1,EE,10426BD4,extended,00000063
+[Power Brace]
+patch=1,EE,10426BD6,extended,00000063
+[Guard Pendant]
+patch=1,EE,10426BD8,extended,00000063
+[Spirit Pendant]
+patch=1,EE,10426BDA,extended,00000063
+[Jade Mask]
+patch=1,EE,10426BDC,extended,00000063
+[Clock Shield]
+patch=1,EE,10426BDE,extended,00000063
+[Snake Hunter]
+patch=1,EE,10426BE0,extended,00000063
+[Defibrillator Vest]
+patch=1,EE,10426BE2,extended,00000063
+[Soldier's Honor]
+patch=1,EE,10426BE4,extended,00000063
+[Chakra Shield]
+patch=1,EE,10426BE6,extended,00000063
+[Red Ring]
+patch=1,EE,10426BE8,extended,00000063
+[Green Ring]
+patch=1,EE,10426BEA,extended,00000063
+[Blue Ring]
+patch=1,EE,10426BEC,extended,00000063
+[Kobold Ring]
+patch=1,EE,10426BEE,extended,00000063
+[Purple Ring]
+patch=1,EE,10426BF0,extended,00000063
+[Orange Ring]
+patch=1,EE,10426BF2,extended,00000063
+[White Ring]
+patch=1,EE,10426BF4,extended,00000063
+[Hunter Gobble]
+patch=1,EE,10426BF6,extended,00000063
+[Samurai Heart]
+patch=1,EE,10426BF8,extended,00000063
+[Cross]
+patch=1,EE,10426BFA,extended,00000063
+[Yamato Belt]
+patch=1,EE,10426BFC,extended,00000063
+[Silver Crown]
+patch=1,EE,10426BFE,extended,00000063
+[Thief Ring]
+patch=1,EE,10426C00,extended,00000063
+[Cat Burglar Gloves]
+patch=1,EE,10426C02,extended,00000063
+[Commander's Crest]
+patch=1,EE,10426C04,extended,00000063
+[Golden Dice]
+patch=1,EE,10426C06,extended,00000063
+[Speed Shoes]
+patch=1,EE,10426C08,extended,00000063
+[Double Buster]
+patch=1,EE,10426C0A,extended,00000063
+[Battle Mask]
+patch=1,EE,10426C0C,extended,00000063
+[Angel Ring]
+patch=1,EE,10426C0E,extended,00000063
+[Gemini Clock]
+patch=1,EE,10426C10,extended,00000063
+[Life Stone]
+patch=1,EE,10426C12,extended,00000063
+[Master's Pendant]
+patch=1,EE,10426C14,extended,00000063
+[Bravesoul]
+patch=1,EE,10426C18,extended,00000063
+[Blue Topaz]
+patch=1,EE,10426C1A,extended,00000063
+[Red Topaz]
+patch=1,EE,10426C1C,extended,00000063
+[Red Ring S]
+patch=1,EE,10426C1E,extended,00000063
+[Green Ring S]
+patch=1,EE,10426C20,extended,00000063
+[Blue Ring S]
+patch=1,EE,10426C22,extended,00000063
+[Cobalt Ring S]
+patch=1,EE,10426C24,extended,00000063
+[Purple Ring S]
+patch=1,EE,10426C26,extended,00000063
+[Orange Ring S]
+patch=1,EE,10426C28,extended,00000063
+[Scope]
+patch=1,EE,10426C2A,extended,00000063
+[Blade Soul]
+patch=1,EE,10426C2C,extended,00000063
+[Field Ring]
+patch=1,EE,10426C2E,extended,00000063
+[Revenge Power]
+patch=1,EE,10426C30,extended,00000063
+[Boost Pack]
+patch=1,EE,10426C32,extended,00000063
+[>>> Max A.G.W.S. Accessories Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Fast Circuit 25]
+patch=1,EE,10426C40,extended,00000063
+[Fast Circuit 50]
+patch=1,EE,10426C42,extended,00000063
+[B-MAX Circuit]
+patch=1,EE,10426C44,extended,00000063
+[Armor Protect Unit]
+patch=1,EE,10426C46,extended,00000063
+[Scope Shield]
+patch=1,EE,10426C48,extended,00000063
+[Power Shield]
+patch=1,EE,10426C4A,extended,00000063
+[Engine Shield]
+patch=1,EE,10426C4C,extended,00000063
+[Gear Shield]
+patch=1,EE,10426C4E,extended,00000063
+[E Circuit Shield]
+patch=1,EE,10426C50,extended,00000063
+[M Chip Guard]
+patch=1,EE,10426C52,extended,00000063
+[AP Shield]
+patch=1,EE,10426C54,extended,00000063
+[W Circuit Shield]
+patch=1,EE,10426C56,extended,00000063
+[Cockpit Guard]
+patch=1,EE,10426C58,extended,00000063
+[Tuned Circuit]
+patch=1,EE,10426C5A,extended,00000063
+[Guard Cleaner]
+patch=1,EE,10426C5C,extended,00000063
+[Guard Recovery]
+patch=1,EE,10426C5E,extended,00000063
+[Auxiliary Armor A]
+patch=1,EE,10426C60,extended,00000063
+[Auxiliary Armor B]
+patch=1,EE,10426C62,extended,00000063
+[Auxiliary Armor C]
+patch=1,EE,10426C64,extended,00000063
+[EF Circuit A]
+patch=1,EE,10426C74,extended,00000063
+[EF Circuit B]
+patch=1,EE,10426C76,extended,00000063
+[EF Circuit C]
+patch=1,EE,10426C78,extended,00000063
+[Anti-Fire Armor]
+patch=1,EE,10426C88,extended,00000063
+[Anti-Ice Armor]
+patch=1,EE,10426C8A,extended,00000063
+[Anti-Lightning Armor]
+patch=1,EE,10426C8C,extended,00000063
+[Anti-Beam Armor]
+patch=1,EE,10426C8E,extended,00000063
+[>>> Max Special Items Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission Key]
+patch=1,EE,10426D40,extended,00000063
+[Master Key]
+patch=1,EE,10426D42,extended,00000063
+[Card No. 3]
+patch=1,EE,10426D44,extended,00000063
+[U-TIC Card]
+patch=1,EE,10426D46,extended,00000063
+[Flower Seed]
+patch=1,EE,10426D48,extended,00000063
+[Crewman's Key]
+patch=1,EE,10426D4A,extended,00000063
+[Vaporizer Plug-In]
+patch=1,EE,10426D4C,extended,00000063
+[Maintenance Data]
+patch=1,EE,10426D4E,extended,00000063
+[Hazardous Area Map]
+patch=1,EE,10426D50,extended,00000063
+[M.W.S.]
+patch=1,EE,10426D52,extended,00000063
+[Segment File]
+patch=1,EE,10426D54,extended,00000063
+[Battle Passport]
+patch=1,EE,10426D56,extended,00000063
+[Card Passport]
+patch=1,EE,10426D58,extended,00000063
+[Casino Passport]
+patch=1,EE,10426D5A,extended,00000063
+[Drill Passport]
+patch=1,EE,10426D5C,extended,00000063
+[Decoder 1]
+patch=1,EE,10426D5E,extended,00000063
+[Decoder 2]
+patch=1,EE,10426D60,extended,00000063
+[Decoder 3]
+patch=1,EE,10426D62,extended,00000063
+[Decoder 4]
+patch=1,EE,10426D64,extended,00000063
+[Decoder 5]
+patch=1,EE,10426D66,extended,00000063
+[Decoder 6]
+patch=1,EE,10426D68,extended,00000063
+[Decoder 7]
+patch=1,EE,10426D6A,extended,00000063
+[Decoder 8]
+patch=1,EE,10426D6C,extended,00000063
+[Decoder 9]
+patch=1,EE,10426D6E,extended,00000063
+[Decoder 10]
+patch=1,EE,10426D70,extended,00000063
+[Decoder 11]
+patch=1,EE,10426D72,extended,00000063
+[Decoder 12]
+patch=1,EE,10426D74,extended,00000063
+[Decoder 13]
+patch=1,EE,10426D76,extended,00000063
+[Decoder 14]
+patch=1,EE,10426D78,extended,00000063
+[Decoder 15]
+patch=1,EE,10426D7A,extended,00000063
+[Decoder 16]
+patch=1,EE,10426D7C,extended,00000063
+[Decoder 17]
+patch=1,EE,10426D7E,extended,00000063
+[Decoder 18]
+patch=1,EE,10426D80,extended,00000063
+[Decoder 19]
+patch=1,EE,10426D82,extended,00000063
+[Decoder 20]
+patch=1,EE,10426D84,extended,00000063
+[PM Card A]
+patch=1,EE,10426D86,extended,00000063
+[PM Card B]
+patch=1,EE,10426D88,extended,00000063
+[PM Card C]
+patch=1,EE,10426D8A,extended,00000063
+[PM Card D]
+patch=1,EE,10426D8C,extended,00000063
+[PM Card E]
+patch=1,EE,10426D8E,extended,00000063
+[PM Card F]
+patch=1,EE,10426D90,extended,00000063
+[PM Card G]
+patch=1,EE,10426D92,extended,00000063
+[PM Card H]
+patch=1,EE,10426D94,extended,00000063
+[PM Card I]
+patch=1,EE,10426D96,extended,00000063
+[PM Card J]
+patch=1,EE,10426D98,extended,00000063
+[PM Card K]
+patch=1,EE,10426D9A,extended,00000063
+[PM Card L]
+patch=1,EE,10426D9C,extended,00000063
+[PM Card M]
+patch=1,EE,10426D9E,extended,00000063
+[PM Card N]
+patch=1,EE,10426DA0,extended,00000063
+[PM Card O]
+patch=1,EE,10426DA2,extended,00000063
+[PM Card P]
+patch=1,EE,10426DA4,extended,00000063
+[PM Card Q]
+patch=1,EE,10426DA6,extended,00000063
+[Start Set]
+patch=1,EE,10426DA8,extended,00000063
+[Card Pack #1]
+patch=1,EE,10426DAA,extended,00000063
+[Card Pack #2]
+patch=1,EE,10426DAC,extended,00000063
+[Robot Part Head]
+patch=1,EE,10426DAE,extended,00000063
+[Robot Part Right Arm]
+patch=1,EE,10426DB0,extended,00000063
+[Robot Part Left Arm]
+patch=1,EE,10426DB2,extended,00000063
+[Robot Part Body]
+patch=1,EE,10426DB4,extended,00000063
+[Robot Part Right Leg]
+patch=1,EE,10426DB6,extended,00000063
+[Robot Part Left Leg]
+patch=1,EE,10426DB8,extended,00000063
+[S. Carrot Juice]
+patch=1,EE,10426DBA,extended,00000063
+[Armory Key]
+patch=1,EE,10426DBC,extended,00000063
+[Disarm Key]
+patch=1,EE,10426DBE,extended,00000063
+[Drill Key 1]
+patch=1,EE,10426DC0,extended,00000063
+[Drill Key 2]
+patch=1,EE,10426DC2,extended,00000063
+[Drill Key 3]
+patch=1,EE,10426DC4,extended,00000063
+[Drill Key 4]
+patch=1,EE,10426DC6,extended,00000063
+[Drill Key 5]
+patch=1,EE,10426DC8,extended,00000063
+[Equip Item]
+patch=1,EE,10426DCA,extended,00000063
+[Fish Detector]
+patch=1,EE,10426DCC,extended,00000063
+[Engagement Ring]
+patch=1,EE,10426DCE,extended,00000063
+

@@ -1,0 +1,70 @@
+gametitle=Silent Hill 2 (Version 1.1)
+[Enable Code (Must Be On)]
+patch=1,EE,902BB884,extended,0C0A612E
+[Infinite Health]
+patch=1,EE,203FFEF4,extended,42C80000
+[Infinite Health]
+patch=1,EE,203FFEFC,extended,42C80000
+[Invincible (Can't Be Hit)]
+patch=1,EE,103FFF00,extended,000042C8
+[Infinite Run (Never Exhausted)]
+patch=1,EE,21137C8C,extended,42C80000
+[Infinite Ammo]
+patch=1,EE,201B778C,extended,00000000
+[Extra Ammo]
+patch=1,EE,101B7788,extended,00000001
+[No Saves Recorded]
+patch=1,EE,012361EA,extended,00000000
+[Have All Items]
+patch=1,EE,21137C60,extended,FFFDF3FE
+[Have All Items]
+patch=1,EE,21137C64,extended,FFFFFFFF
+[Have All Items]
+patch=1,EE,21137C68,extended,00007FFF
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Health Drinks]
+patch=1,EE,11137C6E,extended,000003E7
+[First Aid Kits]
+patch=1,EE,11137C70,extended,000003E7
+[Ampoules]
+patch=1,EE,11137C72,extended,000003E7
+[Handgun]
+patch=1,EE,11137C74,extended,000003E7
+[Handgun Bullets]
+patch=1,EE,11137C76,extended,000003E7
+[Shotgun]
+patch=1,EE,11137C78,extended,000003E7
+[Shotgun Shells]
+patch=1,EE,11137C7A,extended,000003E7
+[Hunting Rifle]
+patch=1,EE,11137C7C,extended,000003E7
+[Rifle Shells]
+patch=1,EE,11137C7E,extended,000003E7
+[>>> Ranking Screen Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Hella Items]
+patch=1,EE,112361EE,extended,0000270F
+[No Items]
+patch=1,EE,112361EE,extended,00000000
+[Hella Enemies Defeated By Shooting]
+patch=1,EE,112361F0,extended,0000270F
+[NO Enemies Defeated By Shooting]
+patch=1,EE,112361F0,extended,00000000
+[Hella Enemies Defeated By Fighting]
+patch=1,EE,112361F2,extended,0000270F
+[No Enemies Defeated By Fighting]
+patch=1,EE,112361F2,extended,00000000
+[Always Low Total Time]
+patch=1,EE,212361F4,extended,00000000
+[Always Low Walking Distance]
+patch=1,EE,212361F8,extended,00000000
+[Always Low Running Distance]
+patch=1,EE,212361FC,extended,00000000
+[Always Low Boat Stage Time]
+patch=1,EE,21236200,extended,00000000
+[Hella Boat Max Speed]
+patch=1,EE,21236204,extended,447A0000
+[Always Low Total Damage]
+patch=1,EE,21236208,extended,00000000
+

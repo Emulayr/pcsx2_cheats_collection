@@ -1,0 +1,34 @@
+gametitle=[SLUS-20253] Mummy Returns, The
+[Enable Code (Must Be On)]
+patch=1,EE,90220DBC,extended,0C0855A6
+[Infinite Health]
+patch=1,EE,002CBBB0,extended,00000001
+[Infinite Health (Enemies)]
+patch=1,EE,002CBBB1,extended,00000001
+[Transparency]
+patch=1,EE,002CBBB2,extended,00000001
+[>>> No Clipping Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Press {R1}+{R2} To Activate]
+patch=1,EE,D02DE842,extended,0000F5FF
+[Press {R1}+{R2} To Activate]
+patch=1,EE,002CBBB3,extended,00000001
+[Press {L1}+{L2} To Deactivate]
+patch=1,EE,D02DE842,extended,0000FAFF
+[Press {L1}+{L2} To Deactivate]
+patch=1,EE,002CBBB3,extended,00000000
+[1-Hit Death (Enemies)]
+patch=1,EE,002CBBB4,extended,00000001
+[Infinite Ammo]
+patch=1,EE,002CBBB5,extended,00000001
+[>>> Debug Info Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Press {L1}+{R1} To Display]
+patch=1,EE,D02DE842,extended,0000F3FF
+[Press {L1}+{R1} To Display]
+patch=1,EE,002CAA2D,extended,00000001
+[Press {L1}+{R2} To Hide]
+patch=1,EE,D02DE842,extended,0000FCFF
+[Press {L1}+{R2} To Hide]
+patch=1,EE,002CAA2D,extended,00000000
+

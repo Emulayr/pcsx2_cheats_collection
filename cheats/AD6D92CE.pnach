@@ -1,0 +1,88 @@
+gametitle=[SLUS-21012] Rapala Pro Fishing
+[Enable Code (Must Be On)]
+patch=1,EE,9012BD3C,extended,0C0412CA
+[Infinite Line Tension]
+patch=1,EE,200C0220,extended,3C013F00
+[Infinite Line Tension]
+patch=1,EE,200C0224,extended,AC810208
+[Infinite Line Tension]
+patch=1,EE,200C0228,extended,03E00008
+[Infinite Line Tension]
+patch=1,EE,200C022C,extended,C4800208
+[Infinite Line Tension]
+patch=1,EE,20403A40,extended,08030088
+[P1 Press {L1}+{SELECT} To Stop Tournament Timer]
+patch=1,EE,D05C18C2,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Stop Tournament Timer]
+patch=1,EE,204526CC,extended,00000000
+[P1 Press {L2}+{SELECT} To Restart Tournament Timer]
+patch=1,EE,D05C18C2,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Restart Tournament Timer]
+patch=1,EE,204526CC,extended,E480007C
+[View Lines To Unlock Them]
+patch=1,EE,2045EE94,extended,A040010D
+[View Lines To Unlock Them]
+patch=1,EE,1045EE9A,extended,00001000
+[View Lines To Unlock Them]
+patch=1,EE,1045EEBC,extended,00000000
+[View Lures To Unlock Them]
+patch=1,EE,2045FCB4,extended,A040021D
+[View Lures To Unlock Them]
+patch=1,EE,1045FCBA,extended,00001000
+[View Lures To Unlock Them]
+patch=1,EE,1045FCDC,extended,00000000
+[View Fishing Rods To Unlock Them]
+patch=1,EE,204610E4,extended,A040009D
+[View Fishing Rods To Unlock Them]
+patch=1,EE,104610EA,extended,10000000
+[View Fishing Rods To Unlock Them]
+patch=1,EE,1046110C,extended,00000000
+[>>> Unlock Location Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Castaic Bass Cup]
+patch=1,EE,205CFC1C,extended,00000000
+[Chinook Hunt]
+patch=1,EE,205CFC50,extended,00000000
+[Bass Challenge]
+patch=1,EE,205CFC84,extended,00000000
+[Tonka Walleye Cup]
+patch=1,EE,205CFCB8,extended,00000000
+[Small Fish Cup]
+patch=1,EE,205CFCEC,extended,00000000
+[Trout Catchers]
+patch=1,EE,205CFD20,extended,00000000
+[California Bass]
+patch=1,EE,205CFD54,extended,00000000
+[The Muskie Hunt]
+patch=1,EE,205CFD88,extended,00000000
+[Largemouth Race]
+patch=1,EE,205CFDBC,extended,00000000
+[Bass Culling]
+patch=1,EE,205CFDF0,extended,00000000
+[The Salmon Run]
+patch=1,EE,205CFE24,extended,00000000
+[Minnetonka Giants]
+patch=1,EE,205CFE58,extended,00000000
+[Culling League]
+patch=1,EE,205CFE8C,extended,00000000
+[Speed Fishing]
+patch=1,EE,205CFEC0,extended,00000000
+[The Grayling Search]
+patch=1,EE,205CFEF4,extended,00000000
+[Texas Fishing]
+patch=1,EE,205CFF28,extended,00000000
+[Walleye Cup]
+patch=1,EE,205CFF5C,extended,00000000
+[Smallie Cup]
+patch=1,EE,205CFF90,extended,00000000
+[Peacock Special]
+patch=1,EE,205CFFC4,extended,00000000
+[Kraken]
+patch=1,EE,205CFFF8,extended,00000000
+[Pike Challenge]
+patch=1,EE,205D002C,extended,00000000
+[All Locations]
+patch=1,EE,405CFC1C,extended,0015000D
+[All Locations]
+patch=1,EE,00000000,extended,00000000
+

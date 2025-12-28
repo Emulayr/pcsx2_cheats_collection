@@ -1,0 +1,64 @@
+gametitle=Virtual-On Marz
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,00118227
+[Max Health P1]
+patch=1,EE,20A3B024,extended,0000270F
+[Infinite Health P1]
+patch=1,EE,20A3B020,extended,0000270F
+[No Health P1]
+patch=1,EE,20A3B020,extended,00000000
+[Infinite Repair Discs P1]
+patch=1,EE,00CEFA8E,extended,00000005
+[Infinite Time]
+patch=1,EE,206DB664,extended,00000000
+[Enable More Virtuaroids]
+patch=1,EE,20CEA358,extended,00101410
+[Infinite Repair Discs (All Players)]
+patch=1,EE,20227638,extended,00000000
+[Extra Repair Discs (All Players)]
+patch=1,EE,10227634,extended,00000001
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,200C0220,extended,3C0100A3
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,200C0224,extended,3421AE20
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,200C0228,extended,54300001
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,200C022C,extended,AE000200
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,200C0230,extended,03E00008
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,200C0234,extended,00000000
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,D0AC6A82,extended,0000FFFE
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,2013F788,extended,0C030088
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,D0AC6A82,extended,0010FFFE
+[Tap Select For Instant Death (Enemy)]
+patch=1,EE,2013F788,extended,00000000
+[>>> Level Completion Stat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Mission Bonus]
+patch=1,EE,20CEFB70,extended,0098967F
+[Max Number Of VR Destroyed]
+patch=1,EE,20CEFB74,extended,0098967F
+[Max Number Of Extra Enemies Destroyed]
+patch=1,EE,20CEFB78,extended,0098967F
+[Max Battle Skill Points]
+patch=1,EE,20CEFB7C,extended,0098967F
+[Max Life]
+patch=1,EE,20CEFB80,extended,0098967F
+[No Repair Disk(S) Used]
+patch=1,EE,20CEFB84,extended,00000000
+[Max Time]
+patch=1,EE,20CEFB88,extended,0098967F
+[Max Difficulty]
+patch=1,EE,20CEFB8C,extended,0098967F
+[Max Total Score]
+patch=1,EE,20CEFB8C,extended,05F5E0FF
+[Always 1 VR Destroyed]
+patch=1,EE,20CEFB98,extended,00000001
+[Always 1 Extra Enemy Destroyed]
+patch=1,EE,20CEFB9C,extended,00000001
+

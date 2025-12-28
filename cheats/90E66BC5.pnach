@@ -1,0 +1,292 @@
+gametitle=Champions Of Norrath-Realms Of Everquest
+[Enable Code (Must Be On)]
+patch=1,EE,902D3B84,extended,0C0C07FF
+[Noone Is Ever An Enemy]
+patch=1,EE,2010B4A8,extended,03E00008
+[Noone Is Ever An Enemy]
+patch=1,EE,2010B4AC,extended,24020000
+[Creatures Are Never Enemies]
+patch=1,EE,2010B5DC,extended,24020000
+[Creatures Are Never Enemies]
+patch=1,EE,2010B700,extended,24020000
+[Creatures Are Never Enemies]
+patch=1,EE,2010B8C8,extended,24020000
+[Demons Are Never Enemies]
+patch=1,EE,201EB46C,extended,24020000
+[Wraiths Are Never Enemies]
+patch=1,EE,20205144,extended,24020000
+[Wraiths Are Never Enemies]
+patch=1,EE,2020516C,extended,03E00008
+[Skeletons Are Never Enemies]
+patch=1,EE,20247180,extended,24020000
+[Exp Worth 32767]
+patch=1,EE,201BDF54,extended,24427FFF
+[Exp Worth 9999]
+patch=1,EE,201BDF54,extended,2442270F
+[Exp Worth 999]
+patch=1,EE,201BDF54,extended,244203E7
+[Exp Worth 99]
+patch=1,EE,201BDF54,extended,24420063
+[Exp Worth 50]
+patch=1,EE,201BDF54,extended,24420032
+[Exp Worth 20]
+patch=1,EE,201BDF54,extended,24420014
+[1 Kill = 1 Level Up]
+patch=1,EE,201BDF60,extended,00000000
+[Raise Skill Once For Max Skill]
+patch=1,EE,201AEB94,extended,24060014
+[Raise Skill Once For Max Skill]
+patch=1,EE,201AEC18,extended,24060014
+[Raise Skill Once For Max Skill]
+patch=1,EE,201AEC5C,extended,24060014
+[Raise Skill Once For Max Skill]
+patch=1,EE,201BE220,extended,24060014
+[Drop Item For Max Quantity]
+patch=1,EE,201B099C,extended,24020063
+[Item Duplication]
+patch=1,EE,201B09A8,extended,00000000
+[>>> Debug Menu Codes (Hold {L1}+{R2}, Then Start) <<<]
+patch=1,EE,00000000,extended,00000000
+[Debug Menu Only]
+patch=1,EE,2017FA04,extended,00000000
+[Display Pause Menu Coordinates/Debug Menu]
+patch=1,EE,20485AAC,extended,00000001
+[>>> Create A New Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Creation Points]
+patch=1,EE,20486D20,extended,00000014
+[Infinite Creation Points]
+patch=1,EE,1027C54E,extended,00001000
+[>>> P1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,20408658,extended,00006363
+[Quick Exp Gain]
+patch=1,EE,1040865C,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2040865C,extended,05F5E0FF
+[Max Strength]
+patch=1,EE,20408678,extended,000003E7
+[Max Intelligence]
+patch=1,EE,2040867C,extended,000003E7
+[Max Dexterity]
+patch=1,EE,20408680,extended,000003E7
+[Max Stamina]
+patch=1,EE,20408684,extended,000003E7
+[Infinite Health]
+patch=1,EE,204086AC,extended,461C3C00
+[Max Health]
+patch=1,EE,204086B0,extended,461C3C00
+[Infinite Mana]
+patch=1,EE,204086C4,extended,461C3C00
+[Max Mana]
+patch=1,EE,204086C8,extended,461C3C00
+[Infinite Gold]
+patch=1,EE,104086E8,extended,0000FFFF
+[Max Gold]
+patch=1,EE,204086E8,extended,05F5E0FF
+[Infinite Points Remaining]
+patch=1,EE,204086EC,extended,00000063
+[Always No Weight Carried]
+patch=1,EE,20408734,extended,00000000
+[>>> P2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,2040E408,extended,00006363
+[Quick Exp Gain]
+patch=1,EE,1040E40C,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2040E40C,extended,05F5E0FF
+[Max Strength]
+patch=1,EE,2040E428,extended,000003E7
+[Max Intelligence]
+patch=1,EE,2040E42C,extended,000003E7
+[Max Dexterity]
+patch=1,EE,2040E430,extended,000003E7
+[Max Stamina]
+patch=1,EE,2040E434,extended,000003E7
+[Infinite Health]
+patch=1,EE,2040E45C,extended,461C3C00
+[Max Health]
+patch=1,EE,2040E460,extended,461C3C00
+[Infinite Mana]
+patch=1,EE,2040E474,extended,461C3C00
+[Max Mana]
+patch=1,EE,2040E478,extended,461C3C00
+[Infinite Gold]
+patch=1,EE,1040E498,extended,0000FFFF
+[Max Gold]
+patch=1,EE,2040E498,extended,05F5E0FF
+[Infinite Points Remaining]
+patch=1,EE,2040E49C,extended,00000063
+[Always No Weight Carried]
+patch=1,EE,2040E4E4,extended,00000000
+[>>> P3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,204141B8,extended,00006363
+[Quick Exp Gain]
+patch=1,EE,104141BC,extended,0000FFFF
+[Max Exp]
+patch=1,EE,204141BC,extended,05F5E0FF
+[Max Strength]
+patch=1,EE,204141D8,extended,000003E7
+[Max Intelligence]
+patch=1,EE,204141DC,extended,000003E7
+[Max Dexterity]
+patch=1,EE,204141E0,extended,000003E7
+[Max Stamina]
+patch=1,EE,204141E4,extended,000003E7
+[Infinite Health]
+patch=1,EE,2041420C,extended,461C3C00
+[Max Health]
+patch=1,EE,20414210,extended,461C3C00
+[Infinite Mana]
+patch=1,EE,20414224,extended,461C3C00
+[Max Mana]
+patch=1,EE,20414228,extended,461C3C00
+[Infinite Gold]
+patch=1,EE,10414248,extended,0000FFFF
+[Max Gold]
+patch=1,EE,20414248,extended,05F5E0FF
+[Infinite Points Remaining]
+patch=1,EE,2041424C,extended,00000063
+[Always No Weight Carried]
+patch=1,EE,20414294,extended,00000000
+[>>> P4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,20419F68,extended,00006363
+[Quick Exp Gain]
+patch=1,EE,10419F6C,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20419F6C,extended,05F5E0FF
+[Max Strength]
+patch=1,EE,20419F88,extended,000003E7
+[Max Intelligence]
+patch=1,EE,20419F8C,extended,000003E7
+[Max Dexterity]
+patch=1,EE,20419F90,extended,000003E7
+[Max Stamina]
+patch=1,EE,20419F94,extended,000003E7
+[Infinite Health]
+patch=1,EE,20419FBC,extended,461C3C00
+[Max Health]
+patch=1,EE,20419FC0,extended,461C3C00
+[Infinite Mana]
+patch=1,EE,20419FD4,extended,461C3C00
+[Max Mana]
+patch=1,EE,20419FD8,extended,461C3C00
+[Infinite Gold]
+patch=1,EE,10419FF8,extended,0000FFFF
+[Max Gold]
+patch=1,EE,20419FF8,extended,05F5E0FF
+[Infinite Points Remaining]
+patch=1,EE,20419FFC,extended,00000063
+[Always No Weight Carried]
+patch=1,EE,2041A044,extended,00000000
+[>>> Skills Use No Mana Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Shock]
+patch=1,EE,2028D960,extended,44800000
+[Ground Pound]
+patch=1,EE,20290AE8,extended,44800000
+[Charge]
+patch=1,EE,202920F8,extended,44800000
+[Disease Bolt]
+patch=1,EE,20293898,extended,44800000
+[Disease Trail]
+patch=1,EE,20295560,extended,44800000
+[Disease Shield]
+patch=1,EE,202968D0,extended,44800000
+[Darkness]
+patch=1,EE,20298328,extended,44800000
+[Convert Enemy]
+patch=1,EE,20298CC8,extended,44800000
+[Convert Undead]
+patch=1,EE,20299720,extended,44800000
+[Cyclone]
+patch=1,EE,2029A9C0,extended,44800000
+[Harm Touch]
+patch=1,EE,2029AF60,extended,44800000
+[Fire Storm]
+patch=1,EE,2029D260,extended,44800000
+[Fire Arrow]
+patch=1,EE,2029E558,extended,44800000
+[Cold Arrow]
+patch=1,EE,2029FDE8,extended,44800000
+[Poison Arrow]
+patch=1,EE,202A0D20,extended,44800000
+[Multi Fire]
+patch=1,EE,202A1D80,extended,44800000
+[Explode Arrow]
+patch=1,EE,202A2918,extended,44800000
+[Archery]
+patch=1,EE,202A2C40,extended,44800000
+[Fire Flares]
+patch=1,EE,202A499C,extended,44800000
+[Bash]
+patch=1,EE,202A5F28,extended,44800000
+[Blessed]
+patch=1,EE,202A7030,extended,44800000
+[Minor Healing]
+patch=1,EE,202A7468,extended,44800000
+[Ancestral Call]
+patch=1,EE,202A8550,extended,44800000
+[Summon Skeleton]
+patch=1,EE,202A91A4,extended,44800000
+[Lightning Weapons]
+patch=1,EE,202A9E7C,extended,44800000
+[Fire Weapons]
+patch=1,EE,202AB4EC,extended,44800000
+[Cold Weapons]
+patch=1,EE,202AC494,extended,44800000
+[Root]
+patch=1,EE,202AD038,extended,44800000
+[Critical Hit]
+patch=1,EE,202ADD98,extended,44800000
+[Holy Shield]
+patch=1,EE,202AE578,extended,44800000
+[Dodge]
+patch=1,EE,202AE7C0,extended,44800000
+[Healing]
+patch=1,EE,202AF350,extended,44800000
+[Cone Of Frost]
+patch=1,EE,202AFEE8,extended,44800000
+[Undead Shield]
+patch=1,EE,202B1400,extended,44800000
+[Holy Strike]
+patch=1,EE,202B2E44,extended,44800000
+[Shock Of Fire]
+patch=1,EE,202B3278,extended,44800000
+[Frost Storm]
+patch=1,EE,202B36E8,extended,44800000
+[Hammer Of Wrath]
+patch=1,EE,202B583C,extended,44800000
+[Cone Of Fire]
+patch=1,EE,202B6B28,extended,44800000
+[Wizard Beam]
+patch=1,EE,202B94A8,extended,44800000
+[Blinding Light]
+patch=1,EE,202BA1A8,extended,44800000
+[Repulse Undead]
+patch=1,EE,202BA764,extended,44800000
+[Dismiss Undead]
+patch=1,EE,202BBD50,extended,44800000
+[Shock Of Frost]
+patch=1,EE,202BE188,extended,44800000
+[Life Tap]
+patch=1,EE,202BE328,extended,44800000
+[Poison Rain]
+patch=1,EE,202BF264,extended,44800000
+[Cleric Root]
+patch=1,EE,202C6300,extended,44800000
+[Entangle]
+patch=1,EE,202C6F78,extended,44800000
+[Ranger Critical Hit]
+patch=1,EE,202C7D40,extended,44800000
+[Shield Bash]
+patch=1,EE,202C8B78,extended,44800000
+[Misc. Spells]
+patch=1,EE,20313264,extended,44800000
+

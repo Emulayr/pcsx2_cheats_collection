@@ -1,0 +1,381 @@
+gametitle=Sly Cooper
+[Enable Code (Must Be On)]
+patch=1,EE,9020456C,extended,0C07D696
+[Infinite Lives]
+patch=1,EE,2027DC00,extended,00000063
+[Max Badges]
+patch=1,EE,2027DC08,extended,00000063
+[Extra Lives]
+patch=1,EE,10160DC0,extended,00000001
+[Infinite Time]
+patch=1,EE,2026E9C8,extended,4415C000
+[Have Normal Horseshoe]
+patch=1,EE,2027DC04,extended,00000000
+[Have Silver Horseshoe]
+patch=1,EE,2027DC04,extended,00000001
+[Have Gold Horseshoe]
+patch=1,EE,2027DC04,extended,00000002
+[Game Speed X1/2]
+patch=1,EE,20261850,extended,3F000000
+[Game Speed X2]
+patch=1,EE,20261850,extended,40000000
+[Game Speed X3]
+patch=1,EE,20261850,extended,40400000
+[Game Speed X4]
+patch=1,EE,20261850,extended,40800000
+[Have All Moves]
+cheat0_code = "2027DC10 FFFFFFFF
+[Unlock All Movies]
+cheat0_code = "2027DC14 FFFFFFFF
+[>>> Unlock World Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sunset Snake Eyes]
+patch=1,EE,2027CF10,extended,00000001
+[Vicious Voodoo]
+patch=1,EE,2027D35C,extended,00000001
+[Fire In The Sky]
+patch=1,EE,2027D7A8,extended,00000001
+[The Cold Heart Of Hate]
+patch=1,EE,2027DBF4,extended,00000001
+[>>> Tide Of Terror Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,2027CAB4,extended,00000007
+[Max Vaults]
+patch=1,EE,2027CAB8,extended,00000006
+[Max Time Trials]
+patch=1,EE,2027CABC,extended,00000006
+[>>> Unlock Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Stealthy Approach]
+patch=1,EE,D027C67C,extended,00000000
+[A Stealthy Approach]
+patch=1,EE,2027C67C,extended,00000001
+[Prowling The Grounds]
+patch=1,EE,D027C6F4,extended,00000000
+[Prowling The Grounds]
+patch=1,EE,2027C6F4,extended,00000001
+[High Class Heist]
+patch=1,EE,D027C76C,extended,00000000
+[High Class Heist]
+patch=1,EE,2027C76C,extended,00000001
+[Into The Machine]
+patch=1,EE,D027C7E4,extended,00000000
+[Into The Machine]
+patch=1,EE,2027C7E4,extended,00000001
+[A Cunning Disguise]
+patch=1,EE,D027C85C,extended,00000000
+[A Cunning Disguise]
+patch=1,EE,2027C85C,extended,00000001
+[The Fire Down Below]
+patch=1,EE,D027C8D4,extended,00000000
+[The Fire Down Below]
+patch=1,EE,2027C8D4,extended,00000001
+[Treasure In The Depths]
+patch=1,EE,D027C94C,extended,00000000
+[Treasure In The Depths]
+patch=1,EE,2027C94C,extended,00000001
+[The Gunboat Graveyard]
+patch=1,EE,D027C9C4,extended,00000000
+[The Gunboat Graveyard]
+patch=1,EE,2027C9C4,extended,00000001
+[The Eye Of The Storm]
+patch=1,EE,D027CA3C,extended,00000000
+[The Eye Of The Storm]
+patch=1,EE,2027CA3C,extended,00000001
+[>>> Have Level Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Stealthy Approach]
+patch=1,EE,2027C67C,extended,0000000F
+[Prowling The Grounds]
+patch=1,EE,2027C6F4,extended,0000000F
+[High Class Heist]
+patch=1,EE,2027C76C,extended,0000000F
+[Into The Machine]
+patch=1,EE,2027C7E4,extended,0000000F
+[A Cunning Disguise]
+patch=1,EE,2027C85C,extended,0000000F
+[The Fire Down Below]
+patch=1,EE,2027C8D4,extended,0000000F
+[Treasure In The Depths]
+patch=1,EE,2027C94C,extended,0000000F
+[The Gunboat Graveyard]
+patch=1,EE,2027C9C4,extended,0000000F
+[The Eye Of The Storm]
+patch=1,EE,2027CA3C,extended,0000000F
+[>>> Max Clues Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Stealthy Approach]
+patch=1,EE,2027C6E0,extended,00000014
+[High Class Heist]
+patch=1,EE,2027C7D0,extended,0000001E
+[Into The Machine]
+patch=1,EE,2027C848,extended,0000001E
+[A Cunning Disguise]
+patch=1,EE,2027C8C0,extended,0000001E
+[The Fire Down Below]
+patch=1,EE,2027C938,extended,0000001E
+[The Gunboat Graveyard]
+patch=1,EE,2027CA28,extended,00000014
+[>>> Sunset Snake Eyes Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,2027CF00,extended,00000007
+[Max Vaults]
+patch=1,EE,2027CF04,extended,00000005
+[Max Time Trials]
+patch=1,EE,2027CF08,extended,00000005
+[>>> Unlock Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Rocky Start]
+patch=1,EE,D027CAC8,extended,00000000
+[A Rocky Start]
+patch=1,EE,2027CAC8,extended,00000001
+[Muggshot's Turf]
+patch=1,EE,D027CB40,extended,00000000
+[Muggshot's Turf]
+patch=1,EE,2027CB40,extended,00000001
+[Boneyard Casino]
+patch=1,EE,D027CBB8,extended,00000000
+[Boneyard Casino]
+patch=1,EE,2027CBB8,extended,00000001
+[Murray's Big Gamble]
+patch=1,EE,D027CC30,extended,00000000
+[Murray's Big Gamble]
+patch=1,EE,2027CC30,extended,00000001
+[At The Dog Track]
+patch=1,EE,D027CCA8,extended,00000000
+[At The Dog Track]
+patch=1,EE,2027CCA8,extended,00000001
+[Two To Tango]
+patch=1,EE,D027CD20,extended,00000000
+[Two To Tango]
+patch=1,EE,2027CD20,extended,00000001
+[Straight To The Top]
+patch=1,EE,D027CD98,extended,00000000
+[Straight To The Top]
+patch=1,EE,2027CD98,extended,00000001
+[Back Alley Heist]
+patch=1,EE,D027CE10,extended,00000000
+[Back Alley Heist]
+patch=1,EE,2027CE10,extended,00000001
+[Last Call]
+patch=1,EE,D027CE88,extended,00000000
+[Last Call]
+patch=1,EE,2027CE88,extended,00000001
+[>>> Have Level Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Rocky Start]
+patch=1,EE,2027CAC8,extended,0000000F
+[Muggshot's Turf]
+patch=1,EE,2027CB40,extended,0000000F
+[Boneyard Casino]
+patch=1,EE,2027CBB8,extended,0000000F
+[Murray's Big Gamble]
+patch=1,EE,2027CC30,extended,0000000F
+[At The Dog Track]
+patch=1,EE,2027CCA8,extended,0000000F
+[Two To Tango]
+patch=1,EE,2027CD20,extended,0000000F
+[Straight To The Top]
+patch=1,EE,2027CD98,extended,0000000F
+[Back Alley Heist]
+patch=1,EE,2027CE10,extended,0000000F
+[Last Call]
+patch=1,EE,2027CE88,extended,0000000F
+[>>> Max Clues Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Rocky Start]
+patch=1,EE,2027CB2C,extended,00000028
+[Boneyard Casino]
+patch=1,EE,2027CC1C,extended,00000028
+[Two To Tango]
+patch=1,EE,2027CD84,extended,0000001E
+[Straight To The Top]
+patch=1,EE,2027CDFC,extended,00000028
+[Back Alley Heist]
+patch=1,EE,2027CE74,extended,0000001E
+[>>> Vicious Voodoo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,2027D34C,extended,00000007
+[Max Vaults]
+patch=1,EE,2027D350,extended,00000004
+[Max Time Trials]
+patch=1,EE,2027D354,extended,00000004
+[>>> Unlock Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[The Dread Swamp Path]
+patch=1,EE,D027CF14,extended,00000000
+[The Dread Swamp Path]
+patch=1,EE,2027CF14,extended,00000001
+[The Swamp's Dark Center]
+patch=1,EE,D027CF8C,extended,00000000
+[The Swamp's Dark Center]
+patch=1,EE,2027CF8C,extended,00000001
+[The Lair Of The Beast]
+patch=1,EE,D027D004,extended,00000000
+[The Lair Of The Beast]
+patch=1,EE,2027D004,extended,00000001
+[A Grave Undertaking]
+patch=1,EE,D027D07C,extended,00000000
+[A Grave Undertaking]
+patch=1,EE,2027D07C,extended,00000001
+[Piranha Lake]
+patch=1,EE,D027D0F4,extended,00000000
+[Piranha Lake]
+patch=1,EE,2027D0F4,extended,00000001
+[Descent Into Danger]
+patch=1,EE,D027D16C,extended,00000000
+[Descent Into Danger]
+patch=1,EE,2027D16C,extended,00000001
+[A Ghastly Voyage]
+patch=1,EE,D027D1E4,extended,00000000
+[A Ghastly Voyage]
+patch=1,EE,2027D1E4,extended,00000001
+[Down Home Cooking]
+patch=1,EE,D027D25C,extended,00000000
+[Down Home Cooking]
+patch=1,EE,2027D25C,extended,00000001
+[A Deadly Dance]
+patch=1,EE,D027D2D4,extended,00000000
+[A Deadly Dance]
+patch=1,EE,2027D2D4,extended,00000001
+[>>> Have Level Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[The Dread Swamp Path]
+patch=1,EE,2027CF14,extended,0000000F
+[The Swamp's Dark Center]
+patch=1,EE,2027CF8C,extended,0000000F
+[The Lair Of The Beast]
+patch=1,EE,2027D004,extended,0000000F
+[A Grave Undertaking]
+patch=1,EE,2027D07C,extended,0000000F
+[Piranha Lake]
+patch=1,EE,2027D0F4,extended,0000000F
+[Descent Into Danger]
+patch=1,EE,2027D16C,extended,0000000F
+[A Ghastly Voyage]
+patch=1,EE,2027D1E4,extended,0000000F
+[Down Home Cooking]
+patch=1,EE,2027D25C,extended,0000000F
+[A Deadly Dance]
+patch=1,EE,2027D2D4,extended,0000000F
+[>>> Max Clues Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[The Dread Swamp Path]
+patch=1,EE,2027CF78,extended,00000014
+[The Lair Of The Beast]
+patch=1,EE,2027D068,extended,0000001E
+[A Grave Undertaking]
+patch=1,EE,2027D0E0,extended,00000028
+[Descent Into Danger]
+patch=1,EE,2027D1D0,extended,00000028
+[>>> Fire In The Sky Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,2027D798,extended,00000007
+[Max Vaults]
+patch=1,EE,2027D79C,extended,00000004
+[Max Time Trials]
+patch=1,EE,2027D7A0,extended,00000004
+[>>> Unlock Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Perilous Ascent]
+patch=1,EE,D027D360,extended,00000000
+[A Perilous Ascent]
+patch=1,EE,2027D360,extended,00000001
+[Into The Stronghold]
+patch=1,EE,D027D3D8,extended,00000000
+[Into The Stronghold]
+patch=1,EE,2027D3D8,extended,00000001
+[Flaming Temple Of Flame]
+patch=1,EE,D027D450,extended,00000000
+[Flaming Temple Of Flame]
+patch=1,EE,2027D450,extended,00000001
+[The Unseen Foe]
+patch=1,EE,D027D4C8,extended,00000000
+[The Unseen Foe]
+patch=1,EE,2027D4C8,extended,00000001
+[The King Of The Hill]
+patch=1,EE,D027D540,extended,00000000
+[The King Of The Hill]
+patch=1,EE,2027D540,extended,00000001
+[Rapid Fire Assault]
+patch=1,EE,D027D5B8,extended,00000000
+[Rapid Fire Assault]
+patch=1,EE,2027D5B8,extended,00000001
+[Duel By The Dragon]
+patch=1,EE,D027D630,extended,00000000
+[Duel By The Dragon]
+patch=1,EE,2027D630,extended,00000001
+[A Desperate Race]
+patch=1,EE,D027D6A8,extended,00000000
+[A Desperate Race]
+patch=1,EE,2027D6A8,extended,00000001
+[Flame Fu!]
+patch=1,EE,D027D720,extended,00000000
+[Flame Fu!]
+patch=1,EE,2027D720,extended,00000001
+[>>> Have Level Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Perilous Ascent]
+patch=1,EE,2027D360,extended,0000000F
+[Into The Stronghold]
+patch=1,EE,2027D3D8,extended,0000000F
+[Flaming Temple Of Flame]
+patch=1,EE,2027D450,extended,0000000F
+[The Unseen Foe]
+patch=1,EE,2027D4C8,extended,0000000F
+[The King Of The Hill]
+patch=1,EE,2027D540,extended,0000000F
+[Rapid Fire Assault]
+patch=1,EE,2027D5B8,extended,0000000F
+[Duel By The Dragon]
+patch=1,EE,2027D630,extended,0000000F
+[A Desperate Race]
+patch=1,EE,2027D6A8,extended,0000000F
+[Flame Fu!]
+patch=1,EE,2027D720,extended,0000000F
+[>>> Max Clues Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[A Perilous Ascent]
+patch=1,EE,2027D3C4,extended,0000001E
+[Flaming Temple Of Flame]
+patch=1,EE,2027D4B4,extended,00000019
+[The Unseen Foe]
+patch=1,EE,2027D52C,extended,0000001E
+[Duel By The Dragon]
+patch=1,EE,2027D694,extended,00000028
+[>>> The Cold Heart Of Hate Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Level Codes]
+[A Hazardous Path]
+patch=1,EE,D027D7AC,extended,00000000
+[A Hazardous Path]
+patch=1,EE,2027D7AC,extended,00000001
+[Burning Rubber]
+patch=1,EE,D027D89C,extended,00000000
+[Burning Rubber]
+patch=1,EE,2027D89C,extended,00000001
+[A Daring Rescue]
+patch=1,EE,D027D914,extended,00000000
+[A Daring Rescue]
+patch=1,EE,2027D914,extended,00000001
+[Bentley Comes Through]
+patch=1,EE,D027D98C,extended,00000000
+[Bentley Comes Through]
+patch=1,EE,2027D98C,extended,00000001
+[A Temporary Truce]
+patch=1,EE,D027DA04,extended,00000000
+[A Temporary Truce]
+patch=1,EE,2027DA04,extended,00000001
+[Sinking Peril]
+patch=1,EE,D027DA7C,extended,00000000
+[Sinking Peril]
+patch=1,EE,2027DA7C,extended,00000001
+[A Strange Reunion]
+patch=1,EE,D027DB6C,extended,00000000
+[A Strange Reunion]
+patch=1,EE,2027DB6C,extended,00000001
+

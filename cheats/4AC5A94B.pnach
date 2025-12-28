@@ -1,0 +1,56 @@
+gametitle=[SLUS-20989] Polar Express, The
+[Enable Code (Must Be On)]
+patch=1,EE,9038C190,extended,0C0A340E
+[Infinite Health]
+patch=1,EE,200C0220,extended,24020005
+[Infinite Health]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Health]
+patch=1,EE,200C0228,extended,AC820004
+[Infinite Health]
+patch=1,EE,20113700,extended,08030088
+[Infinite Continues]
+patch=1,EE,2014FA78,extended,00000000
+[Extra Continues]
+patch=1,EE,1014FA70,extended,00000001
+[>>> Save Slot 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,D07FE740,extended,00200013
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,107FE740,extended,00000013
+[Infinite Continues]
+patch=1,EE,207FE764,extended,00000063
+[>>> Save Slot 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,D07FE768,extended,00200013
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,107FE768,extended,00000013
+[Infinite Continues]
+patch=1,EE,207FE78C,extended,00000063
+[>>> Save Slot 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,D07FE790,extended,00200013
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,107FE790,extended,00000013
+[Infinite Continues]
+patch=1,EE,207FE7B4,extended,00000063
+[>>> Save Slot 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,D07FE7B8,extended,00200013
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,107FE7B8,extended,00000013
+[Infinite Continues]
+patch=1,EE,207FE7DC,extended,00000063
+[>>> Save Slot 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,D07FE7E0,extended,00200013
+[1 Gold Coin Needed For Extra Continue]
+patch=1,EE,107FE7E0,extended,00000013
+[Infinite Continues]
+patch=1,EE,207FE804,extended,00000063
+

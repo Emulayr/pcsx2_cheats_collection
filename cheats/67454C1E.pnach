@@ -1,0 +1,64 @@
+gametitle=Tekken Tag Tournament (Version 1.1)
+[Enable Code (Must Be On)]
+patch=1,EE,90405570,extended,0C103E6C
+[Infinite Health P1]
+patch=1,EE,20879A34,extended,000A0000
+[Infinite Health P1]
+patch=1,EE,20879A38,extended,000A0000
+[1-Hit Death P1]
+patch=1,EE,20879A34,extended,00000001
+[1-Hit Death P1]
+patch=1,EE,20879A38,extended,00000001
+[No Health P1]
+patch=1,EE,20879A34,extended,00000000
+[No Health P1]
+patch=1,EE,20879A38,extended,00000000
+[P1 Never Wins]
+patch=1,EE,D087969A,extended,00000001
+[P1 Never Wins]
+patch=1,EE,1087969A,extended,00000000
+[P1 Needs 1 Win To Win]
+patch=1,EE,D087969A,extended,00000000
+[P1 Needs 1 Win To Win]
+patch=1,EE,1087969A,extended,00000001
+[P1 Can't Move]
+patch=1,EE,20879A54,extended,000A0000
+[Infinite Health P2]
+patch=1,EE,208852D4,extended,00097333
+[Infinite Health P2]
+patch=1,EE,208852D8,extended,00097333
+[1-Hit Death P2]
+patch=1,EE,208852D4,extended,00000001
+[1-Hit Death P2]
+patch=1,EE,208852D8,extended,00000001
+[No Health P2]
+patch=1,EE,208852D4,extended,00000000
+[No Health P2]
+patch=1,EE,208852D8,extended,00000000
+[P2 Never Wins]
+patch=1,EE,D0884F3A,extended,00000001
+[P2 Never Wins]
+patch=1,EE,10884F3A,extended,00000000
+[P2 Needs 1 Win To Win]
+patch=1,EE,D0884F3A,extended,00000000
+[P2 Needs 1 Win To Win]
+patch=1,EE,10884F3A,extended,00000001
+[P2 Can't Move]
+patch=1,EE,208852F4,extended,00000000
+[Infinite Time]
+patch=1,EE,205F5C30,extended,000010A4
+[Unlock Everything]
+patch=1,EE,20439C70,extended,FFFFFFFF
+[Unlock Everything]
+patch=1,EE,20439C74,extended,FFFFFFFF
+[Unlock Everything]
+patch=1,EE,20439C78,extended,FFFFFFFF
+[Unlock Everything]
+patch=1,EE,10439C82,extended,00000103
+[Start On Final Stage (Arcade Mode)]
+patch=1,EE,D043B81C,extended,00000000
+[Start On Final Stage (Arcade Mode)]
+patch=1,EE,1043B81C,extended,00000007
+[Allow Players To Choose Same Characters]
+patch=1,EE,203CA104,extended,00000000
+

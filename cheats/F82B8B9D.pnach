@@ -1,0 +1,160 @@
+gametitle=Jeopardy 2003
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0019C7FF
+[Infinite Money P1]
+patch=1,EE,103586E8,extended,0000FFFF
+[Max Money P1]
+patch=1,EE,203586E8,extended,000F423F
+[Infinite Money P2]
+patch=1,EE,10358718,extended,0000FFFF
+[Max Money P2]
+patch=1,EE,20358718,extended,000F423F
+[Infinite Money P3]
+patch=1,EE,10358748,extended,0000FFFF
+[Max Money P3]
+patch=1,EE,20358748,extended,000F423F
+[All Answers Score For P1]
+patch=1,EE,201B388C,extended,24060000
+[All Answers Score For P2]
+patch=1,EE,201B388C,extended,24060030
+[All Answers Score For P3]
+patch=1,EE,201B388C,extended,24060060
+[All Answers Score 9999]
+patch=1,EE,201B38B0,extended,2507270F
+[All Answers Score 999]
+patch=1,EE,201B38B0,extended,250703E7
+[All Answers Score 99]
+patch=1,EE,201B38B0,extended,25070063
+[>>> Normal Mode Timer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[P1 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,D0372D02,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,201B47A0,extended,00000000
+[P1 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,D0372D02,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,201B47A0,extended,FC288810
+[P2 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,D0372B02,extended,0000FBFE
+[P2 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,201B47A0,extended,00000000
+[P2 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,D0372B02,extended,0000FEFE
+[P2 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,201B47A0,extended,FC288810
+[P3 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,D0372902,extended,0000FBFE
+[P3 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,201B47A0,extended,00000000
+[P3 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,D0372902,extended,0000FEFE
+[P3 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,201B47A0,extended,FC288810
+[P4 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,D0372702,extended,0000FBFE
+[P4 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,201B47A0,extended,00000000
+[P4 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,D0372702,extended,0000FEFE
+[P4 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,201B47A0,extended,FC288810
+[P5 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,D0372C02,extended,0000FBFE
+[P5 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,201B47A0,extended,00000000
+[P5 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,D0372C02,extended,0000FEFE
+[P5 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,201B47A0,extended,FC288810
+[P6 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,D0372A02,extended,0000FBFE
+[P6 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,201B47A0,extended,00000000
+[P6 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,D0372A02,extended,0000FEFE
+[P6 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,201B47A0,extended,FC288810
+[P7 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,D0372802,extended,0000FBFE
+[P7 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,201B47A0,extended,00000000
+[P7 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,D0372802,extended,0000FEFE
+[P7 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,201B47A0,extended,FC288810
+[P8 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,D0372602,extended,0000FBFE
+[P8 Press {L1}+{SELECT} To Stop Input Answer Timer]
+patch=1,EE,201B47A0,extended,00000000
+[P8 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,D0372602,extended,0000FEFE
+[P8 Press {L2}+{SELECT} To Start Input Answer Timer]
+patch=1,EE,201B47A0,extended,FC288810
+[>>> Contestant Exam Timer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[P1 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,D0372D02,extended,0000F7FE
+[P1 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,201B9778,extended,00000000
+[P1 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,D0372D02,extended,0000FDFE
+[P1 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,201B9778,extended,FC22A938
+[P2 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,D0372B02,extended,0000F7FE
+[P2 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,201B9778,extended,00000000
+[P2 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,D0372B02,extended,0000FDFE
+[P2 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,201B9778,extended,FC22A938
+[P3 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,D0372902,extended,0000F7FE
+[P3 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,201B9778,extended,00000000
+[P3 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,D0372902,extended,0000FDFE
+[P3 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,201B9778,extended,FC22A938
+[P4 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,D0372702,extended,0000F7FE
+[P4 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,201B9778,extended,00000000
+[P4 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,D0372702,extended,0000FDFE
+[P4 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,201B9778,extended,FC22A938
+[P5 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,D0372C02,extended,0000F7FE
+[P5 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,201B9778,extended,00000000
+[P5 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,D0372C02,extended,0000FDFE
+[P5 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,201B9778,extended,FC22A938
+[P6 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,D0372A02,extended,0000F7FE
+[P6 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,201B9778,extended,00000000
+[P6 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,D0372A02,extended,0000FDFE
+[P6 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,201B9778,extended,FC22A938
+[P7 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,D0372802,extended,0000F7FE
+[P7 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,201B9778,extended,00000000
+[P7 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,D0372802,extended,0000FDFE
+[P7 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,201B9778,extended,FC22A938
+[P8 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,D0372602,extended,0000F7FE
+[P8 Press {R1}+{SELECT} To Stop Timer]
+patch=1,EE,201B9778,extended,00000000
+[P8 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,D0372602,extended,0000FDFE
+[P8 Press {R2}+{SELECT} To Start Timer]
+patch=1,EE,201B9778,extended,FC22A938
+

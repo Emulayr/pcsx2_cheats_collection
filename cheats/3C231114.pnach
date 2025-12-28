@@ -1,0 +1,72 @@
+gametitle=Bode Miller-Alpine Skiing
+[Enable Code (Must Be On)]
+patch=1,EE,901F8E38,extended,0C083042
+[Always No Penalties]
+patch=1,EE,2011EA78,extended,AE200C0C
+[Always Low Time]
+patch=1,EE,2017C5F0,extended,AD4013C4
+[>>> Skier Creation Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Skill Points]
+patch=1,EE,20863C84,extended,00000014
+[>>> Max Skill Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Fitness]
+patch=1,EE,20863C8C,extended,42C80000
+[Technique]
+patch=1,EE,20863C90,extended,42C80000
+[Strength]
+patch=1,EE,20863C94,extended,42C80000
+[Motivation]
+patch=1,EE,20863C98,extended,42C80000
+[Infinite Talent Points]
+patch=1,EE,20863DD4,extended,00000019
+[>>> Max Talent Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Super-G]
+patch=1,EE,20863DD8,extended,00000019
+[Giant Slalom]
+patch=1,EE,20863DDC,extended,00000019
+[Slalom]
+patch=1,EE,20863DE0,extended,00000019
+[Downhill]
+patch=1,EE,20863DE4,extended,00000019
+[>>> Career Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Downhill]
+patch=1,EE,204E53F4,extended,00000019
+[Max Super-G]
+patch=1,EE,204E53F8,extended,00000019
+[Max Giant Slalom]
+patch=1,EE,204E53FC,extended,00000019
+[Max Slalom]
+patch=1,EE,204E5400,extended,00000019
+[Max Fitness]
+patch=1,EE,204E5404,extended,42C80000
+[Max Technique]
+patch=1,EE,204E5408,extended,42C80000
+[Max Strength]
+patch=1,EE,204E540C,extended,42C80000
+[Max Motivation]
+patch=1,EE,204E5410,extended,42C80000
+[Quick Exp Gain]
+patch=1,EE,104E5418,extended,0000FFFF
+[Max Exp]
+patch=1,EE,204E5418,extended,05F5E0FF
+[Infinite Money]
+patch=1,EE,104E541C,extended,0000FFFF
+[Max Money]
+patch=1,EE,204E541C,extended,05F5E0FF
+[Buying Items Doesnt Decrease Money]
+patch=1,EE,20151030,extended,00000000
+[Buying Items Increases Money]
+patch=1,EE,20151028,extended,018F6021
+[Have All Awards]
+patch=1,EE,104E54DE,extended,00000101
+[Have All Awards]
+patch=1,EE,404E54E0,extended,00180001
+[Have All Awards]
+patch=1,EE,01010101,extended,00000000
+[Have All Awards]
+patch=1,EE,004E5540,extended,00000001
+

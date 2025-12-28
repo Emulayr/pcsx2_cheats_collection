@@ -1,0 +1,100 @@
+gametitle=[SLUS-21290] Ford Bold Moves Street Racing
+[Enable Code (Must Be On)]
+patch=1,EE,9025DCC0,extended,0C09DD3F
+[Always Low Time]
+patch=1,EE,201ED5B0,extended,AE200160
+[Start On Lap 3]
+patch=1,EE,200C0220,extended,24010001
+[Start On Lap 3]
+patch=1,EE,200C0224,extended,50310001
+[Start On Lap 3]
+patch=1,EE,200C0228,extended,24110003
+[Start On Lap 3]
+patch=1,EE,200C022C,extended,0808D594
+[Start On Lap 3]
+patch=1,EE,200C0230,extended,A051014F
+[Start On Lap 3]
+patch=1,EE,2023DF28,extended,0C030088
+[Start On Lap 2]
+patch=1,EE,200C0220,extended,24010001
+[Start On Lap 2]
+patch=1,EE,200C0224,extended,50310001
+[Start On Lap 2]
+patch=1,EE,200C0228,extended,24110002
+[Start On Lap 2]
+patch=1,EE,200C022C,extended,0808D594
+[Start On Lap 2]
+patch=1,EE,200C0230,extended,A051014F
+[Start On Lap 2]
+patch=1,EE,2023DF28,extended,0C030088
+[Max Championship Points]
+patch=1,EE,2039766C,extended,000003E7
+[Infinite Bank]
+patch=1,EE,104CACA0,extended,0000FFFF
+[Max Bank]
+patch=1,EE,204CACA0,extended,05F5E0FF
+[Buying Cars Doesnt Decrease Bank]
+patch=1,EE,2022F518,extended,00000000
+[Buying Cars Increases Bank]
+patch=1,EE,2022F518,extended,00442021
+[Have All Championships Completed]
+patch=1,EE,202496CC,extended,24030004
+[Have All Championships Completed]
+patch=1,EE,202496D0,extended,A0430000
+[Unlock All Cars]
+patch=1,EE,4040AE30,extended,00040001
+[Unlock All Cars]
+patch=1,EE,01010101,extended,00000000
+[Unlock All Cars]
+patch=1,EE,1040AE40,extended,00000101
+[>>> Unlock Classic Car Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[1973 Escort RS2000]
+patch=1,EE,0040AE30,extended,00000001
+[1968 Mustang GT]
+patch=1,EE,0040AE31,extended,00000001
+[1975 Gran Torino Sport]
+patch=1,EE,0040AE32,extended,00000001
+[1970 Capri Mk I RS2600]
+patch=1,EE,0040AE33,extended,00000001
+[1969 Mustang Boss 302]
+patch=1,EE,0040AE34,extended,00000001
+[1970 Mustang Boss 429]
+patch=1,EE,0040AE35,extended,00000001
+[>>> Unlock Performance Car Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[2004 Fiesta ST]
+patch=1,EE,0040AE36,extended,00000001
+[2004 SVT Lightning]
+patch=1,EE,0040AE37,extended,00000001
+[2002 Focus RS]
+patch=1,EE,0040AE38,extended,00000001
+[2005 Mustang GT]
+patch=1,EE,0040AE39,extended,00000001
+[1992 Escort RS Cosworth]
+patch=1,EE,0040AE3A,extended,00000001
+[2000 SVT Cobra R]
+patch=1,EE,0040AE3B,extended,00000001
+[>>> Unlock High Performance Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[1987 Sierra RS500]
+patch=1,EE,0040AE3C,extended,00000001
+[204 Mustang GT-R Concept]
+patch=1,EE,0040AE3D,extended,00000001
+[1985 RS200]
+patch=1,EE,0040AE3E,extended,00000001
+[2007 Shelby Cobra GT500]
+patch=1,EE,0040AE3F,extended,00000001
+[1995 GT90 Concept]
+patch=1,EE,0040AE40,extended,00000001
+[2005 Ford GT]
+patch=1,EE,0040AE41,extended,00000001
+[Unlock All Tracks]
+patch=1,EE,4040AE30,extended,00060001
+[Unlock All Tracks]
+patch=1,EE,01010101,extended,00000000
+[Have All Challenge Completed]
+patch=1,EE,404CB0C4,extended,00080001
+[Have All Challenge Completed]
+patch=1,EE,01010101,extended,00000000
+

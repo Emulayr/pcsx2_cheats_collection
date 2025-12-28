@@ -1,0 +1,926 @@
+gametitle=Inuyasha-The Secret Of Cursed Mask
+[Enable Code (Must Be On)]
+patch=1,EE,901A1364,extended,0C06B5A6
+[Infinite Money]
+patch=1,EE,108BE030,extended,0000FFFF
+[Max Money]
+patch=1,EE,208BE030,extended,05F5E0FF
+[>>> Unlock Location Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Road To Akebi]
+patch=1,EE,008BD893,extended,00000001
+[Road To Old Temple]
+patch=1,EE,008BD899,extended,00000001
+[Road To Kasasagi]
+patch=1,EE,008BD8A5,extended,00000001
+[Forest To Tsuzumi]
+patch=1,EE,008BD8BE,extended,00000001
+[Mount Houoh]
+patch=1,EE,008BD907,extended,00000001
+[Rindoh Village]
+patch=1,EE,008BD90E,extended,00000001
+[Ayame Village]
+patch=1,EE,008BD922,extended,00000001
+[??? AFter Field Of Ignorance]
+patch=1,EE,008BD94F,extended,00000001
+[Field Of Ignorance/Road To Minamo]
+patch=1,EE,008BD96C,extended,00000001
+[Botan Village]
+patch=1,EE,008BD97B,extended,00000001
+[Shiyosai Village]
+patch=1,EE,008BD98E,extended,00000001
+[??? After Mount Houoh]
+patch=1,EE,008BD9C9,extended,00000001
+[??? After ??? AFter Mount Houoh]
+patch=1,EE,008BD9D6,extended,00000001
+[Akebi Village]
+patch=1,EE,008DBC04,extended,00000001
+[Kasasagi Town]
+patch=1,EE,008BDC05,extended,00000001
+[Tsuzumi Village]
+patch=1,EE,008BDC06,extended,00000001
+[Castle Town]
+patch=1,EE,008BDC07,extended,00000001
+[Minamo Village]
+patch=1,EE,008BDC08,extended,00000001
+[Pass To Castle Town]
+patch=1,EE,008BDC09,extended,00000001
+[>>> Character 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,108BD0A0,extended,00000063
+[Quick EXP Gain]
+patch=1,EE,108BD0AC,extended,0000FFFF
+[Max EXP]
+patch=1,EE,208BD0AC,extended,05F5E0FF
+[Infinite HP]
+patch=1,EE,108BD0B0,extended,000003E7
+[Infinite Energy]
+patch=1,EE,108BD0B2,extended,000003E7
+[Max Attack]
+patch=1,EE,108BD0B4,extended,000003E7
+[Max Defense]
+patch=1,EE,108BD0B6,extended,000003E7
+[Max Activity]
+patch=1,EE,108BD0B8,extended,000003E7
+[Max Mental]
+patch=1,EE,108BD0BA,extended,000003E7
+[Max Spirit]
+patch=1,EE,108BD0BC,extended,000003E7
+[Max HP]
+patch=1,EE,108BD0D4,extended,000003E7
+[Max Energy]
+patch=1,EE,108BD0D6,extended,000003E7
+[>>> Character 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,108BD1C0,extended,00000063
+[Quick EXP Gain]
+patch=1,EE,108BD1CC,extended,0000FFFF
+[Max EXP]
+patch=1,EE,208BD1CC,extended,05F5E0FF
+[Infinite HP]
+patch=1,EE,108BD1D0,extended,000003E7
+[Infinite Energy]
+patch=1,EE,108BD1D2,extended,000003E7
+[Max Attack]
+patch=1,EE,108BD1D4,extended,000003E7
+[Max Defense]
+patch=1,EE,108BD1D6,extended,000003E7
+[Max Activity]
+patch=1,EE,108BD1D8,extended,000003E7
+[Max Mental]
+patch=1,EE,108BD1DA,extended,000003E7
+[Max Spirit]
+patch=1,EE,108BD1DC,extended,000003E7
+[Max HP]
+patch=1,EE,108BD1F4,extended,000003E7
+[Max Energy]
+patch=1,EE,108BD1F6,extended,000003E7
+[>>> Character 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,108BD2E0,extended,00000063
+[Quick EXP Gain]
+patch=1,EE,108BD2EC,extended,0000FFFF
+[Max EXP]
+patch=1,EE,208BD2EC,extended,05F5E0FF
+[Infinite HP]
+patch=1,EE,108BD2F0,extended,000003E7
+[Infinite Energy]
+patch=1,EE,108BD2F2,extended,000003E7
+[Max Attack]
+patch=1,EE,108BD2F4,extended,000003E7
+[Max Defense]
+patch=1,EE,108BD2F6,extended,000003E7
+[Max Activity]
+patch=1,EE,108BD2F8,extended,000003E7
+[Max Mental]
+patch=1,EE,108BD2FA,extended,000003E7
+[Max Spirit]
+patch=1,EE,108BD2FC,extended,000003E7
+[Max HP]
+patch=1,EE,108BD314,extended,000003E7
+[Max Energy]
+patch=1,EE,108BD316,extended,000003E7
+[>>> Character 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,108BD400,extended,00000063
+[Quick EXP Gain]
+patch=1,EE,108BD40C,extended,0000FFFF
+[Max EXP]
+patch=1,EE,208BD40C,extended,05F5E0FF
+[Infinite HP]
+patch=1,EE,108BD410,extended,000003E7
+[Infinite Energy]
+patch=1,EE,108BD412,extended,000003E7
+[Max Attack]
+patch=1,EE,108BD414,extended,000003E7
+[Max Defense]
+patch=1,EE,108BD416,extended,000003E7
+[Max Activity]
+patch=1,EE,108BD418,extended,000003E7
+[Max Mental]
+patch=1,EE,108BD41A,extended,000003E7
+[Max Spirit]
+patch=1,EE,108BD41C,extended,000003E7
+[Max HP]
+patch=1,EE,108BD434,extended,000003E7
+[Max Energy]
+patch=1,EE,108BD436,extended,000003E7
+[>>> Character 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,108BD520,extended,00000063
+[Quick EXP Gain]
+patch=1,EE,108BD52C,extended,0000FFFF
+[Max EXP]
+patch=1,EE,208BD52C,extended,05F5E0FF
+[Infinite HP]
+patch=1,EE,108BD530,extended,000003E7
+[Infinite Energy]
+patch=1,EE,108BD532,extended,000003E7
+[Max Attack]
+patch=1,EE,108BD534,extended,000003E7
+[Max Defense]
+patch=1,EE,108BD536,extended,000003E7
+[Max Activity]
+patch=1,EE,108BD538,extended,000003E7
+[Max Mental]
+patch=1,EE,108BD53A,extended,000003E7
+[Max Spirit]
+patch=1,EE,108BD53C,extended,000003E7
+[Max HP]
+patch=1,EE,108BD554,extended,000003E7
+[Max Energy]
+patch=1,EE,108BD556,extended,000003E7
+[>>> Character 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,108BD640,extended,00000063
+[Quick EXP Gain]
+patch=1,EE,108BD64C,extended,0000FFFF
+[Max EXP]
+patch=1,EE,208BD64C,extended,05F5E0FF
+[Infinite HP]
+patch=1,EE,108BD650,extended,000003E7
+[Infinite Energy]
+patch=1,EE,108BD652,extended,000003E7
+[Max Attack]
+patch=1,EE,108BD654,extended,000003E7
+[Max Defense]
+patch=1,EE,108BD656,extended,000003E7
+[Max Activity]
+patch=1,EE,108BD658,extended,000003E7
+[Max Mental]
+patch=1,EE,108BD65A,extended,000003E7
+[Max Spirit]
+patch=1,EE,108BD65C,extended,000003E7
+[Max HP]
+patch=1,EE,108BD674,extended,000003E7
+[Max Energy]
+patch=1,EE,108BD676,extended,000003E7
+[>>> Character 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,108BD760,extended,00000063
+[Quick EXP Gain]
+patch=1,EE,108BD76C,extended,0000FFFF
+[Max EXP]
+patch=1,EE,208BD76C,extended,05F5E0FF
+[Infinite HP]
+patch=1,EE,108BD770,extended,000003E7
+[Infinite Energy]
+patch=1,EE,108BD772,extended,000003E7
+[Max Attack]
+patch=1,EE,108BD774,extended,000003E7
+[Max Defense]
+patch=1,EE,108BD776,extended,000003E7
+[Max Activity]
+patch=1,EE,108BD778,extended,000003E7
+[Max Mental]
+patch=1,EE,108BD77A,extended,000003E7
+[Max Spirit]
+patch=1,EE,108BD77C,extended,000003E7
+[Max HP]
+patch=1,EE,108BD794,extended,000003E7
+[Max Energy]
+patch=1,EE,108BD796,extended,000003E7
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Medicinal Herb]
+patch=1,EE,008BDF25,extended,00000063
+[Ointment]
+patch=1,EE,008BDF26,extended,00000063
+[Shaman Remedy]
+patch=1,EE,008BDF27,extended,00000063
+[Sage Remedy]
+patch=1,EE,008BDF28,extended,00000063
+[Blessing Stone]
+patch=1,EE,008BDF29,extended,00000063
+[Nectar]
+patch=1,EE,008BDF2A,extended,00000063
+[Sacred Tree Leaf]
+patch=1,EE,008BDF2B,extended,00000063
+[Saxifrage]
+patch=1,EE,008BDF2C,extended,00000063
+[Sacred Tree Dew]
+patch=1,EE,008BDF2D,extended,00000063
+[Saint Remody]
+patch=1,EE,008BDF2E,extended,00000063
+[Antidote]
+patch=1,EE,008BDF2F,extended,00000063
+[Eyedrops]
+patch=1,EE,008BDF30,extended,00000063
+[Silver Bell]
+patch=1,EE,008BDF31,extended,00000063
+[Tonic]
+patch=1,EE,008BDF32,extended,00000063
+[Panacea]
+patch=1,EE,008BDF33,extended,00000063
+[Bracken]
+patch=1,EE,008BDF39,extended,00000063
+[Butterbur]
+patch=1,EE,008BDF3A,extended,00000063
+[Akebia]
+patch=1,EE,008BDF3B,extended,00000063
+[Fern]
+patch=1,EE,008BDF3C,extended,00000063
+[Marsh Herb]
+patch=1,EE,008BDF3D,extended,00000063
+[Mtn. Plantain]
+patch=1,EE,008BDF3E,extended,00000063
+[Campanula]
+patch=1,EE,008BDF3F,extended,00000063
+[Chickweed]
+patch=1,EE,008BDF40,extended,00000063
+[Burdock]
+patch=1,EE,008BDF41,extended,00000063
+[Dogtooth Violet]
+patch=1,EE,008BDF42,extended,00000063
+[5 Elements]
+patch=1,EE,008BDF43,extended,00000063
+[Peanut]
+patch=1,EE,008BDF44,extended,00000063
+[Fresh Egg]
+patch=1,EE,008BDF45,extended,00000063
+[Jerky]
+patch=1,EE,008BDF46,extended,00000063
+[Dried Mackerel]
+patch=1,EE,008BDF47,extended,00000063
+[Walnut]
+patch=1,EE,008BDF48,extended,00000063
+[Bamboo]
+patch=1,EE,008BDF49,extended,00000063
+[Brown Rice Ball]
+patch=1,EE,008BDF4A,extended,00000063
+[White Rice Ball]
+patch=1,EE,008BDF4B,extended,00000063
+[Dried Rice]
+patch=1,EE,008BDF4C,extended,00000063
+[Taro]
+patch=1,EE,008BDF4D,extended,00000063
+[Tofu]
+patch=1,EE,008BDF4E,extended,00000063
+[Chestnut]
+patch=1,EE,008BDF4F,extended,00000063
+[Mushroom]
+patch=1,EE,008BDF50,extended,00000063
+[Dried Fish]
+patch=1,EE,008BDF51,extended,00000063
+[Pickled Plum]
+patch=1,EE,008BDF52,extended,00000063
+[Millet]
+patch=1,EE,008BDF53,extended,00000063
+[Mugwort Dumpling]
+patch=1,EE,008BDF54,extended,00000063
+[Millet Dumpling]
+patch=1,EE,008BDF55,extended,00000063
+[Wild Plants]
+patch=1,EE,008BDF56,extended,00000063
+[Bamboo Shoots]
+patch=1,EE,008BDF57,extended,00000063
+[Potato]
+patch=1,EE,008BDF58,extended,00000063
+[Sponge Cake]
+patch=1,EE,008BDF59,extended,00000063
+[Pheasant Breast]
+patch=1,EE,008BDF5A,extended,00000063
+[Shiitake]
+patch=1,EE,008BDF5B,extended,00000063
+[Pear]
+patch=1,EE,008BDF5C,extended,00000063
+[Mnt. Potato]
+patch=1,EE,008BDF5D,extended,00000063
+[Red Bean Cake]
+patch=1,EE,008BDF5E,extended,00000063
+[Pond Snail]
+patch=1,EE,008BDF5F,extended,00000063
+[Rice]
+patch=1,EE,008BDF60,extended,00000063
+[Daikon]
+patch=1,EE,008BDF61,extended,00000063
+[Pickles]
+patch=1,EE,008BDF62,extended,00000063
+[Fermented Beans]
+patch=1,EE,008BDF63,extended,00000063
+[Rice Cake]
+patch=1,EE,008BDF64,extended,00000063
+[Majoro Dumpling]
+patch=1,EE,008BDF65,extended,00000063
+[Fruit Of Life]
+patch=1,EE,008BDF6A,extended,00000063
+[Fruit Of Strength]
+patch=1,EE,008BDF6B,extended,00000063
+[Fruit Of Endurance]
+patch=1,EE,008BDF6C,extended,00000063
+[Fruit Of Spirit]
+patch=1,EE,008BDF6D,extended,00000063
+[Mental Fruit]
+patch=1,EE,008BDF6E,extended,00000063
+[Fruit Of Heaven]
+patch=1,EE,008BDF6F,extended,00000063
+[Turnip]
+patch=1,EE,008BDF70,extended,00000063
+[Loquat]
+patch=1,EE,008BDF71,extended,00000063
+[Wild Buds]
+patch=1,EE,008BDF72,extended,00000063
+[Orache]
+patch=1,EE,008BDF73,extended,00000063
+[Dropwort]
+patch=1,EE,008BDF74,extended,00000063
+[Woodear Mushroom]
+patch=1,EE,008BDF75,extended,00000063
+[Shepherd's Purse]
+patch=1,EE,008BDF76,extended,00000063
+[Wild Grapes]
+patch=1,EE,008BDF77,extended,00000063
+[Wild Strawberry]
+patch=1,EE,008BDF78,extended,00000063
+[Sky Blue Seed]
+patch=1,EE,008BDF7E,extended,00000063
+[Crimson Seed]
+patch=1,EE,008BDF7F,extended,00000063
+[Yellow Seed]
+patch=1,EE,008BDF80,extended,00000063
+[Lime Green Seed]
+patch=1,EE,008BDF81,extended,00000063
+[Purple Seed]
+patch=1,EE,008BDF82,extended,00000063
+[Pink Seed]
+patch=1,EE,008BDF83,extended,00000063
+[Rainbow Seed]
+patch=1,EE,008BDF84,extended,00000063
+[Lacquered Seed]
+patch=1,EE,008BDF85,extended,00000063
+[Silver Seed]
+patch=1,EE,008BDF86,extended,00000063
+[Gold Seed]
+patch=1,EE,008BDF87,extended,00000063
+[Beast Fang]
+patch=1,EE,008BDF88,extended,00000063
+[Swallow Wing]
+patch=1,EE,008BDF89,extended,00000063
+[Snake SKin]
+patch=1,EE,008BDF8A,extended,00000063
+[Whale Tale]
+patch=1,EE,008BDF8B,extended,00000063
+[Sacred Tree Bark]
+patch=1,EE,008BDF8C,extended,00000063
+[Cicada Skin]
+patch=1,EE,008BDF8D,extended,00000063
+[Blossom Branch]
+patch=1,EE,008BDF8E,extended,00000063
+[Mystery Soil]
+patch=1,EE,008BDF8F,extended,00000063
+[Sparkling Weeds]
+patch=1,EE,008BDF90,extended,00000063
+[Hot Spring Dew]
+patch=1,EE,008BDF91,extended,00000063
+[Stream Water]
+patch=1,EE,008BDF92,extended,00000063
+[Peashooter]
+patch=1,EE,008BDF93,extended,00000063
+[Female Boar Hide]
+patch=1,EE,008BDF94,extended,00000063
+[Dry Dirt]
+patch=1,EE,008BDF95,extended,00000063
+[Maiden's Herbicide]
+patch=1,EE,008BDF96,extended,00000063
+[Sweet Ring]
+patch=1,EE,008BDF9B,extended,00000063
+[Protection Gem]
+patch=1,EE,008BDF9C,extended,00000063
+[Defense Gem]
+patch=1,EE,008BDF9D,extended,00000063
+[Adherence Gem]
+patch=1,EE,008BDF9E,extended,00000063
+[Basalt Gem]
+patch=1,EE,008BDF9F,extended,00000063
+[Power Ring]
+patch=1,EE,008BDFA0,extended,00000063
+[Strength Ring]
+patch=1,EE,008BDFA1,extended,00000063
+[Valour Ring]
+patch=1,EE,008BDFA2,extended,00000063
+[White Tiger Ring]
+patch=1,EE,008BDFA3,extended,00000063
+[Swallow Stone]
+patch=1,EE,008BDFA4,extended,00000063
+[Gale Stone]
+patch=1,EE,008BDFA5,extended,00000063
+[Phoenix Stone]
+patch=1,EE,008BDFA6,extended,00000063
+[Dragon's Mirrow]
+patch=1,EE,008BDFA7,extended,00000063
+[Demon Bone]
+patch=1,EE,008BDFA8,extended,00000063
+[Dragon Bone]
+patch=1,EE,008BDFA9,extended,00000063
+[Beast Bone]
+patch=1,EE,008BDFAA,extended,00000063
+[Mantra Earring]
+patch=1,EE,008BDFAB,extended,00000063
+[Saint Earring]
+patch=1,EE,008BDFAC,extended,00000063
+[Bhagavat Earring]
+patch=1,EE,008BDFAD,extended,00000063
+[Silver Bracelet]
+patch=1,EE,008BDFAE,extended,00000063
+[Gold Bracelet]
+patch=1,EE,008BDFAF,extended,00000063
+[Heavenly Bracelet]
+patch=1,EE,008BDFB0,extended,00000063
+[Crystal Hair Gem]
+patch=1,EE,008BDFB1,extended,00000063
+[Diamond Hair Gem]
+patch=1,EE,008BDFB2,extended,00000063
+[Hair Gem Of Earth]
+patch=1,EE,008BDFB3,extended,00000063
+[Pure Charm]
+patch=1,EE,008BDFB4,extended,00000063
+[Daybreak Charm]
+patch=1,EE,008BDFB5,extended,00000063
+[Heat Charm]
+patch=1,EE,008BDFB6,extended,00000063
+[Stream Charm]
+patch=1,EE,008BDFB7,extended,00000063
+[Breezy Charm]
+patch=1,EE,008BDFB8,extended,00000063
+[Miracle Charm]
+patch=1,EE,008BDFB9,extended,00000063
+[Starry Charm]
+patch=1,EE,008BDFBA,extended,00000063
+[Mystic Charm]
+patch=1,EE,008BDFBB,extended,00000063
+[Heavey Gauntlet]
+patch=1,EE,008BDFBC,extended,00000063
+[Shikigami Disc]
+patch=1,EE,008BDFBD,extended,00000063
+[Pure Water]
+patch=1,EE,008BDFBE,extended,00000063
+[Lizard Blood]
+patch=1,EE,008BDFBF,extended,00000063
+[Sacred Tree Sap]
+patch=1,EE,008BDFC0,extended,00000063
+[Fragrant Flower]
+patch=1,EE,008BDFC1,extended,00000063
+[Old Temple Key]
+patch=1,EE,008BDFC7,extended,00000063
+[Ayakashi Sprint Sake]
+patch=1,EE,008BDFC8,extended,00000063
+[Passage Key]
+patch=1,EE,008BDFC9,extended,00000063
+[Castle Tower Key]
+patch=1,EE,008BDFCA,extended,00000063
+[Snowshoes]
+patch=1,EE,008BDFCB,extended,00000063
+[Wild Boar Meat]
+patch=1,EE,008BDFCC,extended,00000063
+[Magatama Fruit]
+patch=1,EE,008BDFCD,extended,00000063
+[Pyrethrum]
+patch=1,EE,008BDFCE,extended,00000063
+[Garlic]
+patch=1,EE,008BDFCF,extended,00000063
+[Hakama]
+patch=1,EE,008BDFD0,extended,00000063
+[Hakama 2]
+patch=1,EE,008BDFD1,extended,00000063
+[Pinwheel]
+patch=1,EE,008BDFD2,extended,00000063
+[Rice Ball]
+patch=1,EE,008BDFD3,extended,00000063
+[>>> Unlock Stills Image Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character 1-Image 1]
+patch=1,EE,102E1EC4,extended,00000001
+[Character 1-Image 2]
+patch=1,EE,102E1EC6,extended,00000001
+[Character 1-Image 3]
+patch=1,EE,102E1EC8,extended,00000001
+[Character 1-Image 4]
+patch=1,EE,102E1ECA,extended,00000001
+[Character 1-Image 5]
+patch=1,EE,102E1ECC,extended,00000001
+[Character 1-Image 6]
+patch=1,EE,102E1ECE,extended,00000001
+[Character 1-Image 7]
+patch=1,EE,102E1ED0,extended,00000001
+[Character 1-Image 8]
+patch=1,EE,102E1ED2,extended,00000001
+[Character 1-Image 9]
+patch=1,EE,102E1ED4,extended,00000001
+[Character 1-Image 10]
+patch=1,EE,102E1ED6,extended,00000001
+[Character 1-Image 11]
+patch=1,EE,102E1ED8,extended,00000001
+[Character 2-Image 1]
+patch=1,EE,102E1EE4,extended,00000001
+[Character 2-Image 2]
+patch=1,EE,102E1EE6,extended,00000001
+[Character 2-Image 3]
+patch=1,EE,102E1EE8,extended,00000001
+[Character 2-Image 4]
+patch=1,EE,102E1EEA,extended,00000001
+[Character 2-Image 5]
+patch=1,EE,102E1EEC,extended,00000001
+[Character 2-Image 6]
+patch=1,EE,102E1EEE,extended,00000001
+[Character 2-Image 7]
+patch=1,EE,102E1EF0,extended,00000001
+[Character 2-Image 8]
+patch=1,EE,102E1EF2,extended,00000001
+[Character 2-Image 9]
+patch=1,EE,102E1EF4,extended,00000001
+[Character 2-Image 10]
+patch=1,EE,102E1EF6,extended,00000001
+[Character 2-Image 11]
+patch=1,EE,102E1EF8,extended,00000001
+[All Characters-All Images]
+patch=1,EE,402E1EC4,extended,00050001
+[All Characters-All Images]
+patch=1,EE,00010001,extended,00000000
+[All Characters-All Images]
+patch=1,EE,102E1ED8,extended,00000001
+[All Characters-All Images]
+patch=1,EE,402E1EE4,extended,00050001
+[All Characters-All Images]
+patch=1,EE,00010001,extended,00000000
+[All Characters-All Images]
+patch=1,EE,102E1EF8,extended,00000001
+[>>> Unlock Event Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Both Characters-Movie 1]
+patch=1,EE,102E1F06,extended,00000001
+[Character 1-Movie 2]
+patch=1,EE,102E1F08,extended,00000001
+[Character 2-Movie 2]
+patch=1,EE,102E1F0A,extended,00000001
+[Character 1-Movie 3]
+patch=1,EE,102E1F0E,extended,00000001
+[Character 1-Movie 5]
+patch=1,EE,102E1F10,extended,00000001
+[Character 1-Movie 6]
+patch=1,EE,102E1F12,extended,00000001
+[Character 1-Movie 7]
+patch=1,EE,102E1F14,extended,00000001
+[Character 1-Movie 8]
+patch=1,EE,102E1F16,extended,00000001
+[Character 1-Movie 4]
+patch=1,EE,102E1F1A,extended,00000001
+[Character 2-Movie 3]
+patch=1,EE,102E1F1E,extended,00000001
+[Character 2-Movie 5]
+patch=1,EE,102E1F20,extended,00000001
+[Character 2-Movie 6]
+patch=1,EE,102E1F22,extended,00000001
+[Character 2-Movie 7]
+patch=1,EE,102E1F24,extended,00000001
+[Character 2-Movie 4]
+patch=1,EE,102E1F26,extended,00000001
+[All Characters-All Movies]
+patch=1,EE,402E1F04,extended,00090001
+[All Characters-All Movies]
+patch=1,EE,00010001,extended,00000000
+[>>> Unlock Battle Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Movie 1]
+patch=1,EE,102E1F2C,extended,00000001
+[Movie 2]
+patch=1,EE,102E1F2E,extended,00000001
+[Movie 3]
+patch=1,EE,102E1F30,extended,00000001
+[Movie 4]
+patch=1,EE,102E1F32,extended,00000001
+[Movie 5]
+patch=1,EE,102E1F34,extended,00000001
+[Movie 6]
+patch=1,EE,102E1F36,extended,00000001
+[Movie 7]
+patch=1,EE,102E1F38,extended,00000001
+[Movie 8]
+patch=1,EE,102E1F3A,extended,00000001
+[Movie 9]
+patch=1,EE,102E1F3C,extended,00000001
+[Movie 10]
+patch=1,EE,102E1F3E,extended,00000001
+[Movie 11]
+patch=1,EE,102E1F40,extended,00000001
+[Movie 12]
+patch=1,EE,102E1F42,extended,00000001
+[Movie 13]
+patch=1,EE,102E1F44,extended,00000001
+[Movie 14]
+patch=1,EE,102E1F46,extended,00000001
+[Movie 15]
+patch=1,EE,102E1F48,extended,00000001
+[Movie 16]
+patch=1,EE,102E1F4A,extended,00000001
+[Movie 17]
+patch=1,EE,102E1F4C,extended,00000001
+[Movie 18]
+patch=1,EE,102E1F4E,extended,00000001
+[Movie 19]
+patch=1,EE,102E1F50,extended,00000001
+[Movie 20]
+patch=1,EE,102E1F52,extended,00000001
+[Movie 21]
+patch=1,EE,102E1F54,extended,00000001
+[Movie 22]
+patch=1,EE,102E1F56,extended,00000001
+[Movie 23]
+patch=1,EE,102E1F58,extended,00000001
+[Movie 24]
+patch=1,EE,102E1F5A,extended,00000001
+[Movie 25]
+patch=1,EE,102E1F5C,extended,00000001
+[Movie 26]
+patch=1,EE,102E1F5E,extended,00000001
+[Movie 27]
+patch=1,EE,102E1F60,extended,00000001
+[Movie 28]
+patch=1,EE,102E1F62,extended,00000001
+[Movie 29]
+patch=1,EE,102E1F64,extended,00000001
+[Movie 30]
+patch=1,EE,102E1F66,extended,00000001
+[Movie 31]
+patch=1,EE,102E1F68,extended,00000001
+[Movie 32]
+patch=1,EE,102E1F6A,extended,00000001
+[Movie 33]
+patch=1,EE,102E1F6C,extended,00000001
+[Movie 34]
+patch=1,EE,102E1F6E,extended,00000001
+[Movie 35]
+patch=1,EE,102E1F70,extended,00000001
+[Movie 34]
+patch=1,EE,102E1F72,extended,00000001
+[Movie 36]
+patch=1,EE,102E1F74,extended,00000001
+[Movie 38]
+patch=1,EE,102E1F76,extended,00000001
+[Movie 39]
+patch=1,EE,102E1F78,extended,00000001
+[Movie 40]
+patch=1,EE,102E1F7A,extended,00000001
+[Movie 41]
+patch=1,EE,102E1F7C,extended,00000001
+[Movie 42]
+patch=1,EE,102E1F7E,extended,00000001
+[Movie 43]
+patch=1,EE,102E1F80,extended,00000001
+[Movie 43]
+patch=1,EE,102E1F82,extended,00000001
+[Movie 45]
+patch=1,EE,102E1F84,extended,00000001
+[Movie 46]
+patch=1,EE,102E1F86,extended,00000001
+[Movie 47]
+patch=1,EE,102E1F88,extended,00000001
+[Movie 48]
+patch=1,EE,102E1F8A,extended,00000001
+[Movie 49]
+patch=1,EE,102E1F8C,extended,00000001
+[Movie 50]
+patch=1,EE,102E1F8E,extended,00000001
+[All Battle Movies]
+patch=1,EE,402E1F2C,extended,00190001
+[All Battle Movies]
+patch=1,EE,00010001,extended,00000000
+[>>> Unlock Interval Event Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character 1-Event 1-1]
+patch=1,EE,102E2004,extended,00000001
+[Character 1-Event 1-2]
+patch=1,EE,102E2006,extended,00000001
+[Character 1-Event 1-3]
+patch=1,EE,102E2008,extended,00000001
+[Character 1-Event 1-4]
+patch=1,EE,102E200A,extended,00000001
+[Character 1-Event 1-5]
+patch=1,EE,102E200C,extended,00000001
+[Character 1-Event 1-6]
+patch=1,EE,102E200E,extended,00000001
+[Character 1-Event 1-7]
+patch=1,EE,102E2010,extended,00000001
+[Character 1-Event 1-8]
+patch=1,EE,102E2012,extended,00000001
+[Character 1-Event 2-1]
+patch=1,EE,102E2024,extended,00000001
+[Character 1-Event 2-2]
+patch=1,EE,102E2026,extended,00000001
+[Character 1-Event 2-3]
+patch=1,EE,102E2028,extended,00000001
+[Character 1-Event 2-4]
+patch=1,EE,102E202A,extended,00000001
+[Character 1-Event 2-5]
+patch=1,EE,102E202C,extended,00000001
+[Character 1-Event 2-6]
+patch=1,EE,102E202E,extended,00000001
+[Character 1-Event 2-7]
+patch=1,EE,102E2030,extended,00000001
+[Character 1-Event 2-8]
+patch=1,EE,102E2032,extended,00000001
+[Character 1-Event 3-1]
+patch=1,EE,102E2044,extended,00000001
+[Character 1-Event 3-2]
+patch=1,EE,102E2046,extended,00000001
+[Character 1-Event 3-3]
+patch=1,EE,102E2048,extended,00000001
+[Character 1-Event 3-4]
+patch=1,EE,102E204A,extended,00000001
+[Character 1-Event 3-5]
+patch=1,EE,102E204C,extended,00000001
+[Character 1-Event 3-6]
+patch=1,EE,102E204E,extended,00000001
+[Character 1-Event 3-7]
+patch=1,EE,102E2050,extended,00000001
+[Character 1-Event 4-1]
+patch=1,EE,102E2064,extended,00000001
+[Character 1-Event 4-2]
+patch=1,EE,102E2066,extended,00000001
+[Character 1-Event 4-3]
+patch=1,EE,102E2068,extended,00000001
+[Character 1-Event 4-4]
+patch=1,EE,102E206A,extended,00000001
+[Character 1-Event 4-5]
+patch=1,EE,102E206C,extended,00000001
+[Character 1-Event 4-6]
+patch=1,EE,102E206E,extended,00000001
+[Character 1-Event 4-7]
+patch=1,EE,102E2070,extended,00000001
+[Character 1-Event 5-1]
+patch=1,EE,102E2084,extended,00000001
+[Character 1-Event 5-2]
+patch=1,EE,102E2086,extended,00000001
+[Character 1-Event 5-3]
+patch=1,EE,102E2088,extended,00000001
+[Character 1-Event 5-4]
+patch=1,EE,102E208A,extended,00000001
+[Character 1-Event 5-5]
+patch=1,EE,102E208C,extended,00000001
+[Character 1-Event 5-6]
+patch=1,EE,102E208E,extended,00000001
+[Character 1-Event 5-7]
+patch=1,EE,102E2090,extended,00000001
+[Character 1-Event 5-8]
+patch=1,EE,102E2092,extended,00000001
+[Character 2-Event 1-1]
+patch=1,EE,102E20A4,extended,00000001
+[Character 2-Event 1-2]
+patch=1,EE,102E20A6,extended,00000001
+[Character 2-Event 1-3]
+patch=1,EE,102E20A8,extended,00000001
+[Character 2-Event 1-4]
+patch=1,EE,102E20AA,extended,00000001
+[Character 2-Event 1-5]
+patch=1,EE,102E20AC,extended,00000001
+[Character 2-Event 1-6]
+patch=1,EE,102E20AE,extended,00000001
+[Character 2-Event 1-7]
+patch=1,EE,102E20B0,extended,00000001
+[Character 2-Event 1-8]
+patch=1,EE,102E20B2,extended,00000001
+[Character 2-Event 2-1]
+patch=1,EE,102E20C4,extended,00000001
+[Character 2-Event 2-2]
+patch=1,EE,102E20C6,extended,00000001
+[Character 2-Event 2-3]
+patch=1,EE,102E20C8,extended,00000001
+[Character 2-Event 2-4]
+patch=1,EE,102E20CA,extended,00000001
+[Character 2-Event 2-5]
+patch=1,EE,102E20CC,extended,00000001
+[Character 2-Event 2-6]
+patch=1,EE,102E20CE,extended,00000001
+[Character 2-Event 2-7]
+patch=1,EE,102E20D0,extended,00000001
+[Character 2-Event 2-8]
+patch=1,EE,102E20D2,extended,00000001
+[Character 2-Event 3-1]
+patch=1,EE,102E20E4,extended,00000001
+[Character 2-Event 3-2]
+patch=1,EE,102E20E6,extended,00000001
+[Character 2-Event 3-3]
+patch=1,EE,102E20E8,extended,00000001
+[Character 2-Event 3-4]
+patch=1,EE,102E20EA,extended,00000001
+[Character 2-Event 3-5]
+patch=1,EE,102E20EC,extended,00000001
+[Character 2-Event 3-6]
+patch=1,EE,102E20EE,extended,00000001
+[Character 2-Event 3-7]
+patch=1,EE,102E20F0,extended,00000001
+[Character 2-Event 4-1]
+patch=1,EE,102E2104,extended,00000001
+[Character 2-Event 4-2]
+patch=1,EE,102E2106,extended,00000001
+[Character 2-Event 4-3]
+patch=1,EE,102E2108,extended,00000001
+[Character 2-Event 4-4]
+patch=1,EE,102E210A,extended,00000001
+[Character 2-Event 4-5]
+patch=1,EE,102E210C,extended,00000001
+[Character 2-Event 4-6]
+patch=1,EE,102E210E,extended,00000001
+[Character 2-Event 4-7]
+patch=1,EE,102E2110,extended,00000001
+[Character 2-Event 5-1]
+patch=1,EE,102E2124,extended,00000001
+[Character 2-Event 5-2]
+patch=1,EE,102E2126,extended,00000001
+[Character 2-Event 5-3]
+patch=1,EE,102E2128,extended,00000001
+[Character 2-Event 5-4]
+patch=1,EE,102E212A,extended,00000001
+[Character 2-Event 5-5]
+patch=1,EE,102E212C,extended,00000001
+[Character 2-Event 5-6]
+patch=1,EE,102E212E,extended,00000001
+[Character 2-Event 5-7]
+patch=1,EE,102E2130,extended,00000001
+[Character 2-Event 5-8]
+patch=1,EE,102E2132,extended,00000001
+[All Characters-All Events]
+patch=1,EE,402E2004,extended,004C0001
+[All Characters-All Events]
+patch=1,EE,00010001,extended,00000000
+[>>> Unlock Mystery Field Event Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character 1-Event 1]
+patch=1,EE,102E2144,extended,00000001
+[Character 1-Event 2]
+patch=1,EE,102E2146,extended,00000001
+[Character 1-Event 3]
+patch=1,EE,102E2148,extended,00000001
+[Character 1-Event 4]
+patch=1,EE,102E214A,extended,00000001
+[Character 1-Event 5]
+patch=1,EE,102E214C,extended,00000001
+[Character 1-Event 6]
+patch=1,EE,102E214E,extended,00000001
+[Character 1-Event 7]
+patch=1,EE,102E2150,extended,00000001
+[Character 2-Event 1]
+patch=1,EE,102E2154,extended,00000001
+[Character 2-Event 2]
+patch=1,EE,102E2156,extended,00000001
+[Character 2-Event 3]
+patch=1,EE,102E2158,extended,00000001
+[Character 2-Event 4]
+patch=1,EE,102E215A,extended,00000001
+[Character 2-Event 5]
+patch=1,EE,102E215C,extended,00000001
+[Character 2-Event 6]
+patch=1,EE,102E215E,extended,00000001
+[Character 2-Event 7]
+patch=1,EE,102E2160,extended,00000001
+[All Characters-All Events]
+patch=1,EE,402E2144,extended,00080001
+[All Characters-All Events]
+patch=1,EE,00010001,extended,00000000
+

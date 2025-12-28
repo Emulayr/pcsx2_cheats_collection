@@ -1,0 +1,1500 @@
+gametitle=Marvel Ultimate Alliance
+[Enable Code (Must Be On)]
+patch=1,EE,90119CA0,extended,00832021
+[Max Money]
+patch=1,EE,200C0220,extended,3421E0FF
+[Max Money]
+patch=1,EE,200C0224,extended,AC418410
+[Max Money]
+patch=1,EE,200C0228,extended,080D91AC
+[Max Money]
+patch=1,EE,200C022C,extended,8C428410
+[Max Money]
+patch=1,EE,203646A4,extended,08030088
+[Max Money]
+patch=1,EE,203646A8,extended,3C0105F5
+[Always 50000 Money Picked Up]
+patch=1,EE,20316C3C,extended,3403C350
+[Always 25000 Money Picked Up]
+patch=1,EE,20316C3C,extended,340361A8
+[Always 10000 Money Picked Up]
+patch=1,EE,20316C3C,extended,34032710
+[Always 5000 Money Picked Up]
+patch=1,EE,20316C3C,extended,34031388
+[Always 1000 Money Picked Up]
+patch=1,EE,20316C3C,extended,340303E8
+[Always 500 Money Picked Up]
+patch=1,EE,20316C3C,extended,340301F4
+[Always 100 Money Picked Up]
+patch=1,EE,20316C3C,extended,34030064
+[Unlock All Characters]
+cheat0_code = "20B3E408 FFFFFFFF
+[>>> Current Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,207EB7D0,extended,3C01461C
+[Max Health]
+patch=1,EE,207EB7D4,extended,34213C00
+[Max Health]
+patch=1,EE,207EB7DC,extended,AE810264
+[Infinite Health]
+patch=1,EE,207EB7FC,extended,C6810264
+[Infinite Health]
+patch=1,EE,207EB804,extended,E681025C
+[>>> Unlock Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Black Panther]
+cheat0_code = "20B3E45C FFFFFFFF
+[Blade]
+cheat0_code = "20B3E460 FFFFFFFF
+[Captain America]
+cheat0_code = "20B3E464 FFFFFFFF
+[Daredevil]
+cheat0_code = "20B3E468 FFFFFFFF
+[Deadpool]
+cheat0_code = "20B3E46C FFFFFFFF
+[Doctor Strange]
+cheat0_code = "20B3E470 FFFFFFFF
+[Elektra]
+cheat0_code = "20B3E474 FFFFFFFF
+[Ghost Rider]
+cheat0_code = "20B3E478 FFFFFFFF
+[Human Torch]
+cheat0_code = "20B3E47C FFFFFFFF
+[Colossus]
+cheat0_code = "20B3E480 FFFFFFFF
+[Iceman]
+cheat0_code = "20B3E484 FFFFFFFF
+[Invisible Woman]
+cheat0_code = "20B3E488 FFFFFFFF
+[Luke Cage]
+cheat0_code = "20B3E48C FFFFFFFF
+[Silver Surfer]
+cheat0_code = "20B3E490 FFFFFFFF
+[Iron Man]
+cheat0_code = "20B3E494 FFFFFFFF
+[Moon Knight]
+cheat0_code = "20B3E498 FFFFFFFF
+[Mr. Fantastic]
+cheat0_code = "20B3E49C FFFFFFFF
+[Nick Fury]
+cheat0_code = "20B3E4A0 FFFFFFFF
+[Spider-Man]
+cheat0_code = "20B3E4A4 FFFFFFFF
+[Spider-Woman]
+cheat0_code = "20B3E4A8 FFFFFFFF
+[Storm]
+cheat0_code = "20B3E4AC FFFFFFFF
+[Thing]
+cheat0_code = "20B3E4B0 FFFFFFFF
+[Thor]
+cheat0_code = "20B3E4B4 FFFFFFFF
+[Ms. Marvel]
+cheat0_code = "20B3E4B8 FFFFFFFF
+[Wolverine]
+cheat0_code = "20B3E4BC FFFFFFFF
+[All Outfits]
+patch=1,EE,40B3E45C,extended,00190001
+[All Outfits]
+patch=1,EE,FFFFFFFF,extended,00000000
+[>>> Black Panther Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,110892B8,extended,0000270F
+[Max Strike]
+patch=1,EE,010892C2,extended,000000C8
+[Max Body]
+patch=1,EE,010892C3,extended,000000C8
+[Max Focus]
+patch=1,EE,010892C4,extended,000000C8
+[Level 99]
+patch=1,EE,010892C8,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108931B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108932B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108933B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108934B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108935B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108936B,extended,0000000A
+[Slot 7]
+patch=1,EE,0108937B,extended,0000000A
+[Slot 8]
+patch=1,EE,0108938B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108939B,extended,00000009
+[Slot 2]
+patch=1,EE,010893AB,extended,00000009
+[Slot 3]
+patch=1,EE,010893BB,extended,00000009
+[Slot 4]
+patch=1,EE,010893CB,extended,00000009
+[Slot 5]
+patch=1,EE,010893DB,extended,00000009
+[Slot 6]
+patch=1,EE,010893EB,extended,00000009
+[Slot 7]
+patch=1,EE,010893FB,extended,00000009
+[Slot 8]
+patch=1,EE,0108940B,extended,00000009
+[Slot 9]
+patch=1,EE,0108941B,extended,00000009
+[Slot 10]
+patch=1,EE,0108942B,extended,00000009
+[Slot 11]
+patch=1,EE,0108943B,extended,00000009
+[Slot 12]
+patch=1,EE,0108944B,extended,00000009
+[>>> Blade Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,11089978,extended,0000270F
+[Max Strike]
+patch=1,EE,01089982,extended,000000C8
+[Max Body]
+patch=1,EE,01089983,extended,000000C8
+[Max Focus]
+patch=1,EE,01089984,extended,000000C8
+[Level 99]
+patch=1,EE,01089988,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,010899DB,extended,0000000A
+[Slot 2]
+patch=1,EE,010899EB,extended,0000000A
+[Slot 3]
+patch=1,EE,010899FB,extended,0000000A
+[Slot 4]
+patch=1,EE,01089A0B,extended,0000000A
+[Slot 5]
+patch=1,EE,01089A1B,extended,0000000A
+[Slot 6]
+patch=1,EE,01089A2B,extended,0000000A
+[Slot 7]
+patch=1,EE,01089A3B,extended,0000000A
+[Slot 8]
+patch=1,EE,01089A4B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,01089A5B,extended,00000009
+[Slot 2]
+patch=1,EE,01089A6B,extended,00000009
+[Slot 3]
+patch=1,EE,01089A7B,extended,00000009
+[Slot 4]
+patch=1,EE,01089A8B,extended,00000009
+[Slot 5]
+patch=1,EE,01089A9B,extended,00000009
+[Slot 6]
+patch=1,EE,01089AAB,extended,00000009
+[Slot 7]
+patch=1,EE,01089ABB,extended,00000009
+[Slot 8]
+patch=1,EE,01089ACB,extended,00000009
+[Slot 9]
+patch=1,EE,01089ADB,extended,00000009
+[Slot 10]
+patch=1,EE,01089AEB,extended,00000009
+[Slot 11]
+patch=1,EE,01089AFB,extended,00000009
+[Slot 12]
+patch=1,EE,01089B0B,extended,00000009
+[>>> Captain America Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108A038,extended,0000270F
+[Max Strike]
+patch=1,EE,0108A042,extended,000000C8
+[Max Body]
+patch=1,EE,0108A043,extended,000000C8
+[Max Focus]
+patch=1,EE,0108A044,extended,000000C8
+[Level 99]
+patch=1,EE,0108A048,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108A09B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108A0AB,extended,0000000A
+[Slot 3]
+patch=1,EE,0108A0BB,extended,0000000A
+[Slot 4]
+patch=1,EE,0108A0CB,extended,0000000A
+[Slot 5]
+patch=1,EE,0108A0DB,extended,0000000A
+[Slot 6]
+patch=1,EE,0108A0EB,extended,0000000A
+[Slot 7]
+patch=1,EE,0108A0FB,extended,0000000A
+[Slot 8]
+patch=1,EE,0108A10B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108A11B,extended,00000009
+[Slot 2]
+patch=1,EE,0108A12B,extended,00000009
+[Slot 3]
+patch=1,EE,0108A13B,extended,00000009
+[Slot 4]
+patch=1,EE,0108A14B,extended,00000009
+[Slot 5]
+patch=1,EE,0108A15B,extended,00000009
+[Slot 6]
+patch=1,EE,0108A16B,extended,00000009
+[Slot 7]
+patch=1,EE,0108A17B,extended,00000009
+[Slot 8]
+patch=1,EE,0108A18B,extended,00000009
+[Slot 9]
+patch=1,EE,0108A19B,extended,00000009
+[Slot 10]
+patch=1,EE,0108A1AB,extended,00000009
+[Slot 11]
+patch=1,EE,0108A1BB,extended,00000009
+[Slot 12]
+patch=1,EE,0108A1CB,extended,00000009
+[>>> Daredevil Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108A6F8,extended,0000270F
+[Max Strike]
+patch=1,EE,0108A702,extended,000000C8
+[Max Body]
+patch=1,EE,0108A703,extended,000000C8
+[Max Focus]
+patch=1,EE,0108A704,extended,000000C8
+[Level 99]
+patch=1,EE,0108A708,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108A75B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108A76B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108A77B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108A78B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108A79B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108A7AB,extended,0000000A
+[Slot 7]
+patch=1,EE,0108A7BB,extended,0000000A
+[Slot 8]
+patch=1,EE,0108A7CB,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108A7DB,extended,00000009
+[Slot 2]
+patch=1,EE,0108A7EB,extended,00000009
+[Slot 3]
+patch=1,EE,0108A7FB,extended,00000009
+[Slot 4]
+patch=1,EE,0108A80B,extended,00000009
+[Slot 5]
+patch=1,EE,0108A81B,extended,00000009
+[Slot 6]
+patch=1,EE,0108A82B,extended,00000009
+[Slot 7]
+patch=1,EE,0108A83B,extended,00000009
+[Slot 8]
+patch=1,EE,0108A84B,extended,00000009
+[Slot 9]
+patch=1,EE,0108A85B,extended,00000009
+[Slot 10]
+patch=1,EE,0108A86B,extended,00000009
+[Slot 11]
+patch=1,EE,0108A87B,extended,00000009
+[Slot 12]
+patch=1,EE,0108A88B,extended,00000009
+[>>> Deadpool Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108ADB8,extended,0000270F
+[Max Strike]
+patch=1,EE,0108ADC2,extended,000000C8
+[Max Body]
+patch=1,EE,0108ADC3,extended,000000C8
+[Max Focus]
+patch=1,EE,0108ADC4,extended,000000C8
+[Level 99]
+patch=1,EE,0108ADC8,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108AE1B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108AE2B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108AE3B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108AE4B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108AE5B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108AE6B,extended,0000000A
+[Slot 7]
+patch=1,EE,0108AE7B,extended,0000000A
+[Slot 8]
+patch=1,EE,0108AE8B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108AE9B,extended,00000009
+[Slot 2]
+patch=1,EE,0108AEAB,extended,00000009
+[Slot 3]
+patch=1,EE,0108AEBB,extended,00000009
+[Slot 4]
+patch=1,EE,0108AECB,extended,00000009
+[Slot 5]
+patch=1,EE,0108AEDB,extended,00000009
+[Slot 6]
+patch=1,EE,0108AEEB,extended,00000009
+[Slot 7]
+patch=1,EE,0108AEFB,extended,00000009
+[Slot 8]
+patch=1,EE,0108AF0B,extended,00000009
+[Slot 9]
+patch=1,EE,0108AF1B,extended,00000009
+[Slot 10]
+patch=1,EE,0108AF2B,extended,00000009
+[Slot 11]
+patch=1,EE,0108AF3B,extended,00000009
+[Slot 12]
+patch=1,EE,0108AF4B,extended,00000009
+[>>> Doctor Strange Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108B478,extended,0000270F
+[Max Strike]
+patch=1,EE,0108B482,extended,000000C8
+[Max Body]
+patch=1,EE,0108B483,extended,000000C8
+[Max Focus]
+patch=1,EE,0108B484,extended,000000C8
+[Level 99]
+patch=1,EE,0108B488,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108B4DB,extended,0000000A
+[Slot 2]
+patch=1,EE,0108B4EB,extended,0000000A
+[Slot 3]
+patch=1,EE,0108B4FB,extended,0000000A
+[Slot 4]
+patch=1,EE,0108B50B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108B51B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108B52B,extended,0000000A
+[Slot 7]
+patch=1,EE,0108B53B,extended,0000000A
+[Slot 8]
+patch=1,EE,0108B54B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108B55B,extended,00000009
+[Slot 2]
+patch=1,EE,0108B56B,extended,00000009
+[Slot 3]
+patch=1,EE,0108B57B,extended,00000009
+[Slot 4]
+patch=1,EE,0108B58B,extended,00000009
+[Slot 5]
+patch=1,EE,0108B59B,extended,00000009
+[Slot 6]
+patch=1,EE,0108B5AB,extended,00000009
+[Slot 7]
+patch=1,EE,0108B5BB,extended,00000009
+[Slot 8]
+patch=1,EE,0108B5CB,extended,00000009
+[Slot 9]
+patch=1,EE,0108B5DB,extended,00000009
+[Slot 10]
+patch=1,EE,0108B5EB,extended,00000009
+[Slot 11]
+patch=1,EE,0108B5FB,extended,00000009
+[Slot 12]
+patch=1,EE,0108B60B,extended,00000009
+[>>> Elektra Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108BB38,extended,0000270F
+[Max Strike]
+patch=1,EE,0108BB42,extended,000000C8
+[Max Body]
+patch=1,EE,0108BB43,extended,000000C8
+[Max Focus]
+patch=1,EE,0108BB44,extended,000000C8
+[Level 99]
+patch=1,EE,0108BB48,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108BB9B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108BBAB,extended,0000000A
+[Slot 3]
+patch=1,EE,0108BBBB,extended,0000000A
+[Slot 4]
+patch=1,EE,0108BBCB,extended,0000000A
+[Slot 5]
+patch=1,EE,0108BBDB,extended,0000000A
+[Slot 6]
+patch=1,EE,0108BBEB,extended,0000000A
+[Slot 7]
+patch=1,EE,0108BBFB,extended,0000000A
+[Slot 8]
+patch=1,EE,0108BC0B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108BC1B,extended,00000009
+[Slot 2]
+patch=1,EE,0108BC2B,extended,00000009
+[Slot 3]
+patch=1,EE,0108BC3B,extended,00000009
+[Slot 4]
+patch=1,EE,0108BC4B,extended,00000009
+[Slot 5]
+patch=1,EE,0108BC5B,extended,00000009
+[Slot 6]
+patch=1,EE,0108BC6B,extended,00000009
+[Slot 7]
+patch=1,EE,0108BC7B,extended,00000009
+[Slot 8]
+patch=1,EE,0108BC8B,extended,00000009
+[Slot 9]
+patch=1,EE,0108BC9B,extended,00000009
+[Slot 10]
+patch=1,EE,0108BCAB,extended,00000009
+[Slot 11]
+patch=1,EE,0108BCBB,extended,00000009
+[Slot 12]
+patch=1,EE,0108BCCB,extended,00000009
+[>>> Ghost Rider Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108C1F8,extended,0000270F
+[Max Strike]
+patch=1,EE,0108C202,extended,000000C8
+[Max Body]
+patch=1,EE,0108C203,extended,000000C8
+[Max Focus]
+patch=1,EE,0108C204,extended,000000C8
+[Level 99]
+patch=1,EE,0108C208,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108C25B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108C26B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108C27B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108C28B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108C29B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108C2AB,extended,0000000A
+[Slot 7]
+patch=1,EE,0108C2BB,extended,0000000A
+[Slot 8]
+patch=1,EE,0108C2CB,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108C2DB,extended,00000009
+[Slot 2]
+patch=1,EE,0108C2EB,extended,00000009
+[Slot 3]
+patch=1,EE,0108C2FB,extended,00000009
+[Slot 4]
+patch=1,EE,0108C30B,extended,00000009
+[Slot 5]
+patch=1,EE,0108C31B,extended,00000009
+[Slot 6]
+patch=1,EE,0108C32B,extended,00000009
+[Slot 7]
+patch=1,EE,0108C33B,extended,00000009
+[Slot 8]
+patch=1,EE,0108C34B,extended,00000009
+[Slot 9]
+patch=1,EE,0108C35B,extended,00000009
+[Slot 10]
+patch=1,EE,0108C36B,extended,00000009
+[Slot 11]
+patch=1,EE,0108C37B,extended,00000009
+[Slot 12]
+patch=1,EE,0108C38B,extended,00000009
+[>>> Human Torch Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108C8B8,extended,0000270F
+[Max Strike]
+patch=1,EE,0108C8C2,extended,000000C8
+[Max Body]
+patch=1,EE,0108C8C3,extended,000000C8
+[Max Focus]
+patch=1,EE,0108C8C4,extended,000000C8
+[Level 99]
+patch=1,EE,0108C8C8,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108C91B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108C92B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108C93B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108C94B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108C95B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108C96B,extended,0000000A
+[Slot 7]
+patch=1,EE,0108C97B,extended,0000000A
+[Slot 8]
+patch=1,EE,0108C98B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108C99B,extended,00000009
+[Slot 2]
+patch=1,EE,0108C9AB,extended,00000009
+[Slot 3]
+patch=1,EE,0108C9BB,extended,00000009
+[Slot 4]
+patch=1,EE,0108C9CB,extended,00000009
+[Slot 5]
+patch=1,EE,0108C9DB,extended,00000009
+[Slot 6]
+patch=1,EE,0108C9EB,extended,00000009
+[Slot 7]
+patch=1,EE,0108C9FB,extended,00000009
+[Slot 8]
+patch=1,EE,0108CA0B,extended,00000009
+[Slot 9]
+patch=1,EE,0108CA1B,extended,00000009
+[Slot 10]
+patch=1,EE,0108CA2B,extended,00000009
+[Slot 11]
+patch=1,EE,0108CA3B,extended,00000009
+[Slot 12]
+patch=1,EE,0108CA4B,extended,00000009
+[>>> Colossus Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108CF78,extended,0000270F
+[Max Strike]
+patch=1,EE,0108CF82,extended,000000C8
+[Max Body]
+patch=1,EE,0108CF83,extended,000000C8
+[Max Focus]
+patch=1,EE,0108CF84,extended,000000C8
+[Level 99]
+patch=1,EE,0108CF88,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108CFDB,extended,0000000A
+[Slot 2]
+patch=1,EE,0108CFEB,extended,0000000A
+[Slot 3]
+patch=1,EE,0108CFFB,extended,0000000A
+[Slot 4]
+patch=1,EE,0108D00B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108D01B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108D02B,extended,0000000A
+[Slot 7]
+patch=1,EE,0108D03B,extended,0000000A
+[Slot 8]
+patch=1,EE,0108D04B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108D05B,extended,00000009
+[Slot 2]
+patch=1,EE,0108D06B,extended,00000009
+[Slot 3]
+patch=1,EE,0108D07B,extended,00000009
+[Slot 4]
+patch=1,EE,0108D08B,extended,00000009
+[Slot 5]
+patch=1,EE,0108D09B,extended,00000009
+[Slot 6]
+patch=1,EE,0108D0AB,extended,00000009
+[Slot 7]
+patch=1,EE,0108D0BB,extended,00000009
+[Slot 8]
+patch=1,EE,0108D0CB,extended,00000009
+[Slot 9]
+patch=1,EE,0108D0DB,extended,00000009
+[Slot 10]
+patch=1,EE,0108D0EB,extended,00000009
+[Slot 11]
+patch=1,EE,0108D0FB,extended,00000009
+[Slot 12]
+patch=1,EE,0108D10B,extended,00000009
+[>>> Iceman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108D638,extended,0000270F
+[Max Strike]
+patch=1,EE,0108D642,extended,000000C8
+[Max Body]
+patch=1,EE,0108D643,extended,000000C8
+[Max Focus]
+patch=1,EE,0108D644,extended,000000C8
+[Level 99]
+patch=1,EE,0108D648,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108D69B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108D6AB,extended,0000000A
+[Slot 3]
+patch=1,EE,0108D6BB,extended,0000000A
+[Slot 4]
+patch=1,EE,0108D6CB,extended,0000000A
+[Slot 5]
+patch=1,EE,0108D6DB,extended,0000000A
+[Slot 6]
+patch=1,EE,0108D6EB,extended,0000000A
+[Slot 7]
+patch=1,EE,0108D6FB,extended,0000000A
+[Slot 8]
+patch=1,EE,0108D70B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108D71B,extended,00000009
+[Slot 2]
+patch=1,EE,0108D72B,extended,00000009
+[Slot 3]
+patch=1,EE,0108D73B,extended,00000009
+[Slot 4]
+patch=1,EE,0108D74B,extended,00000009
+[Slot 5]
+patch=1,EE,0108D75B,extended,00000009
+[Slot 6]
+patch=1,EE,0108D76B,extended,00000009
+[Slot 7]
+patch=1,EE,0108D77B,extended,00000009
+[Slot 8]
+patch=1,EE,0108D78B,extended,00000009
+[Slot 9]
+patch=1,EE,0108D79B,extended,00000009
+[Slot 10]
+patch=1,EE,0108D7AB,extended,00000009
+[Slot 11]
+patch=1,EE,0108D7BB,extended,00000009
+[Slot 12]
+patch=1,EE,0108D7CB,extended,00000009
+[>>> Invisible Woman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108DCF8,extended,0000270F
+[Max Strike]
+patch=1,EE,0108DD02,extended,000000C8
+[Max Body]
+patch=1,EE,0108DD03,extended,000000C8
+[Max Focus]
+patch=1,EE,0108DD04,extended,000000C8
+[Level 99]
+patch=1,EE,0108DD08,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108DD5B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108DD6B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108DD7B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108DD8B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108DD9B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108DDAB,extended,0000000A
+[Slot 7]
+patch=1,EE,0108DDBB,extended,0000000A
+[Slot 8]
+patch=1,EE,0108DDCB,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108DDDB,extended,00000009
+[Slot 2]
+patch=1,EE,0108DDEB,extended,00000009
+[Slot 3]
+patch=1,EE,0108DDFB,extended,00000009
+[Slot 4]
+patch=1,EE,0108DE0B,extended,00000009
+[Slot 5]
+patch=1,EE,0108DE1B,extended,00000009
+[Slot 6]
+patch=1,EE,0108DE2B,extended,00000009
+[Slot 7]
+patch=1,EE,0108DE3B,extended,00000009
+[Slot 8]
+patch=1,EE,0108DE4B,extended,00000009
+[Slot 9]
+patch=1,EE,0108DE5B,extended,00000009
+[Slot 10]
+patch=1,EE,0108DE6B,extended,00000009
+[Slot 11]
+patch=1,EE,0108DE7B,extended,00000009
+[Slot 12]
+patch=1,EE,0108DE8B,extended,00000009
+[>>> Luke Cage Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108E3B8,extended,0000270F
+[Max Strike]
+patch=1,EE,0108E3C2,extended,000000C8
+[Max Body]
+patch=1,EE,0108E3C3,extended,000000C8
+[Max Focus]
+patch=1,EE,0108E3C4,extended,000000C8
+[Level 99]
+patch=1,EE,0108E3C8,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108E41B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108E42B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108E43B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108E44B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108E45B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108E46B,extended,0000000A
+[Slot 7]
+patch=1,EE,0108E47B,extended,0000000A
+[Slot 8]
+patch=1,EE,0108E48B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108E49B,extended,00000009
+[Slot 2]
+patch=1,EE,0108E4AB,extended,00000009
+[Slot 3]
+patch=1,EE,0108E4BB,extended,00000009
+[Slot 4]
+patch=1,EE,0108E4CB,extended,00000009
+[Slot 5]
+patch=1,EE,0108E4DB,extended,00000009
+[Slot 6]
+patch=1,EE,0108E4EB,extended,00000009
+[Slot 7]
+patch=1,EE,0108E4FB,extended,00000009
+[Slot 8]
+patch=1,EE,0108E50B,extended,00000009
+[Slot 9]
+patch=1,EE,0108E51B,extended,00000009
+[Slot 10]
+patch=1,EE,0108E52B,extended,00000009
+[Slot 11]
+patch=1,EE,0108E53B,extended,00000009
+[Slot 12]
+patch=1,EE,0108E54B,extended,00000009
+[>>> Silver Surfer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108EA78,extended,0000270F
+[Max Strike]
+patch=1,EE,0108EA82,extended,000000C8
+[Max Body]
+patch=1,EE,0108EA83,extended,000000C8
+[Max Focus]
+patch=1,EE,0108EA84,extended,000000C8
+[Level 99]
+patch=1,EE,0108EA88,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108EADB,extended,0000000A
+[Slot 2]
+patch=1,EE,0108EAEB,extended,0000000A
+[Slot 3]
+patch=1,EE,0108EAFB,extended,0000000A
+[Slot 4]
+patch=1,EE,0108EB0B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108EB1B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108EB2B,extended,0000000A
+[Slot 7]
+patch=1,EE,0108EB3B,extended,0000000A
+[Slot 8]
+patch=1,EE,0108EB4B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108EB5B,extended,00000009
+[Slot 2]
+patch=1,EE,0108EB6B,extended,00000009
+[Slot 3]
+patch=1,EE,0108EB7B,extended,00000009
+[Slot 4]
+patch=1,EE,0108EB8B,extended,00000009
+[Slot 5]
+patch=1,EE,0108EB9B,extended,00000009
+[Slot 6]
+patch=1,EE,0108EBAB,extended,00000009
+[Slot 7]
+patch=1,EE,0108EBBB,extended,00000009
+[Slot 8]
+patch=1,EE,0108EBCB,extended,00000009
+[Slot 9]
+patch=1,EE,0108EBDB,extended,00000009
+[Slot 10]
+patch=1,EE,0108EBEB,extended,00000009
+[Slot 11]
+patch=1,EE,0108EBFB,extended,00000009
+[Slot 12]
+patch=1,EE,0108EC0B,extended,00000009
+[>>> Iron Man Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108F138,extended,0000270F
+[Max Strike]
+patch=1,EE,0108F142,extended,000000C8
+[Max Body]
+patch=1,EE,0108F143,extended,000000C8
+[Max Focus]
+patch=1,EE,0108F144,extended,000000C8
+[Level 99]
+patch=1,EE,0108F148,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108F19B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108F1AB,extended,0000000A
+[Slot 3]
+patch=1,EE,0108F1BB,extended,0000000A
+[Slot 4]
+patch=1,EE,0108F1CB,extended,0000000A
+[Slot 5]
+patch=1,EE,0108F1DB,extended,0000000A
+[Slot 6]
+patch=1,EE,0108F1EB,extended,0000000A
+[Slot 7]
+patch=1,EE,0108F1FB,extended,0000000A
+[Slot 8]
+patch=1,EE,0108F20B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108F21B,extended,00000009
+[Slot 2]
+patch=1,EE,0108F22B,extended,00000009
+[Slot 3]
+patch=1,EE,0108F23B,extended,00000009
+[Slot 4]
+patch=1,EE,0108F24B,extended,00000009
+[Slot 5]
+patch=1,EE,0108F25B,extended,00000009
+[Slot 6]
+patch=1,EE,0108F26B,extended,00000009
+[Slot 7]
+patch=1,EE,0108F27B,extended,00000009
+[Slot 8]
+patch=1,EE,0108F28B,extended,00000009
+[Slot 9]
+patch=1,EE,0108F29B,extended,00000009
+[Slot 10]
+patch=1,EE,0108F2AB,extended,00000009
+[Slot 11]
+patch=1,EE,0108F2BB,extended,00000009
+[Slot 12]
+patch=1,EE,0108F2CB,extended,00000009
+[>>> Moon Knight Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108F7F8,extended,0000270F
+[Max Strike]
+patch=1,EE,0108F802,extended,000000C8
+[Max Body]
+patch=1,EE,0108F803,extended,000000C8
+[Max Focus]
+patch=1,EE,0108F804,extended,000000C8
+[Level 99]
+patch=1,EE,0108F808,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108F85B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108F86B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108F87B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108F88B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108F89B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108F8AB,extended,0000000A
+[Slot 7]
+patch=1,EE,0108F8BB,extended,0000000A
+[Slot 8]
+patch=1,EE,0108F8CB,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108F8DB,extended,00000009
+[Slot 2]
+patch=1,EE,0108F8EB,extended,00000009
+[Slot 3]
+patch=1,EE,0108F8FB,extended,00000009
+[Slot 4]
+patch=1,EE,0108F90B,extended,00000009
+[Slot 5]
+patch=1,EE,0108F91B,extended,00000009
+[Slot 6]
+patch=1,EE,0108F92B,extended,00000009
+[Slot 7]
+patch=1,EE,0108F93B,extended,00000009
+[Slot 8]
+patch=1,EE,0108F94B,extended,00000009
+[Slot 9]
+patch=1,EE,0108F95B,extended,00000009
+[Slot 10]
+patch=1,EE,0108F96B,extended,00000009
+[Slot 11]
+patch=1,EE,0108F97B,extended,00000009
+[Slot 12]
+patch=1,EE,0108F98B,extended,00000009
+[>>> Mr. Fantastic Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,1108FEB8,extended,0000270F
+[Max Strike]
+patch=1,EE,0108FEC2,extended,000000C8
+[Max Body]
+patch=1,EE,0108FEC3,extended,000000C8
+[Max Focus]
+patch=1,EE,0108FEC4,extended,000000C8
+[Level 99]
+patch=1,EE,0108FEC8,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108FF1B,extended,0000000A
+[Slot 2]
+patch=1,EE,0108FF2B,extended,0000000A
+[Slot 3]
+patch=1,EE,0108FF3B,extended,0000000A
+[Slot 4]
+patch=1,EE,0108FF4B,extended,0000000A
+[Slot 5]
+patch=1,EE,0108FF5B,extended,0000000A
+[Slot 6]
+patch=1,EE,0108FF6B,extended,0000000A
+[Slot 7]
+patch=1,EE,0108FF7B,extended,0000000A
+[Slot 8]
+patch=1,EE,0108FF8B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0108FF9B,extended,00000009
+[Slot 2]
+patch=1,EE,0108FFAB,extended,00000009
+[Slot 3]
+patch=1,EE,0108FFBB,extended,00000009
+[Slot 4]
+patch=1,EE,0108FFCB,extended,00000009
+[Slot 5]
+patch=1,EE,0108FFDB,extended,00000009
+[Slot 6]
+patch=1,EE,0108FFEB,extended,00000009
+[Slot 7]
+patch=1,EE,0108FFFB,extended,00000009
+[Slot 8]
+patch=1,EE,0109000B,extended,00000009
+[Slot 9]
+patch=1,EE,0109001B,extended,00000009
+[Slot 10]
+patch=1,EE,0109002B,extended,00000009
+[Slot 11]
+patch=1,EE,0109003B,extended,00000009
+[Slot 12]
+patch=1,EE,0109004B,extended,00000009
+[>>> Nick Fury Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,11090578,extended,0000270F
+[Max Strike]
+patch=1,EE,01090582,extended,000000C8
+[Max Body]
+patch=1,EE,01090583,extended,000000C8
+[Max Focus]
+patch=1,EE,01090584,extended,000000C8
+[Level 99]
+patch=1,EE,01090588,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,010905DB,extended,0000000A
+[Slot 2]
+patch=1,EE,010905EB,extended,0000000A
+[Slot 3]
+patch=1,EE,010905FB,extended,0000000A
+[Slot 4]
+patch=1,EE,0109060B,extended,0000000A
+[Slot 5]
+patch=1,EE,0109061B,extended,0000000A
+[Slot 6]
+patch=1,EE,0109062B,extended,0000000A
+[Slot 7]
+patch=1,EE,0109063B,extended,0000000A
+[Slot 8]
+patch=1,EE,0109064B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0109065B,extended,00000009
+[Slot 2]
+patch=1,EE,0109066B,extended,00000009
+[Slot 3]
+patch=1,EE,0109067B,extended,00000009
+[Slot 4]
+patch=1,EE,0109068B,extended,00000009
+[Slot 5]
+patch=1,EE,0109069B,extended,00000009
+[Slot 6]
+patch=1,EE,010906AB,extended,00000009
+[Slot 7]
+patch=1,EE,010906BB,extended,00000009
+[Slot 8]
+patch=1,EE,010906CB,extended,00000009
+[Slot 9]
+patch=1,EE,010906DB,extended,00000009
+[Slot 10]
+patch=1,EE,010906EB,extended,00000009
+[Slot 11]
+patch=1,EE,010906FB,extended,00000009
+[Slot 12]
+patch=1,EE,0109070B,extended,00000009
+[>>> Spider-Man Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,11090C38,extended,0000270F
+[Max Strike]
+patch=1,EE,01090C42,extended,000000C8
+[Max Body]
+patch=1,EE,01090C43,extended,000000C8
+[Max Focus]
+patch=1,EE,01090C44,extended,000000C8
+[Level 99]
+patch=1,EE,01090C48,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,01090C9B,extended,0000000A
+[Slot 2]
+patch=1,EE,01090CAB,extended,0000000A
+[Slot 3]
+patch=1,EE,01090CBB,extended,0000000A
+[Slot 4]
+patch=1,EE,01090CCB,extended,0000000A
+[Slot 5]
+patch=1,EE,01090CDB,extended,0000000A
+[Slot 6]
+patch=1,EE,01090CEB,extended,0000000A
+[Slot 7]
+patch=1,EE,01090CFB,extended,0000000A
+[Slot 8]
+patch=1,EE,01090D0B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,01090D1B,extended,00000009
+[Slot 2]
+patch=1,EE,01090D2B,extended,00000009
+[Slot 3]
+patch=1,EE,01090D3B,extended,00000009
+[Slot 4]
+patch=1,EE,01090D4B,extended,00000009
+[Slot 5]
+patch=1,EE,01090D5B,extended,00000009
+[Slot 6]
+patch=1,EE,01090D6B,extended,00000009
+[Slot 7]
+patch=1,EE,01090D7B,extended,00000009
+[Slot 8]
+patch=1,EE,01090D8B,extended,00000009
+[Slot 9]
+patch=1,EE,01090D9B,extended,00000009
+[Slot 10]
+patch=1,EE,01090DAB,extended,00000009
+[Slot 11]
+patch=1,EE,01090DBB,extended,00000009
+[Slot 12]
+patch=1,EE,01090DCB,extended,00000009
+[>>> Spider-Woman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,110912F8,extended,0000270F
+[Max Strike]
+patch=1,EE,01091302,extended,000000C8
+[Max Body]
+patch=1,EE,01091303,extended,000000C8
+[Max Focus]
+patch=1,EE,01091304,extended,000000C8
+[Level 99]
+patch=1,EE,01091308,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0109135B,extended,0000000A
+[Slot 2]
+patch=1,EE,0109136B,extended,0000000A
+[Slot 3]
+patch=1,EE,0109137B,extended,0000000A
+[Slot 4]
+patch=1,EE,0109138B,extended,0000000A
+[Slot 5]
+patch=1,EE,0109139B,extended,0000000A
+[Slot 6]
+patch=1,EE,010913AB,extended,0000000A
+[Slot 7]
+patch=1,EE,010913BB,extended,0000000A
+[Slot 8]
+patch=1,EE,010913CB,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,010913DB,extended,00000009
+[Slot 2]
+patch=1,EE,010913EB,extended,00000009
+[Slot 3]
+patch=1,EE,010913FB,extended,00000009
+[Slot 4]
+patch=1,EE,0109140B,extended,00000009
+[Slot 5]
+patch=1,EE,0109141B,extended,00000009
+[Slot 6]
+patch=1,EE,0109142B,extended,00000009
+[Slot 7]
+patch=1,EE,0109143B,extended,00000009
+[Slot 8]
+patch=1,EE,0109144B,extended,00000009
+[Slot 9]
+patch=1,EE,0109145B,extended,00000009
+[Slot 10]
+patch=1,EE,0109146B,extended,00000009
+[Slot 11]
+patch=1,EE,0109147B,extended,00000009
+[Slot 12]
+patch=1,EE,0109148B,extended,00000009
+[>>> Storm Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,110919B8,extended,0000270F
+[Max Strike]
+patch=1,EE,010919C2,extended,000000C8
+[Max Body]
+patch=1,EE,010919C3,extended,000000C8
+[Max Focus]
+patch=1,EE,010919C4,extended,000000C8
+[Level 99]
+patch=1,EE,010919C8,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,01091A1B,extended,0000000A
+[Slot 2]
+patch=1,EE,01091A2B,extended,0000000A
+[Slot 3]
+patch=1,EE,01091A3B,extended,0000000A
+[Slot 4]
+patch=1,EE,01091A4B,extended,0000000A
+[Slot 5]
+patch=1,EE,01091A5B,extended,0000000A
+[Slot 6]
+patch=1,EE,01091A6B,extended,0000000A
+[Slot 7]
+patch=1,EE,01091A7B,extended,0000000A
+[Slot 8]
+patch=1,EE,01091A8B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,01091A9B,extended,00000009
+[Slot 2]
+patch=1,EE,01091AAB,extended,00000009
+[Slot 3]
+patch=1,EE,01091ABB,extended,00000009
+[Slot 4]
+patch=1,EE,01091ACB,extended,00000009
+[Slot 5]
+patch=1,EE,01091ADB,extended,00000009
+[Slot 6]
+patch=1,EE,01091AEB,extended,00000009
+[Slot 7]
+patch=1,EE,01091AFB,extended,00000009
+[Slot 8]
+patch=1,EE,01091B0B,extended,00000009
+[Slot 9]
+patch=1,EE,01091B1B,extended,00000009
+[Slot 10]
+patch=1,EE,01091B2B,extended,00000009
+[Slot 11]
+patch=1,EE,01091B3B,extended,00000009
+[Slot 12]
+patch=1,EE,01091B4B,extended,00000009
+[>>> Thing Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,11092078,extended,0000270F
+[Max Strike]
+patch=1,EE,01092082,extended,000000C8
+[Max Body]
+patch=1,EE,01092083,extended,000000C8
+[Max Focus]
+patch=1,EE,01092084,extended,000000C8
+[Level 99]
+patch=1,EE,01092088,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,010920DB,extended,0000000A
+[Slot 2]
+patch=1,EE,010920EB,extended,0000000A
+[Slot 3]
+patch=1,EE,010920FB,extended,0000000A
+[Slot 4]
+patch=1,EE,0109210B,extended,0000000A
+[Slot 5]
+patch=1,EE,0109211B,extended,0000000A
+[Slot 6]
+patch=1,EE,0109212B,extended,0000000A
+[Slot 7]
+patch=1,EE,0109213B,extended,0000000A
+[Slot 8]
+patch=1,EE,0109214B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0109215B,extended,00000009
+[Slot 2]
+patch=1,EE,0109216B,extended,00000009
+[Slot 3]
+patch=1,EE,0109217B,extended,00000009
+[Slot 4]
+patch=1,EE,0109218B,extended,00000009
+[Slot 5]
+patch=1,EE,0109219B,extended,00000009
+[Slot 6]
+patch=1,EE,010921AB,extended,00000009
+[Slot 7]
+patch=1,EE,010921BB,extended,00000009
+[Slot 8]
+patch=1,EE,010921CB,extended,00000009
+[Slot 9]
+patch=1,EE,010921DB,extended,00000009
+[Slot 10]
+patch=1,EE,010921EB,extended,00000009
+[Slot 11]
+patch=1,EE,010921FB,extended,00000009
+[Slot 12]
+patch=1,EE,0109220B,extended,00000009
+[>>> Thor Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,11092738,extended,0000270F
+[Max Strike]
+patch=1,EE,01092742,extended,000000C8
+[Max Body]
+patch=1,EE,01092743,extended,000000C8
+[Max Focus]
+patch=1,EE,01092744,extended,000000C8
+[Level 99]
+patch=1,EE,01092748,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0109279B,extended,0000000A
+[Slot 2]
+patch=1,EE,010927AB,extended,0000000A
+[Slot 3]
+patch=1,EE,010927BB,extended,0000000A
+[Slot 4]
+patch=1,EE,010927CB,extended,0000000A
+[Slot 5]
+patch=1,EE,010927DB,extended,0000000A
+[Slot 6]
+patch=1,EE,010927EB,extended,0000000A
+[Slot 7]
+patch=1,EE,010927FB,extended,0000000A
+[Slot 8]
+patch=1,EE,0109280B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0109281B,extended,00000009
+[Slot 2]
+patch=1,EE,0109282B,extended,00000009
+[Slot 3]
+patch=1,EE,0109283B,extended,00000009
+[Slot 4]
+patch=1,EE,0109284B,extended,00000009
+[Slot 5]
+patch=1,EE,0109285B,extended,00000009
+[Slot 6]
+patch=1,EE,0109286B,extended,00000009
+[Slot 7]
+patch=1,EE,0109287B,extended,00000009
+[Slot 8]
+patch=1,EE,0109288B,extended,00000009
+[Slot 9]
+patch=1,EE,0109289B,extended,00000009
+[Slot 10]
+patch=1,EE,010928AB,extended,00000009
+[Slot 11]
+patch=1,EE,010928BB,extended,00000009
+[Slot 12]
+patch=1,EE,010928CB,extended,00000009
+[>>> Ms. Marvel Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,11092DF8,extended,0000270F
+[Max Strike]
+patch=1,EE,01092E02,extended,000000C8
+[Max Body]
+patch=1,EE,01092E03,extended,000000C8
+[Max Focus]
+patch=1,EE,01092E04,extended,000000C8
+[Level 99]
+patch=1,EE,01092E08,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,01092E5B,extended,0000000A
+[Slot 2]
+patch=1,EE,01092E6B,extended,0000000A
+[Slot 3]
+patch=1,EE,01092E7B,extended,0000000A
+[Slot 4]
+patch=1,EE,01092E8B,extended,0000000A
+[Slot 5]
+patch=1,EE,01092E9B,extended,0000000A
+[Slot 6]
+patch=1,EE,01092EAB,extended,0000000A
+[Slot 7]
+patch=1,EE,01092EBB,extended,0000000A
+[Slot 8]
+patch=1,EE,01092ECB,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,01092EDB,extended,00000009
+[Slot 2]
+patch=1,EE,01092EEB,extended,00000009
+[Slot 3]
+patch=1,EE,01092EFB,extended,00000009
+[Slot 4]
+patch=1,EE,01092F0B,extended,00000009
+[Slot 5]
+patch=1,EE,01092F1B,extended,00000009
+[Slot 6]
+patch=1,EE,01092F2B,extended,00000009
+[Slot 7]
+patch=1,EE,01092F3B,extended,00000009
+[Slot 8]
+patch=1,EE,01092F4B,extended,00000009
+[Slot 9]
+patch=1,EE,01092F5B,extended,00000009
+[Slot 10]
+patch=1,EE,01092F6B,extended,00000009
+[Slot 11]
+patch=1,EE,01092F7B,extended,00000009
+[Slot 12]
+patch=1,EE,01092F8B,extended,00000009
+[>>> Wolverine Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Points]
+patch=1,EE,110934B8,extended,0000270F
+[Max Strike]
+patch=1,EE,010934C2,extended,000000C8
+[Max Body]
+patch=1,EE,010934C3,extended,000000C8
+[Max Focus]
+patch=1,EE,010934C4,extended,000000C8
+[Level 99]
+patch=1,EE,010934C8,extended,00000063
+[>>> Max Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0109351B,extended,0000000A
+[Slot 2]
+patch=1,EE,0109352B,extended,0000000A
+[Slot 3]
+patch=1,EE,0109353B,extended,0000000A
+[Slot 4]
+patch=1,EE,0109354B,extended,0000000A
+[Slot 5]
+patch=1,EE,0109355B,extended,0000000A
+[Slot 6]
+patch=1,EE,0109356B,extended,0000000A
+[Slot 7]
+patch=1,EE,0109357B,extended,0000000A
+[Slot 8]
+patch=1,EE,0109358B,extended,0000000A
+[>>> Max Outfit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,0109359B,extended,00000009
+[Slot 2]
+patch=1,EE,010935AB,extended,00000009
+[Slot 3]
+patch=1,EE,010935BB,extended,00000009
+[Slot 4]
+patch=1,EE,010935CB,extended,00000009
+[Slot 5]
+patch=1,EE,010935DB,extended,00000009
+[Slot 6]
+patch=1,EE,010935EB,extended,00000009
+[Slot 7]
+patch=1,EE,010935FB,extended,00000009
+[Slot 8]
+patch=1,EE,0109360B,extended,00000009
+[Slot 9]
+patch=1,EE,0109361B,extended,00000009
+[Slot 10]
+patch=1,EE,0109362B,extended,00000009
+[Slot 11]
+patch=1,EE,0109363B,extended,00000009
+[Slot 12]
+patch=1,EE,0109364B,extended,00000009
+

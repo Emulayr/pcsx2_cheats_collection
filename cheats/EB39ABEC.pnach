@@ -1,0 +1,1616 @@
+gametitle=Xenosaga-Episode II-Jenseits Von Gut Und Bose
+[Enable Code (Must Be On)]
+patch=1,EE,9012C5C4,extended,0C0AA781
+[Super Exp Gained After Battle]
+patch=1,EE,20AC2478,extended,0000270F
+[Hella Exp Gained After Battle]
+patch=1,EE,20AC2478,extended,0001869F
+[Ultra Exp Gained After Battle]
+patch=1,EE,20AC2478,extended,000F423F
+[Super S.Pt Gained After Battle]
+patch=1,EE,20AC247C,extended,000003E7
+[Hella S.Pt Gained After Battle]
+patch=1,EE,20AC247C,extended,0000270F
+[Ultra S.Pt Gained After Battle]
+patch=1,EE,20AC247C,extended,0001869F
+[Super C.Pt Gained After Battle]
+patch=1,EE,20AC2480,extended,000003E7
+[Hella C.Pt Gained After Battle]
+patch=1,EE,20AC2480,extended,0000270F
+[Ultra C.Pt Gained After Battle]
+patch=1,EE,20AC2480,extended,0001869F
+[Infinite Item Usage]
+patch=1,EE,D0A9C768,extended,0000802D
+[Infinite Item Usage]
+patch=1,EE,20A9C78C,extended,00000000
+[Extra Items]
+patch=1,EE,D0A9C768,extended,0000802D
+[Extra Items]
+patch=1,EE,10A9C77C,extended,00000001
+[Use Item For Max Item]
+patch=1,EE,D0A9C768,extended,0000802D
+[Use Item For Max Item]
+patch=1,EE,20A9C77C,extended,24050063
+[Enemies Cant Move]
+patch=1,EE,20204D58,extended,0C081260
+[Enemies Cant Move]
+patch=1,EE,20204DA8,extended,0C081260
+[Enemies Dont Come After You]
+patch=1,EE,20204D58,extended,0C080F4C
+[Enemies Dont Come After You]
+patch=1,EE,20204DA8,extended,0C080F4C
+[Press {CIRCLE} To Save Anywhere]
+patch=1,EE,D0955A82,extended,0000DBFF
+[Press {CIRCLE} To Save Anywhere]
+patch=1,EE,201D6B24,extended,00000000
+[Press {CIRCLE} To Save Anywhere]
+patch=1,EE,D0955A82,extended,0010DBFF
+[Press {CIRCLE} To Save Anywhere]
+patch=1,EE,201D6B24,extended,5040000E
+[Infinite S. Pts Usage]
+patch=1,EE,2022A058,extended,00000000
+[Infinite C. Pts Usage (Learning Skills)]
+patch=1,EE,2022A1AC,extended,00000000
+[Max C.Pt & S.Pt After 1 Battle]
+patch=1,EE,D0A8FFCC,extended,00001021
+[Max C.Pt & S.Pt After 1 Battle]
+patch=1,EE,20A8FFD4,extended,00000000
+[Max C.Pt & S.Pt After 1 Battle]
+patch=1,EE,D0A8FFFC,extended,00001821
+[Max C.Pt & S.Pt After 1 Battle]
+patch=1,EE,20900004,extended,00000000
+[Have All Items (Including Japanese Ones)]
+patch=1,EE,4061C800,extended,00140001
+[Have All Items (Including Japanese Ones)]
+patch=1,EE,00630063,extended,00000000
+[Have All Items (Minus Japanese Ones)]
+patch=1,EE,4061C800,extended,00080001
+[Have All Items (Minus Japanese Ones)]
+patch=1,EE,00630063,extended,00000000
+[Have All Items (Minus Japanese Ones)]
+patch=1,EE,1061C820,extended,00000063
+[Have All Items (Minus Japanese Ones)]
+patch=1,EE,4061C828,extended,000A0001
+[Have All Items (Minus Japanese Ones)]
+patch=1,EE,00630063,extended,00000000
+[>>> Chaos Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061B382,extended,0000270F
+[Max HP]
+patch=1,EE,1061B384,extended,00000000
+[Max EP]
+patch=1,EE,1061B386,extended,00000063
+[Max Str]
+patch=1,EE,1061B388,extended,000003E7
+[Max Vit]
+patch=1,EE,1061B38A,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061B38C,extended,000003E7
+[Max Edef]
+patch=1,EE,1061B38E,extended,000003E7
+[Max Dex]
+patch=1,EE,0061B390,extended,00000063
+[Max Eva]
+patch=1,EE,0061B391,extended,00000063
+[Max Agl]
+patch=1,EE,0061B392,extended,00000063
+[Level 99]
+patch=1,EE,0061B393,extended,00000063
+[Infinite HP]
+patch=1,EE,2061B3DC,extended,0000270F
+[Infinite EP]
+patch=1,EE,1061B3E0,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C400,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C400,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C404,extended,00000001
+[Max S. Pt]
+patch=1,EE,2061C408,extended,0001869F
+[Max C. Pt]
+patch=1,EE,2061C40C,extended,0001869F
+[Have All Ether]
+patch=1,EE,2061C420,extended,FFFFFFFF
+[Have All Ether]
+patch=1,EE,2061C424,extended,01FFFFFF
+[Have Swimsuit Tech Skill]
+patch=1,EE,00641AE7,extended,0000007F
+[Have Level 1 Skills]
+patch=1,EE,006A5880,extended,000000FF
+[Have Level 2 Skills]
+patch=1,EE,006A5881,extended,000000FF
+[Have Level 3 Skills]
+patch=1,EE,006A5882,extended,000000FF
+[Have Level 4 Skills]
+patch=1,EE,006A5883,extended,000000FF
+[Max Skill Class Lv]
+patch=1,EE,006A58A4,extended,00000063
+[Max Skill Learned S]
+patch=1,EE,006A58A5,extended,00000064
+[>>> Skills Have Max Stars Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1-Class A]
+patch=1,EE,006A5884,extended,0000000F
+[Level 1-Class B]
+patch=1,EE,006A5885,extended,0000000F
+[Level 1-Class C]
+patch=1,EE,006A5886,extended,0000000F
+[Level 1-Class D]
+patch=1,EE,006A5887,extended,0000000F
+[Level 1-Class E]
+patch=1,EE,006A5888,extended,0000000F
+[Level 1-Class F]
+patch=1,EE,006A5889,extended,0000000F
+[Level 1-Class G]
+patch=1,EE,006A588A,extended,0000000F
+[Level 1-Class H]
+patch=1,EE,006A588B,extended,0000000F
+[Level 2-Class A]
+patch=1,EE,006A588C,extended,0000000F
+[Level 2-Class B]
+patch=1,EE,006A588D,extended,0000000F
+[Level 2-Class C]
+patch=1,EE,006A588E,extended,0000000F
+[Level 2-Class D]
+patch=1,EE,006A588F,extended,0000000F
+[Level 2-Class E]
+patch=1,EE,006A5890,extended,0000000F
+[Level 2-Class F]
+patch=1,EE,006A5891,extended,0000000F
+[Level 2-Class G]
+patch=1,EE,006A5892,extended,0000000F
+[Level 2-Class H]
+patch=1,EE,006A5893,extended,0000000F
+[Level 3-Class A]
+patch=1,EE,006A5894,extended,0000000F
+[Level 3-Class B]
+patch=1,EE,006A5895,extended,0000000F
+[Level 3-Class C]
+patch=1,EE,006A5896,extended,0000000F
+[Level 3-Class D]
+patch=1,EE,006A5897,extended,0000000F
+[Level 3-Class E]
+patch=1,EE,006A5898,extended,0000000F
+[Level 3-Class F]
+patch=1,EE,006A5899,extended,0000000F
+[Level 3-Class G]
+patch=1,EE,006A589A,extended,0000000F
+[Level 3-Class H]
+patch=1,EE,006A589B,extended,0000000F
+[Level 4-Class A]
+patch=1,EE,006A589C,extended,0000000F
+[Level 4-Class B]
+patch=1,EE,006A589D,extended,0000000F
+[Level 4-Class C]
+patch=1,EE,006A589E,extended,0000000F
+[Level 4-Class D]
+patch=1,EE,006A589F,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,406A5884,extended,00070001
+[All Levels-All Classes]
+patch=1,EE,0F0F0F0F,extended,00000000
+[>>> Kos-Mos Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061B48A,extended,0000270F
+[Max HP]
+patch=1,EE,1061B48C,extended,00000000
+[Max EP]
+patch=1,EE,1061B48E,extended,00000063
+[Max Str]
+patch=1,EE,1061B490,extended,000003E7
+[Max Vit]
+patch=1,EE,1061B492,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061B494,extended,000003E7
+[Max Edef]
+patch=1,EE,1061B496,extended,000003E7
+[Max Dex]
+patch=1,EE,0061B498,extended,00000063
+[Max Eva]
+patch=1,EE,0061B499,extended,00000063
+[Max Agl]
+patch=1,EE,0061B49A,extended,00000063
+[Level 99]
+patch=1,EE,0061B49B,extended,00000063
+[Infinite HP]
+patch=1,EE,2061B4E4,extended,0000270F
+[Infinite EP]
+patch=1,EE,1061B4E8,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C440,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C440,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C444,extended,00000001
+[Max S. Pt]
+patch=1,EE,2061C448,extended,0001869F
+[Max C. Pt]
+patch=1,EE,2061C44C,extended,0001869F
+[Have All Ether]
+patch=1,EE,2061C460,extended,FFFFFFFF
+[Have All Ether]
+patch=1,EE,2061C464,extended,01FFFFFF
+[Have Swimsuit Tech Skill]
+patch=1,EE,00641B27,extended,0000007F
+[Have Level 1 Skills]
+patch=1,EE,006A58AB,extended,000000FF
+[Have Level 2 Skills]
+patch=1,EE,006A58AC,extended,000000FF
+[Have Level 3 Skills]
+patch=1,EE,006A58AD,extended,000000FF
+[Have Level 4 Skills]
+patch=1,EE,006A58AE,extended,000000FF
+[Max Skill Class Lv]
+patch=1,EE,006A58CF,extended,00000063
+[Max Skill Learned S]
+patch=1,EE,006A58D0,extended,00000064
+[>>> Skills Have Max Stars Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1-Class A]
+patch=1,EE,006A58AF,extended,0000000F
+[Level 1-Class B]
+patch=1,EE,006A58B0,extended,0000000F
+[Level 1-Class C]
+patch=1,EE,006A58B1,extended,0000000F
+[Level 1-Class D]
+patch=1,EE,006A58B2,extended,0000000F
+[Level 1-Class E]
+patch=1,EE,006A58B3,extended,0000000F
+[Level 1-Class F]
+patch=1,EE,006A58B4,extended,0000000F
+[Level 1-Class G]
+patch=1,EE,006A58B5,extended,0000000F
+[Level 1-Class H]
+patch=1,EE,006A58B6,extended,0000000F
+[Level 2-Class A]
+patch=1,EE,006A58B7,extended,0000000F
+[Level 2-Class B]
+patch=1,EE,006A58B8,extended,0000000F
+[Level 2-Class C]
+patch=1,EE,006A58B9,extended,0000000F
+[Level 2-Class D]
+patch=1,EE,006A58BA,extended,0000000F
+[Level 2-Class E]
+patch=1,EE,006A58BB,extended,0000000F
+[Level 2-Class F]
+patch=1,EE,006A58BC,extended,0000000F
+[Level 2-Class G]
+patch=1,EE,006A58BD,extended,0000000F
+[Level 2-Class H]
+patch=1,EE,006A58BE,extended,0000000F
+[Level 3-Class A]
+patch=1,EE,006A58BF,extended,0000000F
+[Level 3-Class B]
+patch=1,EE,006A58C0,extended,0000000F
+[Level 3-Class C]
+patch=1,EE,006A58C1,extended,0000000F
+[Level 3-Class D]
+patch=1,EE,006A58C2,extended,0000000F
+[Level 3-Class E]
+patch=1,EE,006A58C3,extended,0000000F
+[Level 3-Class F]
+patch=1,EE,006A58C4,extended,0000000F
+[Level 3-Class G]
+patch=1,EE,006A58C5,extended,0000000F
+[Level 3-Class H]
+patch=1,EE,006A58C6,extended,0000000F
+[Level 4-Class A]
+patch=1,EE,006A58C7,extended,0000000F
+[Level 4-Class B]
+patch=1,EE,006A58C8,extended,0000000F
+[Level 4-Class C]
+patch=1,EE,006A58C9,extended,0000000F
+[Level 4-Class D]
+patch=1,EE,006A58CA,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,006A58AF,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,106A58B0,extended,00000F0F
+[All Levels-All Classes]
+patch=1,EE,406A58B2,extended,00060001
+[All Levels-All Classes]
+patch=1,EE,0F0F0F0F,extended,00000000
+[All Levels-All Classes]
+patch=1,EE,006A58CA,extended,0000000F
+[>>> Shion Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061B592,extended,0000270F
+[Max HP]
+patch=1,EE,1061B594,extended,00000000
+[Max EP]
+patch=1,EE,1061B596,extended,00000063
+[Max Str]
+patch=1,EE,1061B598,extended,000003E7
+[Max Vit]
+patch=1,EE,1061B59A,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061B59C,extended,000003E7
+[Max Edef]
+patch=1,EE,1061B59E,extended,000003E7
+[Max Dex]
+patch=1,EE,0061B5A0,extended,00000063
+[Max Eva]
+patch=1,EE,0061B5A1,extended,00000063
+[Max Agl]
+patch=1,EE,0061B5A2,extended,00000063
+[Level 99]
+patch=1,EE,0061B5A3,extended,00000063
+[Infinite HP]
+patch=1,EE,2061B5EC,extended,0000270F
+[Infinite EP]
+patch=1,EE,1061B5F0,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C480,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C480,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C484,extended,00000001
+[Max S. Pt]
+patch=1,EE,2061C488,extended,0001869F
+[Max C. Pt]
+patch=1,EE,2061C48C,extended,0001869F
+[Have All Ether]
+patch=1,EE,2061C4A0,extended,FFFFFFFF
+[Have All Ether]
+patch=1,EE,2061C4A4,extended,01FFFFFF
+[Have Swimsuit Tech Skill]
+patch=1,EE,00641B67,extended,0000007F
+[Have Level 1 Skills]
+patch=1,EE,006A58D6,extended,000000FF
+[Have Level 2 Skills]
+patch=1,EE,006A58D7,extended,000000FF
+[Have Level 3 Skills]
+patch=1,EE,006A58D8,extended,000000FF
+[Have Level 4 Skills]
+patch=1,EE,006A58D9,extended,000000FF
+[Max Skill Class Lv]
+patch=1,EE,006A58FA,extended,00000063
+[Max Skill Learned S]
+patch=1,EE,006A58FB,extended,00000064
+[>>> Skills Have Max Stars Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1-Class A]
+patch=1,EE,006A58DA,extended,0000000F
+[Level 1-Class B]
+patch=1,EE,006A58DB,extended,0000000F
+[Level 1-Class C]
+patch=1,EE,006A58DC,extended,0000000F
+[Level 1-Class D]
+patch=1,EE,006A58DD,extended,0000000F
+[Level 1-Class E]
+patch=1,EE,006A58DE,extended,0000000F
+[Level 1-Class F]
+patch=1,EE,006A58DF,extended,0000000F
+[Level 1-Class G]
+patch=1,EE,006A58E0,extended,0000000F
+[Level 1-Class H]
+patch=1,EE,006A58E1,extended,0000000F
+[Level 2-Class A]
+patch=1,EE,006A58E2,extended,0000000F
+[Level 2-Class B]
+patch=1,EE,006A58E3,extended,0000000F
+[Level 2-Class C]
+patch=1,EE,006A58E4,extended,0000000F
+[Level 2-Class D]
+patch=1,EE,006A58E5,extended,0000000F
+[Level 2-Class E]
+patch=1,EE,006A58E6,extended,0000000F
+[Level 2-Class F]
+patch=1,EE,006A58E7,extended,0000000F
+[Level 2-Class G]
+patch=1,EE,006A58E8,extended,0000000F
+[Level 2-Class H]
+patch=1,EE,006A58E9,extended,0000000F
+[Level 3-Class A]
+patch=1,EE,006A58EA,extended,0000000F
+[Level 3-Class B]
+patch=1,EE,006A58EB,extended,0000000F
+[Level 3-Class C]
+patch=1,EE,006A58EC,extended,0000000F
+[Level 3-Class D]
+patch=1,EE,006A58ED,extended,0000000F
+[Level 3-Class E]
+patch=1,EE,006A58EE,extended,0000000F
+[Level 3-Class F]
+patch=1,EE,006A58EF,extended,0000000F
+[Level 3-Class G]
+patch=1,EE,006A58F0,extended,0000000F
+[Level 3-Class H]
+patch=1,EE,006A58F1,extended,0000000F
+[Level 4-Class A]
+patch=1,EE,006A58F2,extended,0000000F
+[Level 4-Class B]
+patch=1,EE,006A58F3,extended,0000000F
+[Level 4-Class C]
+patch=1,EE,006A58F4,extended,0000000F
+[Level 4-Class D]
+patch=1,EE,006A58F5,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,406A58DA,extended,00070001
+[All Levels-All Classes]
+patch=1,EE,0F0F0F0F,extended,00000000
+[>>> Jin Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061B69A,extended,0000270F
+[Max HP]
+patch=1,EE,1061B69C,extended,00000000
+[Max EP]
+patch=1,EE,1061B69E,extended,00000063
+[Max Str]
+patch=1,EE,1061B6A0,extended,000003E7
+[Max Vit]
+patch=1,EE,1061B6A2,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061B6A4,extended,000003E7
+[Max Edef]
+patch=1,EE,1061B6A6,extended,000003E7
+[Max Dex]
+patch=1,EE,0061B6A8,extended,00000063
+[Max Eva]
+patch=1,EE,0061B6A9,extended,00000063
+[Max Agl]
+patch=1,EE,0061B6AA,extended,00000063
+[Level 99]
+patch=1,EE,0061B6AB,extended,00000063
+[Infinite HP]
+patch=1,EE,2061B6F4,extended,0000270F
+[Infinite EP]
+patch=1,EE,1061B6F8,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C4C0,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C4C0,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C4C4,extended,00000001
+[Max S. Pt]
+patch=1,EE,2061C4C8,extended,0001869F
+[Max C. Pt]
+patch=1,EE,2061C4CC,extended,0001869F
+[Have All Ether]
+patch=1,EE,2061C4E0,extended,FFFFFFFF
+[Have All Ether]
+patch=1,EE,2061C4E4,extended,01FFFFFF
+[Have Swimsuit Tech Skill]
+patch=1,EE,00641BA7,extended,0000007F
+[Have Level 1 Skills]
+patch=1,EE,006A5901,extended,000000FF
+[Have Level 2 Skills]
+patch=1,EE,006A5902,extended,000000FF
+[Have Level 3 Skills]
+patch=1,EE,006A5903,extended,000000FF
+[Have Level 4 Skills]
+patch=1,EE,006A5904,extended,000000FF
+[Max Skill Class Lv]
+patch=1,EE,006A5925,extended,00000063
+[Max Skill Learned S]
+patch=1,EE,006A5926,extended,00000064
+[>>> Skills Have Max Stars Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1-Class A]
+patch=1,EE,006A5905,extended,0000000F
+[Level 1-Class B]
+patch=1,EE,006A5906,extended,0000000F
+[Level 1-Class C]
+patch=1,EE,006A5907,extended,0000000F
+[Level 1-Class D]
+patch=1,EE,006A5908,extended,0000000F
+[Level 1-Class E]
+patch=1,EE,006A5909,extended,0000000F
+[Level 1-Class F]
+patch=1,EE,006A590A,extended,0000000F
+[Level 1-Class G]
+patch=1,EE,006A590B,extended,0000000F
+[Level 1-Class H]
+patch=1,EE,006A590C,extended,0000000F
+[Level 2-Class A]
+patch=1,EE,006A590D,extended,0000000F
+[Level 2-Class B]
+patch=1,EE,006A590E,extended,0000000F
+[Level 2-Class C]
+patch=1,EE,006A590F,extended,0000000F
+[Level 2-Class D]
+patch=1,EE,006A5910,extended,0000000F
+[Level 2-Class E]
+patch=1,EE,006A5911,extended,0000000F
+[Level 2-Class F]
+patch=1,EE,006A5912,extended,0000000F
+[Level 2-Class G]
+patch=1,EE,006A5913,extended,0000000F
+[Level 2-Class H]
+patch=1,EE,006A5914,extended,0000000F
+[Level 3-Class A]
+patch=1,EE,006A5915,extended,0000000F
+[Level 3-Class B]
+patch=1,EE,006A5916,extended,0000000F
+[Level 3-Class C]
+patch=1,EE,006A5917,extended,0000000F
+[Level 3-Class D]
+patch=1,EE,006A5918,extended,0000000F
+[Level 3-Class E]
+patch=1,EE,006A5919,extended,0000000F
+[Level 3-Class F]
+patch=1,EE,006A591A,extended,0000000F
+[Level 3-Class G]
+patch=1,EE,006A591B,extended,0000000F
+[Level 3-Class H]
+patch=1,EE,006A591C,extended,0000000F
+[Level 4-Class A]
+patch=1,EE,006A591D,extended,0000000F
+[Level 4-Class B]
+patch=1,EE,006A591E,extended,0000000F
+[Level 4-Class C]
+patch=1,EE,006A591F,extended,0000000F
+[Level 4-Class D]
+patch=1,EE,006A5920,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,006A5905,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,106A5906,extended,00000F0F
+[All Levels-All Classes]
+patch=1,EE,406A5908,extended,00060001
+[All Levels-All Classes]
+patch=1,EE,0F0F0F0F,extended,00000000
+[All Levels-All Classes]
+patch=1,EE,006A5920,extended,0000000F
+[>>> Ziggy Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061B7A2,extended,0000270F
+[Max HP]
+patch=1,EE,1061B7A4,extended,00000000
+[Max EP]
+patch=1,EE,1061B7A6,extended,00000063
+[Max Str]
+patch=1,EE,1061B7A8,extended,000003E7
+[Max Vit]
+patch=1,EE,1061B7AA,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061B7AC,extended,000003E7
+[Max Edef]
+patch=1,EE,1061B7AE,extended,000003E7
+[Max Dex]
+patch=1,EE,0061B7B0,extended,00000063
+[Max Eva]
+patch=1,EE,0061B7B1,extended,00000063
+[Max Agl]
+patch=1,EE,0061B7B2,extended,00000063
+[Level 99]
+patch=1,EE,0061B7B3,extended,00000063
+[Infinite HP]
+patch=1,EE,2061B7FC,extended,0000270F
+[Infinite EP]
+patch=1,EE,1061B800,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C500,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C500,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C504,extended,00000001
+[Max S. Pt]
+patch=1,EE,2061C508,extended,0001869F
+[Max C. Pt]
+patch=1,EE,2061C50C,extended,0001869F
+[Have All Ether]
+patch=1,EE,2061C520,extended,FFFFFFFF
+[Have All Ether]
+patch=1,EE,2061C524,extended,01FFFFFF
+[Have Swimsuit Tech Skill]
+patch=1,EE,00641BE7,extended,0000007F
+[Have Level 1 Skills]
+patch=1,EE,006A592C,extended,000000FF
+[Have Level 2 Skills]
+patch=1,EE,006A592D,extended,000000FF
+[Have Level 3 Skills]
+patch=1,EE,006A592E,extended,000000FF
+[Have Level 4 Skills]
+patch=1,EE,006A592F,extended,000000FF
+[Max Skill Class Lv]
+patch=1,EE,006A5950,extended,00000063
+[Max Skill Learned S]
+patch=1,EE,006A5951,extended,00000064
+[>>> Skills Have Max Stars Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1-Class A]
+patch=1,EE,006A5930,extended,0000000F
+[Level 1-Class B]
+patch=1,EE,006A5931,extended,0000000F
+[Level 1-Class C]
+patch=1,EE,006A5932,extended,0000000F
+[Level 1-Class D]
+patch=1,EE,006A5933,extended,0000000F
+[Level 1-Class E]
+patch=1,EE,006A5934,extended,0000000F
+[Level 1-Class F]
+patch=1,EE,006A5935,extended,0000000F
+[Level 1-Class G]
+patch=1,EE,006A5936,extended,0000000F
+[Level 1-Class H]
+patch=1,EE,006A5937,extended,0000000F
+[Level 2-Class A]
+patch=1,EE,006A5938,extended,0000000F
+[Level 2-Class B]
+patch=1,EE,006A5939,extended,0000000F
+[Level 2-Class C]
+patch=1,EE,006A593A,extended,0000000F
+[Level 2-Class D]
+patch=1,EE,006A593B,extended,0000000F
+[Level 2-Class E]
+patch=1,EE,006A593C,extended,0000000F
+[Level 2-Class F]
+patch=1,EE,006A593D,extended,0000000F
+[Level 2-Class G]
+patch=1,EE,006A593E,extended,0000000F
+[Level 2-Class H]
+patch=1,EE,006A593F,extended,0000000F
+[Level 3-Class A]
+patch=1,EE,006A5940,extended,0000000F
+[Level 3-Class B]
+patch=1,EE,006A5941,extended,0000000F
+[Level 3-Class C]
+patch=1,EE,006A5942,extended,0000000F
+[Level 3-Class D]
+patch=1,EE,006A5943,extended,0000000F
+[Level 3-Class E]
+patch=1,EE,006A5944,extended,0000000F
+[Level 3-Class F]
+patch=1,EE,006A5945,extended,0000000F
+[Level 3-Class G]
+patch=1,EE,006A5946,extended,0000000F
+[Level 3-Class H]
+patch=1,EE,006A5947,extended,0000000F
+[Level 4-Class A]
+patch=1,EE,006A5948,extended,0000000F
+[Level 4-Class B]
+patch=1,EE,006A5949,extended,0000000F
+[Level 4-Class C]
+patch=1,EE,006A594A,extended,0000000F
+[Level 4-Class D]
+patch=1,EE,006A594B,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,406A5930,extended,00070001
+[All Levels-All Classes]
+patch=1,EE,0F0F0F0F,extended,00000000
+[>>> Momo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061B8AA,extended,0000270F
+[Max HP]
+patch=1,EE,1061B8AC,extended,00000000
+[Max EP]
+patch=1,EE,1061B8AE,extended,00000063
+[Max Str]
+patch=1,EE,1061B8B0,extended,000003E7
+[Max Vit]
+patch=1,EE,1061B8B2,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061B8B4,extended,000003E7
+[Max Edef]
+patch=1,EE,1061B8B6,extended,000003E7
+[Max Dex]
+patch=1,EE,0061B8B8,extended,00000063
+[Max Eva]
+patch=1,EE,0061B8B9,extended,00000063
+[Max Agl]
+patch=1,EE,0061B8BA,extended,00000063
+[Level 99]
+patch=1,EE,0061B8BB,extended,00000063
+[Infinite HP]
+patch=1,EE,2061B904,extended,0000270F
+[Infinite EP]
+patch=1,EE,1061B908,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C540,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C540,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C544,extended,00000001
+[Max S. Pt]
+patch=1,EE,2061C548,extended,0001869F
+[Max C. Pt]
+patch=1,EE,2061C54C,extended,0001869F
+[Have All Ether]
+patch=1,EE,2061C560,extended,FFFFFFFF
+[Have All Ether]
+patch=1,EE,2061C564,extended,01FFFFFF
+[Have Swimsuit Tech Skill]
+patch=1,EE,00641C27,extended,0000007F
+[Have Level 1 Skills]
+patch=1,EE,006A5957,extended,000000FF
+[Have Level 2 Skills]
+patch=1,EE,006A5958,extended,000000FF
+[Have Level 3 Skills]
+patch=1,EE,006A5959,extended,000000FF
+[Have Level 4 Skills]
+patch=1,EE,006A595A,extended,000000FF
+[Max Skill Class Lv]
+patch=1,EE,006A597B,extended,00000063
+[Max Skill Learned S]
+patch=1,EE,006A597C,extended,00000064
+[>>> Skills Have Max Stars Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1-Class A]
+patch=1,EE,006A595B,extended,0000000F
+[Level 1-Class B]
+patch=1,EE,006A595C,extended,0000000F
+[Level 1-Class C]
+patch=1,EE,006A595D,extended,0000000F
+[Level 1-Class D]
+patch=1,EE,006A595E,extended,0000000F
+[Level 1-Class E]
+patch=1,EE,006A595F,extended,0000000F
+[Level 1-Class F]
+patch=1,EE,006A5960,extended,0000000F
+[Level 1-Class G]
+patch=1,EE,006A5961,extended,0000000F
+[Level 1-Class H]
+patch=1,EE,006A5962,extended,0000000F
+[Level 2-Class A]
+patch=1,EE,006A5963,extended,0000000F
+[Level 2-Class B]
+patch=1,EE,006A5964,extended,0000000F
+[Level 2-Class C]
+patch=1,EE,006A5965,extended,0000000F
+[Level 2-Class D]
+patch=1,EE,006A5966,extended,0000000F
+[Level 2-Class E]
+patch=1,EE,006A5967,extended,0000000F
+[Level 2-Class F]
+patch=1,EE,006A5968,extended,0000000F
+[Level 2-Class G]
+patch=1,EE,006A5969,extended,0000000F
+[Level 2-Class H]
+patch=1,EE,006A596A,extended,0000000F
+[Level 3-Class A]
+patch=1,EE,006A596B,extended,0000000F
+[Level 3-Class B]
+patch=1,EE,006A596C,extended,0000000F
+[Level 3-Class C]
+patch=1,EE,006A596D,extended,0000000F
+[Level 3-Class D]
+patch=1,EE,006A596E,extended,0000000F
+[Level 3-Class E]
+patch=1,EE,006A596F,extended,0000000F
+[Level 3-Class F]
+patch=1,EE,006A5970,extended,0000000F
+[Level 3-Class G]
+patch=1,EE,006A5971,extended,0000000F
+[Level 3-Class H]
+patch=1,EE,006A5972,extended,0000000F
+[Level 4-Class A]
+patch=1,EE,006A5973,extended,0000000F
+[Level 4-Class B]
+patch=1,EE,006A5974,extended,0000000F
+[Level 4-Class C]
+patch=1,EE,006A5975,extended,0000000F
+[Level 4-Class D]
+patch=1,EE,006A5976,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,006A595B,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,106A595C,extended,00000F0F
+[All Levels-All Classes]
+patch=1,EE,406A595E,extended,00060001
+[All Levels-All Classes]
+patch=1,EE,0F0F0F0F,extended,00000000
+[All Levels-All Classes]
+patch=1,EE,006A5976,extended,0000000F
+[>>> Jr. Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061B9B2,extended,0000270F
+[Max HP]
+patch=1,EE,1061B9B4,extended,00000000
+[Max EP]
+patch=1,EE,1061B9B6,extended,00000063
+[Max Str]
+patch=1,EE,1061B9B8,extended,000003E7
+[Max Vit]
+patch=1,EE,1061B9BA,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061B9BC,extended,000003E7
+[Max Edef]
+patch=1,EE,1061B9BE,extended,000003E7
+[Max Dex]
+patch=1,EE,0061B9C0,extended,00000063
+[Max Eva]
+patch=1,EE,0061B9C1,extended,00000063
+[Max Agl]
+patch=1,EE,0061B9C2,extended,00000063
+[Level 99]
+patch=1,EE,0061B9C3,extended,00000063
+[Infinite HP]
+patch=1,EE,2061BA0C,extended,0000270F
+[Infinite EP]
+patch=1,EE,1061BA10,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C580,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C580,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C584,extended,00000001
+[Max S. Pt]
+patch=1,EE,2061C588,extended,0001869F
+[Max C. Pt]
+patch=1,EE,2061C58C,extended,0001869F
+[Have All Ether]
+patch=1,EE,2061C5A0,extended,FFFFFFFF
+[Have All Ether]
+patch=1,EE,2061C5A4,extended,01FFFFFF
+[Have Swimsuit Tech Skill]
+patch=1,EE,00641C67,extended,0000007F
+[Have Level 1 Skills]
+patch=1,EE,006A5982,extended,000000FF
+[Have Level 2 Skills]
+patch=1,EE,006A5983,extended,000000FF
+[Have Level 3 Skills]
+patch=1,EE,006A5984,extended,000000FF
+[Have Level 4 Skills]
+patch=1,EE,006A5985,extended,000000FF
+[Max Skill Class Lv]
+patch=1,EE,006A59A6,extended,00000063
+[Max Skill Learned S]
+patch=1,EE,006A59A7,extended,00000064
+[>>> Skills Have Max Stars Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1-Class A]
+patch=1,EE,006A5986,extended,0000000F
+[Level 1-Class B]
+patch=1,EE,006A5987,extended,0000000F
+[Level 1-Class C]
+patch=1,EE,006A5988,extended,0000000F
+[Level 1-Class D]
+patch=1,EE,006A5989,extended,0000000F
+[Level 1-Class E]
+patch=1,EE,006A598A,extended,0000000F
+[Level 1-Class F]
+patch=1,EE,006A598B,extended,0000000F
+[Level 1-Class G]
+patch=1,EE,006A598C,extended,0000000F
+[Level 1-Class H]
+patch=1,EE,006A598D,extended,0000000F
+[Level 2-Class A]
+patch=1,EE,006A598E,extended,0000000F
+[Level 2-Class B]
+patch=1,EE,006A598F,extended,0000000F
+[Level 2-Class C]
+patch=1,EE,006A5990,extended,0000000F
+[Level 2-Class D]
+patch=1,EE,006A5991,extended,0000000F
+[Level 2-Class E]
+patch=1,EE,006A5992,extended,0000000F
+[Level 2-Class F]
+patch=1,EE,006A5993,extended,0000000F
+[Level 2-Class G]
+patch=1,EE,006A5994,extended,0000000F
+[Level 2-Class H]
+patch=1,EE,006A5995,extended,0000000F
+[Level 3-Class A]
+patch=1,EE,006A5996,extended,0000000F
+[Level 3-Class B]
+patch=1,EE,006A5997,extended,0000000F
+[Level 3-Class C]
+patch=1,EE,006A5998,extended,0000000F
+[Level 3-Class D]
+patch=1,EE,006A5999,extended,0000000F
+[Level 3-Class E]
+patch=1,EE,006A599A,extended,0000000F
+[Level 3-Class F]
+patch=1,EE,006A599B,extended,0000000F
+[Level 3-Class G]
+patch=1,EE,006A599C,extended,0000000F
+[Level 3-Class H]
+patch=1,EE,006A599D,extended,0000000F
+[Level 4-Class A]
+patch=1,EE,006A599E,extended,0000000F
+[Level 4-Class B]
+patch=1,EE,006A599F,extended,0000000F
+[Level 4-Class C]
+patch=1,EE,006A59A0,extended,0000000F
+[Level 4-Class D]
+patch=1,EE,006A59A1,extended,0000000F
+[All Levels-All Classes]
+patch=1,EE,406A5986,extended,00070001
+[All Levels-All Classes]
+patch=1,EE,0F0F0F0F,extended,00000000
+[>>> E.S. Dinah Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061BDD2,extended,0000869F
+[Max HP]
+patch=1,EE,1061BDD4,extended,00000001
+[Max EP]
+patch=1,EE,1061BDD6,extended,00000063
+[Max Str]
+patch=1,EE,1061BDD8,extended,000003E7
+[Max Vit]
+patch=1,EE,1061BDDA,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061BDDC,extended,000003E7
+[Max Edef]
+patch=1,EE,1061BDDE,extended,000003E7
+[Max Dex]
+patch=1,EE,0061BDE0,extended,00000063
+[Max Eva]
+patch=1,EE,0061BDE1,extended,00000063
+[Max Agl]
+patch=1,EE,0061BDE2,extended,00000063
+[Level 99]
+patch=1,EE,0061BDE3,extended,00000063
+[Infinite HP]
+patch=1,EE,2061BE2C,extended,0001869F
+[Infinite EP]
+patch=1,EE,1061BE30,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C680,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C680,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C684,extended,00000001
+[>>> E.S. Zebulun Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061BEDA,extended,0000270F
+[Max HP]
+patch=1,EE,1061BEDC,extended,00000000
+[Max EP]
+patch=1,EE,1061BEDE,extended,00000063
+[Max Str]
+patch=1,EE,1061BEE0,extended,000003E7
+[Max Vit]
+patch=1,EE,1061BEE2,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061BEE4,extended,000003E7
+[Max Edef]
+patch=1,EE,1061BEE6,extended,000003E7
+[Max Dex]
+patch=1,EE,0061BEE8,extended,00000063
+[Max Eva]
+patch=1,EE,0061BEE9,extended,00000063
+[Max Agl]
+patch=1,EE,0061BEEA,extended,00000063
+[Level 99]
+patch=1,EE,0061BEEB,extended,00000063
+[Infinite HP]
+patch=1,EE,2061BF34,extended,0000270F
+[Infinite EP]
+patch=1,EE,1061BF38,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C6C0,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C6C0,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C6C4,extended,00000001
+[>>> E.S. Asher Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,1061BFE2,extended,0000867F
+[Max HP]
+patch=1,EE,1061BFE4,extended,00000001
+[Max EP]
+patch=1,EE,1061BFE6,extended,00000063
+[Max Str]
+patch=1,EE,1061BFE8,extended,000003E7
+[Max Vit]
+patch=1,EE,1061BFEA,extended,000003E7
+[Max Eatk]
+patch=1,EE,1061BFEC,extended,000003E7
+[Max Edef]
+patch=1,EE,1061BFEE,extended,000003E7
+[Max Dex]
+patch=1,EE,0061BFF0,extended,00000063
+[Max Eva]
+patch=1,EE,0061BFF1,extended,00000063
+[Max Agl]
+patch=1,EE,0061BFF2,extended,00000063
+[Level 99]
+patch=1,EE,0061BFF3,extended,00000063
+[Infinite HP]
+patch=1,EE,2061C03C,extended,0001869F
+[Infinite EP]
+patch=1,EE,1061C040,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,1061C700,extended,0000FFFF
+[Max Exp]
+patch=1,EE,2061C700,extended,05F5E0FF
+[Always 1 Exp For Next Level]
+patch=1,EE,2061C704,extended,00000001
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Med Kit S]
+patch=1,EE,1061C800,extended,00000063
+[Med Kit M]
+patch=1,EE,1061C802,extended,00000063
+[Med Kit L]
+patch=1,EE,1061C804,extended,00000063
+[Med Kit DX]
+patch=1,EE,1061C806,extended,00000063
+[Ether Pack S]
+patch=1,EE,1061C808,extended,00000063
+[Ether Pack M]
+patch=1,EE,1061C80A,extended,00000063
+[Ether Pack DX]
+patch=1,EE,1061C80C,extended,00000063
+[Rejuvenator M]
+patch=1,EE,1061C80E,extended,00000063
+[Rejuvenator DX]
+patch=1,EE,1061C810,extended,00000063
+[Rejuvenator E]
+patch=1,EE,1061C812,extended,00000063
+[Antidote L]
+patch=1,EE,1061C814,extended,00000063
+[Antidote H]
+patch=1,EE,1061C816,extended,00000063
+[Revive S]
+patch=1,EE,1061C818,extended,00000063
+[Revive DX]
+patch=1,EE,1061C81A,extended,00000063
+[Boost Max]
+patch=1,EE,1061C81C,extended,00000063
+[CF Bomb]
+patch=1,EE,1061C81E,extended,00000063
+[Hemlock]
+patch=1,EE,1061C820,extended,00000063
+[Bio Sphere]
+patch=1,EE,1061C828,extended,00000063
+[Skill Upgrade A]
+patch=1,EE,1061C82A,extended,00000063
+[Skill Upgrade B]
+patch=1,EE,1061C82C,extended,00000063
+[Skill Upgrade C]
+patch=1,EE,1061C82E,extended,00000063
+[Skill Upgrade D]
+patch=1,EE,1061C830,extended,00000063
+[Skill Upgrade E]
+patch=1,EE,1061C832,extended,00000063
+[Class Upgrade A]
+patch=1,EE,1061C834,extended,00000063
+[Class Upgrade B]
+patch=1,EE,1061C836,extended,00000063
+[Class Upgrade C]
+patch=1,EE,1061C838,extended,00000063
+[Nano Repair A]
+patch=1,EE,1061C83A,extended,00000063
+[Nano Repair Z]
+patch=1,EE,1061C83C,extended,00000063
+[Nano Sphere]
+patch=1,EE,1061C83E,extended,00000063
+[Scrap Iron]
+patch=1,EE,1061C840,extended,00000063
+[Junked Circuit]
+patch=1,EE,1061C842,extended,00000063
+[Ether Core]
+patch=1,EE,1061C844,extended,00000063
+[Awakening I]
+patch=1,EE,1061C848,extended,00000063
+[Awakening II]
+patch=1,EE,1061C84A,extended,00000063
+[Awakening III]
+patch=1,EE,1061C84C,extended,00000063
+[Awakening IV]
+patch=1,EE,1061C84E,extended,00000063
+[>>> Have Key Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Decoder 01]
+patch=1,EE,1061CC00,extended,00000001
+[Decoder 02]
+patch=1,EE,1061CC02,extended,00000001
+[Decoder 03]
+patch=1,EE,1061CC04,extended,00000001
+[Decoder 04]
+patch=1,EE,1061CC06,extended,00000001
+[Decoder 05]
+patch=1,EE,1061CC08,extended,00000001
+[Decoder 06]
+patch=1,EE,1061CC0A,extended,00000001
+[Decoder 07]
+patch=1,EE,1061CC0C,extended,00000001
+[Decoder 08]
+patch=1,EE,1061CC0E,extended,00000001
+[Decoder 09]
+patch=1,EE,1061CC10,extended,00000001
+[Decoder 10]
+patch=1,EE,1061CC12,extended,00000001
+[Decoder 11]
+patch=1,EE,1061CC14,extended,00000001
+[Decoder 12]
+patch=1,EE,1061CC16,extended,00000001
+[Decoder 13]
+patch=1,EE,1061CC18,extended,00000001
+[Decoder 14]
+patch=1,EE,1061CC1A,extended,00000001
+[Decoder 15]
+patch=1,EE,1061CC1C,extended,00000001
+[Decoder 16]
+patch=1,EE,1061CC1E,extended,00000001
+[Decoder 17]
+patch=1,EE,1061CC20,extended,00000001
+[Decoder 18]
+patch=1,EE,1061CC22,extended,00000001
+[Love Letter]
+patch=1,EE,1061CC24,extended,00000001
+[ZAZA's Clue 1]
+patch=1,EE,1061CC26,extended,00000001
+[ZAZA's Clue 2]
+patch=1,EE,1061CC28,extended,00000001
+[ZAZA's Clue 3]
+patch=1,EE,1061CC2A,extended,00000001
+[ZAZA's Clue 4]
+patch=1,EE,1061CC2C,extended,00000001
+[ZAZA's Clue 5]
+patch=1,EE,1061CC2E,extended,00000001
+[ZAZA's Clue 6]
+patch=1,EE,1061CC30,extended,00000001
+[ZAZA's Clue 7]
+patch=1,EE,1061CC32,extended,00000001
+[Spode Letter]
+patch=1,EE,1061CC34,extended,00000001
+[Heart Letter]
+patch=1,EE,1061CC36,extended,00000001
+[Club Letter]
+patch=1,EE,1061CC38,extended,00000001
+[Diamond Letter]
+patch=1,EE,1061CC3A,extended,00000001
+[Facility Key]
+patch=1,EE,1061CC3C,extended,00000001
+[Stella's Shoes]
+patch=1,EE,1061CC3E,extended,00000001
+[Stella's Hairpin]
+patch=1,EE,1061CC40,extended,00000001
+[Stella's Scorset]
+patch=1,EE,1061CC42,extended,00000001
+[Water Tank A Key]
+patch=1,EE,1061CC44,extended,00000001
+[Water Tank B Key]
+patch=1,EE,1061CC46,extended,00000001
+[Spring Seed]
+patch=1,EE,1061CC48,extended,00000001
+[Summer Seed]
+patch=1,EE,1061CC4A,extended,00000001
+[Autumn Seed]
+patch=1,EE,1061CC4C,extended,00000001
+[Winter Seed]
+patch=1,EE,1061CC4E,extended,00000001
+[Power Battery]
+patch=1,EE,1061CC50,extended,00000001
+[Sequencer A]
+patch=1,EE,1061CC52,extended,00000001
+[Sequencer B]
+patch=1,EE,1061CC54,extended,00000001
+[Sequencer C]
+patch=1,EE,1061CC56,extended,00000001
+[Sequencer D]
+patch=1,EE,1061CC58,extended,00000001
+[Wedding Ring]
+patch=1,EE,1061CC5A,extended,00000001
+[Engagement Ring]
+patch=1,EE,1061CC5C,extended,00000001
+[Hyper Fertilizer]
+patch=1,EE,1061CC5E,extended,00000001
+[Vault Key]
+patch=1,EE,1061CC60,extended,00000001
+[Secret Box]
+patch=1,EE,1061CC62,extended,00000001
+[Curry Recipe]
+patch=1,EE,1061CC64,extended,00000001
+[Teddy Bear]
+patch=1,EE,1061CC66,extended,00000001
+[Memory Locket]
+patch=1,EE,1061CC68,extended,00000001
+[Music Box]
+patch=1,EE,1061CC6A,extended,00000001
+[Entertainment Guide]
+patch=1,EE,1061CC6C,extended,00000001
+[Rules Of High Society]
+patch=1,EE,1061CC6E,extended,00000001
+[Blue Maid Uniform]
+patch=1,EE,1061CC70,extended,00000001
+[Pink Maid Uniform]
+patch=1,EE,1061CC72,extended,00000001
+[Black Maid Uniform]
+patch=1,EE,1061CC74,extended,00000001
+[Aqua Maid Uniform]
+patch=1,EE,1061CC76,extended,00000001
+[Statue Blueprint]
+patch=1,EE,1061CC78,extended,00000001
+[Pink Book]
+patch=1,EE,1061CC7A,extended,00000001
+[Free Play Token]
+patch=1,EE,1061CC7C,extended,00000001
+[Toy Store Key]
+patch=1,EE,1061CC7E,extended,00000001
+[Red Eye Fish Print]
+patch=1,EE,1061CC80,extended,00000001
+[Iron 4 Sheet Music]
+patch=1,EE,1061CC82,extended,00000001
+[Unlock COde]
+patch=1,EE,1061CC84,extended,00000001
+[King's Key]
+patch=1,EE,1061CC86,extended,00000001
+[Geriatric Swimsuit]
+patch=1,EE,1061CC88,extended,00000001
+[Sidney's Letter]
+patch=1,EE,1061CC8A,extended,00000001
+[Robot Part Right Arm]
+patch=1,EE,1061CC8C,extended,00000001
+[Robot Part Left Arm]
+patch=1,EE,1061CC8E,extended,00000001
+[Robot Part Right Leg]
+patch=1,EE,1061CC90,extended,00000001
+[Robot Part Left Leg]
+patch=1,EE,1061CC92,extended,00000001
+[Robot Part Head]
+patch=1,EE,1061CC94,extended,00000001
+[Robot Part Body]
+patch=1,EE,1061CC96,extended,00000001
+[Secret Key 1]
+patch=1,EE,1061CC98,extended,00000001
+[Secret Key 2]
+patch=1,EE,1061CC9A,extended,00000001
+[Secret Key 3]
+patch=1,EE,1061CC9C,extended,00000001
+[Secret Key 4]
+patch=1,EE,1061CC9E,extended,00000001
+[Secret Key 5]
+patch=1,EE,1061CCA0,extended,00000001
+[Secret Key 6]
+patch=1,EE,1061CCA2,extended,00000001
+[Secret Key 7]
+patch=1,EE,1061CCA4,extended,00000001
+[Secret Key 8]
+patch=1,EE,1061CCA6,extended,00000001
+[Secret Key 9]
+patch=1,EE,1061CCA8,extended,00000001
+[Secret Key 10]
+patch=1,EE,1061CCAA,extended,00000001
+[Secret Key 11]
+patch=1,EE,1061CCAC,extended,00000001
+[Secret Key 12]
+patch=1,EE,1061CCAE,extended,00000001
+[Secret Key 13]
+patch=1,EE,1061CCB0,extended,00000001
+[Secret Key 14]
+patch=1,EE,1061CCB2,extended,00000001
+[Secret Key 15]
+patch=1,EE,1061CCB4,extended,00000001
+[Secret Key 16]
+patch=1,EE,1061CCB6,extended,00000001
+[Secret Key 17]
+patch=1,EE,1061CCB8,extended,00000001
+[Secret Key 18]
+patch=1,EE,1061CCBA,extended,00000001
+[Secret Key 19]
+patch=1,EE,1061CCBC,extended,00000001
+[Secret Key 20]
+patch=1,EE,1061CCBE,extended,00000001
+[Secret Key 21]
+patch=1,EE,1061CCC0,extended,00000001
+[Secret Key 22]
+patch=1,EE,1061CCC2,extended,00000001
+[Secret Key 23]
+patch=1,EE,1061CCC4,extended,00000001
+[Secret Key 24]
+patch=1,EE,1061CCC6,extended,00000001
+[Secret Key 25]
+patch=1,EE,1061CCC8,extended,00000001
+[Secret Key 26]
+patch=1,EE,1061CCCA,extended,00000001
+[Secret Key 27]
+patch=1,EE,1061CCCC,extended,00000001
+[Secret Key 28]
+patch=1,EE,1061CCCE,extended,00000001
+[Secret Key 29]
+patch=1,EE,1061CCD0,extended,00000001
+[Secret Key 30]
+patch=1,EE,1061CCD2,extended,00000001
+[Secret Key 31]
+patch=1,EE,1061CCD4,extended,00000001
+[All Key Items]
+patch=1,EE,4061CC00,extended,00350001
+[All Key Items]
+patch=1,EE,00010001,extended,00000000
+[All Key Items]
+patch=1,EE,1061CCD4,extended,00000001
+[>>> In-Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite EP Usage]
+patch=1,EE,D0A8BCC4,extended,0000200B
+[Infinite EP Usage]
+patch=1,EE,20A8BCC8,extended,00000000
+[Press {L1}+{SELECT} To Escape Battle]
+patch=1,EE,D0955A82,extended,0000FBFE
+[Press {L1}+{SELECT} To Escape Battle]
+patch=1,EE,20AC4198,extended,00000001
+[>>> Character 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10AC16A2,extended,0000270F
+[Max HP]
+patch=1,EE,10AC16A4,extended,00000000
+[Max EP]
+patch=1,EE,10AC16A6,extended,00000063
+[Max Str]
+patch=1,EE,10AC16A8,extended,000003E7
+[Max Vit]
+patch=1,EE,10AC16AA,extended,000003E7
+[Max Eatk]
+patch=1,EE,10AC16AC,extended,000003E7
+[Max Edef]
+patch=1,EE,10AC16AE,extended,000003E7
+[Max Dex]
+patch=1,EE,00AC16B0,extended,00000063
+[Max Eva]
+patch=1,EE,00AC16B1,extended,00000063
+[Max Agl]
+patch=1,EE,00AC16B2,extended,00000063
+[Level 99]
+patch=1,EE,00AC16B3,extended,00000063
+[Infinite HP]
+patch=1,EE,20AC16FC,extended,0000270F
+[Infinite EP]
+patch=1,EE,10AC1700,extended,00000063
+[>>> Character 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10AC17AA,extended,0000270F
+[Max HP]
+patch=1,EE,10AC17AC,extended,00000000
+[Max EP]
+patch=1,EE,10AC17AE,extended,00000063
+[Max Str]
+patch=1,EE,10AC17B0,extended,000003E7
+[Max Vit]
+patch=1,EE,10AC17B2,extended,000003E7
+[Max Eatk]
+patch=1,EE,10AC17B4,extended,000003E7
+[Max Edef]
+patch=1,EE,10AC17B6,extended,000003E7
+[Max Dex]
+patch=1,EE,00AC17B8,extended,00000063
+[Max Eva]
+patch=1,EE,00AC17B9,extended,00000063
+[Max Agl]
+patch=1,EE,00AC17BA,extended,00000063
+[Level 99]
+patch=1,EE,00AC17BB,extended,00000063
+[Infinite HP]
+patch=1,EE,20AC1804,extended,0000270F
+[Infinite EP]
+patch=1,EE,10AC1808,extended,00000063
+[>>> Character 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10AC18B2,extended,0000270F
+[Max HP]
+patch=1,EE,10AC18B4,extended,00000000
+[Max EP]
+patch=1,EE,10AC18B6,extended,00000063
+[Max Str]
+patch=1,EE,10AC18B8,extended,000003E7
+[Max Vit]
+patch=1,EE,10AC18BA,extended,000003E7
+[Max Eatk]
+patch=1,EE,10AC18BC,extended,000003E7
+[Max Edef]
+patch=1,EE,10AC18BE,extended,000003E7
+[Max Dex]
+patch=1,EE,00AC18C0,extended,00000063
+[Max Eva]
+patch=1,EE,00AC18C1,extended,00000063
+[Max Agl]
+patch=1,EE,00AC18C2,extended,00000063
+[Level 99]
+patch=1,EE,00AC18C3,extended,00000063
+[Infinite HP]
+patch=1,EE,20AC190C,extended,0000270F
+[Infinite EP]
+patch=1,EE,10AC1910,extended,00000063
+[>>> A.G.W.S. 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10AC19BA,extended,0000270F
+[Max HP]
+patch=1,EE,10AC19BC,extended,00000000
+[Max EP]
+patch=1,EE,10AC19BE,extended,00000063
+[Max Str]
+patch=1,EE,10AC19C0,extended,000003E7
+[Max Vit]
+patch=1,EE,10AC19C2,extended,000003E7
+[Max Eatk]
+patch=1,EE,10AC19C4,extended,000003E7
+[Max Edef]
+patch=1,EE,10AC19C6,extended,000003E7
+[Max Dex]
+patch=1,EE,00AC19C8,extended,00000063
+[Max Eva]
+patch=1,EE,00AC19C9,extended,00000063
+[Max Agl]
+patch=1,EE,00AC19CA,extended,00000063
+[Level 99]
+patch=1,EE,00AC19CB,extended,00000063
+[Infinite HP]
+patch=1,EE,20AC1A14,extended,0000270F
+[Infinite EP]
+patch=1,EE,10AC1A18,extended,00000063
+[>>> A.G.W.S. 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10AC1AC2,extended,0000270F
+[Max HP]
+patch=1,EE,10AC1AC4,extended,00000000
+[Max EP]
+patch=1,EE,10AC1AC6,extended,00000063
+[Max Str]
+patch=1,EE,10AC1AC8,extended,000003E7
+[Max Vit]
+patch=1,EE,10AC1ACA,extended,000003E7
+[Max Eatk]
+patch=1,EE,10AC1ACC,extended,000003E7
+[Max Edef]
+patch=1,EE,10AC1ACE,extended,000003E7
+[Max Dex]
+patch=1,EE,00AC1AD0,extended,00000063
+[Max Eva]
+patch=1,EE,00AC1AD1,extended,00000063
+[Max Agl]
+patch=1,EE,00AC1AD2,extended,00000063
+[Level 99]
+patch=1,EE,00AC1AD3,extended,00000063
+[Infinite HP]
+patch=1,EE,20AC1B1C,extended,0000270F
+[Infinite EP]
+patch=1,EE,10AC1B20,extended,00000063
+[>>> A.G.W.S. 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,10AC1BCA,extended,0000270F
+[Max HP]
+patch=1,EE,10AC1BCC,extended,00000000
+[Max EP]
+patch=1,EE,10AC1BCE,extended,00000063
+[Max Str]
+patch=1,EE,10AC1BD0,extended,000003E7
+[Max Vit]
+patch=1,EE,10AC1BD2,extended,000003E7
+[Max Eatk]
+patch=1,EE,10AC1BD4,extended,000003E7
+[Max Edef]
+patch=1,EE,10AC1BD6,extended,000003E7
+[Max Dex]
+patch=1,EE,00AC1BD8,extended,00000063
+[Max Eva]
+patch=1,EE,00AC1BD9,extended,00000063
+[Max Agl]
+patch=1,EE,00AC1BDA,extended,00000063
+[Level 99]
+patch=1,EE,00AC1BDB,extended,00000063
+[Infinite HP]
+patch=1,EE,20AC1C24,extended,0000270F
+[Infinite EP]
+patch=1,EE,10AC1C28,extended,00000063
+[>>> Enemy 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Low Max HP]
+patch=1,EE,10AC1EE2,extended,00000001
+[Low Max HP]
+patch=1,EE,10AC1EE4,extended,00000000
+[NO Max EP]
+patch=1,EE,10AC1EE6,extended,00000000
+[No Str]
+patch=1,EE,10AC1EE8,extended,00000000
+[No Vit]
+patch=1,EE,10AC1EEA,extended,00000000
+[No Eatk]
+patch=1,EE,10AC1EEC,extended,00000000
+[No Edef]
+patch=1,EE,10AC1EEE,extended,00000000
+[No Dex]
+patch=1,EE,00AC1EF0,extended,00000000
+[No Eva]
+patch=1,EE,00AC1EF1,extended,00000000
+[No Agl]
+patch=1,EE,00AC1EF2,extended,00000000
+[Level 1]
+patch=1,EE,00AC1EF3,extended,00000001
+[1-Hit Death]
+patch=1,EE,D0AC1F3C,extended,00200001
+[1-Hit Death]
+patch=1,EE,20AC1F3C,extended,00000001
+[No EP]
+patch=1,EE,10AC1F40,extended,00000000
+[>>> Enemy 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Low Max HP]
+patch=1,EE,10AC1FEA,extended,00000001
+[Low Max HP]
+patch=1,EE,10AC1FEC,extended,00000000
+[NO Max EP]
+patch=1,EE,10AC1FEE,extended,00000000
+[No Str]
+patch=1,EE,10AC1FF0,extended,00000000
+[No Vit]
+patch=1,EE,10AC1FF2,extended,00000000
+[No Eatk]
+patch=1,EE,10AC1FF4,extended,00000000
+[No Edef]
+patch=1,EE,10AC1FF6,extended,00000000
+[No Dex]
+patch=1,EE,00AC1FF8,extended,00000000
+[No Eva]
+patch=1,EE,00AC1FF9,extended,00000000
+[No Agl]
+patch=1,EE,00AC1FFA,extended,00000000
+[Level 1]
+patch=1,EE,00AC1FFB,extended,00000001
+[1-Hit Death]
+patch=1,EE,D0AC2044,extended,00200001
+[1-Hit Death]
+patch=1,EE,20AC2044,extended,00000001
+[No EP]
+patch=1,EE,10AC2048,extended,00000000
+[>>> Enemy 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Low Max HP]
+patch=1,EE,10AC20F2,extended,00000001
+[Low Max HP]
+patch=1,EE,10AC20F4,extended,00000000
+[NO Max EP]
+patch=1,EE,10AC20F6,extended,00000000
+[No Str]
+patch=1,EE,10AC20F8,extended,00000000
+[No Vit]
+patch=1,EE,10AC20FA,extended,00000000
+[No Eatk]
+patch=1,EE,10AC20FC,extended,00000000
+[No Edef]
+patch=1,EE,10AC20FE,extended,00000000
+[No Dex]
+patch=1,EE,00AC2100,extended,00000000
+[No Eva]
+patch=1,EE,00AC2101,extended,00000000
+[No Agl]
+patch=1,EE,00AC2102,extended,00000000
+[Level 1]
+patch=1,EE,00AC2103,extended,00000001
+[1-Hit Death]
+patch=1,EE,D0AC214C,extended,00200001
+[1-Hit Death]
+patch=1,EE,20AC214C,extended,00000001
+[No EP]
+patch=1,EE,10AC2150,extended,00000000
+[>>> Enemy 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Low Max HP]
+patch=1,EE,10AC21FA,extended,00000001
+[Low Max HP]
+patch=1,EE,10AC21FC,extended,00000000
+[NO Max EP]
+patch=1,EE,10AC21FE,extended,00000000
+[No Str]
+patch=1,EE,10AC2200,extended,00000000
+[No Vit]
+patch=1,EE,10AC2202,extended,00000000
+[No Eatk]
+patch=1,EE,10AC2204,extended,00000000
+[No Edef]
+patch=1,EE,10AC2206,extended,00000000
+[No Dex]
+patch=1,EE,00AC2208,extended,00000000
+[No Eva]
+patch=1,EE,00AC2209,extended,00000000
+[No Agl]
+patch=1,EE,00AC220A,extended,00000000
+[Level 1]
+patch=1,EE,00AC220B,extended,00000001
+[1-Hit Death]
+patch=1,EE,D0AC2254,extended,00200001
+[1-Hit Death]
+patch=1,EE,20AC2254,extended,00000001
+[No EP]
+patch=1,EE,10AC2258,extended,00000000
+

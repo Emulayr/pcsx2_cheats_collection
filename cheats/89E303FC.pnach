@@ -1,0 +1,3942 @@
+gametitle=Dot.Hack-G.U.-Volume 1-Rebirth
+[Enable Code (Must Be On)]
+patch=1,EE,901442B8,extended,00832021
+[Max Party's Chim]
+patch=1,EE,20A07640,extended,0000270F
+[Always Low Play Time]
+patch=1,EE,209F9FC8,extended,00000000
+[Always High Play Time]
+patch=1,EE,209F9FC8,extended,05F5E0FF
+[More Characters Enabled]
+patch=1,EE,20A032D8,extended,00000000
+[More Characters Enabled]
+patch=1,EE,20A032DC,extended,00000000
+[Characters Never Busy]
+patch=1,EE,20A032E0,extended,00000000
+[Characters Never Busy]
+patch=1,EE,20A032E4,extended,00000000
+[Characters Always Online]
+patch=1,EE,20A032E8,extended,00000000
+[Characters Always Online]
+patch=1,EE,20A032EC,extended,00000000
+[>>> Haseo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009F9FCC,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09F9FCE,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109F9FCE,extended,000003E7
+[Infinite GP]
+patch=1,EE,109F9FD0,extended,0000FFFF
+[Max GP]
+patch=1,EE,209F9FD0,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209F9FD4,extended,0001869F
+[Max SP]
+patch=1,EE,209F9FD8,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109F9FDC,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109F9FDE,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109F9FE0,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109F9FE2,extended,0000270F
+[Max Fire]
+patch=1,EE,109F9FE4,extended,0000270F
+[Max Water]
+patch=1,EE,109F9FE6,extended,0000270F
+[Max Wind]
+patch=1,EE,109F9FE8,extended,0000270F
+[Max Earth]
+patch=1,EE,109F9FEA,extended,0000270F
+[Max Light]
+patch=1,EE,109F9FEC,extended,0000270F
+[Max Dark]
+patch=1,EE,109F9FEE,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FAE56,extended,00000063
+[Item 2]
+patch=1,EE,109FAE5A,extended,00000063
+[Item 3]
+patch=1,EE,109FAE5E,extended,00000063
+[Item 4]
+patch=1,EE,109FAE62,extended,00000063
+[Item 5]
+patch=1,EE,109FAE66,extended,00000063
+[Item 6]
+patch=1,EE,109FAE6A,extended,00000063
+[Item 7]
+patch=1,EE,109FAE6E,extended,00000063
+[Item 8]
+patch=1,EE,109FAE72,extended,00000063
+[Item 9]
+patch=1,EE,109FAE76,extended,00000063
+[Item 10]
+patch=1,EE,109FAE7A,extended,00000063
+[Item 11]
+patch=1,EE,109FAE7E,extended,00000063
+[Item 12]
+patch=1,EE,109FAE82,extended,00000063
+[Item 13]
+patch=1,EE,109FAE86,extended,00000063
+[Item 14]
+patch=1,EE,109FAE8A,extended,00000063
+[Item 15]
+patch=1,EE,109FAE8E,extended,00000063
+[Item 16]
+patch=1,EE,109FAE92,extended,00000063
+[Item 17]
+patch=1,EE,109FAE96,extended,00000063
+[Item 18]
+patch=1,EE,109FAE9A,extended,00000063
+[Item 19]
+patch=1,EE,109FAE9E,extended,00000063
+[Item 20]
+patch=1,EE,109FAEA2,extended,00000063
+[Item 21]
+patch=1,EE,109FAEA6,extended,00000063
+[Item 22]
+patch=1,EE,109FAEAA,extended,00000063
+[Item 23]
+patch=1,EE,109FAEAE,extended,00000063
+[Item 24]
+patch=1,EE,109FAEB2,extended,00000063
+[Item 25]
+patch=1,EE,109FAEB6,extended,00000063
+[Item 26]
+patch=1,EE,109FAEBA,extended,00000063
+[Item 27]
+patch=1,EE,109FAEBE,extended,00000063
+[Item 28]
+patch=1,EE,109FAEC2,extended,00000063
+[Item 29]
+patch=1,EE,109FAEC6,extended,00000063
+[Item 30]
+patch=1,EE,109FAECA,extended,00000063
+[>>> Atori Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009F9FF0,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09F9FF2,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109F9FF2,extended,000003E7
+[Infinite GP]
+patch=1,EE,109F9FF4,extended,0000FFFF
+[Max GP]
+patch=1,EE,209F9FF4,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209F9FF8,extended,0001869F
+[Max SP]
+patch=1,EE,209F9FFC,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA000,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA002,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA004,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA006,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA008,extended,0000270F
+[Max Water]
+patch=1,EE,109FA00A,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA00C,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA00E,extended,0000270F
+[Max Light]
+patch=1,EE,109FA010,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA012,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FAECE,extended,00000063
+[Item 2]
+patch=1,EE,109FAED2,extended,00000063
+[Item 3]
+patch=1,EE,109FAED6,extended,00000063
+[Item 4]
+patch=1,EE,109FAEDA,extended,00000063
+[Item 5]
+patch=1,EE,109FAEDE,extended,00000063
+[Item 6]
+patch=1,EE,109FAEE2,extended,00000063
+[Item 7]
+patch=1,EE,109FAEE6,extended,00000063
+[Item 8]
+patch=1,EE,109FAEEA,extended,00000063
+[Item 9]
+patch=1,EE,109FAEEE,extended,00000063
+[Item 10]
+patch=1,EE,109FAEF2,extended,00000063
+[Item 11]
+patch=1,EE,109FAEF6,extended,00000063
+[Item 12]
+patch=1,EE,109FAEFA,extended,00000063
+[Item 13]
+patch=1,EE,109FAEFE,extended,00000063
+[Item 14]
+patch=1,EE,109FAF02,extended,00000063
+[Item 15]
+patch=1,EE,109FAF06,extended,00000063
+[Item 16]
+patch=1,EE,109FAF0A,extended,00000063
+[Item 17]
+patch=1,EE,109FAF0E,extended,00000063
+[Item 18]
+patch=1,EE,109FAF12,extended,00000063
+[Item 19]
+patch=1,EE,109FAF16,extended,00000063
+[Item 20]
+patch=1,EE,109FAF1A,extended,00000063
+[Item 21]
+patch=1,EE,109FAF1E,extended,00000063
+[Item 22]
+patch=1,EE,109FAF22,extended,00000063
+[Item 23]
+patch=1,EE,109FAF26,extended,00000063
+[Item 24]
+patch=1,EE,109FAF2A,extended,00000063
+[Item 25]
+patch=1,EE,109FAF2E,extended,00000063
+[Item 26]
+patch=1,EE,109FAF32,extended,00000063
+[Item 27]
+patch=1,EE,109FAF36,extended,00000063
+[Item 28]
+patch=1,EE,109FAF3A,extended,00000063
+[Item 29]
+patch=1,EE,109FAF3E,extended,00000063
+[Item 30]
+patch=1,EE,109FAF42,extended,00000063
+[>>> Kuhn Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA014,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA016,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA016,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA018,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA018,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA01C,extended,0001869F
+[Max SP]
+patch=1,EE,209FA020,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA024,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA026,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA028,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA02A,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA02C,extended,0000270F
+[Max Water]
+patch=1,EE,109FA02E,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA030,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA032,extended,0000270F
+[Max Light]
+patch=1,EE,109FA034,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA036,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FAF46,extended,00000063
+[Item 2]
+patch=1,EE,109FAF4A,extended,00000063
+[Item 3]
+patch=1,EE,109FAF4E,extended,00000063
+[Item 4]
+patch=1,EE,109FAF52,extended,00000063
+[Item 5]
+patch=1,EE,109FAF56,extended,00000063
+[Item 6]
+patch=1,EE,109FAF5A,extended,00000063
+[Item 7]
+patch=1,EE,109FAF5E,extended,00000063
+[Item 8]
+patch=1,EE,109FAF62,extended,00000063
+[Item 9]
+patch=1,EE,109FAF66,extended,00000063
+[Item 10]
+patch=1,EE,109FAF6A,extended,00000063
+[Item 11]
+patch=1,EE,109FAF6E,extended,00000063
+[Item 12]
+patch=1,EE,109FAF72,extended,00000063
+[Item 13]
+patch=1,EE,109FAF76,extended,00000063
+[Item 14]
+patch=1,EE,109FAF7A,extended,00000063
+[Item 15]
+patch=1,EE,109FAF7E,extended,00000063
+[Item 16]
+patch=1,EE,109FAF82,extended,00000063
+[Item 17]
+patch=1,EE,109FAF86,extended,00000063
+[Item 18]
+patch=1,EE,109FAF8A,extended,00000063
+[Item 19]
+patch=1,EE,109FAF8E,extended,00000063
+[Item 20]
+patch=1,EE,109FAF92,extended,00000063
+[Item 21]
+patch=1,EE,109FAF96,extended,00000063
+[Item 22]
+patch=1,EE,109FAF9A,extended,00000063
+[Item 23]
+patch=1,EE,109FAF9E,extended,00000063
+[Item 24]
+patch=1,EE,109FAFA2,extended,00000063
+[Item 25]
+patch=1,EE,109FAFA6,extended,00000063
+[Item 26]
+patch=1,EE,109FAFAA,extended,00000063
+[Item 27]
+patch=1,EE,109FAFAE,extended,00000063
+[Item 28]
+patch=1,EE,109FAFB2,extended,00000063
+[Item 29]
+patch=1,EE,109FAFB6,extended,00000063
+[Item 30]
+patch=1,EE,109FAFBA,extended,00000063
+[>>> Pi Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA038,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA03A,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA03A,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA03C,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA03C,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA040,extended,0001869F
+[Max SP]
+patch=1,EE,209FA044,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA048,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA04A,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA04C,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA04E,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA050,extended,0000270F
+[Max Water]
+patch=1,EE,109FA052,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA054,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA056,extended,0000270F
+[Max Light]
+patch=1,EE,109FA058,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA05A,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FAFBE,extended,00000063
+[Item 2]
+patch=1,EE,109FAFC2,extended,00000063
+[Item 3]
+patch=1,EE,109FAFC6,extended,00000063
+[Item 4]
+patch=1,EE,109FAFCA,extended,00000063
+[Item 5]
+patch=1,EE,109FAFCE,extended,00000063
+[Item 6]
+patch=1,EE,109FAFD2,extended,00000063
+[Item 7]
+patch=1,EE,109FAFD6,extended,00000063
+[Item 8]
+patch=1,EE,109FAFDA,extended,00000063
+[Item 9]
+patch=1,EE,109FAFDE,extended,00000063
+[Item 10]
+patch=1,EE,109FAFE2,extended,00000063
+[Item 11]
+patch=1,EE,109FAFE6,extended,00000063
+[Item 12]
+patch=1,EE,109FAFEA,extended,00000063
+[Item 13]
+patch=1,EE,109FAFEE,extended,00000063
+[Item 14]
+patch=1,EE,109FAFF2,extended,00000063
+[Item 15]
+patch=1,EE,109FAFF6,extended,00000063
+[Item 16]
+patch=1,EE,109FAFFA,extended,00000063
+[Item 17]
+patch=1,EE,109FAFFE,extended,00000063
+[Item 18]
+patch=1,EE,109FB002,extended,00000063
+[Item 19]
+patch=1,EE,109FB006,extended,00000063
+[Item 20]
+patch=1,EE,109FB00A,extended,00000063
+[Item 21]
+patch=1,EE,109FB00E,extended,00000063
+[Item 22]
+patch=1,EE,109FB012,extended,00000063
+[Item 23]
+patch=1,EE,109FB016,extended,00000063
+[Item 24]
+patch=1,EE,109FB01A,extended,00000063
+[Item 25]
+patch=1,EE,109FB01E,extended,00000063
+[Item 26]
+patch=1,EE,109FB022,extended,00000063
+[Item 27]
+patch=1,EE,109FB026,extended,00000063
+[Item 28]
+patch=1,EE,109FB02A,extended,00000063
+[Item 29]
+patch=1,EE,109FB02E,extended,00000063
+[Item 30]
+patch=1,EE,109FB032,extended,00000063
+[>>> Silabus Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA05C,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA05E,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA05E,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA060,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA060,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA064,extended,0001869F
+[Max SP]
+patch=1,EE,209FA068,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA06C,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA06E,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA070,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA072,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA074,extended,0000270F
+[Max Water]
+patch=1,EE,109FA076,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA078,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA07A,extended,0000270F
+[Max Light]
+patch=1,EE,109FA07C,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA07E,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB036,extended,00000063
+[Item 2]
+patch=1,EE,109FB03A,extended,00000063
+[Item 3]
+patch=1,EE,109FB03E,extended,00000063
+[Item 4]
+patch=1,EE,109FB042,extended,00000063
+[Item 5]
+patch=1,EE,109FB046,extended,00000063
+[Item 6]
+patch=1,EE,109FB04A,extended,00000063
+[Item 7]
+patch=1,EE,109FB04E,extended,00000063
+[Item 8]
+patch=1,EE,109FB052,extended,00000063
+[Item 9]
+patch=1,EE,109FB056,extended,00000063
+[Item 10]
+patch=1,EE,109FB05A,extended,00000063
+[Item 11]
+patch=1,EE,109FB05E,extended,00000063
+[Item 12]
+patch=1,EE,109FB062,extended,00000063
+[Item 13]
+patch=1,EE,109FB066,extended,00000063
+[Item 14]
+patch=1,EE,109FB06A,extended,00000063
+[Item 15]
+patch=1,EE,109FB06E,extended,00000063
+[Item 16]
+patch=1,EE,109FB072,extended,00000063
+[Item 17]
+patch=1,EE,109FB076,extended,00000063
+[Item 18]
+patch=1,EE,109FB07A,extended,00000063
+[Item 19]
+patch=1,EE,109FB07E,extended,00000063
+[Item 20]
+patch=1,EE,109FB082,extended,00000063
+[Item 21]
+patch=1,EE,109FB086,extended,00000063
+[Item 22]
+patch=1,EE,109FB08A,extended,00000063
+[Item 23]
+patch=1,EE,109FB08E,extended,00000063
+[Item 24]
+patch=1,EE,109FB092,extended,00000063
+[Item 25]
+patch=1,EE,109FB096,extended,00000063
+[Item 26]
+patch=1,EE,109FB09A,extended,00000063
+[Item 27]
+patch=1,EE,109FB09E,extended,00000063
+[Item 28]
+patch=1,EE,109FB0A2,extended,00000063
+[Item 29]
+patch=1,EE,109FB0A6,extended,00000063
+[Item 30]
+patch=1,EE,109FB0AA,extended,00000063
+[>>> Gaspard Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA080,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA082,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA082,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA084,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA084,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA088,extended,0001869F
+[Max SP]
+patch=1,EE,209FA08C,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA090,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA092,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA094,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA096,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA098,extended,0000270F
+[Max Water]
+patch=1,EE,109FA09A,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA09C,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA09E,extended,0000270F
+[Max Light]
+patch=1,EE,109FA0A0,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA0A2,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB0AE,extended,00000063
+[Item 2]
+patch=1,EE,109FB0B2,extended,00000063
+[Item 3]
+patch=1,EE,109FB0B6,extended,00000063
+[Item 4]
+patch=1,EE,109FB0BA,extended,00000063
+[Item 5]
+patch=1,EE,109FB0BE,extended,00000063
+[Item 6]
+patch=1,EE,109FB0C2,extended,00000063
+[Item 7]
+patch=1,EE,109FB0C6,extended,00000063
+[Item 8]
+patch=1,EE,109FB0CA,extended,00000063
+[Item 9]
+patch=1,EE,109FB0CE,extended,00000063
+[Item 10]
+patch=1,EE,109FB0D2,extended,00000063
+[Item 11]
+patch=1,EE,109FB0D6,extended,00000063
+[Item 12]
+patch=1,EE,109FB0DA,extended,00000063
+[Item 13]
+patch=1,EE,109FB0DE,extended,00000063
+[Item 14]
+patch=1,EE,109FB0E2,extended,00000063
+[Item 15]
+patch=1,EE,109FB0E6,extended,00000063
+[Item 16]
+patch=1,EE,109FB0EA,extended,00000063
+[Item 17]
+patch=1,EE,109FB0EE,extended,00000063
+[Item 18]
+patch=1,EE,109FB0F2,extended,00000063
+[Item 19]
+patch=1,EE,109FB0F6,extended,00000063
+[Item 20]
+patch=1,EE,109FB0FA,extended,00000063
+[Item 21]
+patch=1,EE,109FB0FE,extended,00000063
+[Item 22]
+patch=1,EE,109FB102,extended,00000063
+[Item 23]
+patch=1,EE,109FB106,extended,00000063
+[Item 24]
+patch=1,EE,109FB10A,extended,00000063
+[Item 25]
+patch=1,EE,109FB10E,extended,00000063
+[Item 26]
+patch=1,EE,109FB112,extended,00000063
+[Item 27]
+patch=1,EE,109FB116,extended,00000063
+[Item 28]
+patch=1,EE,109FB11A,extended,00000063
+[Item 29]
+patch=1,EE,109FB11E,extended,00000063
+[Item 30]
+patch=1,EE,109FB122,extended,00000063
+[>>> Piros The 3rd Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA0A4,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA0A6,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA0A6,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA0A8,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA0A8,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA0AC,extended,0001869F
+[Max SP]
+patch=1,EE,209FA0B0,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA0B4,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA0B6,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA0B8,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA0BA,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA0BC,extended,0000270F
+[Max Water]
+patch=1,EE,109FA0BE,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA0C0,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA0C2,extended,0000270F
+[Max Light]
+patch=1,EE,109FA0C4,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA0C6,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB126,extended,00000063
+[Item 2]
+patch=1,EE,109FB12A,extended,00000063
+[Item 3]
+patch=1,EE,109FB12E,extended,00000063
+[Item 4]
+patch=1,EE,109FB132,extended,00000063
+[Item 5]
+patch=1,EE,109FB136,extended,00000063
+[Item 6]
+patch=1,EE,109FB13A,extended,00000063
+[Item 7]
+patch=1,EE,109FB13E,extended,00000063
+[Item 8]
+patch=1,EE,109FB142,extended,00000063
+[Item 9]
+patch=1,EE,109FB146,extended,00000063
+[Item 10]
+patch=1,EE,109FB14A,extended,00000063
+[Item 11]
+patch=1,EE,109FB14E,extended,00000063
+[Item 12]
+patch=1,EE,109FB152,extended,00000063
+[Item 13]
+patch=1,EE,109FB156,extended,00000063
+[Item 14]
+patch=1,EE,109FB15A,extended,00000063
+[Item 15]
+patch=1,EE,109FB15E,extended,00000063
+[Item 16]
+patch=1,EE,109FB162,extended,00000063
+[Item 17]
+patch=1,EE,109FB166,extended,00000063
+[Item 18]
+patch=1,EE,109FB16A,extended,00000063
+[Item 19]
+patch=1,EE,109FB16E,extended,00000063
+[Item 20]
+patch=1,EE,109FB172,extended,00000063
+[Item 21]
+patch=1,EE,109FB176,extended,00000063
+[Item 22]
+patch=1,EE,109FB17A,extended,00000063
+[Item 23]
+patch=1,EE,109FB17E,extended,00000063
+[Item 24]
+patch=1,EE,109FB182,extended,00000063
+[Item 25]
+patch=1,EE,109FB186,extended,00000063
+[Item 26]
+patch=1,EE,109FB18A,extended,00000063
+[Item 27]
+patch=1,EE,109FB18E,extended,00000063
+[Item 28]
+patch=1,EE,109FB192,extended,00000063
+[Item 29]
+patch=1,EE,109FB196,extended,00000063
+[Item 30]
+patch=1,EE,109FB19A,extended,00000063
+[>>> Alkaid Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA0C8,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA0CA,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA0CA,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA0CC,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA0CC,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA0D0,extended,0001869F
+[Max SP]
+patch=1,EE,209FA0D4,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA0D8,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA0DA,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA0DC,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA0DE,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA0E0,extended,0000270F
+[Max Water]
+patch=1,EE,109FA0E2,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA0E4,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA0E6,extended,0000270F
+[Max Light]
+patch=1,EE,109FA0E8,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA0EA,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB19E,extended,00000063
+[Item 2]
+patch=1,EE,109FB1A2,extended,00000063
+[Item 3]
+patch=1,EE,109FB1A6,extended,00000063
+[Item 4]
+patch=1,EE,109FB1AA,extended,00000063
+[Item 5]
+patch=1,EE,109FB1AE,extended,00000063
+[Item 6]
+patch=1,EE,109FB1B2,extended,00000063
+[Item 7]
+patch=1,EE,109FB1B6,extended,00000063
+[Item 8]
+patch=1,EE,109FB1BA,extended,00000063
+[Item 9]
+patch=1,EE,109FB1BE,extended,00000063
+[Item 10]
+patch=1,EE,109FB1C2,extended,00000063
+[Item 11]
+patch=1,EE,109FB1C6,extended,00000063
+[Item 12]
+patch=1,EE,109FB1CA,extended,00000063
+[Item 13]
+patch=1,EE,109FB1CE,extended,00000063
+[Item 14]
+patch=1,EE,109FB1D2,extended,00000063
+[Item 15]
+patch=1,EE,109FB1D6,extended,00000063
+[Item 16]
+patch=1,EE,109FB1DA,extended,00000063
+[Item 17]
+patch=1,EE,109FB1DE,extended,00000063
+[Item 18]
+patch=1,EE,109FB1E2,extended,00000063
+[Item 19]
+patch=1,EE,109FB1E6,extended,00000063
+[Item 20]
+patch=1,EE,109FB1EA,extended,00000063
+[Item 21]
+patch=1,EE,109FB1EE,extended,00000063
+[Item 22]
+patch=1,EE,109FB1F2,extended,00000063
+[Item 23]
+patch=1,EE,109FB1F6,extended,00000063
+[Item 24]
+patch=1,EE,109FB1FA,extended,00000063
+[Item 25]
+patch=1,EE,109FB1FE,extended,00000063
+[Item 26]
+patch=1,EE,109FB202,extended,00000063
+[Item 27]
+patch=1,EE,109FB206,extended,00000063
+[Item 28]
+patch=1,EE,109FB20A,extended,00000063
+[Item 29]
+patch=1,EE,109FB20E,extended,00000063
+[Item 30]
+patch=1,EE,109FB212,extended,00000063
+[>>> Sakubo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA0EC,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA0EE,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA0EE,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA0F0,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA0F0,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA0F4,extended,0001869F
+[Max SP]
+patch=1,EE,209FA0F8,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA0FC,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA0FE,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA100,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA102,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA104,extended,0000270F
+[Max Water]
+patch=1,EE,109FA106,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA108,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA10A,extended,0000270F
+[Max Light]
+patch=1,EE,109FA10C,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA10E,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB216,extended,00000063
+[Item 2]
+patch=1,EE,109FB21A,extended,00000063
+[Item 3]
+patch=1,EE,109FB21E,extended,00000063
+[Item 4]
+patch=1,EE,109FB222,extended,00000063
+[Item 5]
+patch=1,EE,109FB226,extended,00000063
+[Item 6]
+patch=1,EE,109FB22A,extended,00000063
+[Item 7]
+patch=1,EE,109FB22E,extended,00000063
+[Item 8]
+patch=1,EE,109FB232,extended,00000063
+[Item 9]
+patch=1,EE,109FB236,extended,00000063
+[Item 10]
+patch=1,EE,109FB23A,extended,00000063
+[Item 11]
+patch=1,EE,109FB23E,extended,00000063
+[Item 12]
+patch=1,EE,109FB242,extended,00000063
+[Item 13]
+patch=1,EE,109FB246,extended,00000063
+[Item 14]
+patch=1,EE,109FB24A,extended,00000063
+[Item 15]
+patch=1,EE,109FB24E,extended,00000063
+[Item 16]
+patch=1,EE,109FB252,extended,00000063
+[Item 17]
+patch=1,EE,109FB256,extended,00000063
+[Item 18]
+patch=1,EE,109FB25A,extended,00000063
+[Item 19]
+patch=1,EE,109FB25E,extended,00000063
+[Item 20]
+patch=1,EE,109FB262,extended,00000063
+[Item 21]
+patch=1,EE,109FB266,extended,00000063
+[Item 22]
+patch=1,EE,109FB26A,extended,00000063
+[Item 23]
+patch=1,EE,109FB26E,extended,00000063
+[Item 24]
+patch=1,EE,109FB272,extended,00000063
+[Item 25]
+patch=1,EE,109FB276,extended,00000063
+[Item 26]
+patch=1,EE,109FB27A,extended,00000063
+[Item 27]
+patch=1,EE,109FB27E,extended,00000063
+[Item 28]
+patch=1,EE,109FB282,extended,00000063
+[Item 29]
+patch=1,EE,109FB286,extended,00000063
+[Item 30]
+patch=1,EE,109FB28A,extended,00000063
+[>>> Endrance Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA110,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA112,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA112,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA114,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA114,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA118,extended,0001869F
+[Max SP]
+patch=1,EE,209FA11C,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA120,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA122,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA124,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA126,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA128,extended,0000270F
+[Max Water]
+patch=1,EE,109FA12A,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA12C,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA12E,extended,0000270F
+[Max Light]
+patch=1,EE,109FA130,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA132,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB28E,extended,00000063
+[Item 2]
+patch=1,EE,109FB292,extended,00000063
+[Item 3]
+patch=1,EE,109FB296,extended,00000063
+[Item 4]
+patch=1,EE,109FB29A,extended,00000063
+[Item 5]
+patch=1,EE,109FB29E,extended,00000063
+[Item 6]
+patch=1,EE,109FB2A2,extended,00000063
+[Item 7]
+patch=1,EE,109FB2A6,extended,00000063
+[Item 8]
+patch=1,EE,109FB2AA,extended,00000063
+[Item 9]
+patch=1,EE,109FB2AE,extended,00000063
+[Item 10]
+patch=1,EE,109FB2B2,extended,00000063
+[Item 11]
+patch=1,EE,109FB2B6,extended,00000063
+[Item 12]
+patch=1,EE,109FB2BA,extended,00000063
+[Item 13]
+patch=1,EE,109FB2BE,extended,00000063
+[Item 14]
+patch=1,EE,109FB2C2,extended,00000063
+[Item 15]
+patch=1,EE,109FB2C6,extended,00000063
+[Item 16]
+patch=1,EE,109FB2CA,extended,00000063
+[Item 17]
+patch=1,EE,109FB2CE,extended,00000063
+[Item 18]
+patch=1,EE,109FB2D2,extended,00000063
+[Item 19]
+patch=1,EE,109FB2D6,extended,00000063
+[Item 20]
+patch=1,EE,109FB2DA,extended,00000063
+[Item 21]
+patch=1,EE,109FB2DE,extended,00000063
+[Item 22]
+patch=1,EE,109FB2E2,extended,00000063
+[Item 23]
+patch=1,EE,109FB2E6,extended,00000063
+[Item 24]
+patch=1,EE,109FB2EA,extended,00000063
+[Item 25]
+patch=1,EE,109FB2EE,extended,00000063
+[Item 26]
+patch=1,EE,109FB2F2,extended,00000063
+[Item 27]
+patch=1,EE,109FB2F6,extended,00000063
+[Item 28]
+patch=1,EE,109FB2FA,extended,00000063
+[Item 29]
+patch=1,EE,109FB2FE,extended,00000063
+[Item 30]
+patch=1,EE,109FB302,extended,00000063
+[>>> Antares Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA134,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA136,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA136,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA138,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA138,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA13C,extended,0001869F
+[Max SP]
+patch=1,EE,209FA140,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA144,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA146,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA148,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA14A,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA14C,extended,0000270F
+[Max Water]
+patch=1,EE,109FA14E,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA150,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA152,extended,0000270F
+[Max Light]
+patch=1,EE,109FA154,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA156,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB306,extended,00000063
+[Item 2]
+patch=1,EE,109FB30A,extended,00000063
+[Item 3]
+patch=1,EE,109FB30E,extended,00000063
+[Item 4]
+patch=1,EE,109FB312,extended,00000063
+[Item 5]
+patch=1,EE,109FB316,extended,00000063
+[Item 6]
+patch=1,EE,109FB31A,extended,00000063
+[Item 7]
+patch=1,EE,109FB31E,extended,00000063
+[Item 8]
+patch=1,EE,109FB322,extended,00000063
+[Item 9]
+patch=1,EE,109FB326,extended,00000063
+[Item 10]
+patch=1,EE,109FB32A,extended,00000063
+[Item 11]
+patch=1,EE,109FB32E,extended,00000063
+[Item 12]
+patch=1,EE,109FB332,extended,00000063
+[Item 13]
+patch=1,EE,109FB336,extended,00000063
+[Item 14]
+patch=1,EE,109FB33A,extended,00000063
+[Item 15]
+patch=1,EE,109FB33E,extended,00000063
+[Item 16]
+patch=1,EE,109FB342,extended,00000063
+[Item 17]
+patch=1,EE,109FB346,extended,00000063
+[Item 18]
+patch=1,EE,109FB34A,extended,00000063
+[Item 19]
+patch=1,EE,109FB34E,extended,00000063
+[Item 20]
+patch=1,EE,109FB352,extended,00000063
+[Item 21]
+patch=1,EE,109FB356,extended,00000063
+[Item 22]
+patch=1,EE,109FB35A,extended,00000063
+[Item 23]
+patch=1,EE,109FB35E,extended,00000063
+[Item 24]
+patch=1,EE,109FB362,extended,00000063
+[Item 25]
+patch=1,EE,109FB366,extended,00000063
+[Item 26]
+patch=1,EE,109FB36A,extended,00000063
+[Item 27]
+patch=1,EE,109FB36E,extended,00000063
+[Item 28]
+patch=1,EE,109FB372,extended,00000063
+[Item 29]
+patch=1,EE,109FB376,extended,00000063
+[Item 30]
+patch=1,EE,109FB37A,extended,00000063
+[>>> Matsu Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA158,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA15A,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA15A,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA15C,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA15C,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA160,extended,0001869F
+[Max SP]
+patch=1,EE,209FA164,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA168,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA16A,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA16C,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA16E,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA170,extended,0000270F
+[Max Water]
+patch=1,EE,109FA172,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA174,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA176,extended,0000270F
+[Max Light]
+patch=1,EE,109FA178,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA17A,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB37E,extended,00000063
+[Item 2]
+patch=1,EE,109FB382,extended,00000063
+[Item 3]
+patch=1,EE,109FB386,extended,00000063
+[Item 4]
+patch=1,EE,109FB38A,extended,00000063
+[Item 5]
+patch=1,EE,109FB38E,extended,00000063
+[Item 6]
+patch=1,EE,109FB392,extended,00000063
+[Item 7]
+patch=1,EE,109FB396,extended,00000063
+[Item 8]
+patch=1,EE,109FB39A,extended,00000063
+[Item 9]
+patch=1,EE,109FB39E,extended,00000063
+[Item 10]
+patch=1,EE,109FB3A2,extended,00000063
+[Item 11]
+patch=1,EE,109FB3A6,extended,00000063
+[Item 12]
+patch=1,EE,109FB3AA,extended,00000063
+[Item 13]
+patch=1,EE,109FB3AE,extended,00000063
+[Item 14]
+patch=1,EE,109FB3B2,extended,00000063
+[Item 15]
+patch=1,EE,109FB3B6,extended,00000063
+[Item 16]
+patch=1,EE,109FB3BA,extended,00000063
+[Item 17]
+patch=1,EE,109FB3BE,extended,00000063
+[Item 18]
+patch=1,EE,109FB3C2,extended,00000063
+[Item 19]
+patch=1,EE,109FB3C6,extended,00000063
+[Item 20]
+patch=1,EE,109FB3CA,extended,00000063
+[Item 21]
+patch=1,EE,109FB3CE,extended,00000063
+[Item 22]
+patch=1,EE,109FB3D2,extended,00000063
+[Item 23]
+patch=1,EE,109FB3D6,extended,00000063
+[Item 24]
+patch=1,EE,109FB3DA,extended,00000063
+[Item 25]
+patch=1,EE,109FB3DE,extended,00000063
+[Item 26]
+patch=1,EE,109FB3E2,extended,00000063
+[Item 27]
+patch=1,EE,109FB3E6,extended,00000063
+[Item 28]
+patch=1,EE,109FB3EA,extended,00000063
+[Item 29]
+patch=1,EE,109FB3EE,extended,00000063
+[Item 30]
+patch=1,EE,109FB3F2,extended,00000063
+[>>> Yata Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA17C,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA17E,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA17E,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA180,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA180,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA184,extended,0001869F
+[Max SP]
+patch=1,EE,209FA188,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA18C,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA18E,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA190,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA192,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA194,extended,0000270F
+[Max Water]
+patch=1,EE,109FA196,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA198,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA19A,extended,0000270F
+[Max Light]
+patch=1,EE,109FA19C,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA19E,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB3F6,extended,00000063
+[Item 2]
+patch=1,EE,109FB3FA,extended,00000063
+[Item 3]
+patch=1,EE,109FB3FE,extended,00000063
+[Item 4]
+patch=1,EE,109FB402,extended,00000063
+[Item 5]
+patch=1,EE,109FB406,extended,00000063
+[Item 6]
+patch=1,EE,109FB40A,extended,00000063
+[Item 7]
+patch=1,EE,109FB40E,extended,00000063
+[Item 8]
+patch=1,EE,109FB412,extended,00000063
+[Item 9]
+patch=1,EE,109FB416,extended,00000063
+[Item 10]
+patch=1,EE,109FB41A,extended,00000063
+[Item 11]
+patch=1,EE,109FB41E,extended,00000063
+[Item 12]
+patch=1,EE,109FB422,extended,00000063
+[Item 13]
+patch=1,EE,109FB426,extended,00000063
+[Item 14]
+patch=1,EE,109FB42A,extended,00000063
+[Item 15]
+patch=1,EE,109FB42E,extended,00000063
+[Item 16]
+patch=1,EE,109FB432,extended,00000063
+[Item 17]
+patch=1,EE,109FB436,extended,00000063
+[Item 18]
+patch=1,EE,109FB43A,extended,00000063
+[Item 19]
+patch=1,EE,109FB43E,extended,00000063
+[Item 20]
+patch=1,EE,109FB442,extended,00000063
+[Item 21]
+patch=1,EE,109FB446,extended,00000063
+[Item 22]
+patch=1,EE,109FB44A,extended,00000063
+[Item 23]
+patch=1,EE,109FB44E,extended,00000063
+[Item 24]
+patch=1,EE,109FB452,extended,00000063
+[Item 25]
+patch=1,EE,109FB456,extended,00000063
+[Item 26]
+patch=1,EE,109FB45A,extended,00000063
+[Item 27]
+patch=1,EE,109FB45E,extended,00000063
+[Item 28]
+patch=1,EE,109FB462,extended,00000063
+[Item 29]
+patch=1,EE,109FB466,extended,00000063
+[Item 30]
+patch=1,EE,109FB46A,extended,00000063
+[>>> Ovan Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA1A0,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA1A2,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA1A2,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA1A4,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA1A4,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA1A8,extended,0001869F
+[Max SP]
+patch=1,EE,209FA1AC,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA1B0,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA1B2,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA1B4,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA1B6,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA1B8,extended,0000270F
+[Max Water]
+patch=1,EE,109FA1BA,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA1BC,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA1BE,extended,0000270F
+[Max Light]
+patch=1,EE,109FA1C0,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA1C2,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB46E,extended,00000063
+[Item 2]
+patch=1,EE,109FB472,extended,00000063
+[Item 3]
+patch=1,EE,109FB476,extended,00000063
+[Item 4]
+patch=1,EE,109FB47A,extended,00000063
+[Item 5]
+patch=1,EE,109FB47E,extended,00000063
+[Item 6]
+patch=1,EE,109FB482,extended,00000063
+[Item 7]
+patch=1,EE,109FB486,extended,00000063
+[Item 8]
+patch=1,EE,109FB48A,extended,00000063
+[Item 9]
+patch=1,EE,109FB48E,extended,00000063
+[Item 10]
+patch=1,EE,109FB492,extended,00000063
+[Item 11]
+patch=1,EE,109FB496,extended,00000063
+[Item 12]
+patch=1,EE,109FB49A,extended,00000063
+[Item 13]
+patch=1,EE,109FB49E,extended,00000063
+[Item 14]
+patch=1,EE,109FB4A2,extended,00000063
+[Item 15]
+patch=1,EE,109FB4A6,extended,00000063
+[Item 16]
+patch=1,EE,109FB4AA,extended,00000063
+[Item 17]
+patch=1,EE,109FB4AE,extended,00000063
+[Item 18]
+patch=1,EE,109FB4B2,extended,00000063
+[Item 19]
+patch=1,EE,109FB4B6,extended,00000063
+[Item 20]
+patch=1,EE,109FB4BA,extended,00000063
+[Item 21]
+patch=1,EE,109FB4BE,extended,00000063
+[Item 22]
+patch=1,EE,109FB4C2,extended,00000063
+[Item 23]
+patch=1,EE,109FB4C6,extended,00000063
+[Item 24]
+patch=1,EE,109FB4CA,extended,00000063
+[Item 25]
+patch=1,EE,109FB4CE,extended,00000063
+[Item 26]
+patch=1,EE,109FB4D2,extended,00000063
+[Item 27]
+patch=1,EE,109FB4D6,extended,00000063
+[Item 28]
+patch=1,EE,109FB4DA,extended,00000063
+[Item 29]
+patch=1,EE,109FB4DE,extended,00000063
+[Item 30]
+patch=1,EE,109FB4E2,extended,00000063
+[>>> Zelkova Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA1C4,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA1C6,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA1C6,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA1C8,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA1C8,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA1CC,extended,0001869F
+[Max SP]
+patch=1,EE,209FA1D0,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA1D4,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA1D6,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA1D8,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA1DA,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA1DC,extended,0000270F
+[Max Water]
+patch=1,EE,109FA1DE,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA1E0,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA1E2,extended,0000270F
+[Max Light]
+patch=1,EE,109FA1E4,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA1E6,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB4E6,extended,00000063
+[Item 2]
+patch=1,EE,109FB4EA,extended,00000063
+[Item 3]
+patch=1,EE,109FB4EE,extended,00000063
+[Item 4]
+patch=1,EE,109FB4F2,extended,00000063
+[Item 5]
+patch=1,EE,109FB4F6,extended,00000063
+[Item 6]
+patch=1,EE,109FB4FA,extended,00000063
+[Item 7]
+patch=1,EE,109FB4FE,extended,00000063
+[Item 8]
+patch=1,EE,109FB502,extended,00000063
+[Item 9]
+patch=1,EE,109FB506,extended,00000063
+[Item 10]
+patch=1,EE,109FB50A,extended,00000063
+[Item 11]
+patch=1,EE,109FB50E,extended,00000063
+[Item 12]
+patch=1,EE,109FB512,extended,00000063
+[Item 13]
+patch=1,EE,109FB516,extended,00000063
+[Item 14]
+patch=1,EE,109FB51A,extended,00000063
+[Item 15]
+patch=1,EE,109FB51E,extended,00000063
+[Item 16]
+patch=1,EE,109FB522,extended,00000063
+[Item 17]
+patch=1,EE,109FB526,extended,00000063
+[Item 18]
+patch=1,EE,109FB52A,extended,00000063
+[Item 19]
+patch=1,EE,109FB52E,extended,00000063
+[Item 20]
+patch=1,EE,109FB532,extended,00000063
+[Item 21]
+patch=1,EE,109FB536,extended,00000063
+[Item 22]
+patch=1,EE,109FB53A,extended,00000063
+[Item 23]
+patch=1,EE,109FB53E,extended,00000063
+[Item 24]
+patch=1,EE,109FB542,extended,00000063
+[Item 25]
+patch=1,EE,109FB546,extended,00000063
+[Item 26]
+patch=1,EE,109FB54A,extended,00000063
+[Item 27]
+patch=1,EE,109FB54E,extended,00000063
+[Item 28]
+patch=1,EE,109FB552,extended,00000063
+[Item 29]
+patch=1,EE,109FB556,extended,00000063
+[Item 30]
+patch=1,EE,109FB55A,extended,00000063
+[>>> Character 16 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA1E8,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA1EA,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA1EA,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA1EC,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA1EC,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA1F0,extended,0001869F
+[Max SP]
+patch=1,EE,209FA1F4,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA1F8,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA1FA,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA1FC,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA1FE,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA200,extended,0000270F
+[Max Water]
+patch=1,EE,109FA202,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA204,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA206,extended,0000270F
+[Max Light]
+patch=1,EE,109FA208,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA20A,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB55E,extended,00000063
+[Item 2]
+patch=1,EE,109FB562,extended,00000063
+[Item 3]
+patch=1,EE,109FB566,extended,00000063
+[Item 4]
+patch=1,EE,109FB56A,extended,00000063
+[Item 5]
+patch=1,EE,109FB56E,extended,00000063
+[Item 6]
+patch=1,EE,109FB572,extended,00000063
+[Item 7]
+patch=1,EE,109FB576,extended,00000063
+[Item 8]
+patch=1,EE,109FB57A,extended,00000063
+[Item 9]
+patch=1,EE,109FB57E,extended,00000063
+[Item 10]
+patch=1,EE,109FB582,extended,00000063
+[Item 11]
+patch=1,EE,109FB586,extended,00000063
+[Item 12]
+patch=1,EE,109FB58A,extended,00000063
+[Item 13]
+patch=1,EE,109FB58E,extended,00000063
+[Item 14]
+patch=1,EE,109FB592,extended,00000063
+[Item 15]
+patch=1,EE,109FB596,extended,00000063
+[Item 16]
+patch=1,EE,109FB59A,extended,00000063
+[Item 17]
+patch=1,EE,109FB59E,extended,00000063
+[Item 18]
+patch=1,EE,109FB5A2,extended,00000063
+[Item 19]
+patch=1,EE,109FB5A6,extended,00000063
+[Item 20]
+patch=1,EE,109FB5AA,extended,00000063
+[Item 21]
+patch=1,EE,109FB5AE,extended,00000063
+[Item 22]
+patch=1,EE,109FB5B2,extended,00000063
+[Item 23]
+patch=1,EE,109FB5B6,extended,00000063
+[Item 24]
+patch=1,EE,109FB5BA,extended,00000063
+[Item 25]
+patch=1,EE,109FB5BE,extended,00000063
+[Item 26]
+patch=1,EE,109FB5C2,extended,00000063
+[Item 27]
+patch=1,EE,109FB5C6,extended,00000063
+[Item 28]
+patch=1,EE,109FB5CA,extended,00000063
+[Item 29]
+patch=1,EE,109FB5CE,extended,00000063
+[Item 30]
+patch=1,EE,109FB5D2,extended,00000063
+[>>> Gabi Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA20C,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA20E,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA20E,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA210,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA210,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA214,extended,0001869F
+[Max SP]
+patch=1,EE,209FA218,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA21C,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA21E,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA220,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA222,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA224,extended,0000270F
+[Max Water]
+patch=1,EE,109FA226,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA228,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA22A,extended,0000270F
+[Max Light]
+patch=1,EE,109FA22C,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA22E,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB5D6,extended,00000063
+[Item 2]
+patch=1,EE,109FB5DA,extended,00000063
+[Item 3]
+patch=1,EE,109FB5DE,extended,00000063
+[Item 4]
+patch=1,EE,109FB5E2,extended,00000063
+[Item 5]
+patch=1,EE,109FB5E6,extended,00000063
+[Item 6]
+patch=1,EE,109FB5EA,extended,00000063
+[Item 7]
+patch=1,EE,109FB5EE,extended,00000063
+[Item 8]
+patch=1,EE,109FB5F2,extended,00000063
+[Item 9]
+patch=1,EE,109FB5F6,extended,00000063
+[Item 10]
+patch=1,EE,109FB5FA,extended,00000063
+[Item 11]
+patch=1,EE,109FB5FE,extended,00000063
+[Item 12]
+patch=1,EE,109FB602,extended,00000063
+[Item 13]
+patch=1,EE,109FB606,extended,00000063
+[Item 14]
+patch=1,EE,109FB60A,extended,00000063
+[Item 15]
+patch=1,EE,109FB60E,extended,00000063
+[Item 16]
+patch=1,EE,109FB612,extended,00000063
+[Item 17]
+patch=1,EE,109FB616,extended,00000063
+[Item 18]
+patch=1,EE,109FB61A,extended,00000063
+[Item 19]
+patch=1,EE,109FB61E,extended,00000063
+[Item 20]
+patch=1,EE,109FB622,extended,00000063
+[Item 21]
+patch=1,EE,109FB626,extended,00000063
+[Item 22]
+patch=1,EE,109FB62A,extended,00000063
+[Item 23]
+patch=1,EE,109FB62E,extended,00000063
+[Item 24]
+patch=1,EE,109FB632,extended,00000063
+[Item 25]
+patch=1,EE,109FB636,extended,00000063
+[Item 26]
+patch=1,EE,109FB63A,extended,00000063
+[Item 27]
+patch=1,EE,109FB63E,extended,00000063
+[Item 28]
+patch=1,EE,109FB642,extended,00000063
+[Item 29]
+patch=1,EE,109FB646,extended,00000063
+[Item 30]
+patch=1,EE,109FB64A,extended,00000063
+[>>> Character 18 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA230,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA232,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA232,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA234,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA234,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA238,extended,0001869F
+[Max SP]
+patch=1,EE,209FA23C,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA240,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA242,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA244,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA246,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA248,extended,0000270F
+[Max Water]
+patch=1,EE,109FA24A,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA24C,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA24E,extended,0000270F
+[Max Light]
+patch=1,EE,109FA250,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA252,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB64E,extended,00000063
+[Item 2]
+patch=1,EE,109FB652,extended,00000063
+[Item 3]
+patch=1,EE,109FB656,extended,00000063
+[Item 4]
+patch=1,EE,109FB65A,extended,00000063
+[Item 5]
+patch=1,EE,109FB65E,extended,00000063
+[Item 6]
+patch=1,EE,109FB662,extended,00000063
+[Item 7]
+patch=1,EE,109FB666,extended,00000063
+[Item 8]
+patch=1,EE,109FB66A,extended,00000063
+[Item 9]
+patch=1,EE,109FB66E,extended,00000063
+[Item 10]
+patch=1,EE,109FB672,extended,00000063
+[Item 11]
+patch=1,EE,109FB676,extended,00000063
+[Item 12]
+patch=1,EE,109FB67A,extended,00000063
+[Item 13]
+patch=1,EE,109FB67E,extended,00000063
+[Item 14]
+patch=1,EE,109FB682,extended,00000063
+[Item 15]
+patch=1,EE,109FB686,extended,00000063
+[Item 16]
+patch=1,EE,109FB68A,extended,00000063
+[Item 17]
+patch=1,EE,109FB68E,extended,00000063
+[Item 18]
+patch=1,EE,109FB692,extended,00000063
+[Item 19]
+patch=1,EE,109FB696,extended,00000063
+[Item 20]
+patch=1,EE,109FB69A,extended,00000063
+[Item 21]
+patch=1,EE,109FB69E,extended,00000063
+[Item 22]
+patch=1,EE,109FB6A2,extended,00000063
+[Item 23]
+patch=1,EE,109FB6A6,extended,00000063
+[Item 24]
+patch=1,EE,109FB6AA,extended,00000063
+[Item 25]
+patch=1,EE,109FB6AE,extended,00000063
+[Item 26]
+patch=1,EE,109FB6B2,extended,00000063
+[Item 27]
+patch=1,EE,109FB6B6,extended,00000063
+[Item 28]
+patch=1,EE,109FB6BA,extended,00000063
+[Item 29]
+patch=1,EE,109FB6BE,extended,00000063
+[Item 30]
+patch=1,EE,109FB6C2,extended,00000063
+[>>> Tenrow Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA254,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA256,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA256,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA258,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA258,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA25C,extended,0001869F
+[Max SP]
+patch=1,EE,209FA260,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA264,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA266,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA268,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA26A,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA26C,extended,0000270F
+[Max Water]
+patch=1,EE,109FA26E,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA270,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA272,extended,0000270F
+[Max Light]
+patch=1,EE,109FA274,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA276,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB6C6,extended,00000063
+[Item 2]
+patch=1,EE,109FB6CA,extended,00000063
+[Item 3]
+patch=1,EE,109FB6CE,extended,00000063
+[Item 4]
+patch=1,EE,109FB6D2,extended,00000063
+[Item 5]
+patch=1,EE,109FB6D6,extended,00000063
+[Item 6]
+patch=1,EE,109FB6DA,extended,00000063
+[Item 7]
+patch=1,EE,109FB6DE,extended,00000063
+[Item 8]
+patch=1,EE,109FB6E2,extended,00000063
+[Item 9]
+patch=1,EE,109FB6E6,extended,00000063
+[Item 10]
+patch=1,EE,109FB6EA,extended,00000063
+[Item 11]
+patch=1,EE,109FB6EE,extended,00000063
+[Item 12]
+patch=1,EE,109FB6F2,extended,00000063
+[Item 13]
+patch=1,EE,109FB6F6,extended,00000063
+[Item 14]
+patch=1,EE,109FB6FA,extended,00000063
+[Item 15]
+patch=1,EE,109FB6FE,extended,00000063
+[Item 16]
+patch=1,EE,109FB702,extended,00000063
+[Item 17]
+patch=1,EE,109FB706,extended,00000063
+[Item 18]
+patch=1,EE,109FB70A,extended,00000063
+[Item 19]
+patch=1,EE,109FB70E,extended,00000063
+[Item 20]
+patch=1,EE,109FB712,extended,00000063
+[Item 21]
+patch=1,EE,109FB716,extended,00000063
+[Item 22]
+patch=1,EE,109FB71A,extended,00000063
+[Item 23]
+patch=1,EE,109FB71E,extended,00000063
+[Item 24]
+patch=1,EE,109FB722,extended,00000063
+[Item 25]
+patch=1,EE,109FB726,extended,00000063
+[Item 26]
+patch=1,EE,109FB72A,extended,00000063
+[Item 27]
+patch=1,EE,109FB72E,extended,00000063
+[Item 28]
+patch=1,EE,109FB732,extended,00000063
+[Item 29]
+patch=1,EE,109FB736,extended,00000063
+[Item 30]
+patch=1,EE,109FB73A,extended,00000063
+[>>> Iyoten Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA278,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA27A,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA27A,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA27C,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA27C,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA280,extended,0001869F
+[Max SP]
+patch=1,EE,209FA284,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA288,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA28A,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA28C,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA28E,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA290,extended,0000270F
+[Max Water]
+patch=1,EE,109FA292,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA294,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA296,extended,0000270F
+[Max Light]
+patch=1,EE,109FA298,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA29A,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB73E,extended,00000063
+[Item 2]
+patch=1,EE,109FB742,extended,00000063
+[Item 3]
+patch=1,EE,109FB746,extended,00000063
+[Item 4]
+patch=1,EE,109FB74A,extended,00000063
+[Item 5]
+patch=1,EE,109FB74E,extended,00000063
+[Item 6]
+patch=1,EE,109FB752,extended,00000063
+[Item 7]
+patch=1,EE,109FB756,extended,00000063
+[Item 8]
+patch=1,EE,109FB75A,extended,00000063
+[Item 9]
+patch=1,EE,109FB75E,extended,00000063
+[Item 10]
+patch=1,EE,109FB762,extended,00000063
+[Item 11]
+patch=1,EE,109FB766,extended,00000063
+[Item 12]
+patch=1,EE,109FB76A,extended,00000063
+[Item 13]
+patch=1,EE,109FB76E,extended,00000063
+[Item 14]
+patch=1,EE,109FB772,extended,00000063
+[Item 15]
+patch=1,EE,109FB776,extended,00000063
+[Item 16]
+patch=1,EE,109FB77A,extended,00000063
+[Item 17]
+patch=1,EE,109FB77E,extended,00000063
+[Item 18]
+patch=1,EE,109FB782,extended,00000063
+[Item 19]
+patch=1,EE,109FB786,extended,00000063
+[Item 20]
+patch=1,EE,109FB78A,extended,00000063
+[Item 21]
+patch=1,EE,109FB78E,extended,00000063
+[Item 22]
+patch=1,EE,109FB792,extended,00000063
+[Item 23]
+patch=1,EE,109FB796,extended,00000063
+[Item 24]
+patch=1,EE,109FB79A,extended,00000063
+[Item 25]
+patch=1,EE,109FB79E,extended,00000063
+[Item 26]
+patch=1,EE,109FB7A2,extended,00000063
+[Item 27]
+patch=1,EE,109FB7A6,extended,00000063
+[Item 28]
+patch=1,EE,109FB7AA,extended,00000063
+[Item 29]
+patch=1,EE,109FB7AE,extended,00000063
+[Item 30]
+patch=1,EE,109FB7B2,extended,00000063
+[>>> Asta Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA29C,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA29E,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA29E,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA2A0,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA2A0,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA2A4,extended,0001869F
+[Max SP]
+patch=1,EE,209FA2A8,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA2AC,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA2AE,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA2B0,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA2B2,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA2B4,extended,0000270F
+[Max Water]
+patch=1,EE,109FA2B6,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA2B8,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA2BA,extended,0000270F
+[Max Light]
+patch=1,EE,109FA2BC,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA2BE,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB7B6,extended,00000063
+[Item 2]
+patch=1,EE,109FB7BA,extended,00000063
+[Item 3]
+patch=1,EE,109FB7BE,extended,00000063
+[Item 4]
+patch=1,EE,109FB7C2,extended,00000063
+[Item 5]
+patch=1,EE,109FB7C6,extended,00000063
+[Item 6]
+patch=1,EE,109FB7CA,extended,00000063
+[Item 7]
+patch=1,EE,109FB7CE,extended,00000063
+[Item 8]
+patch=1,EE,109FB7D2,extended,00000063
+[Item 9]
+patch=1,EE,109FB7D6,extended,00000063
+[Item 10]
+patch=1,EE,109FB7DA,extended,00000063
+[Item 11]
+patch=1,EE,109FB7DE,extended,00000063
+[Item 12]
+patch=1,EE,109FB7E2,extended,00000063
+[Item 13]
+patch=1,EE,109FB7E6,extended,00000063
+[Item 14]
+patch=1,EE,109FB7EA,extended,00000063
+[Item 15]
+patch=1,EE,109FB7EE,extended,00000063
+[Item 16]
+patch=1,EE,109FB7F2,extended,00000063
+[Item 17]
+patch=1,EE,109FB7F6,extended,00000063
+[Item 18]
+patch=1,EE,109FB7FA,extended,00000063
+[Item 19]
+patch=1,EE,109FB7FE,extended,00000063
+[Item 20]
+patch=1,EE,109FB802,extended,00000063
+[Item 21]
+patch=1,EE,109FB806,extended,00000063
+[Item 22]
+patch=1,EE,109FB80A,extended,00000063
+[Item 23]
+patch=1,EE,109FB80E,extended,00000063
+[Item 24]
+patch=1,EE,109FB812,extended,00000063
+[Item 25]
+patch=1,EE,109FB816,extended,00000063
+[Item 26]
+patch=1,EE,109FB81A,extended,00000063
+[Item 27]
+patch=1,EE,109FB81E,extended,00000063
+[Item 28]
+patch=1,EE,109FB822,extended,00000063
+[Item 29]
+patch=1,EE,109FB826,extended,00000063
+[Item 30]
+patch=1,EE,109FB82A,extended,00000063
+[>>> Character 22 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA2C0,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA2C2,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA2C2,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA2C4,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA2C4,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA2C8,extended,0001869F
+[Max SP]
+patch=1,EE,209FA2CC,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA2D0,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA2D2,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA2D4,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA2D6,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA2D8,extended,0000270F
+[Max Water]
+patch=1,EE,109FA2DA,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA2DC,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA2DE,extended,0000270F
+[Max Light]
+patch=1,EE,109FA2E0,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA2E2,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB82E,extended,00000063
+[Item 2]
+patch=1,EE,109FB832,extended,00000063
+[Item 3]
+patch=1,EE,109FB836,extended,00000063
+[Item 4]
+patch=1,EE,109FB83A,extended,00000063
+[Item 5]
+patch=1,EE,109FB83E,extended,00000063
+[Item 6]
+patch=1,EE,109FB842,extended,00000063
+[Item 7]
+patch=1,EE,109FB846,extended,00000063
+[Item 8]
+patch=1,EE,109FB84A,extended,00000063
+[Item 9]
+patch=1,EE,109FB84E,extended,00000063
+[Item 10]
+patch=1,EE,109FB852,extended,00000063
+[Item 11]
+patch=1,EE,109FB856,extended,00000063
+[Item 12]
+patch=1,EE,109FB85A,extended,00000063
+[Item 13]
+patch=1,EE,109FB85E,extended,00000063
+[Item 14]
+patch=1,EE,109FB862,extended,00000063
+[Item 15]
+patch=1,EE,109FB866,extended,00000063
+[Item 16]
+patch=1,EE,109FB86A,extended,00000063
+[Item 17]
+patch=1,EE,109FB86E,extended,00000063
+[Item 18]
+patch=1,EE,109FB872,extended,00000063
+[Item 19]
+patch=1,EE,109FB876,extended,00000063
+[Item 20]
+patch=1,EE,109FB87A,extended,00000063
+[Item 21]
+patch=1,EE,109FB87E,extended,00000063
+[Item 22]
+patch=1,EE,109FB882,extended,00000063
+[Item 23]
+patch=1,EE,109FB886,extended,00000063
+[Item 24]
+patch=1,EE,109FB88A,extended,00000063
+[Item 25]
+patch=1,EE,109FB88E,extended,00000063
+[Item 26]
+patch=1,EE,109FB892,extended,00000063
+[Item 27]
+patch=1,EE,109FB896,extended,00000063
+[Item 28]
+patch=1,EE,109FB89A,extended,00000063
+[Item 29]
+patch=1,EE,109FB89E,extended,00000063
+[Item 30]
+patch=1,EE,109FB8A2,extended,00000063
+[>>> Bordeaux Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA2E4,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA2E6,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA2E6,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA2E8,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA2E8,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA2EC,extended,0001869F
+[Max SP]
+patch=1,EE,209FA2F0,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA2F4,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA2F6,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA2F8,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA2FA,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA2FC,extended,0000270F
+[Max Water]
+patch=1,EE,109FA2FE,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA300,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA302,extended,0000270F
+[Max Light]
+patch=1,EE,109FA304,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA306,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB8A6,extended,00000063
+[Item 2]
+patch=1,EE,109FB8AA,extended,00000063
+[Item 3]
+patch=1,EE,109FB8AE,extended,00000063
+[Item 4]
+patch=1,EE,109FB8B2,extended,00000063
+[Item 5]
+patch=1,EE,109FB8B6,extended,00000063
+[Item 6]
+patch=1,EE,109FB8BA,extended,00000063
+[Item 7]
+patch=1,EE,109FB8BE,extended,00000063
+[Item 8]
+patch=1,EE,109FB8C2,extended,00000063
+[Item 9]
+patch=1,EE,109FB8C6,extended,00000063
+[Item 10]
+patch=1,EE,109FB8CA,extended,00000063
+[Item 11]
+patch=1,EE,109FB8CE,extended,00000063
+[Item 12]
+patch=1,EE,109FB8D2,extended,00000063
+[Item 13]
+patch=1,EE,109FB8D6,extended,00000063
+[Item 14]
+patch=1,EE,109FB8DA,extended,00000063
+[Item 15]
+patch=1,EE,109FB8DE,extended,00000063
+[Item 16]
+patch=1,EE,109FB8E2,extended,00000063
+[Item 17]
+patch=1,EE,109FB8E6,extended,00000063
+[Item 18]
+patch=1,EE,109FB8EA,extended,00000063
+[Item 19]
+patch=1,EE,109FB8EE,extended,00000063
+[Item 20]
+patch=1,EE,109FB8F2,extended,00000063
+[Item 21]
+patch=1,EE,109FB8F6,extended,00000063
+[Item 22]
+patch=1,EE,109FB8FA,extended,00000063
+[Item 23]
+patch=1,EE,109FB8FE,extended,00000063
+[Item 24]
+patch=1,EE,109FB902,extended,00000063
+[Item 25]
+patch=1,EE,109FB906,extended,00000063
+[Item 26]
+patch=1,EE,109FB90A,extended,00000063
+[Item 27]
+patch=1,EE,109FB90E,extended,00000063
+[Item 28]
+patch=1,EE,109FB912,extended,00000063
+[Item 29]
+patch=1,EE,109FB916,extended,00000063
+[Item 30]
+patch=1,EE,109FB91A,extended,00000063
+[>>> Sakaki Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA308,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA30A,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA30A,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA30C,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA30C,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA310,extended,0001869F
+[Max SP]
+patch=1,EE,209FA314,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA318,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA31A,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA31C,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA31E,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA320,extended,0000270F
+[Max Water]
+patch=1,EE,109FA322,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA324,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA326,extended,0000270F
+[Max Light]
+patch=1,EE,109FA328,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA32A,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB91E,extended,00000063
+[Item 2]
+patch=1,EE,109FB922,extended,00000063
+[Item 3]
+patch=1,EE,109FB926,extended,00000063
+[Item 4]
+patch=1,EE,109FB92A,extended,00000063
+[Item 5]
+patch=1,EE,109FB92E,extended,00000063
+[Item 6]
+patch=1,EE,109FB932,extended,00000063
+[Item 7]
+patch=1,EE,109FB936,extended,00000063
+[Item 8]
+patch=1,EE,109FB93A,extended,00000063
+[Item 9]
+patch=1,EE,109FB93E,extended,00000063
+[Item 10]
+patch=1,EE,109FB942,extended,00000063
+[Item 11]
+patch=1,EE,109FB946,extended,00000063
+[Item 12]
+patch=1,EE,109FB94A,extended,00000063
+[Item 13]
+patch=1,EE,109FB94E,extended,00000063
+[Item 14]
+patch=1,EE,109FB952,extended,00000063
+[Item 15]
+patch=1,EE,109FB956,extended,00000063
+[Item 16]
+patch=1,EE,109FB95A,extended,00000063
+[Item 17]
+patch=1,EE,109FB95E,extended,00000063
+[Item 18]
+patch=1,EE,109FB962,extended,00000063
+[Item 19]
+patch=1,EE,109FB966,extended,00000063
+[Item 20]
+patch=1,EE,109FB96A,extended,00000063
+[Item 21]
+patch=1,EE,109FB96E,extended,00000063
+[Item 22]
+patch=1,EE,109FB972,extended,00000063
+[Item 23]
+patch=1,EE,109FB976,extended,00000063
+[Item 24]
+patch=1,EE,109FB97A,extended,00000063
+[Item 25]
+patch=1,EE,109FB97E,extended,00000063
+[Item 26]
+patch=1,EE,109FB982,extended,00000063
+[Item 27]
+patch=1,EE,109FB986,extended,00000063
+[Item 28]
+patch=1,EE,109FB98A,extended,00000063
+[Item 29]
+patch=1,EE,109FB98E,extended,00000063
+[Item 30]
+patch=1,EE,109FB992,extended,00000063
+[>>> Character 25 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA32C,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA32E,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA32E,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA330,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA330,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA334,extended,0001869F
+[Max SP]
+patch=1,EE,209FA338,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA33C,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA33E,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA340,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA342,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA344,extended,0000270F
+[Max Water]
+patch=1,EE,109FA346,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA348,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA34A,extended,0000270F
+[Max Light]
+patch=1,EE,109FA34C,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA34E,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FB996,extended,00000063
+[Item 2]
+patch=1,EE,109FB99A,extended,00000063
+[Item 3]
+patch=1,EE,109FB99E,extended,00000063
+[Item 4]
+patch=1,EE,109FB9A2,extended,00000063
+[Item 5]
+patch=1,EE,109FB9A6,extended,00000063
+[Item 6]
+patch=1,EE,109FB9AA,extended,00000063
+[Item 7]
+patch=1,EE,109FB9AE,extended,00000063
+[Item 8]
+patch=1,EE,109FB9B2,extended,00000063
+[Item 9]
+patch=1,EE,109FB9B6,extended,00000063
+[Item 10]
+patch=1,EE,109FB9BA,extended,00000063
+[Item 11]
+patch=1,EE,109FB9BE,extended,00000063
+[Item 12]
+patch=1,EE,109FB9C2,extended,00000063
+[Item 13]
+patch=1,EE,109FB9C6,extended,00000063
+[Item 14]
+patch=1,EE,109FB9CA,extended,00000063
+[Item 15]
+patch=1,EE,109FB9CE,extended,00000063
+[Item 16]
+patch=1,EE,109FB9D2,extended,00000063
+[Item 17]
+patch=1,EE,109FB9D6,extended,00000063
+[Item 18]
+patch=1,EE,109FB9DA,extended,00000063
+[Item 19]
+patch=1,EE,109FB9DE,extended,00000063
+[Item 20]
+patch=1,EE,109FB9E2,extended,00000063
+[Item 21]
+patch=1,EE,109FB9E6,extended,00000063
+[Item 22]
+patch=1,EE,109FB9EA,extended,00000063
+[Item 23]
+patch=1,EE,109FB9EE,extended,00000063
+[Item 24]
+patch=1,EE,109FB9F2,extended,00000063
+[Item 25]
+patch=1,EE,109FB9F6,extended,00000063
+[Item 26]
+patch=1,EE,109FB9FA,extended,00000063
+[Item 27]
+patch=1,EE,109FB9FE,extended,00000063
+[Item 28]
+patch=1,EE,109FBA02,extended,00000063
+[Item 29]
+patch=1,EE,109FBA06,extended,00000063
+[Item 30]
+patch=1,EE,109FBA0A,extended,00000063
+[>>> Character 26 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA350,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA352,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA352,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA354,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA354,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA358,extended,0001869F
+[Max SP]
+patch=1,EE,209FA35C,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA360,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA362,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA364,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA366,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA368,extended,0000270F
+[Max Water]
+patch=1,EE,109FA36A,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA36C,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA36E,extended,0000270F
+[Max Light]
+patch=1,EE,109FA370,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA372,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBA0E,extended,00000063
+[Item 2]
+patch=1,EE,109FBA12,extended,00000063
+[Item 3]
+patch=1,EE,109FBA16,extended,00000063
+[Item 4]
+patch=1,EE,109FBA1A,extended,00000063
+[Item 5]
+patch=1,EE,109FBA1E,extended,00000063
+[Item 6]
+patch=1,EE,109FBA22,extended,00000063
+[Item 7]
+patch=1,EE,109FBA26,extended,00000063
+[Item 8]
+patch=1,EE,109FBA2A,extended,00000063
+[Item 9]
+patch=1,EE,109FBA2E,extended,00000063
+[Item 10]
+patch=1,EE,109FBA32,extended,00000063
+[Item 11]
+patch=1,EE,109FBA36,extended,00000063
+[Item 12]
+patch=1,EE,109FBA3A,extended,00000063
+[Item 13]
+patch=1,EE,109FBA3E,extended,00000063
+[Item 14]
+patch=1,EE,109FBA42,extended,00000063
+[Item 15]
+patch=1,EE,109FBA46,extended,00000063
+[Item 16]
+patch=1,EE,109FBA4A,extended,00000063
+[Item 17]
+patch=1,EE,109FBA4E,extended,00000063
+[Item 18]
+patch=1,EE,109FBA52,extended,00000063
+[Item 19]
+patch=1,EE,109FBA56,extended,00000063
+[Item 20]
+patch=1,EE,109FBA5A,extended,00000063
+[Item 21]
+patch=1,EE,109FBA5E,extended,00000063
+[Item 22]
+patch=1,EE,109FBA62,extended,00000063
+[Item 23]
+patch=1,EE,109FBA66,extended,00000063
+[Item 24]
+patch=1,EE,109FBA6A,extended,00000063
+[Item 25]
+patch=1,EE,109FBA6E,extended,00000063
+[Item 26]
+patch=1,EE,109FBA72,extended,00000063
+[Item 27]
+patch=1,EE,109FBA76,extended,00000063
+[Item 28]
+patch=1,EE,109FBA7A,extended,00000063
+[Item 29]
+patch=1,EE,109FBA7E,extended,00000063
+[Item 30]
+patch=1,EE,109FBA82,extended,00000063
+[>>> Character 27 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA374,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA376,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA376,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA378,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA378,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA37C,extended,0001869F
+[Max SP]
+patch=1,EE,209FA380,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA384,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA386,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA388,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA38A,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA38C,extended,0000270F
+[Max Water]
+patch=1,EE,109FA38E,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA390,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA392,extended,0000270F
+[Max Light]
+patch=1,EE,109FA394,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA396,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBA86,extended,00000063
+[Item 2]
+patch=1,EE,109FBA8A,extended,00000063
+[Item 3]
+patch=1,EE,109FBA8E,extended,00000063
+[Item 4]
+patch=1,EE,109FBA92,extended,00000063
+[Item 5]
+patch=1,EE,109FBA96,extended,00000063
+[Item 6]
+patch=1,EE,109FBA9A,extended,00000063
+[Item 7]
+patch=1,EE,109FBA9E,extended,00000063
+[Item 8]
+patch=1,EE,109FBAA2,extended,00000063
+[Item 9]
+patch=1,EE,109FBAA6,extended,00000063
+[Item 10]
+patch=1,EE,109FBAAA,extended,00000063
+[Item 11]
+patch=1,EE,109FBAAE,extended,00000063
+[Item 12]
+patch=1,EE,109FBAB2,extended,00000063
+[Item 13]
+patch=1,EE,109FBAB6,extended,00000063
+[Item 14]
+patch=1,EE,109FBABA,extended,00000063
+[Item 15]
+patch=1,EE,109FBABE,extended,00000063
+[Item 16]
+patch=1,EE,109FBAC2,extended,00000063
+[Item 17]
+patch=1,EE,109FBAC6,extended,00000063
+[Item 18]
+patch=1,EE,109FBACA,extended,00000063
+[Item 19]
+patch=1,EE,109FBACE,extended,00000063
+[Item 20]
+patch=1,EE,109FBAD2,extended,00000063
+[Item 21]
+patch=1,EE,109FBAD6,extended,00000063
+[Item 22]
+patch=1,EE,109FBADA,extended,00000063
+[Item 23]
+patch=1,EE,109FBADE,extended,00000063
+[Item 24]
+patch=1,EE,109FBAE2,extended,00000063
+[Item 25]
+patch=1,EE,109FBAE6,extended,00000063
+[Item 26]
+patch=1,EE,109FBAEA,extended,00000063
+[Item 27]
+patch=1,EE,109FBAEE,extended,00000063
+[Item 28]
+patch=1,EE,109FBAF2,extended,00000063
+[Item 29]
+patch=1,EE,109FBAF6,extended,00000063
+[Item 30]
+patch=1,EE,109FBAFA,extended,00000063
+[>>> Azure Kite Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA398,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA39A,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA39A,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA39C,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA39C,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA3A0,extended,0001869F
+[Max SP]
+patch=1,EE,209FA3A4,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA3A8,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA3AA,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA3AC,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA3AE,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA3B0,extended,0000270F
+[Max Water]
+patch=1,EE,109FA3B2,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA3B4,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA3B6,extended,0000270F
+[Max Light]
+patch=1,EE,109FA3B8,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA3BA,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBAFE,extended,00000063
+[Item 2]
+patch=1,EE,109FBB02,extended,00000063
+[Item 3]
+patch=1,EE,109FBB06,extended,00000063
+[Item 4]
+patch=1,EE,109FBB0A,extended,00000063
+[Item 5]
+patch=1,EE,109FBB0E,extended,00000063
+[Item 6]
+patch=1,EE,109FBB12,extended,00000063
+[Item 7]
+patch=1,EE,109FBB16,extended,00000063
+[Item 8]
+patch=1,EE,109FBB1A,extended,00000063
+[Item 9]
+patch=1,EE,109FBB1E,extended,00000063
+[Item 10]
+patch=1,EE,109FBB22,extended,00000063
+[Item 11]
+patch=1,EE,109FBB26,extended,00000063
+[Item 12]
+patch=1,EE,109FBB2A,extended,00000063
+[Item 13]
+patch=1,EE,109FBB2E,extended,00000063
+[Item 14]
+patch=1,EE,109FBB32,extended,00000063
+[Item 15]
+patch=1,EE,109FBB36,extended,00000063
+[Item 16]
+patch=1,EE,109FBB3A,extended,00000063
+[Item 17]
+patch=1,EE,109FBB3E,extended,00000063
+[Item 18]
+patch=1,EE,109FBB42,extended,00000063
+[Item 19]
+patch=1,EE,109FBB46,extended,00000063
+[Item 20]
+patch=1,EE,109FBB4A,extended,00000063
+[Item 21]
+patch=1,EE,109FBB4E,extended,00000063
+[Item 22]
+patch=1,EE,109FBB52,extended,00000063
+[Item 23]
+patch=1,EE,109FBB56,extended,00000063
+[Item 24]
+patch=1,EE,109FBB5A,extended,00000063
+[Item 25]
+patch=1,EE,109FBB5E,extended,00000063
+[Item 26]
+patch=1,EE,109FBB62,extended,00000063
+[Item 27]
+patch=1,EE,109FBB66,extended,00000063
+[Item 28]
+patch=1,EE,109FBB6A,extended,00000063
+[Item 29]
+patch=1,EE,109FBB6E,extended,00000063
+[Item 30]
+patch=1,EE,109FBB72,extended,00000063
+[>>> Character 29 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA3BC,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA3BE,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA3BE,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA3C0,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA3C0,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA3C4,extended,0001869F
+[Max SP]
+patch=1,EE,209FA3C8,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA3CC,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA3CE,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA3D0,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA3D2,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA3D4,extended,0000270F
+[Max Water]
+patch=1,EE,109FA3D6,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA3D8,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA3DA,extended,0000270F
+[Max Light]
+patch=1,EE,109FA3DC,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA3DE,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBB76,extended,00000063
+[Item 2]
+patch=1,EE,109FBB7A,extended,00000063
+[Item 3]
+patch=1,EE,109FBB7E,extended,00000063
+[Item 4]
+patch=1,EE,109FBB82,extended,00000063
+[Item 5]
+patch=1,EE,109FBB86,extended,00000063
+[Item 6]
+patch=1,EE,109FBB8A,extended,00000063
+[Item 7]
+patch=1,EE,109FBB8E,extended,00000063
+[Item 8]
+patch=1,EE,109FBB92,extended,00000063
+[Item 9]
+patch=1,EE,109FBB96,extended,00000063
+[Item 10]
+patch=1,EE,109FBB9A,extended,00000063
+[Item 11]
+patch=1,EE,109FBB9E,extended,00000063
+[Item 12]
+patch=1,EE,109FBBA2,extended,00000063
+[Item 13]
+patch=1,EE,109FBBA6,extended,00000063
+[Item 14]
+patch=1,EE,109FBBAA,extended,00000063
+[Item 15]
+patch=1,EE,109FBBAE,extended,00000063
+[Item 16]
+patch=1,EE,109FBBB2,extended,00000063
+[Item 17]
+patch=1,EE,109FBBB6,extended,00000063
+[Item 18]
+patch=1,EE,109FBBBA,extended,00000063
+[Item 19]
+patch=1,EE,109FBBBE,extended,00000063
+[Item 20]
+patch=1,EE,109FBBC2,extended,00000063
+[Item 21]
+patch=1,EE,109FBBC6,extended,00000063
+[Item 22]
+patch=1,EE,109FBBCA,extended,00000063
+[Item 23]
+patch=1,EE,109FBBCE,extended,00000063
+[Item 24]
+patch=1,EE,109FBBD2,extended,00000063
+[Item 25]
+patch=1,EE,109FBBD6,extended,00000063
+[Item 26]
+patch=1,EE,109FBBDA,extended,00000063
+[Item 27]
+patch=1,EE,109FBBDE,extended,00000063
+[Item 28]
+patch=1,EE,109FBBE2,extended,00000063
+[Item 29]
+patch=1,EE,109FBBE6,extended,00000063
+[Item 30]
+patch=1,EE,109FBBEA,extended,00000063
+[>>> Character 30 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA3E0,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA3E2,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA3E2,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA3E4,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA3E4,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA3E8,extended,0001869F
+[Max SP]
+patch=1,EE,209FA3EC,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA3F0,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA3F2,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA3F4,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA3F6,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA3F8,extended,0000270F
+[Max Water]
+patch=1,EE,109FA3FA,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA3FC,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA3FE,extended,0000270F
+[Max Light]
+patch=1,EE,109FA400,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA402,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBBEE,extended,00000063
+[Item 2]
+patch=1,EE,109FBBF2,extended,00000063
+[Item 3]
+patch=1,EE,109FBBF6,extended,00000063
+[Item 4]
+patch=1,EE,109FBBFA,extended,00000063
+[Item 5]
+patch=1,EE,109FBBFE,extended,00000063
+[Item 6]
+patch=1,EE,109FBC02,extended,00000063
+[Item 7]
+patch=1,EE,109FBC06,extended,00000063
+[Item 8]
+patch=1,EE,109FBC0A,extended,00000063
+[Item 9]
+patch=1,EE,109FBC0E,extended,00000063
+[Item 10]
+patch=1,EE,109FBC12,extended,00000063
+[Item 11]
+patch=1,EE,109FBC16,extended,00000063
+[Item 12]
+patch=1,EE,109FBC1A,extended,00000063
+[Item 13]
+patch=1,EE,109FBC1E,extended,00000063
+[Item 14]
+patch=1,EE,109FBC22,extended,00000063
+[Item 15]
+patch=1,EE,109FBC26,extended,00000063
+[Item 16]
+patch=1,EE,109FBC2A,extended,00000063
+[Item 17]
+patch=1,EE,109FBC2E,extended,00000063
+[Item 18]
+patch=1,EE,109FBC32,extended,00000063
+[Item 19]
+patch=1,EE,109FBC36,extended,00000063
+[Item 20]
+patch=1,EE,109FBC3A,extended,00000063
+[Item 21]
+patch=1,EE,109FBC3E,extended,00000063
+[Item 22]
+patch=1,EE,109FBC42,extended,00000063
+[Item 23]
+patch=1,EE,109FBC46,extended,00000063
+[Item 24]
+patch=1,EE,109FBC4A,extended,00000063
+[Item 25]
+patch=1,EE,109FBC4E,extended,00000063
+[Item 26]
+patch=1,EE,109FBC52,extended,00000063
+[Item 27]
+patch=1,EE,109FBC56,extended,00000063
+[Item 28]
+patch=1,EE,109FBC5A,extended,00000063
+[Item 29]
+patch=1,EE,109FBC5E,extended,00000063
+[Item 30]
+patch=1,EE,109FBC62,extended,00000063
+[>>> Negimaru Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA404,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA406,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA406,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA408,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA408,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA40C,extended,0001869F
+[Max SP]
+patch=1,EE,209FA410,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA414,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA416,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA418,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA41A,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA41C,extended,0000270F
+[Max Water]
+patch=1,EE,109FA41E,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA420,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA422,extended,0000270F
+[Max Light]
+patch=1,EE,109FA424,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA426,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBC66,extended,00000063
+[Item 2]
+patch=1,EE,109FBC6A,extended,00000063
+[Item 3]
+patch=1,EE,109FBC6E,extended,00000063
+[Item 4]
+patch=1,EE,109FBC72,extended,00000063
+[Item 5]
+patch=1,EE,109FBC76,extended,00000063
+[Item 6]
+patch=1,EE,109FBC7A,extended,00000063
+[Item 7]
+patch=1,EE,109FBC7E,extended,00000063
+[Item 8]
+patch=1,EE,109FBC82,extended,00000063
+[Item 9]
+patch=1,EE,109FBC86,extended,00000063
+[Item 10]
+patch=1,EE,109FBC8A,extended,00000063
+[Item 11]
+patch=1,EE,109FBC8E,extended,00000063
+[Item 12]
+patch=1,EE,109FBC92,extended,00000063
+[Item 13]
+patch=1,EE,109FBC96,extended,00000063
+[Item 14]
+patch=1,EE,109FBC9A,extended,00000063
+[Item 15]
+patch=1,EE,109FBC9E,extended,00000063
+[Item 16]
+patch=1,EE,109FBCA2,extended,00000063
+[Item 17]
+patch=1,EE,109FBCA6,extended,00000063
+[Item 18]
+patch=1,EE,109FBCAA,extended,00000063
+[Item 19]
+patch=1,EE,109FBCAE,extended,00000063
+[Item 20]
+patch=1,EE,109FBCB2,extended,00000063
+[Item 21]
+patch=1,EE,109FBCB6,extended,00000063
+[Item 22]
+patch=1,EE,109FBCBA,extended,00000063
+[Item 23]
+patch=1,EE,109FBCBE,extended,00000063
+[Item 24]
+patch=1,EE,109FBCC2,extended,00000063
+[Item 25]
+patch=1,EE,109FBCC6,extended,00000063
+[Item 26]
+patch=1,EE,109FBCCA,extended,00000063
+[Item 27]
+patch=1,EE,109FBCCE,extended,00000063
+[Item 28]
+patch=1,EE,109FBCD2,extended,00000063
+[Item 29]
+patch=1,EE,109FBCD6,extended,00000063
+[Item 30]
+patch=1,EE,109FBCDA,extended,00000063
+[>>> Grein Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA428,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA42A,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA42A,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA42C,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA42C,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA430,extended,0001869F
+[Max SP]
+patch=1,EE,209FA434,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA438,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA43A,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA43C,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA43E,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA440,extended,0000270F
+[Max Water]
+patch=1,EE,109FA442,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA444,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA446,extended,0000270F
+[Max Light]
+patch=1,EE,109FA448,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA44A,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBCDE,extended,00000063
+[Item 2]
+patch=1,EE,109FBCE2,extended,00000063
+[Item 3]
+patch=1,EE,109FBCE6,extended,00000063
+[Item 4]
+patch=1,EE,109FBCEA,extended,00000063
+[Item 5]
+patch=1,EE,109FBCEE,extended,00000063
+[Item 6]
+patch=1,EE,109FBCF2,extended,00000063
+[Item 7]
+patch=1,EE,109FBCF6,extended,00000063
+[Item 8]
+patch=1,EE,109FBCFA,extended,00000063
+[Item 9]
+patch=1,EE,109FBCFE,extended,00000063
+[Item 10]
+patch=1,EE,109FBD02,extended,00000063
+[Item 11]
+patch=1,EE,109FBD06,extended,00000063
+[Item 12]
+patch=1,EE,109FBD0A,extended,00000063
+[Item 13]
+patch=1,EE,109FBD0E,extended,00000063
+[Item 14]
+patch=1,EE,109FBD12,extended,00000063
+[Item 15]
+patch=1,EE,109FBD16,extended,00000063
+[Item 16]
+patch=1,EE,109FBD1A,extended,00000063
+[Item 17]
+patch=1,EE,109FBD1E,extended,00000063
+[Item 18]
+patch=1,EE,109FBD22,extended,00000063
+[Item 19]
+patch=1,EE,109FBD26,extended,00000063
+[Item 20]
+patch=1,EE,109FBD2A,extended,00000063
+[Item 21]
+patch=1,EE,109FBD2E,extended,00000063
+[Item 22]
+patch=1,EE,109FBD32,extended,00000063
+[Item 23]
+patch=1,EE,109FBD36,extended,00000063
+[Item 24]
+patch=1,EE,109FBD3A,extended,00000063
+[Item 25]
+patch=1,EE,109FBD3E,extended,00000063
+[Item 26]
+patch=1,EE,109FBD42,extended,00000063
+[Item 27]
+patch=1,EE,109FBD46,extended,00000063
+[Item 28]
+patch=1,EE,109FBD4A,extended,00000063
+[Item 29]
+patch=1,EE,109FBD4E,extended,00000063
+[Item 30]
+patch=1,EE,109FBD52,extended,00000063
+[>>> Character 33 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA44C,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA44E,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA44E,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA450,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA450,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA454,extended,0001869F
+[Max SP]
+patch=1,EE,209FA458,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA45C,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA45E,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA460,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA462,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA464,extended,0000270F
+[Max Water]
+patch=1,EE,109FA466,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA468,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA46A,extended,0000270F
+[Max Light]
+patch=1,EE,109FA46C,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA46E,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBD56,extended,00000063
+[Item 2]
+patch=1,EE,109FBD5A,extended,00000063
+[Item 3]
+patch=1,EE,109FBD5E,extended,00000063
+[Item 4]
+patch=1,EE,109FBD62,extended,00000063
+[Item 5]
+patch=1,EE,109FBD66,extended,00000063
+[Item 6]
+patch=1,EE,109FBD6A,extended,00000063
+[Item 7]
+patch=1,EE,109FBD6E,extended,00000063
+[Item 8]
+patch=1,EE,109FBD72,extended,00000063
+[Item 9]
+patch=1,EE,109FBD76,extended,00000063
+[Item 10]
+patch=1,EE,109FBD7A,extended,00000063
+[Item 11]
+patch=1,EE,109FBD7E,extended,00000063
+[Item 12]
+patch=1,EE,109FBD82,extended,00000063
+[Item 13]
+patch=1,EE,109FBD86,extended,00000063
+[Item 14]
+patch=1,EE,109FBD8A,extended,00000063
+[Item 15]
+patch=1,EE,109FBD8E,extended,00000063
+[Item 16]
+patch=1,EE,109FBD92,extended,00000063
+[Item 17]
+patch=1,EE,109FBD96,extended,00000063
+[Item 18]
+patch=1,EE,109FBD9A,extended,00000063
+[Item 19]
+patch=1,EE,109FBD9E,extended,00000063
+[Item 20]
+patch=1,EE,109FBDA2,extended,00000063
+[Item 21]
+patch=1,EE,109FBDA6,extended,00000063
+[Item 22]
+patch=1,EE,109FBDAA,extended,00000063
+[Item 23]
+patch=1,EE,109FBDAE,extended,00000063
+[Item 24]
+patch=1,EE,109FBDB2,extended,00000063
+[Item 25]
+patch=1,EE,109FBDB6,extended,00000063
+[Item 26]
+patch=1,EE,109FBDBA,extended,00000063
+[Item 27]
+patch=1,EE,109FBDBE,extended,00000063
+[Item 28]
+patch=1,EE,109FBDC2,extended,00000063
+[Item 29]
+patch=1,EE,109FBDC6,extended,00000063
+[Item 30]
+patch=1,EE,109FBDCA,extended,00000063
+[>>> Character 34 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA470,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA472,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA472,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA474,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA474,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA478,extended,0001869F
+[Max SP]
+patch=1,EE,209FA47C,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA480,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA482,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA484,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA486,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA488,extended,0000270F
+[Max Water]
+patch=1,EE,109FA48A,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA48C,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA48E,extended,0000270F
+[Max Light]
+patch=1,EE,109FA490,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA492,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBDCE,extended,00000063
+[Item 2]
+patch=1,EE,109FBDD2,extended,00000063
+[Item 3]
+patch=1,EE,109FBDD6,extended,00000063
+[Item 4]
+patch=1,EE,109FBDDA,extended,00000063
+[Item 5]
+patch=1,EE,109FBDDE,extended,00000063
+[Item 6]
+patch=1,EE,109FBDE2,extended,00000063
+[Item 7]
+patch=1,EE,109FBDE6,extended,00000063
+[Item 8]
+patch=1,EE,109FBDEA,extended,00000063
+[Item 9]
+patch=1,EE,109FBDEE,extended,00000063
+[Item 10]
+patch=1,EE,109FBDF2,extended,00000063
+[Item 11]
+patch=1,EE,109FBDF6,extended,00000063
+[Item 12]
+patch=1,EE,109FBDFA,extended,00000063
+[Item 13]
+patch=1,EE,109FBDFE,extended,00000063
+[Item 14]
+patch=1,EE,109FBE02,extended,00000063
+[Item 15]
+patch=1,EE,109FBE06,extended,00000063
+[Item 16]
+patch=1,EE,109FBE0A,extended,00000063
+[Item 17]
+patch=1,EE,109FBE0E,extended,00000063
+[Item 18]
+patch=1,EE,109FBE12,extended,00000063
+[Item 19]
+patch=1,EE,109FBE16,extended,00000063
+[Item 20]
+patch=1,EE,109FBE1A,extended,00000063
+[Item 21]
+patch=1,EE,109FBE1E,extended,00000063
+[Item 22]
+patch=1,EE,109FBE22,extended,00000063
+[Item 23]
+patch=1,EE,109FBE26,extended,00000063
+[Item 24]
+patch=1,EE,109FBE2A,extended,00000063
+[Item 25]
+patch=1,EE,109FBE2E,extended,00000063
+[Item 26]
+patch=1,EE,109FBE32,extended,00000063
+[Item 27]
+patch=1,EE,109FBE36,extended,00000063
+[Item 28]
+patch=1,EE,109FBE3A,extended,00000063
+[Item 29]
+patch=1,EE,109FBE3E,extended,00000063
+[Item 30]
+patch=1,EE,109FBE42,extended,00000063
+[>>> Character 35 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA494,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA496,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA496,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA498,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA498,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA49C,extended,0001869F
+[Max SP]
+patch=1,EE,209FA4A0,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA4A4,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA4A6,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA4A8,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA4AA,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA4AC,extended,0000270F
+[Max Water]
+patch=1,EE,109FA4AE,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA4B0,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA4B2,extended,0000270F
+[Max Light]
+patch=1,EE,109FA4B4,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA4B6,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBE46,extended,00000063
+[Item 2]
+patch=1,EE,109FBE4A,extended,00000063
+[Item 3]
+patch=1,EE,109FBE4E,extended,00000063
+[Item 4]
+patch=1,EE,109FBE52,extended,00000063
+[Item 5]
+patch=1,EE,109FBE56,extended,00000063
+[Item 6]
+patch=1,EE,109FBE5A,extended,00000063
+[Item 7]
+patch=1,EE,109FBE5E,extended,00000063
+[Item 8]
+patch=1,EE,109FBE62,extended,00000063
+[Item 9]
+patch=1,EE,109FBE66,extended,00000063
+[Item 10]
+patch=1,EE,109FBE6A,extended,00000063
+[Item 11]
+patch=1,EE,109FBE6E,extended,00000063
+[Item 12]
+patch=1,EE,109FBE72,extended,00000063
+[Item 13]
+patch=1,EE,109FBE76,extended,00000063
+[Item 14]
+patch=1,EE,109FBE7A,extended,00000063
+[Item 15]
+patch=1,EE,109FBE7E,extended,00000063
+[Item 16]
+patch=1,EE,109FBE82,extended,00000063
+[Item 17]
+patch=1,EE,109FBE86,extended,00000063
+[Item 18]
+patch=1,EE,109FBE8A,extended,00000063
+[Item 19]
+patch=1,EE,109FBE8E,extended,00000063
+[Item 20]
+patch=1,EE,109FBE92,extended,00000063
+[Item 21]
+patch=1,EE,109FBE96,extended,00000063
+[Item 22]
+patch=1,EE,109FBE9A,extended,00000063
+[Item 23]
+patch=1,EE,109FBE9E,extended,00000063
+[Item 24]
+patch=1,EE,109FBEA2,extended,00000063
+[Item 25]
+patch=1,EE,109FBEA6,extended,00000063
+[Item 26]
+patch=1,EE,109FBEAA,extended,00000063
+[Item 27]
+patch=1,EE,109FBEAE,extended,00000063
+[Item 28]
+patch=1,EE,109FBEB2,extended,00000063
+[Item 29]
+patch=1,EE,109FBEB6,extended,00000063
+[Item 30]
+patch=1,EE,109FBEBA,extended,00000063
+[>>> Character 36 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA4B8,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA4BA,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA4BA,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA4BC,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA4BC,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA4C0,extended,0001869F
+[Max SP]
+patch=1,EE,209FA4C4,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA4C8,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA4CA,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA4CC,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA4CE,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA4D0,extended,0000270F
+[Max Water]
+patch=1,EE,109FA4D2,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA4D4,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA4D6,extended,0000270F
+[Max Light]
+patch=1,EE,109FA4D8,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA4DA,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBEBE,extended,00000063
+[Item 2]
+patch=1,EE,109FBEC2,extended,00000063
+[Item 3]
+patch=1,EE,109FBEC6,extended,00000063
+[Item 4]
+patch=1,EE,109FBECA,extended,00000063
+[Item 5]
+patch=1,EE,109FBECE,extended,00000063
+[Item 6]
+patch=1,EE,109FBED2,extended,00000063
+[Item 7]
+patch=1,EE,109FBED6,extended,00000063
+[Item 8]
+patch=1,EE,109FBEDA,extended,00000063
+[Item 9]
+patch=1,EE,109FBEDE,extended,00000063
+[Item 10]
+patch=1,EE,109FBEE2,extended,00000063
+[Item 11]
+patch=1,EE,109FBEE6,extended,00000063
+[Item 12]
+patch=1,EE,109FBEEA,extended,00000063
+[Item 13]
+patch=1,EE,109FBEEE,extended,00000063
+[Item 14]
+patch=1,EE,109FBEF2,extended,00000063
+[Item 15]
+patch=1,EE,109FBEF6,extended,00000063
+[Item 16]
+patch=1,EE,109FBEFA,extended,00000063
+[Item 17]
+patch=1,EE,109FBEFE,extended,00000063
+[Item 18]
+patch=1,EE,109FBF02,extended,00000063
+[Item 19]
+patch=1,EE,109FBF06,extended,00000063
+[Item 20]
+patch=1,EE,109FBF0A,extended,00000063
+[Item 21]
+patch=1,EE,109FBF0E,extended,00000063
+[Item 22]
+patch=1,EE,109FBF12,extended,00000063
+[Item 23]
+patch=1,EE,109FBF16,extended,00000063
+[Item 24]
+patch=1,EE,109FBF1A,extended,00000063
+[Item 25]
+patch=1,EE,109FBF1E,extended,00000063
+[Item 26]
+patch=1,EE,109FBF22,extended,00000063
+[Item 27]
+patch=1,EE,109FBF26,extended,00000063
+[Item 28]
+patch=1,EE,109FBF2A,extended,00000063
+[Item 29]
+patch=1,EE,109FBF2E,extended,00000063
+[Item 30]
+patch=1,EE,109FBF32,extended,00000063
+[>>> Character 37 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA4DC,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA4DE,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA4DE,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA4E0,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA4E0,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA4E4,extended,0001869F
+[Max SP]
+patch=1,EE,209FA4E8,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA4EC,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA4EE,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA4F0,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA4F2,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA4F4,extended,0000270F
+[Max Water]
+patch=1,EE,109FA4F6,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA4F8,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA4FA,extended,0000270F
+[Max Light]
+patch=1,EE,109FA4FC,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA4FE,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBF36,extended,00000063
+[Item 2]
+patch=1,EE,109FBF3A,extended,00000063
+[Item 3]
+patch=1,EE,109FBF3E,extended,00000063
+[Item 4]
+patch=1,EE,109FBF42,extended,00000063
+[Item 5]
+patch=1,EE,109FBF46,extended,00000063
+[Item 6]
+patch=1,EE,109FBF4A,extended,00000063
+[Item 7]
+patch=1,EE,109FBF4E,extended,00000063
+[Item 8]
+patch=1,EE,109FBF52,extended,00000063
+[Item 9]
+patch=1,EE,109FBF56,extended,00000063
+[Item 10]
+patch=1,EE,109FBF5A,extended,00000063
+[Item 11]
+patch=1,EE,109FBF5E,extended,00000063
+[Item 12]
+patch=1,EE,109FBF62,extended,00000063
+[Item 13]
+patch=1,EE,109FBF66,extended,00000063
+[Item 14]
+patch=1,EE,109FBF6A,extended,00000063
+[Item 15]
+patch=1,EE,109FBF6E,extended,00000063
+[Item 16]
+patch=1,EE,109FBF72,extended,00000063
+[Item 17]
+patch=1,EE,109FBF76,extended,00000063
+[Item 18]
+patch=1,EE,109FBF7A,extended,00000063
+[Item 19]
+patch=1,EE,109FBF7E,extended,00000063
+[Item 20]
+patch=1,EE,109FBF82,extended,00000063
+[Item 21]
+patch=1,EE,109FBF86,extended,00000063
+[Item 22]
+patch=1,EE,109FBF8A,extended,00000063
+[Item 23]
+patch=1,EE,109FBF8E,extended,00000063
+[Item 24]
+patch=1,EE,109FBF92,extended,00000063
+[Item 25]
+patch=1,EE,109FBF96,extended,00000063
+[Item 26]
+patch=1,EE,109FBF9A,extended,00000063
+[Item 27]
+patch=1,EE,109FBF9E,extended,00000063
+[Item 28]
+patch=1,EE,109FBFA2,extended,00000063
+[Item 29]
+patch=1,EE,109FBFA6,extended,00000063
+[Item 30]
+patch=1,EE,109FBFAA,extended,00000063
+[>>> Character 38 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA500,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA502,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA502,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA504,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA504,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA508,extended,0001869F
+[Max SP]
+patch=1,EE,209FA50C,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA510,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA512,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA514,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA516,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA518,extended,0000270F
+[Max Water]
+patch=1,EE,109FA51A,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA51C,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA51E,extended,0000270F
+[Max Light]
+patch=1,EE,109FA520,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA522,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FBFAE,extended,00000063
+[Item 2]
+patch=1,EE,109FBFB2,extended,00000063
+[Item 3]
+patch=1,EE,109FBFB6,extended,00000063
+[Item 4]
+patch=1,EE,109FBFBA,extended,00000063
+[Item 5]
+patch=1,EE,109FBFBE,extended,00000063
+[Item 6]
+patch=1,EE,109FBFC2,extended,00000063
+[Item 7]
+patch=1,EE,109FBFC6,extended,00000063
+[Item 8]
+patch=1,EE,109FBFCA,extended,00000063
+[Item 9]
+patch=1,EE,109FBFCE,extended,00000063
+[Item 10]
+patch=1,EE,109FBFD2,extended,00000063
+[Item 11]
+patch=1,EE,109FBFD6,extended,00000063
+[Item 12]
+patch=1,EE,109FBFDA,extended,00000063
+[Item 13]
+patch=1,EE,109FBFDE,extended,00000063
+[Item 14]
+patch=1,EE,109FBFE2,extended,00000063
+[Item 15]
+patch=1,EE,109FBFE6,extended,00000063
+[Item 16]
+patch=1,EE,109FBFEA,extended,00000063
+[Item 17]
+patch=1,EE,109FBFEE,extended,00000063
+[Item 18]
+patch=1,EE,109FBFF2,extended,00000063
+[Item 19]
+patch=1,EE,109FBFF6,extended,00000063
+[Item 20]
+patch=1,EE,109FBFFA,extended,00000063
+[Item 21]
+patch=1,EE,109FBFFE,extended,00000063
+[Item 22]
+patch=1,EE,109FC002,extended,00000063
+[Item 23]
+patch=1,EE,109FC006,extended,00000063
+[Item 24]
+patch=1,EE,109FC00A,extended,00000063
+[Item 25]
+patch=1,EE,109FC00E,extended,00000063
+[Item 26]
+patch=1,EE,109FC012,extended,00000063
+[Item 27]
+patch=1,EE,109FC016,extended,00000063
+[Item 28]
+patch=1,EE,109FC01A,extended,00000063
+[Item 29]
+patch=1,EE,109FC01E,extended,00000063
+[Item 30]
+patch=1,EE,109FC022,extended,00000063
+[>>> Character 39 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA524,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA526,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA526,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA528,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA528,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA52C,extended,0001869F
+[Max SP]
+patch=1,EE,209FA530,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA534,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA536,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA538,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA53A,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA53C,extended,0000270F
+[Max Water]
+patch=1,EE,109FA53E,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA540,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA542,extended,0000270F
+[Max Light]
+patch=1,EE,109FA544,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA546,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FC026,extended,00000063
+[Item 2]
+patch=1,EE,109FC02A,extended,00000063
+[Item 3]
+patch=1,EE,109FC02E,extended,00000063
+[Item 4]
+patch=1,EE,109FC032,extended,00000063
+[Item 5]
+patch=1,EE,109FC036,extended,00000063
+[Item 6]
+patch=1,EE,109FC03A,extended,00000063
+[Item 7]
+patch=1,EE,109FC03E,extended,00000063
+[Item 8]
+patch=1,EE,109FC042,extended,00000063
+[Item 9]
+patch=1,EE,109FC046,extended,00000063
+[Item 10]
+patch=1,EE,109FC04A,extended,00000063
+[Item 11]
+patch=1,EE,109FC04E,extended,00000063
+[Item 12]
+patch=1,EE,109FC052,extended,00000063
+[Item 13]
+patch=1,EE,109FC056,extended,00000063
+[Item 14]
+patch=1,EE,109FC05A,extended,00000063
+[Item 15]
+patch=1,EE,109FC05E,extended,00000063
+[Item 16]
+patch=1,EE,109FC062,extended,00000063
+[Item 17]
+patch=1,EE,109FC066,extended,00000063
+[Item 18]
+patch=1,EE,109FC06A,extended,00000063
+[Item 19]
+patch=1,EE,109FC06E,extended,00000063
+[Item 20]
+patch=1,EE,109FC072,extended,00000063
+[Item 21]
+patch=1,EE,109FC076,extended,00000063
+[Item 22]
+patch=1,EE,109FC07A,extended,00000063
+[Item 23]
+patch=1,EE,109FC07E,extended,00000063
+[Item 24]
+patch=1,EE,109FC082,extended,00000063
+[Item 25]
+patch=1,EE,109FC086,extended,00000063
+[Item 26]
+patch=1,EE,109FC08A,extended,00000063
+[Item 27]
+patch=1,EE,109FC08E,extended,00000063
+[Item 28]
+patch=1,EE,109FC092,extended,00000063
+[Item 29]
+patch=1,EE,109FC096,extended,00000063
+[Item 30]
+patch=1,EE,109FC09A,extended,00000063
+[>>> Character 40 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 50]
+patch=1,EE,009FA548,extended,00000032
+[Quick Exp Gain]
+patch=1,EE,D09FA54A,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109FA54A,extended,000003E7
+[Infinite GP]
+patch=1,EE,109FA54C,extended,0000FFFF
+[Max GP]
+patch=1,EE,209FA54C,extended,05F5E0FF
+[Max HP]
+patch=1,EE,209FA550,extended,0001869F
+[Max SP]
+patch=1,EE,209FA554,extended,0001869F
+[Max P-ATK]
+patch=1,EE,109FA558,extended,0000270F
+[Max P-DEF]
+patch=1,EE,109FA55A,extended,0000270F
+[Max M-ATK]
+patch=1,EE,109FA55C,extended,0000270F
+[Max M-DEF]
+patch=1,EE,109FA55E,extended,0000270F
+[Max Fire]
+patch=1,EE,109FA560,extended,0000270F
+[Max Water]
+patch=1,EE,109FA562,extended,0000270F
+[Max Wind]
+patch=1,EE,109FA564,extended,0000270F
+[Max Earth]
+patch=1,EE,109FA566,extended,0000270F
+[Max Light]
+patch=1,EE,109FA568,extended,0000270F
+[Max Dark]
+patch=1,EE,109FA56A,extended,0000270F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Item 1]
+patch=1,EE,109FC09E,extended,00000063
+[Item 2]
+patch=1,EE,109FC0A2,extended,00000063
+[Item 3]
+patch=1,EE,109FC0A6,extended,00000063
+[Item 4]
+patch=1,EE,109FC0AA,extended,00000063
+[Item 5]
+patch=1,EE,109FC0AE,extended,00000063
+[Item 6]
+patch=1,EE,109FC0B2,extended,00000063
+[Item 7]
+patch=1,EE,109FC0B6,extended,00000063
+[Item 8]
+patch=1,EE,109FC0BA,extended,00000063
+[Item 9]
+patch=1,EE,109FC0BE,extended,00000063
+[Item 10]
+patch=1,EE,109FC0C2,extended,00000063
+[Item 11]
+patch=1,EE,109FC0C6,extended,00000063
+[Item 12]
+patch=1,EE,109FC0CA,extended,00000063
+[Item 13]
+patch=1,EE,109FC0CE,extended,00000063
+[Item 14]
+patch=1,EE,109FC0D2,extended,00000063
+[Item 15]
+patch=1,EE,109FC0D6,extended,00000063
+[Item 16]
+patch=1,EE,109FC0DA,extended,00000063
+[Item 17]
+patch=1,EE,109FC0DE,extended,00000063
+[Item 18]
+patch=1,EE,109FC0E2,extended,00000063
+[Item 19]
+patch=1,EE,109FC0E6,extended,00000063
+[Item 20]
+patch=1,EE,109FC0EA,extended,00000063
+[Item 21]
+patch=1,EE,109FC0EE,extended,00000063
+[Item 22]
+patch=1,EE,109FC0F2,extended,00000063
+[Item 23]
+patch=1,EE,109FC0F6,extended,00000063
+[Item 24]
+patch=1,EE,109FC0FA,extended,00000063
+[Item 25]
+patch=1,EE,109FC0FE,extended,00000063
+[Item 26]
+patch=1,EE,109FC102,extended,00000063
+[Item 27]
+patch=1,EE,109FC106,extended,00000063
+[Item 28]
+patch=1,EE,109FC10A,extended,00000063
+[Item 29]
+patch=1,EE,109FC10E,extended,00000063
+[Item 30]
+patch=1,EE,109FC112,extended,00000063
+

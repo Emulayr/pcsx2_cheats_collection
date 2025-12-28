@@ -1,0 +1,16 @@
+gametitle=Jimmy Neutron-Jet Fusion
+[Enable Code (Must Be On)]
+patch=1,EE,F0200008,extended,002B08E3
+[Infinite Lives]
+patch=1,EE,202CFB30,extended,00000000
+[Extra Lives]
+patch=1,EE,102CFB28,extended,00000001
+[Infinite Battery Pack]
+patch=1,EE,0057DF9E,extended,00000001
+[Enemies Dont Attack You]
+patch=1,EE,0057DF9F,extended,00000001
+[Infinite Health]
+patch=1,EE,0057DFA0,extended,00000001
+[Unlock All Extras]
+patch=1,EE,0057DFA1,extended,00000001
+

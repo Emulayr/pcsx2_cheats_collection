@@ -1,0 +1,40 @@
+gametitle=[SLUS-20167] Quake III-Revolution
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0030137F
+[Infinite Armor]
+patch=1,EE,E0020000,extended,00688310
+[Infinite Armor]
+patch=1,EE,10688310,extended,000000C8
+[Infinite Armor]
+patch=1,EE,1076DD94,extended,000000C8
+[Max Frags]
+patch=1,EE,10688340,extended,000003E7
+[Killed Count Always 0]
+patch=1,EE,10688364,extended,00000000
+[Infinite Ammo (Machine Gun)]
+patch=1,EE,10688408,extended,000003E7
+[Infinite Ammo (Shotgun)]
+patch=1,EE,1068840C,extended,000003E7
+[Infinite Ammo (Grenade Launcher)]
+patch=1,EE,10688410,extended,000003E7
+[Infinite Ammo (Rocket Launcher)]
+patch=1,EE,10688414,extended,000003E7
+[Infinite Ammo (Plasma Gun)]
+patch=1,EE,10688420,extended,000003E7
+[Infinite Ammo (Chain Gun)]
+patch=1,EE,10688434,extended,000003E7
+[Max Flag Time]
+patch=1,EE,10692BA6,extended,00004B01
+[Max Frag Medals]
+patch=1,EE,1069AAC4,extended,0000270F
+[Max Impressive Medals]
+patch=1,EE,1069AAF4,extended,0000270F
+[Max Gauntlet Medals]
+patch=1,EE,1069AB24,extended,0000270F
+[Max Excellent Medals]
+patch=1,EE,1069AB54,extended,0000270F
+[Max Accuracy Medals]
+patch=1,EE,1069AB84,extended,0000270F
+[Max Perfect Medals]
+patch=1,EE,1069ABB4,extended,0000270F
+

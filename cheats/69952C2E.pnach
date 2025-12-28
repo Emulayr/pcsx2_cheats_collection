@@ -1,0 +1,234 @@
+gametitle=[SLUS-20168] Triple Play Baseball
+[Enable Code (Must Be On)]
+patch=1,EE,90318458,extended,0C0C8B7F
+[Home Team Scores 50]
+patch=1,EE,00393728,extended,00000032
+[Home Team Scores 20]
+patch=1,EE,00393728,extended,00000014
+[Home Team Scores 0]
+patch=1,EE,00393728,extended,00000000
+[Home Team Start With 50 Runs]
+patch=1,EE,D0393728,extended,00000000
+[Home Team Start With 50 Runs]
+patch=1,EE,00393728,extended,00000032
+[Home Team Start With 20 Runs]
+patch=1,EE,D0393728,extended,00000000
+[Home Team Start With 20 Runs]
+patch=1,EE,00393728,extended,00000014
+[Home Team Start With 10 Runs]
+patch=1,EE,D0393728,extended,00000000
+[Home Team Start With 10 Runs]
+patch=1,EE,00393728,extended,0000000A
+[Home Team Start With 5 Runs]
+patch=1,EE,D0393728,extended,00000000
+[Home Team Start With 5 Runs]
+patch=1,EE,00393728,extended,00000005
+[Away Team Scores 50]
+patch=1,EE,00393734,extended,00000032
+[Away Team Scores 20]
+patch=1,EE,00393734,extended,00000014
+[Away Team Scores 0]
+patch=1,EE,00393734,extended,00000000
+[Away Team Start With 50 Runs]
+patch=1,EE,D0393734,extended,00000000
+[Away Team Start With 50 Runs]
+patch=1,EE,00393734,extended,00000032
+[Away Team Start With 20 Runs]
+patch=1,EE,D0393734,extended,00000000
+[Away Team Start With 20 Runs]
+patch=1,EE,00393734,extended,00000014
+[Away Team Start With 10 Runs]
+patch=1,EE,D0393734,extended,00000000
+[Away Team Start With 10 Runs]
+patch=1,EE,00393734,extended,0000000A
+[Away Team Start With 5 Runs]
+patch=1,EE,D0393734,extended,00000000
+[Away Team Start With 5 Runs]
+patch=1,EE,00393734,extended,00000005
+[>>> Both Team Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Strikes]
+patch=1,EE,00393B29,extended,00000000
+[1 Strike And You Are Out]
+patch=1,EE,D0393B28,extended,00000000
+[1 Strike And You Are Out]
+patch=1,EE,00393B29,extended,00000002
+[2 Strikes And You Are Out]
+patch=1,EE,D0393B28,extended,00000000
+[2 Strikes And You Are Out]
+patch=1,EE,00393B29,extended,00000001
+[Infinite Balls]
+patch=1,EE,00393B2A,extended,00000000
+[1 Ball And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[1 Ball And You Walk]
+patch=1,EE,00393B2A,extended,00000003
+[2 Balls And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[2 Balls And You Walk]
+patch=1,EE,00393B2A,extended,00000002
+[3 Balls And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[3 Balls And You Walk]
+patch=1,EE,00393B2A,extended,00000001
+[Infinite Outs]
+patch=1,EE,00393B2B,extended,00000000
+[1 Out And You Are Out]
+patch=1,EE,D0393B2A,extended,00000000
+[1 Out And You Are Out]
+patch=1,EE,00393B2B,extended,00000002
+[2 Outs And You Are Out]
+patch=1,EE,D0393B2A,extended,00000000
+[2 Outs And You Are Out]
+patch=1,EE,00393B2B,extended,00000001
+[Always Full Count]
+patch=1,EE,00393B29,extended,00000002
+[Always Full Count]
+patch=1,EE,00393B2A,extended,00000003
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B29,extended,00000002
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B2A,extended,00000003
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B2B,extended,00000002
+[>>> Home Team Only Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Strikes]
+patch=1,EE,E0010001,extended,0038A7E4
+[Infinite Strikes]
+patch=1,EE,00393B29,extended,00000000
+[1 Strike And You Are Out]
+patch=1,EE,E0020001,extended,0038A7E4
+[1 Strike And You Are Out]
+patch=1,EE,D0393B28,extended,00000000
+[1 Strike And You Are Out]
+patch=1,EE,00393B29,extended,00000002
+[2 Strikes And You Are Out]
+patch=1,EE,E0020001,extended,0038A7E4
+[2 Strikes And You Are Out]
+patch=1,EE,D0393B28,extended,00000000
+[2 Strikes And You Are Out]
+patch=1,EE,00393B29,extended,00000001
+[Infinite Balls]
+patch=1,EE,E0010001,extended,0038A7E4
+[Infinite Balls]
+patch=1,EE,00393B2A,extended,00000000
+[1 Ball And You Walk]
+patch=1,EE,E0020001,extended,0038A7E4
+[1 Ball And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[1 Ball And You Walk]
+patch=1,EE,00393B2A,extended,00000003
+[2 Balls And You Walk]
+patch=1,EE,E0020001,extended,0038A7E4
+[2 Balls And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[2 Balls And You Walk]
+patch=1,EE,00393B2A,extended,00000002
+[3 Balls And You Walk]
+patch=1,EE,E0020001,extended,0038A7E4
+[3 Balls And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[3 Balls And You Walk]
+patch=1,EE,00393B2A,extended,00000001
+[Infinite Outs]
+patch=1,EE,E0010001,extended,0038A7E4
+[Infinite Outs]
+patch=1,EE,00393B2B,extended,00000000
+[1 Out And You Are Out]
+patch=1,EE,E0020001,extended,0038A7E4
+[1 Out And You Are Out]
+patch=1,EE,D0393B2A,extended,00000000
+[1 Out And You Are Out]
+patch=1,EE,00393B2B,extended,00000002
+[2 Outs And You Are Out]
+patch=1,EE,E0020001,extended,0038A7E4
+[2 Outs And You Are Out]
+patch=1,EE,D0393B2A,extended,00000000
+[2 Outs And You Are Out]
+patch=1,EE,00393B2B,extended,00000001
+[Always Full Count]
+patch=1,EE,E0020001,extended,0038A7E4
+[Always Full Count]
+patch=1,EE,00393B29,extended,00000002
+[Always Full Count]
+patch=1,EE,00393B2A,extended,00000003
+[Always Full Count & 2 Outs]
+patch=1,EE,E0030001,extended,0038A7E4
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B29,extended,00000002
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B2A,extended,00000003
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B2B,extended,00000002
+[>>> Away Team Only Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Strikes]
+patch=1,EE,E0010000,extended,0038A7E4
+[Infinite Strikes]
+patch=1,EE,00393B29,extended,00000000
+[1 Strike And You Are Out]
+patch=1,EE,E0020000,extended,0038A7E4
+[1 Strike And You Are Out]
+patch=1,EE,D0393B28,extended,00000000
+[1 Strike And You Are Out]
+patch=1,EE,00393B29,extended,00000002
+[2 Strikes And You Are Out]
+patch=1,EE,E0020000,extended,0038A7E4
+[2 Strikes And You Are Out]
+patch=1,EE,D0393B28,extended,00000000
+[2 Strikes And You Are Out]
+patch=1,EE,00393B29,extended,00000001
+[Infinite Balls]
+patch=1,EE,E0010000,extended,0038A7E4
+[Infinite Balls]
+patch=1,EE,00393B2A,extended,00000000
+[1 Ball And You Walk]
+patch=1,EE,E0020000,extended,0038A7E4
+[1 Ball And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[1 Ball And You Walk]
+patch=1,EE,00393B2A,extended,00000003
+[2 Balls And You Walk]
+patch=1,EE,E0020000,extended,0038A7E4
+[2 Balls And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[2 Balls And You Walk]
+patch=1,EE,00393B2A,extended,00000002
+[3 Balls And You Walk]
+patch=1,EE,E0020000,extended,0038A7E4
+[3 Balls And You Walk]
+patch=1,EE,D0393B2A,extended,00000000
+[3 Balls And You Walk]
+patch=1,EE,00393B2A,extended,00000001
+[Infinite Outs]
+patch=1,EE,E0010000,extended,0038A7E4
+[Infinite Outs]
+patch=1,EE,00393B2B,extended,00000000
+[1 Out And You Are Out]
+patch=1,EE,E0020000,extended,0038A7E4
+[1 Out And You Are Out]
+patch=1,EE,D0393B2A,extended,00000000
+[1 Out And You Are Out]
+patch=1,EE,00393B2B,extended,00000002
+[2 Outs And You Are Out]
+patch=1,EE,E0020000,extended,0038A7E4
+[2 Outs And You Are Out]
+patch=1,EE,D0393B2A,extended,00000000
+[2 Outs And You Are Out]
+patch=1,EE,00393B2B,extended,00000001
+[Always Full Count]
+patch=1,EE,E0020000,extended,0038A7E4
+[Always Full Count]
+patch=1,EE,00393B29,extended,00000002
+[Always Full Count]
+patch=1,EE,00393B2A,extended,00000003
+[Always Full Count & 2 Outs]
+patch=1,EE,E0030000,extended,0038A7E4
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B29,extended,00000002
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B2A,extended,00000003
+[Always Full Count & 2 Outs]
+patch=1,EE,00393B2B,extended,00000002
+

@@ -1,0 +1,20 @@
+gametitle=Midway Arcade Treasures 3-Badlands
+[Enable Code (Must Be On)]
+patch=1,EE,90148F88,extended,00832021
+[Max Score]
+patch=1,EE,1038B9C6,extended,00000F00
+[Max Score]
+patch=1,EE,1038B9C8,extended,00003F42
+[Start On Lap 4]
+patch=1,EE,D038B9EE,extended,00010000
+[Start On Lap 4]
+patch=1,EE,0038B9EE,extended,00000003
+[Start On Lap 3]
+patch=1,EE,D038B9EE,extended,00010000
+[Start On Lap 3]
+patch=1,EE,0038B9EE,extended,00000002
+[Start On Lap 2]
+patch=1,EE,D038B9EE,extended,00010000
+[Start On Lap 2]
+patch=1,EE,0038B9EE,extended,00000001
+

@@ -1,0 +1,91 @@
+gametitle=Get On Da Mic
+[Enable Code (Must Be On)]
+patch=1,EE,9012BFA4,extended,0C04E684
+[>>> Unlock Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lil Mona]
+patch=1,EE,204517B0,extended,00000001
+[Old School]
+patch=1,EE,20452A30,extended,00000001
+[>>> Career Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Baby T Codes]
+[Quick Score Gain]
+patch=1,EE,1044FBF8,extended,0000FFFF
+[Max Score]
+patch=1,EE,2044FBF8,extended,05F5E0FF
+[Start On Last Level]
+patch=1,EE,D045052C,extended,00000000
+[Start On Last Level]
+patch=1,EE,2045052C,extended,0000000B
+[>>> Kenia Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quick Score Gain]
+patch=1,EE,10450538,extended,0000FFFF
+[Max Score]
+patch=1,EE,20450538,extended,05F5E0FF
+[Start On Last Level]
+patch=1,EE,D0450E6C,extended,00000000
+[Start On Last Level]
+patch=1,EE,20450E6C,extended,0000000B
+[>>> Tricia Allens Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quick Score Gain]
+patch=1,EE,10450E78,extended,0000FFFF
+[Max Score]
+patch=1,EE,20450E78,extended,05F5E0FF
+[Start On Last Level]
+patch=1,EE,D04517AC,extended,00000000
+[Start On Last Level]
+patch=1,EE,204517AC,extended,0000000B
+[>>> Lil Mona Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quick Score Gain]
+patch=1,EE,104517B8,extended,0000FFFF
+[Max Score]
+patch=1,EE,204517B8,extended,05F5E0FF
+[Start On Last Level]
+patch=1,EE,D04520EC,extended,00000000
+[Start On Last Level]
+patch=1,EE,204520EC,extended,0000000B
+[>>> Flow On Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quick Score Gain]
+patch=1,EE,104520F8,extended,0000FFFF
+[Max Score]
+patch=1,EE,204520F8,extended,05F5E0FF
+[Start On Last Level]
+patch=1,EE,D0452A2C,extended,00000000
+[Start On Last Level]
+patch=1,EE,20452A2C,extended,0000000B
+[>>> Malik West Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quick Score Gain]
+patch=1,EE,10452A38,extended,0000FFFF
+[Max Score]
+patch=1,EE,20452A38,extended,05F5E0FF
+[Start On Last Level]
+patch=1,EE,D045336C,extended,00000000
+[Start On Last Level]
+patch=1,EE,2045336C,extended,0000000B
+[>>> Big Stacks Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quick Score Gain]
+patch=1,EE,10453378,extended,0000FFFF
+[Max Score]
+patch=1,EE,20453378,extended,05F5E0FF
+[Start On Last Level]
+patch=1,EE,D0453CAC,extended,00000000
+[Start On Last Level]
+patch=1,EE,20453CAC,extended,0000000B
+[>>> Old School Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quick Score Gain]
+patch=1,EE,10453CB8,extended,0000FFFF
+[Max Score]
+patch=1,EE,20453CB8,extended,05F5E0FF
+[Start On Last Level]
+patch=1,EE,D04545EC,extended,00000000
+[Start On Last Level]
+patch=1,EE,204545EC,extended,0000000B
+

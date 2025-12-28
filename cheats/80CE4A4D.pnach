@@ -1,0 +1,16 @@
+gametitle=[SLUS-20085] Silpheed-The Lost Planet
+[Enable Code (Must Be On)]
+patch=1,EE,90266B08,extended,0C09C6B3
+[Infinite Shields]
+patch=1,EE,102BF4D4,extended,0000000A
+[Have All Weapons]
+cheat0_code = "202BF52C FFFFFFFF
+[Quick Score Gain]
+patch=1,EE,11F41C00,extended,0000FFFF
+[Quick Score Gain]
+patch=1,EE,11F41C08,extended,0000FFFF
+[Max Score]
+patch=1,EE,21F41C00,extended,05F5E0FF
+[Max Score]
+patch=1,EE,21F41C08,extended,05F5E0FF
+

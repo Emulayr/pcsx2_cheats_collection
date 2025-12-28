@@ -1,0 +1,26 @@
+gametitle=[SLUS-20816] American Idol
+[Enable Code (Must Be On)]
+patch=1,EE,902A699C,extended,0C0AB585
+[Always Score Perfect Marks]
+patch=1,EE,201877A0,extended,03E00008
+[Always Score Perfect Marks]
+patch=1,EE,201877A4,extended,24020004
+[Easier Marks]
+patch=1,EE,20187860,extended,00000000
+[Ouch/Bad Never Counts]
+patch=1,EE,20188814,extended,00000000
+[Ouch/Bad Never Counts]
+patch=1,EE,20188818,extended,00000000
+[Get 1 Flair Point For Max Flair Points]
+patch=1,EE,2018D07C,extended,24020004
+[Always Count Flair Points]
+patch=1,EE,2018CFCC,extended,00000000
+[Always Count Flair Points]
+patch=1,EE,2018CFD0,extended,00000000
+[Always Count Flair Points]
+patch=1,EE,2018CFDC,extended,00000000
+[Always Count Flair Points]
+patch=1,EE,2018CFE0,extended,00000000
+[Max Flair Meter]
+patch=1,EE,2018D5E4,extended,00000000
+

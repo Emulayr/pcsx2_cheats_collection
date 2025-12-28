@@ -1,0 +1,252 @@
+gametitle=TOCA Race Driver 2-Ultimate Racing Simulator
+[Enable Code (Must Be On)]
+patch=1,EE,9041D774,extended,0C10F135
+[P1 Press {R1}+{CROSS} For Insane Boost!]
+patch=1,EE,E003B7FF,extended,005D7242
+[P1 Press {R1}+{CROSS} For Insane Boost!]
+patch=1,EE,20154748,extended,00000000
+[P1 Press {R1}+{CROSS} For Insane Boost!]
+patch=1,EE,2015475C,extended,3C013E00
+[P1 Press {R1}+{CROSS} For Insane Boost!]
+patch=1,EE,20154764,extended,44816000
+[P1 Press {R1}+{CROSS} For Insane Boost!]
+patch=1,EE,E002FFFF,extended,005D7242
+[P1 Press {R1}+{CROSS} For Insane Boost!]
+patch=1,EE,20154748,extended,10400007
+[P1 Press {R1}+{CROSS} For Insane Boost!]
+patch=1,EE,20154764,extended,4600AB06
+[P1 Press {R2}+{CROSS} For Holy Sh!t Boost!]
+patch=1,EE,E003BDFF,extended,005D7242
+[P1 Press {R2}+{CROSS} For Holy Sh!t Boost!]
+patch=1,EE,20154748,extended,00000000
+[P1 Press {R2}+{CROSS} For Holy Sh!t Boost!]
+patch=1,EE,2015475C,extended,3C013F00
+[P1 Press {R2}+{CROSS} For Holy Sh!t Boost!]
+patch=1,EE,20154764,extended,44816000
+[P1 Press {R2}+{CROSS} For Holy Sh!t Boost!]
+patch=1,EE,E002FFFF,extended,005D7242
+[P1 Press {R2}+{CROSS} For Holy Sh!t Boost!]
+patch=1,EE,20154748,extended,10400007
+[P1 Press {R2}+{CROSS} For Holy Sh!t Boost!]
+patch=1,EE,20154764,extended,4600AB06
+[Always Low Race Time]
+patch=1,EE,2025DF58,extended,FE000010
+[Start On Lap 2]
+patch=1,EE,D05102E4,extended,00000001
+[Start On Lap 2]
+patch=1,EE,205102E4,extended,00000002
+[Start On Lap 3]
+patch=1,EE,D05102E4,extended,00000001
+[Start On Lap 3]
+patch=1,EE,205102E4,extended,00000003
+[Start On Lap 4]
+patch=1,EE,D05102E4,extended,00000001
+[Start On Lap 4]
+patch=1,EE,205102E4,extended,00000004
+[Start On Lap 5]
+patch=1,EE,D05102E4,extended,00000001
+[Start On Lap 5]
+patch=1,EE,205102E4,extended,00000005
+[P1 Press {L1}+{L2} To Finish Race]
+patch=1,EE,D05D7242,extended,0000FAFF
+[P1 Press {L1}+{L2} To Finish Race]
+patch=1,EE,205102E4,extended,00000063
+[P1 Press {L1}+{SELECT} To Stop Race Time]
+patch=1,EE,D05D7242,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Stop Race Time]
+patch=1,EE,2025DF58,extended,00000000
+[P1 Press {L2}+{SELECT} To Restart Race Time]
+patch=1,EE,D05D7242,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Restart Race Time]
+patch=1,EE,2025DF58,extended,FE020010
+[Unlock All Bonus Cheats]
+patch=1,EE,2050DEEC,extended,000000FF
+[Unlock All Movie Trailers]
+patch=1,EE,20476F60,extended,00000000
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[CHAMPS]
+patch=1,EE,004E6BB0,extended,00000001
+[XCHAMPS]
+patch=1,EE,004E6BBB,extended,00000001
+[BOOST]
+patch=1,EE,004E6BC6,extended,00000001
+[FWDRIVE]
+patch=1,EE,004E6BD1,extended,00000001
+[NODENT]
+patch=1,EE,004E6BDC,extended,00000001
+[THEEND]
+patch=1,EE,004E6BE7,extended,00000001
+[Unlock All Movies]
+patch=1,EE,200C0240,extended,34420001
+[Unlock All Movies]
+patch=1,EE,200C0244,extended,A0620042
+[Unlock All Movies]
+patch=1,EE,200C0248,extended,03E00008
+[Unlock All Movies]
+patch=1,EE,200C024C,extended,24020001
+[Unlock All Movies]
+patch=1,EE,2013D224,extended,08030090
+[Unlock All Movies]
+patch=1,EE,2013D228,extended,00000000
+[>>> Unlock Championship Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sunshine Series]
+patch=1,EE,705692AA,extended,00000002
+[Coast To Coast]
+patch=1,EE,7056953E,extended,00000002
+['68 Mustang Challenge]
+patch=1,EE,705697D2,extended,00000002
+[Mustang Challenge 2000]
+patch=1,EE,70569A66,extended,00000002
+[Formula Ford]
+patch=1,EE,70569CFA,extended,00000002
+[Pacific American]
+patch=1,EE,70569F8E,extended,00000002
+[Supercopa]
+patch=1,EE,7056A222,extended,00000002
+[SuperTruck Racing]
+patch=1,EE,7056A4B6,extended,00000002
+[Vintage Classic]
+patch=1,EE,7056A74A,extended,00000002
+[Convertible Tour]
+patch=1,EE,7056A9DE,extended,00000002
+[Duez Trophy]
+patch=1,EE,7056AC72,extended,00000002
+[Truman Stockcar]
+patch=1,EE,7056AF06,extended,00000002
+[Global GT Lights]
+patch=1,EE,7056B19A,extended,00000002
+[DTM]
+patch=1,EE,7056B42E,extended,00000002
+[Street Series]
+patch=1,EE,7056B6C2,extended,00000002
+[Pacific Street]
+patch=1,EE,7056B956,extended,00000002
+[Koenig Speedfest]
+patch=1,EE,7056BBEA,extended,00000002
+[Excalibur Cup]
+patch=1,EE,7056BE7E,extended,00000002
+[XKR Series]
+patch=1,EE,7056C112,extended,00000002
+[V8 SUpercars]
+patch=1,EE,7056C3A6,extended,00000002
+[American 1000]
+patch=1,EE,7056C63A,extended,00000002
+[World GT]
+patch=1,EE,7056C8CE,extended,00000002
+[Hotrod Streetrace]
+patch=1,EE,7056CB62,extended,00000002
+[Supercar Cup]
+patch=1,EE,7056CDF6,extended,00000002
+[Duez Cup]
+patch=1,EE,7056D08A,extended,00000002
+[Masters Grand Prix]
+patch=1,EE,7056D31E,extended,00000002
+[Lightning 500]
+patch=1,EE,7056D5B2,extended,00000002
+[Bowler Rallycross]
+patch=1,EE,7056D846,extended,00000002
+[UK Rallycross]
+patch=1,EE,7056DADA,extended,00000002
+[Euro Rally]
+patch=1,EE,7056DD6E,extended,00000002
+[Caliburn Classic]
+patch=1,EE,7056E002,extended,00000002
+[Mamba Single Day]
+patch=1,EE,7056E296,extended,00000002
+[Speed Circus]
+patch=1,EE,7056E52A,extended,00000002
+[All Championships]
+patch=1,EE,200C0220,extended,00411025
+[All Championships]
+patch=1,EE,200C0224,extended,AC820290
+[All Championships]
+patch=1,EE,200C0228,extended,03E00008
+[All Championships]
+patch=1,EE,200C022C,extended,24040001
+[All Championships]
+patch=1,EE,2022D314,extended,0C030088
+[All Championships]
+patch=1,EE,2022D318,extended,3C010002
+[>>> Unlock Championship Car Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sunshine Series]
+patch=1,EE,705692AA,extended,00000008
+[Coast To Coast]
+patch=1,EE,7056953E,extended,00000008
+['68 Mustang Challenge]
+patch=1,EE,705697D2,extended,00000008
+[Mustang Challenge 2000]
+patch=1,EE,70569A66,extended,00000008
+[Formula Ford]
+patch=1,EE,70569CFA,extended,00000008
+[Pacific American]
+patch=1,EE,70569F8E,extended,00000008
+[Supercopa]
+patch=1,EE,7056A222,extended,00000008
+[SuperTruck Racing]
+patch=1,EE,7056A4B6,extended,00000008
+[Vintage Classic]
+patch=1,EE,7056A74A,extended,00000008
+[Convertible Tour]
+patch=1,EE,7056A9DE,extended,00000008
+[Duez Trophy]
+patch=1,EE,7056AC72,extended,00000008
+[Truman Stockcar]
+patch=1,EE,7056AF06,extended,00000008
+[Global GT Lights]
+patch=1,EE,7056B19A,extended,00000008
+[DTM]
+patch=1,EE,7056B42E,extended,00000008
+[Street Series]
+patch=1,EE,7056B6C2,extended,00000008
+[Pacific Street]
+patch=1,EE,7056B956,extended,00000008
+[Koenig Speedfest]
+patch=1,EE,7056BBEA,extended,00000008
+[Excalibur Cup]
+patch=1,EE,7056BE7E,extended,00000008
+[XKR Series]
+patch=1,EE,7056C112,extended,00000008
+[V8 SUpercars]
+patch=1,EE,7056C3A6,extended,00000008
+[American 1000]
+patch=1,EE,7056C63A,extended,00000008
+[World GT]
+patch=1,EE,7056C8CE,extended,00000008
+[Hotrod Streetrace]
+patch=1,EE,7056CB62,extended,00000008
+[Supercar Cup]
+patch=1,EE,7056CDF6,extended,00000008
+[Duez Cup]
+patch=1,EE,7056D08A,extended,00000008
+[Masters Grand Prix]
+patch=1,EE,7056D31E,extended,00000008
+[Lightning 500]
+patch=1,EE,7056D5B2,extended,00000008
+[Bowler Rallycross]
+patch=1,EE,7056D846,extended,00000008
+[UK Rallycross]
+patch=1,EE,7056DADA,extended,00000008
+[Euro Rally]
+patch=1,EE,7056DD6E,extended,00000008
+[Caliburn Classic]
+patch=1,EE,7056E002,extended,00000008
+[Mamba Single Day]
+patch=1,EE,7056E296,extended,00000008
+[Speed Circus]
+patch=1,EE,7056E52A,extended,00000008
+[All Championship Cars]
+patch=1,EE,200C0230,extended,00411025
+[All Championship Cars]
+patch=1,EE,200C0234,extended,AC620290
+[All Championship Cars]
+patch=1,EE,200C0238,extended,03E00008
+[All Championship Cars]
+patch=1,EE,200C023C,extended,24020001
+[All Championship Cars]
+patch=1,EE,2022CC60,extended,0C03008C
+[All Championship Cars]
+patch=1,EE,2022CC64,extended,3C010008
+

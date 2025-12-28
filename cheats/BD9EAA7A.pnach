@@ -1,0 +1,278 @@
+gametitle=Shin Megami Tensei-Devil Summoner
+[Enable Code (Must Be On)]
+patch=1,EE,90379B6C,extended,0C0E21BF
+[Infinite Money]
+patch=1,EE,10E6DE48,extended,0000FFFF
+[Max Money]
+patch=1,EE,20E6DE48,extended,05F5E0FF
+[P1 Press {L1}+Up To Increase Money]
+patch=1,EE,E002FBEF,extended,004FD1C2
+[P1 Press {L1}+Up To Increase Money]
+patch=1,EE,30400000,extended,00E6DE48
+[P1 Press {L1}+Up To Increase Money]
+patch=1,EE,00000101,extended,00000000
+[Buy/Sell For Max Money]
+patch=1,EE,201215F0,extended,ACC51CC8
+[>>> Main Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Mag]
+patch=1,EE,20E6DE40,extended,000003E7
+[Max Mag]
+patch=1,EE,20E6DE44,extended,000003E7
+[Level 99]
+patch=1,EE,00E6DE5C,extended,00000063
+[Max Total Loyalty]
+patch=1,EE,10E6DE62,extended,000003E7
+[Infinite HP]
+patch=1,EE,20E6DE6C,extended,000003E7
+[Max HP]
+patch=1,EE,20E6DE70,extended,000003E7
+[Max HP]
+patch=1,EE,20E6DE88,extended,000003E7
+[Max St]
+patch=1,EE,10E6DE7C,extended,00000028
+[Max St]
+patch=1,EE,10E6DE94,extended,00000028
+[Max Vi]
+patch=1,EE,10E6DE7E,extended,00000028
+[Max Vi]
+patch=1,EE,10E6DE96,extended,00000028
+[Max Ma]
+patch=1,EE,10E6DE80,extended,00000028
+[Max Ma]
+patch=1,EE,10E6DE98,extended,00000028
+[Max Lu]
+patch=1,EE,10E6DE82,extended,00000028
+[Max Lu]
+patch=1,EE,10E6DE9A,extended,00000028
+[>>> Demon 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enable Demon Slot]
+patch=1,EE,70E6E0F8,extended,00000001
+[Level 99]
+patch=1,EE,10E6E100,extended,00000063
+[Max Loyalty]
+patch=1,EE,10E6E106,extended,00000064
+[Infinite HP]
+patch=1,EE,20E6E110,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E114,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E12C,extended,000003E7
+[Infinite MP]
+patch=1,EE,20E6E118,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E11C,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E134,extended,000003E7
+[Max St]
+patch=1,EE,10E6E120,extended,00000028
+[Max St]
+patch=1,EE,10E6E138,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E122,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E13A,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E124,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E13C,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E126,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E13E,extended,00000028
+[>>> Demon 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enable Demon Slot]
+patch=1,EE,70E6E208,extended,00000001
+[Level 99]
+patch=1,EE,10E6E210,extended,00000063
+[Max Loyalty]
+patch=1,EE,10E6E216,extended,00000064
+[Infinite HP]
+patch=1,EE,20E6E220,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E224,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E23C,extended,000003E7
+[Infinite MP]
+patch=1,EE,20E6E228,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E22C,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E244,extended,000003E7
+[Max St]
+patch=1,EE,10E6E230,extended,00000028
+[Max St]
+patch=1,EE,10E6E248,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E232,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E24A,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E234,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E24C,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E236,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E24E,extended,00000028
+[>>> Demon 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enable Demon Slot]
+patch=1,EE,70E6E318,extended,00000001
+[Level 99]
+patch=1,EE,10E6E320,extended,00000063
+[Max Loyalty]
+patch=1,EE,10E6E326,extended,00000064
+[Infinite HP]
+patch=1,EE,20E6E330,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E334,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E34C,extended,000003E7
+[Infinite MP]
+patch=1,EE,20E6E338,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E33C,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E354,extended,000003E7
+[Max St]
+patch=1,EE,10E6E340,extended,00000028
+[Max St]
+patch=1,EE,10E6E358,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E342,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E35A,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E344,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E35C,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E346,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E35E,extended,00000028
+[>>> Demon 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enable Demon Slot]
+patch=1,EE,70E6E428,extended,00000001
+[Level 99]
+patch=1,EE,10E6E430,extended,00000063
+[Max Loyalty]
+patch=1,EE,10E6E436,extended,00000064
+[Infinite HP]
+patch=1,EE,20E6E440,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E444,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E45C,extended,000003E7
+[Infinite MP]
+patch=1,EE,20E6E448,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E44C,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E464,extended,000003E7
+[Max St]
+patch=1,EE,10E6E450,extended,00000028
+[Max St]
+patch=1,EE,10E6E468,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E452,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E46A,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E454,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E46C,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E456,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E46E,extended,00000028
+[>>> Demon 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enable Demon Slot]
+patch=1,EE,70E6E538,extended,00000001
+[Level 99]
+patch=1,EE,10E6E540,extended,00000063
+[Max Loyalty]
+patch=1,EE,10E6E546,extended,00000064
+[Infinite HP]
+patch=1,EE,20E6E550,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E554,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E56C,extended,000003E7
+[Infinite MP]
+patch=1,EE,20E6E558,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E55C,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E574,extended,000003E7
+[Max St]
+patch=1,EE,10E6E560,extended,00000028
+[Max St]
+patch=1,EE,10E6E578,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E562,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E57A,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E564,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E57C,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E566,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E57E,extended,00000028
+[>>> Demon 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enable Demon Slot]
+patch=1,EE,70E6E648,extended,00000001
+[Level 99]
+patch=1,EE,10E6E650,extended,00000063
+[Max Loyalty]
+patch=1,EE,10E6E656,extended,00000064
+[Infinite HP]
+patch=1,EE,20E6E660,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E664,extended,000003E7
+[Max HP]
+patch=1,EE,20E6E67C,extended,000003E7
+[Infinite MP]
+patch=1,EE,20E6E668,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E66C,extended,000003E7
+[Max MP]
+patch=1,EE,20E6E684,extended,000003E7
+[Max St]
+patch=1,EE,10E6E670,extended,00000028
+[Max St]
+patch=1,EE,10E6E688,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E672,extended,00000028
+[Max Vi]
+patch=1,EE,10E6E68A,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E674,extended,00000028
+[Max Ma]
+patch=1,EE,10E6E68C,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E676,extended,00000028
+[Max Lu]
+patch=1,EE,10E6E68E,extended,00000028
+[Max All Items]
+patch=1,EE,10E6DFBA,extended,00000009
+[Max All Items]
+patch=1,EE,40E6DFBC,extended,00120001
+[Max All Items]
+patch=1,EE,00090009,extended,00000000
+[Max All Items]
+patch=1,EE,10E6E004,extended,00000009
+[Max All Ammo]
+patch=1,EE,40E6E058,extended,00070001
+[Max All Ammo]
+patch=1,EE,00630063,extended,00000000
+[Max All Ammo]
+patch=1,EE,10E6E074,extended,00000063
+

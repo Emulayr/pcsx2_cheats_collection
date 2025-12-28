@@ -1,0 +1,16 @@
+gametitle=Namco Museum-50th Anniversary-Bosconian
+[Enable Code (Must Be On)]
+patch=1,EE,90174258,extended,00832021
+[Infinite Lives (Both Players)]
+patch=1,EE,003A8566,extended,00000005
+[Quick Score Gain P1]
+patch=1,EE,101F4F98,extended,00009990
+[Max Score P1]
+patch=1,EE,201F4F98,extended,09999990
+[Quick Score Gain P2]
+patch=1,EE,101F4F9C,extended,00009990
+[Max Score P2]
+patch=1,EE,201F4F9C,extended,09999990
+[Max High Score]
+patch=1,EE,201F4FB8,extended,09999990
+

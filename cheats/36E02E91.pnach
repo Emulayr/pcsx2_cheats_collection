@@ -1,0 +1,550 @@
+gametitle=[SLUS-20318] King's Field-The Ancient City
+[Enable Code (Must Be On)]
+patch=1,EE,9022C40C,extended,0C090822
+[Max Physical]
+patch=1,EE,10413FA8,extended,000003E7
+[Max Magical]
+patch=1,EE,10413FAC,extended,000003E7
+[Infinite Gold]
+patch=1,EE,10413FCC,extended,0000FFFF
+[Max Gold]
+patch=1,EE,20413FCC,extended,05F5E0FF
+[Quick Level Gain]
+patch=1,EE,10413FD0,extended,0000FFFF
+[Max Exp]
+patch=1,EE,10413FD0,extended,05F5E0FF
+[Level 99]
+patch=1,EE,10413FD4,extended,00000063
+[Max HP]
+patch=1,EE,10413FD8,extended,000003E7
+[Max MP]
+patch=1,EE,10413FDC,extended,000003E7
+[Infinite HP]
+patch=1,EE,10414034,extended,000003E7
+[Infinite MP]
+patch=1,EE,10414038,extended,000003E7
+[Infinite Physical Gauge]
+patch=1,EE,2041403C,extended,00001388
+[Infinite Air]
+patch=1,EE,2041404C,extended,00001388
+[Infinite Air]
+patch=1,EE,20414050,extended,00001388
+[>>> Max Attack Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slash]
+patch=1,EE,10413FE0,extended,000003E7
+[Hit]
+patch=1,EE,10413FE2,extended,000003E7
+[Stab]
+patch=1,EE,10413FE4,extended,000003E7
+[Fire]
+patch=1,EE,10413FE6,extended,000003E7
+[Earth]
+patch=1,EE,10413FE8,extended,000003E7
+[Wind]
+patch=1,EE,10413FEA,extended,000003E7
+[Water]
+patch=1,EE,10413FEC,extended,000003E7
+[Light]
+patch=1,EE,10413FEE,extended,000003E7
+[Dark]
+patch=1,EE,10413FF0,extended,000003E7
+[>>> Max Defend Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slash]
+patch=1,EE,10414010,extended,000003E7
+[Hit]
+patch=1,EE,10414012,extended,000003E7
+[Stab]
+patch=1,EE,10414014,extended,000003E7
+[Fire]
+patch=1,EE,10414016,extended,000003E7
+[Earth]
+patch=1,EE,10414018,extended,000003E7
+[Wind]
+patch=1,EE,1041401A,extended,000003E7
+[Water]
+patch=1,EE,1041401C,extended,000003E7
+[Light]
+patch=1,EE,1041401E,extended,000003E7
+[Dark]
+patch=1,EE,10414020,extended,000003E7
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Caretaker's Map]
+patch=1,EE,00369831,extended,00000001
+[Zastari's Map]
+patch=1,EE,00369832,extended,00000001
+[Earth Folk's Map]
+patch=1,EE,00369833,extended,00000001
+[Widda's Map]
+patch=1,EE,00369834,extended,00000001
+[King's Map]
+patch=1,EE,00369835,extended,00000001
+[Herb]
+patch=1,EE,00369836,extended,00000001
+[Herbal Liquid]
+patch=1,EE,00369837,extended,00000001
+[Forest Fruit]
+patch=1,EE,00369838,extended,00000001
+[Antidote]
+patch=1,EE,00369839,extended,00000001
+[Forest Root]
+patch=1,EE,0036983A,extended,00000001
+[Dried Amphibia]
+patch=1,EE,0036983B,extended,00000001
+[Mushroom]
+patch=1,EE,0036983C,extended,00000001
+[Dragon Flower]
+patch=1,EE,0036983D,extended,00000001
+[Crystal Vial]
+patch=1,EE,0036983E,extended,00000001
+[Healing Water]
+patch=1,EE,0036983F,extended,00000001
+[Healing Water 2]
+patch=1,EE,00369840,extended,00000001
+[Healing Water 3]
+patch=1,EE,00369841,extended,00000001
+[Poison Water]
+patch=1,EE,00369842,extended,00000001
+[Power Seed]
+patch=1,EE,00369845,extended,00000001
+[Widda Needle]
+patch=1,EE,00369846,extended,00000001
+[Wise Man's Fruit]
+patch=1,EE,0036984B,extended,00000001
+[Fool's Fruit]
+patch=1,EE,0036984C,extended,00000001
+[Bone]
+patch=1,EE,0036984F,extended,00000001
+[Scale]
+patch=1,EE,00369850,extended,00000001
+[Claw]
+patch=1,EE,00369851,extended,00000001
+[Earth Stone]
+patch=1,EE,00369852,extended,00000001
+[>>> Have Weapon Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Darkwood Club]
+patch=1,EE,003698C8,extended,00000001
+[Pickax]
+patch=1,EE,003698C9,extended,00000001
+[Dwarven Pickax]
+patch=1,EE,003698CA,extended,00000001
+[Short Sword]
+patch=1,EE,003698CB,extended,00000001
+[Short Sword 2]
+patch=1,EE,003698CC,extended,00000001
+[Fiery Sword]
+patch=1,EE,003698CD,extended,00000001
+[Rapier]
+patch=1,EE,003698CE,extended,00000001
+[Rapier 2]
+patch=1,EE,003698CF,extended,00000001
+[Lethal Rapier]
+patch=1,EE,003698D0,extended,00000001
+[Long Sword]
+patch=1,EE,003698D1,extended,00000001
+[Long Sword 2]
+patch=1,EE,003698D2,extended,00000001
+[Earthbinder]
+patch=1,EE,003698D3,extended,00000001
+[Knight Sword]
+patch=1,EE,003698D4,extended,00000001
+[Knight Sword 2]
+patch=1,EE,003698D5,extended,00000001
+[Knight Sword 3]
+patch=1,EE,003698D6,extended,00000001
+[Holycrest]
+patch=1,EE,003698D7,extended,00000001
+[Frostbite]
+patch=1,EE,003698D8,extended,00000001
+[Forest Carver]
+patch=1,EE,003698D9,extended,00000001
+[Fire Carver]
+patch=1,EE,003698DA,extended,00000001
+[Earth Carver]
+patch=1,EE,003698DB,extended,00000001
+[Wind Carver]
+patch=1,EE,003698DC,extended,00000001
+[Water Carver]
+patch=1,EE,003698DD,extended,00000001
+[Broad Sword]
+patch=1,EE,003698DE,extended,00000001
+[Broad Sword 2]
+patch=1,EE,003698DF,extended,00000001
+[Venomblade]
+patch=1,EE,003698E0,extended,00000001
+[Bastard Sword]
+patch=1,EE,003698E1,extended,00000001
+[Bastard Sword 2]
+patch=1,EE,003698E2,extended,00000001
+[Battle Sword]
+patch=1,EE,003698E3,extended,00000001
+[Dwarven Sword]
+patch=1,EE,003698E4,extended,00000001
+[Great Sword]
+patch=1,EE,003698E5,extended,00000001
+[War Sword]
+patch=1,EE,003698E6,extended,00000001
+[Broken Katana]
+patch=1,EE,003698E7,extended,00000001
+[Windslayer]
+patch=1,EE,003698E8,extended,00000001
+[Wavecrasher]
+patch=1,EE,003698E9,extended,00000001
+[Scorpion]
+patch=1,EE,003698EA,extended,00000001
+[Black Scar]
+patch=1,EE,003698EB,extended,00000001
+[Tsunami]
+patch=1,EE,003698EC,extended,00000001
+[Crystaline Blade]
+patch=1,EE,003698ED,extended,00000001
+[Earthquake]
+patch=1,EE,003698EE,extended,00000001
+[Dark Defiler]
+patch=1,EE,003698EF,extended,00000001
+[Queen's Staff]
+patch=1,EE,003698F0,extended,00000001
+[Ancient Sword]
+patch=1,EE,003698F1,extended,00000001
+[Triple Fang]
+patch=1,EE,003698F2,extended,00000001
+[Lawful Blade]
+patch=1,EE,003698F3,extended,00000001
+[Moonlight Sword]
+patch=1,EE,003698F4,extended,00000001
+[Hand Ax]
+patch=1,EE,003698F5,extended,00000001
+[Hand Ax 2]
+patch=1,EE,003698F6,extended,00000001
+[Morning Star]
+patch=1,EE,003698F7,extended,00000001
+[Morning Star 2]
+patch=1,EE,003698F8,extended,00000001
+[Morning Star 3]
+patch=1,EE,003698F9,extended,00000001
+[Battle Hammer]
+patch=1,EE,003698FA,extended,00000001
+[War Hammer]
+patch=1,EE,003698FB,extended,00000001
+[Hammer Of Woe]
+patch=1,EE,003698FC,extended,00000001
+[Crescent Ax]
+patch=1,EE,003698FD,extended,00000001
+[Crescent Ax 2]
+patch=1,EE,003698FE,extended,00000001
+[Bow]
+patch=1,EE,003698FF,extended,00000001
+[Long Bow]
+patch=1,EE,00369900,extended,00000001
+[Blessed Bow]
+patch=1,EE,00369901,extended,00000001
+[Crossbow]
+patch=1,EE,00369902,extended,00000001
+[Crossbow 2]
+patch=1,EE,00369903,extended,00000001
+[Widda's Bow]
+patch=1,EE,00369904,extended,00000001
+[>>> Have Shield Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Wooden Shield]
+patch=1,EE,0036990D,extended,00000001
+[Forest Shield]
+patch=1,EE,0036990E,extended,00000001
+[Leather Shield]
+patch=1,EE,0036990F,extended,00000001
+[Leather Shield 2]
+patch=1,EE,00369910,extended,00000001
+[Leather Shield 3]
+patch=1,EE,00369911,extended,00000001
+[Buckler]
+patch=1,EE,00369912,extended,00000001
+[Buckler 2]
+patch=1,EE,00369913,extended,00000001
+[Buckler 3]
+patch=1,EE,00369914,extended,00000001
+[Knight Shield]
+patch=1,EE,00369915,extended,00000001
+[Knight Shield 2]
+patch=1,EE,00369916,extended,00000001
+[Earthen Shield]
+patch=1,EE,00369917,extended,00000001
+[Crusader Shield]
+patch=1,EE,00369918,extended,00000001
+[Kite Shield]
+patch=1,EE,00369919,extended,00000001
+[Kite Shield 2]
+patch=1,EE,0036991A,extended,00000001
+[Kite Shield 3]
+patch=1,EE,0036991B,extended,00000001
+[Tower Shield]
+patch=1,EE,0036991C,extended,00000001
+[Tower Shield 2]
+patch=1,EE,0036991D,extended,00000001
+[Tower Shield 3]
+patch=1,EE,0036991E,extended,00000001
+[Blessed Shield]
+patch=1,EE,0036991F,extended,00000001
+[Crystal Shield]
+patch=1,EE,00369920,extended,00000001
+[Flame Shield]
+patch=1,EE,00369921,extended,00000001
+[Guardian Shield]
+patch=1,EE,00369922,extended,00000001
+[Chaos Shield]
+patch=1,EE,00369923,extended,00000001
+[Mammoth Shield]
+patch=1,EE,00369924,extended,00000001
+[Ancient Shield]
+patch=1,EE,00369925,extended,00000001
+[Lord Myu's Shield]
+patch=1,EE,00369926,extended,00000001
+[>>> Have Head Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Leather Helm]
+patch=1,EE,0036992B,extended,00000001
+[Leather Helm 2]
+patch=1,EE,0036992C,extended,00000001
+[Iron Helmet]
+patch=1,EE,0036992D,extended,00000001
+[Iron Helmet 2]
+patch=1,EE,0036992E,extended,00000001
+[War Helm]
+patch=1,EE,0036992F,extended,00000001
+[War Helm 2]
+patch=1,EE,00369930,extended,00000001
+[Plate Helm]
+patch=1,EE,00369931,extended,00000001
+[Plate Helm 2]
+patch=1,EE,00369932,extended,00000001
+[Knight Helm]
+patch=1,EE,00369933,extended,00000001
+[Knight Helm 2]
+patch=1,EE,00369934,extended,00000001
+[Crusader Helm]
+patch=1,EE,00369935,extended,00000001
+[Crusader Helm 2]
+patch=1,EE,00369936,extended,00000001
+[Cavalier Helm]
+patch=1,EE,00369937,extended,00000001
+[Great Helm]
+patch=1,EE,00369938,extended,00000001
+[Great Helm 2]
+patch=1,EE,00369939,extended,00000001
+[Champion Helm]
+patch=1,EE,0036993A,extended,00000001
+[Blessed Helm]
+patch=1,EE,0036993B,extended,00000001
+[Angelic Crown]
+patch=1,EE,0036993C,extended,00000001
+[Shadow Mask]
+patch=1,EE,0036993D,extended,00000001
+[Sacrifical Mask]
+patch=1,EE,0036993E,extended,00000001
+[King's Crown]
+patch=1,EE,0036993F,extended,00000001
+[Crystal Helm]
+patch=1,EE,00369940,extended,00000001
+[Ancient Helmet]
+patch=1,EE,00369941,extended,00000001
+[Lord Myu's Helmet]
+patch=1,EE,00369942,extended,00000001
+[>>> Have Chest Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Leather Vest]
+patch=1,EE,00369944,extended,00000001
+[Leather Vest 2]
+patch=1,EE,00369945,extended,00000001
+[Leather Armor]
+patch=1,EE,00369946,extended,00000001
+[Leather Armor 2]
+patch=1,EE,00369947,extended,00000001
+[Iron Breastplate]
+patch=1,EE,00369948,extended,00000001
+[Iron Breastplate 2]
+patch=1,EE,00369949,extended,00000001
+[Chain Mail]
+patch=1,EE,0036994A,extended,00000001
+[Scale Mail]
+patch=1,EE,0036994B,extended,00000001
+[Scale Mail 2]
+patch=1,EE,0036994C,extended,00000001
+[Scale Mail 3]
+patch=1,EE,0036994D,extended,00000001
+[Knight Plate]
+patch=1,EE,0036994E,extended,00000001
+[Knight Plate 2]
+patch=1,EE,0036994F,extended,00000001
+[Crusader Plate]
+patch=1,EE,00369950,extended,00000001
+[Cavalier Plate]
+patch=1,EE,00369951,extended,00000001
+[Scared Plate]
+patch=1,EE,00369952,extended,00000001
+[Blessed Armor]
+patch=1,EE,00369953,extended,00000001
+[Enchanted Armor]
+patch=1,EE,00369954,extended,00000001
+[Ice Armor]
+patch=1,EE,00369955,extended,00000001
+[Fire Mail]
+patch=1,EE,00369956,extended,00000001
+[Demon Armor]
+patch=1,EE,00369957,extended,00000001
+[Crystal Armor]
+patch=1,EE,00369958,extended,00000001
+[Ancient Armor]
+patch=1,EE,00369959,extended,00000001
+[Lord Myu's Armor]
+patch=1,EE,0036995A,extended,00000001
+[>>> Have Hands Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Leather Gloves]
+patch=1,EE,0036995D,extended,00000001
+[Leather Gloves 2]
+patch=1,EE,0036995E,extended,00000001
+[Leather Gloves 3]
+patch=1,EE,0036995F,extended,00000001
+[Arm Guard]
+patch=1,EE,00369960,extended,00000001
+[Arm Guard 2]
+patch=1,EE,00369961,extended,00000001
+[Arm Guard 3]
+patch=1,EE,00369962,extended,00000001
+[Gauntlets]
+patch=1,EE,00369963,extended,00000001
+[Gauntlets 2]
+patch=1,EE,00369964,extended,00000001
+[Gauntlets 3]
+patch=1,EE,00369965,extended,00000001
+[Gauntlets 4]
+patch=1,EE,00369966,extended,00000001
+[Blessed Gloves]
+patch=1,EE,00369967,extended,00000001
+[Blessed Gloves 2]
+patch=1,EE,00369968,extended,00000001
+[Sacred Gloves]
+patch=1,EE,00369969,extended,00000001
+[Bone Hands]
+patch=1,EE,0036996A,extended,00000001
+[Knight Gloves]
+patch=1,EE,0036996B,extended,00000001
+[Crusader Gloves]
+patch=1,EE,0036996C,extended,00000001
+[Cavalier Gloves]
+patch=1,EE,0036996D,extended,00000001
+[Blessed Arms]
+patch=1,EE,0036996E,extended,00000001
+[Silvery Gloves]
+patch=1,EE,0036996F,extended,00000001
+[Venom Gloves]
+patch=1,EE,00369970,extended,00000001
+[Crystal Arms]
+patch=1,EE,00369971,extended,00000001
+[Ancient Gloves]
+patch=1,EE,00369972,extended,00000001
+[Lord Myu's Gloves]
+patch=1,EE,00369973,extended,00000001
+[>>> Have Legs Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Wooden Shoes]
+patch=1,EE,00369976,extended,00000001
+[Forest Shoes]
+patch=1,EE,00369977,extended,00000001
+[Leather Boots]
+patch=1,EE,00369978,extended,00000001
+[Leather Boots 2]
+patch=1,EE,00369979,extended,00000001
+[Leather Boots 3]
+patch=1,EE,0036997A,extended,00000001
+[Iron Boots]
+patch=1,EE,0036997B,extended,00000001
+[Iron Boots 2]
+patch=1,EE,0036997C,extended,00000001
+[Iron Boots 3]
+patch=1,EE,0036997D,extended,00000001
+[Plate Boots]
+patch=1,EE,0036997E,extended,00000001
+[Iron Boots]
+patch=1,EE,0036997F,extended,00000001
+[Leg Guards]
+patch=1,EE,00369980,extended,00000001
+[Leg Guards 2]
+patch=1,EE,00369981,extended,00000001
+[Mystic Guards]
+patch=1,EE,00369982,extended,00000001
+[Knight Greaves]
+patch=1,EE,00369983,extended,00000001
+[Knight Greaves 2]
+patch=1,EE,00369984,extended,00000001
+[Knight Greaves 3]
+patch=1,EE,00369985,extended,00000001
+[Cavalier Greaves]
+patch=1,EE,00369986,extended,00000001
+[Crusader Greaves]
+patch=1,EE,00369987,extended,00000001
+[Blessed Greaves]
+patch=1,EE,00369988,extended,00000001
+[Absorption Boots]
+patch=1,EE,00369989,extended,00000001
+[Demon Legs]
+patch=1,EE,0036998A,extended,00000001
+[Crystal Greaves]
+patch=1,EE,0036998B,extended,00000001
+[Ancient Greaves]
+patch=1,EE,0036998C,extended,00000001
+[Lord Myu's Greaves]
+patch=1,EE,0036998D,extended,00000001
+[>>> Have Ring Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Ring Of Sight]
+patch=1,EE,0036998F,extended,00000001
+[Ring Of Wisdom]
+patch=1,EE,00369990,extended,00000001
+[Widda's Ring]
+patch=1,EE,00369991,extended,00000001
+[Jap Ring?]
+patch=1,EE,00369992,extended,00000001
+[Ring Of Fire]
+patch=1,EE,00369993,extended,00000001
+[Ring Of Earth]
+patch=1,EE,00369994,extended,00000001
+[Ring Of Wind]
+patch=1,EE,00369995,extended,00000001
+[Ring Of Water]
+patch=1,EE,00369996,extended,00000001
+[>>> Have Wrist Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Clarity Bracelet]
+patch=1,EE,00369999,extended,00000001
+[Widda's Bracelet]
+patch=1,EE,0036999A,extended,00000001
+[Power Bracelet]
+patch=1,EE,0036999B,extended,00000001
+[Feather Bracelet]
+patch=1,EE,0036999C,extended,00000001
+[Guardian Bracelet]
+patch=1,EE,0036999D,extended,00000001
+[Spider Armband]
+patch=1,EE,0036999E,extended,00000001
+[Fortune]
+patch=1,EE,003699A0,extended,00000001
+[>>> Have Neck Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lucky Pendent]
+patch=1,EE,003699A3,extended,00000001
+[Widda's Necklace]
+patch=1,EE,003699A4,extended,00000001
+[Healing Amulet]
+patch=1,EE,003699A5,extended,00000001
+[Water Talisman]
+patch=1,EE,003699A6,extended,00000001
+[Purity Amulet]
+patch=1,EE,003699A7,extended,00000001
+[Thieves Necklace]
+patch=1,EE,003699A8,extended,00000001
+[Myu's Necklace]
+patch=1,EE,003699A9,extended,00000001
+

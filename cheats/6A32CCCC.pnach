@@ -1,0 +1,82 @@
+gametitle=Pinball-Hall Of Fame-The Gottlieb Collection
+[Enable Code (Must Be On)]
+patch=1,EE,90119BE0,extended,00832021
+[>>> Pinball Table Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Credits]
+patch=1,EE,2014835C,extended,00000000
+[Extra Credits]
+patch=1,EE,10148354,extended,00000001
+[Max Score P1]
+patch=1,EE,201F3FD4,extended,05F5E0FF
+[No Score P1]
+patch=1,EE,201F3FD4,extended,00000000
+[Infinite Credits P1]
+patch=1,EE,201F3FE0,extended,00000063
+[No Credits P1]
+patch=1,EE,201F3FE0,extended,00000000
+[Infinite Balls P1]
+patch=1,EE,201F3FE4,extended,00000004
+[No Balls P1]
+patch=1,EE,201F3FE4,extended,00000000
+[Max Score P2]
+patch=1,EE,201F4970,extended,05F5E0FF
+[No Score P2]
+patch=1,EE,201F4970,extended,00000000
+[Infinite Credits P2]
+patch=1,EE,201F497C,extended,00000063
+[No Credits P2]
+patch=1,EE,201F497C,extended,00000000
+[Infinite Balls P2]
+patch=1,EE,201F4980,extended,00000004
+[No Balls P2]
+patch=1,EE,201F4980,extended,00000000
+[Max Score P3]
+patch=1,EE,201F530C,extended,05F5E0FF
+[No Score P3]
+patch=1,EE,201F530C,extended,00000000
+[Infinite Credits P3]
+patch=1,EE,201F5318,extended,00000063
+[No Credits P3]
+patch=1,EE,201F5318,extended,00000000
+[Infinite Balls P3]
+patch=1,EE,201F531C,extended,00000004
+[No Balls P3]
+patch=1,EE,201F531C,extended,00000000
+[Max Score P4]
+patch=1,EE,201F5CA8,extended,05F5E0FF
+[No Score P4]
+patch=1,EE,201F5CA8,extended,00000000
+[Infinite Credits P4]
+patch=1,EE,201F5CB4,extended,00000063
+[No Credits P4]
+patch=1,EE,201F5CB4,extended,00000000
+[Infinite Balls P4]
+patch=1,EE,201F5CB8,extended,00000004
+[No Balls P4]
+patch=1,EE,201F5CB8,extended,00000000
+[>>> Unlockables Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Last Ball Option]
+patch=1,EE,201E41A4,extended,00000001
+[Tilt Option]
+patch=1,EE,201E41A8,extended,00000001
+[Payout Mode]
+patch=1,EE,201E41AC,extended,00000001
+[Gottlieb Factory Tour]
+patch=1,EE,201E41B0,extended,00000001
+[Love Meter]
+patch=1,EE,201E41B4,extended,00000001
+[Play-Boy]
+patch=1,EE,201E41B8,extended,00000001
+[Custom Ball Option]
+patch=1,EE,201E41BC,extended,00000001
+[Xolten]
+patch=1,EE,201E41C0,extended,00000001
+[Tournament Mode]
+patch=1,EE,201E41C4,extended,00000001
+[All Unlockables]
+patch=1,EE,401E41A4,extended,00090001
+[All Unlockables]
+patch=1,EE,00000001,extended,00000000
+

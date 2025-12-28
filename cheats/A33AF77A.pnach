@@ -1,0 +1,1104 @@
+gametitle=[SLUS-21129] Tenchu-Fatal Shadows
+[Enable Code (Must Be On)]
+patch=1,EE,9011C560,extended,0C049826
+[Infinite Health]
+patch=1,EE,2018097C,extended,3C0142C8
+[Infinite Health]
+patch=1,EE,20180988,extended,AE010080
+[Infinite Item Usage]
+patch=1,EE,201D44A8,extended,00000000
+[Extra Items]
+patch=1,EE,101D44A4,extended,00000001
+[Max Infinite Items (All Carried Items)]
+patch=1,EE,201D2FE8,extended,24070063
+[Max Infinite Items (All Carried Items)]
+patch=1,EE,201D3004,extended,A0870022
+[Unlock Level Select]
+patch=1,EE,005BE598,extended,00000001
+[>>> Item Selection Screen Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Items Remaining]
+patch=1,EE,2025AC78,extended,24040063
+[Infinite Items Remaining]
+patch=1,EE,2025AC9C,extended,AC24370C
+[Item Quantity Doesnt Decrease]
+patch=1,EE,2025B65C,extended,00000000
+[Max Selected Items]
+patch=1,EE,2025BF50,extended,24020063
+[Max Selected Items]
+patch=1,EE,2025BF58,extended,A2220000
+[>>> Unlock Boss Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Rin]
+patch=1,EE,205BF120,extended,00000000
+[Tatsukichi]
+patch=1,EE,205BF16C,extended,00000000
+[Kumagorou]
+patch=1,EE,205BF1B8,extended,00000000
+[Ayame]
+patch=1,EE,205BF204,extended,00000000
+[Nasu]
+patch=1,EE,205BF250,extended,00000000
+[Shinogi]
+patch=1,EE,205BF29C,extended,00000000
+[Assassin Horde]
+patch=1,EE,205BF2E8,extended,00000000
+[Hitoha-Futaba]
+patch=1,EE,205BF334,extended,00000000
+[Ranzou]
+patch=1,EE,205BF380,extended,00000000
+[Shou]
+patch=1,EE,205BF3CC,extended,00000000
+[Jyuzou]
+patch=1,EE,205BF418,extended,00000000
+[All Boss Battles]
+patch=1,EE,405BF120,extended,000B0013
+[All Boss Battles]
+patch=1,EE,00000000,extended,00000000
+[>>> Unlock Mission Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Chapter 2-1]
+patch=1,EE,105BE63C,extended,00000001
+[Chapter 2-2]
+patch=1,EE,105BE6E0,extended,00000001
+[Chapter 3-1]
+patch=1,EE,105BE784,extended,00000001
+[Chapter 3-2]
+patch=1,EE,105BE828,extended,00000001
+[Chapter 4]
+patch=1,EE,105BE8CC,extended,00000001
+[Chapter 5]
+patch=1,EE,105BE970,extended,00000001
+[Chapter 6-1]
+patch=1,EE,105BEA14,extended,00000001
+[Chapter 6-2]
+patch=1,EE,105BEAB8,extended,00000001
+[Chapter 7-1]
+patch=1,EE,105BEB5C,extended,00000001
+[Chapter 7-2]
+patch=1,EE,105BEC00,extended,00000001
+[Chapter 8]
+patch=1,EE,105BECA4,extended,00000001
+[Chapter 9]
+patch=1,EE,105BED48,extended,00000001
+[Chapter 10-1]
+patch=1,EE,105BEDEC,extended,00000001
+[Chapter 10-2]
+patch=1,EE,105BEE90,extended,00000001
+[Chapter 11]
+patch=1,EE,105BEF34,extended,00000001
+[Chapter 12-1]
+patch=1,EE,105BEFD8,extended,00000001
+[Chapter 12-2]
+patch=1,EE,105BF07C,extended,00000001
+[>>> Max Rin Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Healing Potion]
+patch=1,EE,10672152,extended,00000063
+[Strength Potion]
+patch=1,EE,10672154,extended,00000063
+[Shuriken]
+patch=1,EE,10672156,extended,00000063
+[Caltrops]
+patch=1,EE,10672158,extended,00000063
+[Grenade]
+patch=1,EE,1067215A,extended,00000063
+[Blowgun]
+patch=1,EE,1067215C,extended,00000063
+[Colored Rice]
+patch=1,EE,10672160,extended,00000063
+[Poison Rice]
+patch=1,EE,10672162,extended,00000063
+[Decoy Bell]
+patch=1,EE,10672164,extended,00000063
+[Wasp Nest]
+patch=1,EE,10672168,extended,00000063
+[Explosive Box]
+patch=1,EE,1067216E,extended,00000063
+[Flash Bomb]
+patch=1,EE,10672170,extended,00000063
+[Cure Potion]
+patch=1,EE,10672178,extended,00000063
+[Sticky Bomb]
+patch=1,EE,1067218E,extended,00000063
+[Chameleon Spell]
+patch=1,EE,10672190,extended,00000063
+[Invisibility Spell]
+patch=1,EE,10672192,extended,00000063
+[Ninja Armor]
+patch=1,EE,10672194,extended,00000063
+[Ninja Rebirth]
+patch=1,EE,10672198,extended,00000063
+[Sleeping Gas]
+patch=1,EE,1067219E,extended,00000063
+[Fire Spell]
+patch=1,EE,106721A0,extended,00000063
+[Decoy Whistle]
+patch=1,EE,106721A2,extended,00000063
+[Super Shuriken]
+patch=1,EE,106721B4,extended,00000063
+[Amulet]
+patch=1,EE,106721B6,extended,00000063
+[Sacrifice Potion]
+patch=1,EE,106721B8,extended,00000063
+[Fireworks]
+patch=1,EE,106721BA,extended,00000063
+[Cannon]
+patch=1,EE,106721BC,extended,00000063
+[Bola]
+patch=1,EE,106721C0,extended,00000063
+[Bamboo Gun]
+patch=1,EE,106721C2,extended,00000063
+[Demon Gloves]
+patch=1,EE,106721F0,extended,00000063
+[All Items]
+patch=1,EE,40672150,extended,00320001
+[All Items]
+patch=1,EE,00630063,extended,00000000
+[>>> Max Ayame Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Healing Potion]
+patch=1,EE,1067221E,extended,00000063
+[Strength Potion]
+patch=1,EE,10672220,extended,00000063
+[Shuriken]
+patch=1,EE,10672222,extended,00000063
+[Caltrops]
+patch=1,EE,10672224,extended,00000063
+[Grenade]
+patch=1,EE,10672226,extended,00000063
+[Blowgun]
+patch=1,EE,10672228,extended,00000063
+[Colored Rice]
+patch=1,EE,1067222C,extended,00000063
+[Poison Rice]
+patch=1,EE,1067222E,extended,00000063
+[Decoy Bell]
+patch=1,EE,10672230,extended,00000063
+[Spinner]
+patch=1,EE,1067223E,extended,00000063
+[Mine]
+patch=1,EE,10672240,extended,00000063
+[Smoke Bomb]
+patch=1,EE,10672242,extended,00000063
+[Cure Potion]
+patch=1,EE,10672244,extended,00000063
+[Sticky Bomb]
+patch=1,EE,1067225A,extended,00000063
+[Chameleon Spell]
+patch=1,EE,1067225C,extended,00000063
+[Invisibility Spell]
+patch=1,EE,1067225E,extended,00000063
+[Ninja Armor]
+patch=1,EE,10672262,extended,00000063
+[Ninja Rebirth]
+patch=1,EE,10672264,extended,00000063
+[Fake Rat]
+patch=1,EE,10672268,extended,00000063
+[Sleeping Gas]
+patch=1,EE,1067226A,extended,00000063
+[Fire Spell]
+patch=1,EE,1067226C,extended,00000063
+[Decoy Whistle]
+patch=1,EE,1067226E,extended,00000063
+[Super Shuriken]
+patch=1,EE,10672280,extended,00000063
+[Amulet]
+patch=1,EE,10672282,extended,00000063
+[Sacrifice Potion]
+patch=1,EE,10672284,extended,00000063
+[Fireworks]
+patch=1,EE,10672286,extended,00000063
+[Dog Bone]
+patch=1,EE,10672292,extended,00000063
+[Exploding Arrow]
+patch=1,EE,10672296,extended,00000063
+[Hand Claws]
+patch=1,EE,10672298,extended,00000063
+[Dokuto]
+patch=1,EE,106722BE,extended,00000063
+[All Items]
+patch=1,EE,4067221C,extended,00320001
+[All Items]
+patch=1,EE,00630063,extended,00000000
+[>>> Have Rin Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Chapter 1-Layout 1-Easy]
+patch=1,EE,005BE59A,extended,00000004
+[Chapter 1-Layout 1-Normal]
+patch=1,EE,005BE59B,extended,00000004
+[Chapter 1-Layout 1-Hard]
+patch=1,EE,005BE59C,extended,00000004
+[Chapter 1-Layout 2-Easy]
+patch=1,EE,005BE59D,extended,00000004
+[Chapter 1-Layout 2-Normal]
+patch=1,EE,005BE59E,extended,00000004
+[Chapter 1-Layout 2-Hard]
+patch=1,EE,005BE59F,extended,00000004
+[Chapter 1-Layout 3-Easy]
+patch=1,EE,005BE5A0,extended,00000004
+[Chapter 1-Layout 3-Normal]
+patch=1,EE,005BE5A1,extended,00000004
+[Chapter 1-Layout 3-Hard]
+patch=1,EE,005BE5A2,extended,00000004
+[Chapter 2-1-Layout 1-Easy]
+patch=1,EE,005BE63E,extended,00000004
+[Chapter 2-1-Layout 1-Normal]
+patch=1,EE,005BE63F,extended,00000004
+[Chapter 2-1-Layout 1-Hard]
+patch=1,EE,005BE640,extended,00000004
+[Chapter 2-1-Layout 2-Easy]
+patch=1,EE,005BE641,extended,00000004
+[Chapter 2-1-Layout 2-Normal]
+patch=1,EE,005BE642,extended,00000004
+[Chapter 2-1-Layout 2-Hard]
+patch=1,EE,005BE643,extended,00000004
+[Chapter 2-1-Layout 3-Easy]
+patch=1,EE,005BE644,extended,00000004
+[Chapter 2-1-Layout 3-Normal]
+patch=1,EE,005BE645,extended,00000004
+[Chapter 2-1-Layout 3-Hard]
+patch=1,EE,005BE646,extended,00000004
+[Chapter 2-2-Layout 1-Easy]
+patch=1,EE,005BE6E2,extended,00000004
+[Chapter 2-2-Layout 1-Normal]
+patch=1,EE,005BE6E3,extended,00000004
+[Chapter 2-2-Layout 1-Hard]
+patch=1,EE,005BE6E4,extended,00000004
+[Chapter 2-2-Layout 2-Easy]
+patch=1,EE,005BE6E5,extended,00000004
+[Chapter 2-2-Layout 2-Normal]
+patch=1,EE,005BE6E6,extended,00000004
+[Chapter 2-2-Layout 2-Hard]
+patch=1,EE,005BE6E7,extended,00000004
+[Chapter 2-2-Layout 3-Easy]
+patch=1,EE,005BE6E8,extended,00000004
+[Chapter 2-2-Layout 3-Normal]
+patch=1,EE,005BE6E9,extended,00000004
+[Chapter 2-2-Layout 3-Hard]
+patch=1,EE,005BE6EA,extended,00000004
+[Chapter 3-1-Layout 1-Easy]
+patch=1,EE,005BE786,extended,00000004
+[Chapter 3-1-Layout 1-Normal]
+patch=1,EE,005BE787,extended,00000004
+[Chapter 3-1-Layout 1-Hard]
+patch=1,EE,005BE788,extended,00000004
+[Chapter 3-1-Layout 2-Easy]
+patch=1,EE,005BE789,extended,00000004
+[Chapter 3-1-Layout 2-Normal]
+patch=1,EE,005BE78A,extended,00000004
+[Chapter 3-1-Layout 2-Hard]
+patch=1,EE,005BE78B,extended,00000004
+[Chapter 3-1-Layout 3-Easy]
+patch=1,EE,005BE78C,extended,00000004
+[Chapter 3-1-Layout 3-Normal]
+patch=1,EE,005BE78D,extended,00000004
+[Chapter 3-1-Layout 3-Hard]
+patch=1,EE,005BE78E,extended,00000004
+[Chapter 3-2-Layout 1-Easy]
+patch=1,EE,005BE82A,extended,00000004
+[Chapter 3-2-Layout 1-Normal]
+patch=1,EE,005BE82B,extended,00000004
+[Chapter 3-2-Layout 1-Hard]
+patch=1,EE,005BE82C,extended,00000004
+[Chapter 3-2-Layout 2-Easy]
+patch=1,EE,005BE82D,extended,00000004
+[Chapter 3-2-Layout 2-Normal]
+patch=1,EE,005BE82E,extended,00000004
+[Chapter 3-2-Layout 2-Hard]
+patch=1,EE,005BE82F,extended,00000004
+[Chapter 3-2-Layout 3-Easy]
+patch=1,EE,005BE830,extended,00000004
+[Chapter 3-2-Layout 3-Normal]
+patch=1,EE,005BE831,extended,00000004
+[Chapter 3-2-Layout 3-Hard]
+patch=1,EE,005BE832,extended,00000004
+[Chapter 4-Layout 1-Easy]
+patch=1,EE,005BE8CE,extended,00000004
+[Chapter 4-Layout 1-Normal]
+patch=1,EE,005BE8CF,extended,00000004
+[Chapter 4-Layout 1-Hard]
+patch=1,EE,005BE8D0,extended,00000004
+[Chapter 4-Layout 2-Easy]
+patch=1,EE,005BE8D1,extended,00000004
+[Chapter 4-Layout 2-Normal]
+patch=1,EE,005BE8D2,extended,00000004
+[Chapter 4-Layout 2-Hard]
+patch=1,EE,005BE8D3,extended,00000004
+[Chapter 4-Layout 3-Easy]
+patch=1,EE,005BE8D4,extended,00000004
+[Chapter 4-Layout 3-Normal]
+patch=1,EE,005BE8D5,extended,00000004
+[Chapter 4-Layout 3-Hard]
+patch=1,EE,005BE8D6,extended,00000004
+[Chapter 5-Layout 1-Easy]
+patch=1,EE,005BE972,extended,00000004
+[Chapter 5-Layout 1-Normal]
+patch=1,EE,005BE973,extended,00000004
+[Chapter 5-Layout 1-Hard]
+patch=1,EE,005BE974,extended,00000004
+[Chapter 5-Layout 2-Easy]
+patch=1,EE,005BE975,extended,00000004
+[Chapter 5-Layout 2-Normal]
+patch=1,EE,005BE976,extended,00000004
+[Chapter 5-Layout 2-Hard]
+patch=1,EE,005BE977,extended,00000004
+[Chapter 5-Layout 3-Easy]
+patch=1,EE,005BE978,extended,00000004
+[Chapter 5-Layout 3-Normal]
+patch=1,EE,005BE979,extended,00000004
+[Chapter 5-Layout 3-Hard]
+patch=1,EE,005BE97A,extended,00000004
+[Chapter 6-1-Layout 1-Easy]
+patch=1,EE,005BEA16,extended,00000004
+[Chapter 6-1-Layout 1-Normal]
+patch=1,EE,005BEA17,extended,00000004
+[Chapter 6-1-Layout 1-Hard]
+patch=1,EE,005BEA18,extended,00000004
+[Chapter 6-1-Layout 2-Easy]
+patch=1,EE,005BEA19,extended,00000004
+[Chapter 6-1-Layout 2-Normal]
+patch=1,EE,005BEA1A,extended,00000004
+[Chapter 6-1-Layout 2-Hard]
+patch=1,EE,005BEA1B,extended,00000004
+[Chapter 6-1-Layout 3-Easy]
+patch=1,EE,005BEA1C,extended,00000004
+[Chapter 6-1-Layout 3-Normal]
+patch=1,EE,005BEA1D,extended,00000004
+[Chapter 6-1-Layout 3-Hard]
+patch=1,EE,005BEA1E,extended,00000004
+[Chapter 6-2-Layout 1-Easy]
+patch=1,EE,005BEABA,extended,00000004
+[Chapter 6-2-Layout 1-Normal]
+patch=1,EE,005BEABB,extended,00000004
+[Chapter 6-2-Layout 1-Hard]
+patch=1,EE,005BEABC,extended,00000004
+[Chapter 6-2-Layout 2-Easy]
+patch=1,EE,005BEABD,extended,00000004
+[Chapter 6-2-Layout 2-Normal]
+patch=1,EE,005BEABE,extended,00000004
+[Chapter 6-2-Layout 2-Hard]
+patch=1,EE,005BEABF,extended,00000004
+[Chapter 6-2-Layout 3-Easy]
+patch=1,EE,005BEAC0,extended,00000004
+[Chapter 6-2-Layout 3-Normal]
+patch=1,EE,005BEAC1,extended,00000004
+[Chapter 6-2-Layout 3-Hard]
+patch=1,EE,005BEAC2,extended,00000004
+[Chapter 7-1-Layout 1-Easy]
+patch=1,EE,005BEB5E,extended,00000004
+[Chapter 7-1-Layout 1-Normal]
+patch=1,EE,005BEB5F,extended,00000004
+[Chapter 7-1-Layout 1-Hard]
+patch=1,EE,005BEB60,extended,00000004
+[Chapter 7-1-Layout 2-Easy]
+patch=1,EE,005BEB61,extended,00000004
+[Chapter 7-1-Layout 2-Normal]
+patch=1,EE,005BEB62,extended,00000004
+[Chapter 7-1-Layout 2-Hard]
+patch=1,EE,005BEB63,extended,00000004
+[Chapter 7-1-Layout 3-Easy]
+patch=1,EE,005BEB64,extended,00000004
+[Chapter 7-1-Layout 3-Normal]
+patch=1,EE,005BEB65,extended,00000004
+[Chapter 7-1-Layout 3-Hard]
+patch=1,EE,005BEB66,extended,00000004
+[Chapter 7-2-Layout 1-Easy]
+patch=1,EE,005BEC02,extended,00000004
+[Chapter 7-2-Layout 1-Normal]
+patch=1,EE,005BEC03,extended,00000004
+[Chapter 7-2-Layout 1-Hard]
+patch=1,EE,005BEC04,extended,00000004
+[Chapter 7-2-Layout 2-Easy]
+patch=1,EE,005BEC05,extended,00000004
+[Chapter 7-2-Layout 2-Normal]
+patch=1,EE,005BEC06,extended,00000004
+[Chapter 7-2-Layout 2-Hard]
+patch=1,EE,005BEC07,extended,00000004
+[Chapter 7-2-Layout 3-Easy]
+patch=1,EE,005BEC08,extended,00000004
+[Chapter 7-2-Layout 3-Normal]
+patch=1,EE,005BEC09,extended,00000004
+[Chapter 7-2-Layout 3-Hard]
+patch=1,EE,005BEC0A,extended,00000004
+[Chapter 8-Layout 1-Easy]
+patch=1,EE,005BECA6,extended,00000004
+[Chapter 8-Layout 1-Normal]
+patch=1,EE,005BECA7,extended,00000004
+[Chapter 8-Layout 1-Hard]
+patch=1,EE,005BECA8,extended,00000004
+[Chapter 8-Layout 2-Easy]
+patch=1,EE,005BECA9,extended,00000004
+[Chapter 8-Layout 2-Normal]
+patch=1,EE,005BECAA,extended,00000004
+[Chapter 8-Layout 2-Hard]
+patch=1,EE,005BECAB,extended,00000004
+[Chapter 8-Layout 3-Easy]
+patch=1,EE,005BECAC,extended,00000004
+[Chapter 8-Layout 3-Normal]
+patch=1,EE,005BECAD,extended,00000004
+[Chapter 8-Layout 3-Hard]
+patch=1,EE,005BECAE,extended,00000004
+[Chapter 9-Layout 1-Easy]
+patch=1,EE,005BED4A,extended,00000004
+[Chapter 9-Layout 1-Normal]
+patch=1,EE,005BED4B,extended,00000004
+[Chapter 9-Layout 1-Hard]
+patch=1,EE,005BED4C,extended,00000004
+[Chapter 9-Layout 2-Easy]
+patch=1,EE,005BED4D,extended,00000004
+[Chapter 9-Layout 2-Normal]
+patch=1,EE,005BED4E,extended,00000004
+[Chapter 9-Layout 2-Hard]
+patch=1,EE,005BED4F,extended,00000004
+[Chapter 9-Layout 3-Easy]
+patch=1,EE,005BED50,extended,00000004
+[Chapter 9-Layout 3-Normal]
+patch=1,EE,005BED51,extended,00000004
+[Chapter 9-Layout 3-Hard]
+patch=1,EE,005BED52,extended,00000004
+[Chapter 10-1-Layout 1-Easy]
+patch=1,EE,005BEDEE,extended,00000004
+[Chapter 10-1-Layout 1-Normal]
+patch=1,EE,005BEDEF,extended,00000004
+[Chapter 10-1-Layout 1-Hard]
+patch=1,EE,005BEDF0,extended,00000004
+[Chapter 10-1-Layout 2-Easy]
+patch=1,EE,005BEDF1,extended,00000004
+[Chapter 10-1-Layout 2-Normal]
+patch=1,EE,005BEDF2,extended,00000004
+[Chapter 10-1-Layout 2-Hard]
+patch=1,EE,005BEDF3,extended,00000004
+[Chapter 10-1-Layout 3-Easy]
+patch=1,EE,005BEDF4,extended,00000004
+[Chapter 10-1-Layout 3-Normal]
+patch=1,EE,005BEDF5,extended,00000004
+[Chapter 10-1-Layout 3-Hard]
+patch=1,EE,005BEDF6,extended,00000004
+[Chapter 10-2-Layout 1-Easy]
+patch=1,EE,005BEE92,extended,00000004
+[Chapter 10-2-Layout 1-Normal]
+patch=1,EE,005BEE93,extended,00000004
+[Chapter 10-2-Layout 1-Hard]
+patch=1,EE,005BEE94,extended,00000004
+[Chapter 10-2-Layout 2-Easy]
+patch=1,EE,005BEE95,extended,00000004
+[Chapter 10-2-Layout 2-Normal]
+patch=1,EE,005BEE96,extended,00000004
+[Chapter 10-2-Layout 2-Hard]
+patch=1,EE,005BEE97,extended,00000004
+[Chapter 10-2-Layout 3-Easy]
+patch=1,EE,005BEE98,extended,00000004
+[Chapter 10-2-Layout 3-Normal]
+patch=1,EE,005BEE99,extended,00000004
+[Chapter 10-2-Layout 3-Hard]
+patch=1,EE,005BEE9A,extended,00000004
+[Chapter 11-Layout 1-Easy]
+patch=1,EE,005BEF36,extended,00000004
+[Chapter 11-Layout 1-Normal]
+patch=1,EE,005BEF37,extended,00000004
+[Chapter 11-Layout 1-Hard]
+patch=1,EE,005BEF38,extended,00000004
+[Chapter 11-Layout 2-Easy]
+patch=1,EE,005BEF39,extended,00000004
+[Chapter 11-Layout 2-Normal]
+patch=1,EE,005BEF3A,extended,00000004
+[Chapter 11-Layout 2-Hard]
+patch=1,EE,005BEF3B,extended,00000004
+[Chapter 11-Layout 3-Easy]
+patch=1,EE,005BEF3C,extended,00000004
+[Chapter 11-Layout 3-Normal]
+patch=1,EE,005BEF3D,extended,00000004
+[Chapter 11-Layout 3-Hard]
+patch=1,EE,005BEF3E,extended,00000004
+[Chapter 12-1-Layout 1-Easy]
+patch=1,EE,005BEFDA,extended,00000004
+[Chapter 12-1-Layout 1-Normal]
+patch=1,EE,005BEFDB,extended,00000004
+[Chapter 12-1-Layout 1-Hard]
+patch=1,EE,005BEFDC,extended,00000004
+[Chapter 12-1-Layout 2-Easy]
+patch=1,EE,005BEFDD,extended,00000004
+[Chapter 12-1-Layout 2-Normal]
+patch=1,EE,005BEFDE,extended,00000004
+[Chapter 12-1-Layout 2-Hard]
+patch=1,EE,005BEFDF,extended,00000004
+[Chapter 12-1-Layout 3-Easy]
+patch=1,EE,005BEFE0,extended,00000004
+[Chapter 12-1-Layout 3-Normal]
+patch=1,EE,005BEFE1,extended,00000004
+[Chapter 12-1-Layout 3-Hard]
+patch=1,EE,005BEFE2,extended,00000004
+[Chapter 12-2-Layout 1-Easy]
+patch=1,EE,005BF07E,extended,00000004
+[Chapter 12-2-Layout 1-Normal]
+patch=1,EE,005BF07F,extended,00000004
+[Chapter 12-2-Layout 1-Hard]
+patch=1,EE,005BF080,extended,00000004
+[Chapter 12-2-Layout 2-Easy]
+patch=1,EE,005BF081,extended,00000004
+[Chapter 12-2-Layout 2-Normal]
+patch=1,EE,005BF082,extended,00000004
+[Chapter 12-2-Layout 2-Hard]
+patch=1,EE,005BF083,extended,00000004
+[Chapter 12-2-Layout 3-Easy]
+patch=1,EE,005BF084,extended,00000004
+[Chapter 12-2-Layout 3-Normal]
+patch=1,EE,005BF085,extended,00000004
+[Chapter 12-2-Layout 3-Hard]
+patch=1,EE,005BF086,extended,00000004
+[>>> Have Ayame Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Chapter 1-Layout 1-Easy]
+patch=1,EE,005BE5A3,extended,00000004
+[Chapter 1-Layout 1-Normal]
+patch=1,EE,005BE5A4,extended,00000004
+[Chapter 1-Layout 1-Hard]
+patch=1,EE,005BE5A5,extended,00000004
+[Chapter 1-Layout 2-Easy]
+patch=1,EE,005BE5A6,extended,00000004
+[Chapter 1-Layout 2-Normal]
+patch=1,EE,005BE5A7,extended,00000004
+[Chapter 1-Layout 2-Hard]
+patch=1,EE,005BE5A8,extended,00000004
+[Chapter 1-Layout 3-Easy]
+patch=1,EE,005BE5A9,extended,00000004
+[Chapter 1-Layout 3-Normal]
+patch=1,EE,005BE5AA,extended,00000004
+[Chapter 1-Layout 3-Hard]
+patch=1,EE,005BE5AB,extended,00000004
+[Chapter 2-1-Layout 1-Easy]
+patch=1,EE,005BE647,extended,00000004
+[Chapter 2-1-Layout 1-Normal]
+patch=1,EE,005BE648,extended,00000004
+[Chapter 2-1-Layout 1-Hard]
+patch=1,EE,005BE649,extended,00000004
+[Chapter 2-1-Layout 2-Easy]
+patch=1,EE,005BE64A,extended,00000004
+[Chapter 2-1-Layout 2-Normal]
+patch=1,EE,005BE64B,extended,00000004
+[Chapter 2-1-Layout 2-Hard]
+patch=1,EE,005BE64C,extended,00000004
+[Chapter 2-1-Layout 3-Easy]
+patch=1,EE,005BE64D,extended,00000004
+[Chapter 2-1-Layout 3-Normal]
+patch=1,EE,005BE64E,extended,00000004
+[Chapter 2-1-Layout 3-Hard]
+patch=1,EE,005BE64F,extended,00000004
+[Chapter 2-2-Layout 1-Easy]
+patch=1,EE,005BE6EB,extended,00000004
+[Chapter 2-2-Layout 1-Normal]
+patch=1,EE,005BE6EC,extended,00000004
+[Chapter 2-2-Layout 1-Hard]
+patch=1,EE,005BE6ED,extended,00000004
+[Chapter 2-2-Layout 2-Easy]
+patch=1,EE,005BE6EE,extended,00000004
+[Chapter 2-2-Layout 2-Normal]
+patch=1,EE,005BE6EF,extended,00000004
+[Chapter 2-2-Layout 2-Hard]
+patch=1,EE,005BE6F0,extended,00000004
+[Chapter 2-2-Layout 3-Easy]
+patch=1,EE,005BE6F1,extended,00000004
+[Chapter 2-2-Layout 3-Normal]
+patch=1,EE,005BE6F2,extended,00000004
+[Chapter 2-2-Layout 3-Hard]
+patch=1,EE,005BE6F3,extended,00000004
+[Chapter 3-1-Layout 1-Easy]
+patch=1,EE,005BE78F,extended,00000004
+[Chapter 3-1-Layout 1-Normal]
+patch=1,EE,005BE790,extended,00000004
+[Chapter 3-1-Layout 1-Hard]
+patch=1,EE,005BE791,extended,00000004
+[Chapter 3-1-Layout 2-Easy]
+patch=1,EE,005BE792,extended,00000004
+[Chapter 3-1-Layout 2-Normal]
+patch=1,EE,005BE793,extended,00000004
+[Chapter 3-1-Layout 2-Hard]
+patch=1,EE,005BE794,extended,00000004
+[Chapter 3-1-Layout 3-Easy]
+patch=1,EE,005BE795,extended,00000004
+[Chapter 3-1-Layout 3-Normal]
+patch=1,EE,005BE796,extended,00000004
+[Chapter 3-1-Layout 3-Hard]
+patch=1,EE,005BE797,extended,00000004
+[Chapter 3-2-Layout 1-Easy]
+patch=1,EE,005BE833,extended,00000004
+[Chapter 3-2-Layout 1-Normal]
+patch=1,EE,005BE834,extended,00000004
+[Chapter 3-2-Layout 1-Hard]
+patch=1,EE,005BE835,extended,00000004
+[Chapter 3-2-Layout 2-Easy]
+patch=1,EE,005BE836,extended,00000004
+[Chapter 3-2-Layout 2-Normal]
+patch=1,EE,005BE837,extended,00000004
+[Chapter 3-2-Layout 2-Hard]
+patch=1,EE,005BE838,extended,00000004
+[Chapter 3-2-Layout 3-Easy]
+patch=1,EE,005BE839,extended,00000004
+[Chapter 3-2-Layout 3-Normal]
+patch=1,EE,005BE83A,extended,00000004
+[Chapter 3-2-Layout 3-Hard]
+patch=1,EE,005BE83B,extended,00000004
+[Chapter 4-Layout 1-Easy]
+patch=1,EE,005BE8D7,extended,00000004
+[Chapter 4-Layout 1-Normal]
+patch=1,EE,005BE8D8,extended,00000004
+[Chapter 4-Layout 1-Hard]
+patch=1,EE,005BE8D9,extended,00000004
+[Chapter 4-Layout 2-Easy]
+patch=1,EE,005BE8DA,extended,00000004
+[Chapter 4-Layout 2-Normal]
+patch=1,EE,005BE8DB,extended,00000004
+[Chapter 4-Layout 2-Hard]
+patch=1,EE,005BE8DC,extended,00000004
+[Chapter 4-Layout 3-Easy]
+patch=1,EE,005BE8DD,extended,00000004
+[Chapter 4-Layout 3-Normal]
+patch=1,EE,005BE8DE,extended,00000004
+[Chapter 4-Layout 3-Hard]
+patch=1,EE,005BE8DF,extended,00000004
+[Chapter 5-Layout 1-Easy]
+patch=1,EE,005BE97B,extended,00000004
+[Chapter 5-Layout 1-Normal]
+patch=1,EE,005BE97C,extended,00000004
+[Chapter 5-Layout 1-Hard]
+patch=1,EE,005BE97D,extended,00000004
+[Chapter 5-Layout 2-Easy]
+patch=1,EE,005BE97E,extended,00000004
+[Chapter 5-Layout 2-Normal]
+patch=1,EE,005BE97F,extended,00000004
+[Chapter 5-Layout 2-Hard]
+patch=1,EE,005BE980,extended,00000004
+[Chapter 5-Layout 3-Easy]
+patch=1,EE,005BE981,extended,00000004
+[Chapter 5-Layout 3-Normal]
+patch=1,EE,005BE982,extended,00000004
+[Chapter 5-Layout 3-Hard]
+patch=1,EE,005BE983,extended,00000004
+[Chapter 6-1-Layout 1-Easy]
+patch=1,EE,005BEA1F,extended,00000004
+[Chapter 6-1-Layout 1-Normal]
+patch=1,EE,005BEA20,extended,00000004
+[Chapter 6-1-Layout 1-Hard]
+patch=1,EE,005BEA21,extended,00000004
+[Chapter 6-1-Layout 2-Easy]
+patch=1,EE,005BEA22,extended,00000004
+[Chapter 6-1-Layout 2-Normal]
+patch=1,EE,005BEA23,extended,00000004
+[Chapter 6-1-Layout 2-Hard]
+patch=1,EE,005BEA24,extended,00000004
+[Chapter 6-1-Layout 3-Easy]
+patch=1,EE,005BEA25,extended,00000004
+[Chapter 6-1-Layout 3-Normal]
+patch=1,EE,005BEA26,extended,00000004
+[Chapter 6-1-Layout 3-Hard]
+patch=1,EE,005BEA27,extended,00000004
+[Chapter 6-2-Layout 1-Easy]
+patch=1,EE,005BEAC3,extended,00000004
+[Chapter 6-2-Layout 1-Normal]
+patch=1,EE,005BEAC4,extended,00000004
+[Chapter 6-2-Layout 1-Hard]
+patch=1,EE,005BEAC5,extended,00000004
+[Chapter 6-2-Layout 2-Easy]
+patch=1,EE,005BEAC6,extended,00000004
+[Chapter 6-2-Layout 2-Normal]
+patch=1,EE,005BEAC7,extended,00000004
+[Chapter 6-2-Layout 2-Hard]
+patch=1,EE,005BEAC8,extended,00000004
+[Chapter 6-2-Layout 3-Easy]
+patch=1,EE,005BEAC9,extended,00000004
+[Chapter 6-2-Layout 3-Normal]
+patch=1,EE,005BEACA,extended,00000004
+[Chapter 6-2-Layout 3-Hard]
+patch=1,EE,005BEACB,extended,00000004
+[Chapter 7-1-Layout 1-Easy]
+patch=1,EE,005BEB67,extended,00000004
+[Chapter 7-1-Layout 1-Normal]
+patch=1,EE,005BEB68,extended,00000004
+[Chapter 7-1-Layout 1-Hard]
+patch=1,EE,005BEB69,extended,00000004
+[Chapter 7-1-Layout 2-Easy]
+patch=1,EE,005BEB6A,extended,00000004
+[Chapter 7-1-Layout 2-Normal]
+patch=1,EE,005BEB6B,extended,00000004
+[Chapter 7-1-Layout 2-Hard]
+patch=1,EE,005BEB6C,extended,00000004
+[Chapter 7-1-Layout 3-Easy]
+patch=1,EE,005BEB6D,extended,00000004
+[Chapter 7-1-Layout 3-Normal]
+patch=1,EE,005BEB6E,extended,00000004
+[Chapter 7-1-Layout 3-Hard]
+patch=1,EE,005BEB6F,extended,00000004
+[Chapter 7-2-Layout 1-Easy]
+patch=1,EE,005BEC0B,extended,00000004
+[Chapter 7-2-Layout 1-Normal]
+patch=1,EE,005BEC0C,extended,00000004
+[Chapter 7-2-Layout 1-Hard]
+patch=1,EE,005BEC0D,extended,00000004
+[Chapter 7-2-Layout 2-Easy]
+patch=1,EE,005BEC0E,extended,00000004
+[Chapter 7-2-Layout 2-Normal]
+patch=1,EE,005BEC0F,extended,00000004
+[Chapter 7-2-Layout 2-Hard]
+patch=1,EE,005BEC10,extended,00000004
+[Chapter 7-2-Layout 3-Easy]
+patch=1,EE,005BEC11,extended,00000004
+[Chapter 7-2-Layout 3-Normal]
+patch=1,EE,005BEC12,extended,00000004
+[Chapter 7-2-Layout 3-Hard]
+patch=1,EE,005BEC13,extended,00000004
+[Chapter 8-Layout 1-Easy]
+patch=1,EE,005BECAF,extended,00000004
+[Chapter 8-Layout 1-Normal]
+patch=1,EE,005BECB0,extended,00000004
+[Chapter 8-Layout 1-Hard]
+patch=1,EE,005BECB1,extended,00000004
+[Chapter 8-Layout 2-Easy]
+patch=1,EE,005BECB2,extended,00000004
+[Chapter 8-Layout 2-Normal]
+patch=1,EE,005BECB3,extended,00000004
+[Chapter 8-Layout 2-Hard]
+patch=1,EE,005BECB4,extended,00000004
+[Chapter 8-Layout 3-Easy]
+patch=1,EE,005BECB5,extended,00000004
+[Chapter 8-Layout 3-Normal]
+patch=1,EE,005BECB6,extended,00000004
+[Chapter 8-Layout 3-Hard]
+patch=1,EE,005BECB7,extended,00000004
+[Chapter 9-Layout 1-Easy]
+patch=1,EE,005BED53,extended,00000004
+[Chapter 9-Layout 1-Normal]
+patch=1,EE,005BED54,extended,00000004
+[Chapter 9-Layout 1-Hard]
+patch=1,EE,005BED55,extended,00000004
+[Chapter 9-Layout 2-Easy]
+patch=1,EE,005BED56,extended,00000004
+[Chapter 9-Layout 2-Normal]
+patch=1,EE,005BED57,extended,00000004
+[Chapter 9-Layout 2-Hard]
+patch=1,EE,005BED58,extended,00000004
+[Chapter 9-Layout 3-Easy]
+patch=1,EE,005BED59,extended,00000004
+[Chapter 9-Layout 3-Normal]
+patch=1,EE,005BED5A,extended,00000004
+[Chapter 9-Layout 3-Hard]
+patch=1,EE,005BED5B,extended,00000004
+[Chapter 10-1-Layout 1-Easy]
+patch=1,EE,005BEDF7,extended,00000004
+[Chapter 10-1-Layout 1-Normal]
+patch=1,EE,005BEDF8,extended,00000004
+[Chapter 10-1-Layout 1-Hard]
+patch=1,EE,005BEDF9,extended,00000004
+[Chapter 10-1-Layout 2-Easy]
+patch=1,EE,005BEDFA,extended,00000004
+[Chapter 10-1-Layout 2-Normal]
+patch=1,EE,005BEDFB,extended,00000004
+[Chapter 10-1-Layout 2-Hard]
+patch=1,EE,005BEDFC,extended,00000004
+[Chapter 10-1-Layout 3-Easy]
+patch=1,EE,005BEDFD,extended,00000004
+[Chapter 10-1-Layout 3-Normal]
+patch=1,EE,005BEDFE,extended,00000004
+[Chapter 10-1-Layout 3-Hard]
+patch=1,EE,005BEDFF,extended,00000004
+[Chapter 10-2-Layout 1-Easy]
+patch=1,EE,005BEE9B,extended,00000004
+[Chapter 10-2-Layout 1-Normal]
+patch=1,EE,005BEE9C,extended,00000004
+[Chapter 10-2-Layout 1-Hard]
+patch=1,EE,005BEE9D,extended,00000004
+[Chapter 10-2-Layout 2-Easy]
+patch=1,EE,005BEE9E,extended,00000004
+[Chapter 10-2-Layout 2-Normal]
+patch=1,EE,005BEE9F,extended,00000004
+[Chapter 10-2-Layout 2-Hard]
+patch=1,EE,005BEEA0,extended,00000004
+[Chapter 10-2-Layout 3-Easy]
+patch=1,EE,005BEEA1,extended,00000004
+[Chapter 10-2-Layout 3-Normal]
+patch=1,EE,005BEEA2,extended,00000004
+[Chapter 10-2-Layout 3-Hard]
+patch=1,EE,005BEEA3,extended,00000004
+[Chapter 11-Layout 1-Easy]
+patch=1,EE,005BEF3F,extended,00000004
+[Chapter 11-Layout 1-Normal]
+patch=1,EE,005BEF40,extended,00000004
+[Chapter 11-Layout 1-Hard]
+patch=1,EE,005BEF41,extended,00000004
+[Chapter 11-Layout 2-Easy]
+patch=1,EE,005BEF42,extended,00000004
+[Chapter 11-Layout 2-Normal]
+patch=1,EE,005BEF43,extended,00000004
+[Chapter 11-Layout 2-Hard]
+patch=1,EE,005BEF44,extended,00000004
+[Chapter 11-Layout 3-Easy]
+patch=1,EE,005BEF45,extended,00000004
+[Chapter 11-Layout 3-Normal]
+patch=1,EE,005BEF46,extended,00000004
+[Chapter 11-Layout 3-Hard]
+patch=1,EE,005BEF47,extended,00000004
+[Chapter 12-1-Layout 1-Easy]
+patch=1,EE,005BEFE3,extended,00000004
+[Chapter 12-1-Layout 1-Normal]
+patch=1,EE,005BEFE4,extended,00000004
+[Chapter 12-1-Layout 1-Hard]
+patch=1,EE,005BEFE5,extended,00000004
+[Chapter 12-1-Layout 2-Easy]
+patch=1,EE,005BEFE6,extended,00000004
+[Chapter 12-1-Layout 2-Normal]
+patch=1,EE,005BEFE7,extended,00000004
+[Chapter 12-1-Layout 2-Hard]
+patch=1,EE,005BEFE8,extended,00000004
+[Chapter 12-1-Layout 3-Easy]
+patch=1,EE,005BEFE9,extended,00000004
+[Chapter 12-1-Layout 3-Normal]
+patch=1,EE,005BEFEA,extended,00000004
+[Chapter 12-1-Layout 3-Hard]
+patch=1,EE,005BEFEB,extended,00000004
+[Chapter 12-2-Layout 1-Easy]
+patch=1,EE,005BF087,extended,00000004
+[Chapter 12-2-Layout 1-Normal]
+patch=1,EE,005BF088,extended,00000004
+[Chapter 12-2-Layout 1-Hard]
+patch=1,EE,005BF089,extended,00000004
+[Chapter 12-2-Layout 2-Easy]
+patch=1,EE,005BF08A,extended,00000004
+[Chapter 12-2-Layout 2-Normal]
+patch=1,EE,005BF08B,extended,00000004
+[Chapter 12-2-Layout 2-Hard]
+patch=1,EE,005BF08C,extended,00000004
+[Chapter 12-2-Layout 3-Easy]
+patch=1,EE,005BF08D,extended,00000004
+[Chapter 12-2-Layout 3-Normal]
+patch=1,EE,005BF08E,extended,00000004
+[Chapter 12-2-Layout 3-Hard]
+patch=1,EE,005BF08F,extended,00000004
+[>>> Encyclopedia Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Specials-Rin]
+cheat0_code = "205BE4B8 FFFFFFFF
+[Have All Specials-Ayame]
+cheat0_code = "205BE52C FFFFFFFF
+[>>> Unlock Costumes Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Rin-Majesty]
+patch=1,EE,005BE520,extended,00000001
+[Rin-Scarlet]
+patch=1,EE,005BE521,extended,00000001
+[Ayame-Blossom]
+patch=1,EE,005BE594,extended,00000001
+[Ayame-Wrath]
+patch=1,EE,005BE595,extended,00000001
+[Ayame-Peony]
+patch=1,EE,005BE596,extended,00000001
+[Ayame-Indigo]
+patch=1,EE,005BE597,extended,00000001
+[>>> Unlock Gallery Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Rin]
+patch=1,EE,005BF530,extended,00000001
+[Ayame]
+patch=1,EE,005BF531,extended,00000001
+[Tatsukichi]
+patch=1,EE,005BF532,extended,00000001
+[Kumagorou]
+patch=1,EE,005BF533,extended,00000001
+[Nasu]
+patch=1,EE,005BF534,extended,00000001
+[Shinogi]
+patch=1,EE,005BF535,extended,00000001
+[Futaba]
+patch=1,EE,005BF536,extended,00000001
+[Hitoha]
+patch=1,EE,005BF537,extended,00000001
+[Ranzou]
+patch=1,EE,005BF538,extended,00000001
+[Shou]
+patch=1,EE,005BF539,extended,00000001
+[Jyuzou]
+patch=1,EE,005BF53A,extended,00000001
+[Concept 1]
+patch=1,EE,005BF53B,extended,00000001
+[Concept 2]
+patch=1,EE,005BF53C,extended,00000001
+[Concept 3]
+patch=1,EE,005BF53D,extended,00000001
+[Concept 4]
+patch=1,EE,005BF53E,extended,00000001
+[Concept 5]
+patch=1,EE,005BF53F,extended,00000001
+[Concept 6]
+patch=1,EE,005BF540,extended,00000001
+[Concept 7]
+patch=1,EE,005BF541,extended,00000001
+[Concept 8]
+patch=1,EE,005BF542,extended,00000001
+[Ad Art]
+patch=1,EE,005BF543,extended,00000001
+[All Gallery]
+patch=1,EE,405BF530,extended,00040001
+[All Gallery]
+patch=1,EE,01010101,extended,00000000
+[>>> Unlock Cutscenes Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Chapter 1-1]
+patch=1,EE,005BF570,extended,00000001
+[Chapter 1-2]
+patch=1,EE,005BF571,extended,00000001
+[Chapter 2-1]
+patch=1,EE,005BF572,extended,00000001
+[Chapter 2-2]
+patch=1,EE,005BF573,extended,00000001
+[Chapter 3-1]
+patch=1,EE,005BF574,extended,00000001
+[Chapter 3-2]
+patch=1,EE,005BF575,extended,00000001
+[Chapter 3-3]
+patch=1,EE,005BF576,extended,00000001
+[Chapter 3-4]
+patch=1,EE,005BF577,extended,00000001
+[Chapter 4-1]
+patch=1,EE,005BF578,extended,00000001
+[Chapter 4-2]
+patch=1,EE,005BF579,extended,00000001
+[Chapter 5]
+patch=1,EE,005BF57A,extended,00000001
+[Chapter 6-1]
+patch=1,EE,005BF57B,extended,00000001
+[Chapter 6-2]
+patch=1,EE,005BF57C,extended,00000001
+[Chatper 6-3]
+patch=1,EE,005BF57D,extended,00000001
+[Chapter 6-4]
+patch=1,EE,005BF57E,extended,00000001
+[Chapter 6-5]
+patch=1,EE,005BF57F,extended,00000001
+[Chapter 6-6]
+patch=1,EE,005BF580,extended,00000001
+[Chapter 7-1]
+patch=1,EE,005BF581,extended,00000001
+[Chapter 7-2]
+patch=1,EE,005BF582,extended,00000001
+[Chapter 7-3]
+patch=1,EE,005BF583,extended,00000001
+[Chapter 7-4]
+patch=1,EE,005BF584,extended,00000001
+[Chapter 8]
+patch=1,EE,005BF585,extended,00000001
+[Chapter 9-1]
+patch=1,EE,005BF586,extended,00000001
+[Chapter 9-2]
+patch=1,EE,005BF587,extended,00000001
+[Chapter 10-1]
+patch=1,EE,005BF588,extended,00000001
+[Chapter 10-2]
+patch=1,EE,005BF589,extended,00000001
+[Chapter 10-3]
+patch=1,EE,005BF58A,extended,00000001
+[Chapter 11-1]
+patch=1,EE,005BF58B,extended,00000001
+[Chapter 11-2]
+patch=1,EE,005BF58C,extended,00000001
+[Chapter 11-3]
+patch=1,EE,005BF58D,extended,00000001
+[Chapter 12-1]
+patch=1,EE,005BF58E,extended,00000001
+[Chapter 12-2]
+patch=1,EE,005BF58F,extended,00000001
+[Chapter 12-3]
+patch=1,EE,005BF590,extended,00000001
+[Chapter 12-4]
+patch=1,EE,005BF591,extended,00000001
+[Chapter 12-5]
+patch=1,EE,005BF592,extended,00000001
+[Chapter 12-6]
+patch=1,EE,005BF593,extended,00000001
+[Chapter 12-7]
+patch=1,EE,005BF594,extended,00000001
+[Chapter 12-8]
+patch=1,EE,005BF595,extended,00000001
+[Chapter 12-9]
+patch=1,EE,005BF596,extended,00000001
+[Chapter 12-10]
+patch=1,EE,005BF597,extended,00000001
+[Chapter 12-11]
+patch=1,EE,005BF598,extended,00000001
+[All Cutscenes]
+patch=1,EE,405BF570,extended,000A0001
+[All Cutscenes]
+patch=1,EE,01010101,extended,00000000
+[All Cutscenes]
+patch=1,EE,005BF598,extended,00000001
+[>>> Unlock Movies Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Opening Movie]
+patch=1,EE,005BF5B0,extended,00000001
+[Chap. 1 Prologue]
+patch=1,EE,005BF5B1,extended,00000001
+[Chap. 2 Prologue]
+patch=1,EE,005BF5B2,extended,00000001
+[Chap. 3 Prologue]
+patch=1,EE,005BF5B3,extended,00000001
+[Chap. 4 Prologue]
+patch=1,EE,005BF5B4,extended,00000001
+[Chap. 5 Prologue]
+patch=1,EE,005BF5B5,extended,00000001
+[Chap. 6 Prologue]
+patch=1,EE,005BF5B6,extended,00000001
+[Chap. 7 Prologue]
+patch=1,EE,005BF5B7,extended,00000001
+[Chap. 8 Prologue]
+patch=1,EE,005BF5B8,extended,00000001
+[Chap. 9 Prologue]
+patch=1,EE,005BF5B9,extended,00000001
+[Chap. 10 Prologue]
+patch=1,EE,005BF5BA,extended,00000001
+[Chap. 11 Prologue]
+patch=1,EE,005BF5BB,extended,00000001
+[Chap. 12 Prologue]
+patch=1,EE,005BF5BC,extended,00000001
+[Chap. 2-1 Preview]
+patch=1,EE,005BF5BD,extended,00000001
+[Chap. 2-2 Preview]
+patch=1,EE,005BF5BE,extended,00000001
+[Chap. 3-1 Preview]
+patch=1,EE,005BF5BF,extended,00000001
+[Chap. 3-2 Preview]
+patch=1,EE,005BF5C0,extended,00000001
+[Chap. 4 Preview]
+patch=1,EE,005BF5C1,extended,00000001
+[Chap. 5 Preview]
+patch=1,EE,005BF5C2,extended,00000001
+[Chap. 6-1 Preview]
+patch=1,EE,005BF5C3,extended,00000001
+[Chap. 6-2 Preview]
+patch=1,EE,005BF5C4,extended,00000001
+[Chap. 7-1 Preview]
+patch=1,EE,005BF5C5,extended,00000001
+[Chap. 7-2 Preview]
+patch=1,EE,005BF5C6,extended,00000001
+[Chap. 8 Preview]
+patch=1,EE,005BF5C7,extended,00000001
+[Chap. 9 Preview]
+patch=1,EE,005BF5C8,extended,00000001
+[Chap. 10-1 Preview]
+patch=1,EE,005BF5C9,extended,00000001
+[Chap. 10-2 Preview]
+patch=1,EE,005BF5CA,extended,00000001
+[Chap. 11 Preview]
+patch=1,EE,005BF5CB,extended,00000001
+[Chap. 12-1 Preview]
+patch=1,EE,005BF5CC,extended,00000001
+[Chap. 12-2 Preview]
+patch=1,EE,005BF5CD,extended,00000001
+[Ending Credits]
+patch=1,EE,005BF5CE,extended,00000001
+[All Movies]
+patch=1,EE,405BF5B0,extended,00070001
+[All Movies]
+patch=1,EE,01010101,extended,00000000
+[All Movies]
+patch=1,EE,105BF5CC,extended,00000101
+[All Movies]
+patch=1,EE,005BF5CE,extended,00000001
+

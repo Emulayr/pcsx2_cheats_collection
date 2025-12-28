@@ -1,0 +1,20 @@
+gametitle=[SLUS-20063] Midnight Club-Street Racing
+[Enable Code (Must Be On)]
+patch=1,EE,902B76E8,extended,0C0A9852
+[Infinite Damage]
+patch=1,EE,201B0E34,extended,AC400038
+[Always Low Time]
+patch=1,EE,20117938,extended,AE800018
+[Have All Vehicles (Career Mode)]
+cheat0_code = "202C3C88 FFFFFFFF
+[>>> Arcade Menu Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Vehicles]
+patch=1,EE,202C2270,extended,FFFFFFFF
+[Have All Vehicles]
+cheat0_code = "202C2274 FFFFFFFF
+[Have All New York Head To Head Races]
+cheat0_code = "202C227C FFFFFFFF
+[Have All London Head To Head Races]
+cheat0_code = "202C2280 FFFFFFFF
+

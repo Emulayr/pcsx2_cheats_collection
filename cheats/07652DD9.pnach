@@ -1,0 +1,76 @@
+gametitle=Sly 2-Band Of Thieves
+[Enable Code (Must Be On)]
+patch=1,EE,90243348,extended,0C08CC83
+[Disable FMV]
+patch=1,EE,2024B618,extended,24020001
+[Quick Coins Gain]
+patch=1,EE,003D4B00,extended,000000FF
+[Super Quick Coins Gain]
+patch=1,EE,103D4B00,extended,0000FFFF
+[Max Gold Coins]
+patch=1,EE,203D4B00,extended,05F5E0FF
+[Infinite Health (Sly Cooper)]
+patch=1,EE,203D4AB0,extended,00000028
+[Infinite Gadget Power (Sly Cooper)]
+patch=1,EE,203D4AB4,extended,00000028
+[Infinite Health (Bentley)]
+patch=1,EE,203D4AC8,extended,00000028
+[Infinite Gadget Power (Bentley)]
+patch=1,EE,203D4ACC,extended,00000028
+[Infinite Health (Murray)]
+patch=1,EE,203D4AE0,extended,0000003C
+[Infinite Gadget Power (Murray)]
+patch=1,EE,203D4AE4,extended,00000028
+[Have All Gadgets]
+patch=1,EE,203D4AF8,extended,FFFFFFFF
+[Have All Gadgets]
+cheat0_code = "203D4AFC FFFFFFFF
+[Infinite Gadget Usage (All Characters)]
+patch=1,EE,201441D8,extended,24050064
+[Infinite Gadget Usage (All Characters)]
+patch=1,EE,201441E0,extended,ACC50000
+[Access All Episodes/Movies]
+patch=1,EE,205975E8,extended,00000008
+[Coins Dont Decrease When Buying Gadgets]
+patch=1,EE,201D8184,extended,00000000
+[Coins Increase When Buying Gadgets]
+patch=1,EE,201D817C,extended,00481023
+[Infinite Double Jumps]
+patch=1,EE,201963C0,extended,00000000
+[Infinite Double Jumps]
+patch=1,EE,201963D4,extended,00000000
+[>>> Have Level Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Episode 1]
+patch=1,EE,D03D4E36,extended,00203F80
+[Episode 1]
+patch=1,EE,203D4E34,extended,3F800000
+[Episode 2]
+patch=1,EE,D03D4F4E,extended,00203F80
+[Episode 2]
+patch=1,EE,203D4F4C,extended,3F800000
+[Episode 3]
+patch=1,EE,D03D4FDE,extended,00203F80
+[Episode 3]
+patch=1,EE,203D4FDC,extended,3F800000
+[Episode 4]
+patch=1,EE,D03D4FE2,extended,002040AC
+[Episode 4]
+patch=1,EE,203D4FE0,extended,40AC7691
+[Episode 5]
+patch=1,EE,D03D50B6,extended,002040AC
+[Episode 5]
+patch=1,EE,203D50B4,extended,40AC7691
+[Episode 6]
+patch=1,EE,D03D5366,extended,002040AC
+[Episode 6]
+patch=1,EE,203D5364,extended,40AC7691
+[Episode 7]
+patch=1,EE,D03D54C2,extended,002040AC
+[Episode 7]
+patch=1,EE,203D54C0,extended,40AC7691
+[Episode 8]
+patch=1,EE,D03D5662,extended,002040AC
+[Episode 8]
+patch=1,EE,203D5660,extended,40AC7691
+

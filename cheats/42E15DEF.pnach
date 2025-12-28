@@ -1,0 +1,189 @@
+gametitle=[SLUS-20978] Power Drome
+[Enable Code (Must Be On)]
+patch=1,EE,9035706C,extended,0C0D75B6
+[Infinite Boost (Even When Empty)]
+patch=1,EE,2031CF68,extended,00000000
+[Infinite Boost (Upon Receiving 1)]
+patch=1,EE,2031D038,extended,00000000
+[Access All Gallery/Movies]
+patch=1,EE,204BA628,extended,00000001
+[>>> Have Championship Event Complete Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[San-Kei Open Pre-Season Qualifier Codes]
+[Have Event Icon]
+patch=1,EE,2194F0C4,extended,00000001
+[San-Kei Speedway]
+patch=1,EE,2194F2D0,extended,00000003
+[>>> Core Worlds Cups Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0C8,extended,00000001
+[San-Kei Outfield]
+patch=1,EE,2194F2F0,extended,00000003
+[Mata Wai Ocean Dam]
+patch=1,EE,2194F2F4,extended,00000003
+[Acer Naim Orbital]
+patch=1,EE,2194F2F8,extended,00000003
+[>>> Imperial D. Silo Complex Speed Challenge Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0CC,extended,00000001
+[Imperial Diebak Silo Complex]
+patch=1,EE,2194F310,extended,00000003
+[>>> Khalid's Midnight Run Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0D0,extended,00000001
+[Challenge Strip]
+patch=1,EE,2194F330,extended,00000003
+[>>> Chold Turbines Trophy Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0D4,extended,00000001
+[Mata Wai Plains]
+patch=1,EE,2194F350,extended,00000003
+[Imperial Diebak Silo Complex]
+patch=1,EE,2194F354,extended,00000003
+[Caldera Circuit]
+patch=1,EE,2194F358,extended,00000003
+[>>> San-Kei Eliminator Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0D8,extended,00000001
+[San-Kei Speedway]
+patch=1,EE,2194F370,extended,00000003
+[>>> Soomis Speed Challenge Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0DC,extended,00000001
+[Soomis Forest]
+patch=1,EE,2194F390,extended,00000003
+[>>> Jannek Classic Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0E0,extended,00000001
+[Imperial Diebak Silo Complex R]
+patch=1,EE,2194F3B0,extended,00000003
+[San-Kei Outfield R]
+patch=1,EE,2194F3B4,extended,00000003
+[Soomis River Run]
+patch=1,EE,2194F3B8,extended,00000003
+[>>> Gabriel's Ship Yard Challenge Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0E4,extended,00000001
+[Challenge Strip 2]
+patch=1,EE,2194F3D0,extended,00000003
+[>>> Mata Wai Eliminator Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0E8,extended,00000001
+[Mata Wai Ocean Dam]
+patch=1,EE,2194F3F0,extended,00000003
+[>>> San-Kei Speedway Exhibition Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0EC,extended,00000001
+[San-Kei Outfield]
+patch=1,EE,2194F410,extended,00000003
+[San-Kei Speedway]
+patch=1,EE,2194F414,extended,00000003
+[San-Kei Outfield R]
+patch=1,EE,2194F418,extended,00000003
+[>>> Mata Wai Invitational Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0F0,extended,00000001
+[Mata Wai Plains R]
+patch=1,EE,2194F430,extended,00000003
+[>>> Imperial Diebak Eliminator Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0F4,extended,00000001
+[Imperial Diebak Silo Complex]
+patch=1,EE,2194F450,extended,00000003
+[>>> Empress Yei Memorial Trophy Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0F8,extended,00000001
+[Soomis Forest]
+patch=1,EE,2194F470,extended,00000003
+[Acer Naim Substructure]
+patch=1,EE,2194F474,extended,00000003
+[>>> Amran's Raceway Challenge Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F0FC,extended,00000001
+[Challenge Strip 3]
+patch=1,EE,2194F490,extended,00000003
+[>>> Mata Wai Speed Challenge Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F100,extended,00000001
+[Mata Wai Plains]
+patch=1,EE,2194F4B0,extended,00000003
+[>>> Wirethrow Industrial Chips Shield Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F104,extended,00000001
+[Imperial Diebak]
+patch=1,EE,2194F4D0,extended,00000003
+[Caldera Circuit]
+patch=1,EE,2194F4D4,extended,00000003
+[Soomis Forest R]
+patch=1,EE,2194F4D8,extended,00000003
+[Acer Naim Orbital]
+patch=1,EE,2194F4DC,extended,00000003
+[>>> Gainward Prospect Festival Cup Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F108,extended,00000001
+[Caldera Circuit R]
+patch=1,EE,2194F4F0,extended,00000003
+[Acer Naim Orbital]
+patch=1,EE,2194F4F4,extended,00000003
+[Mata Wai Plains]
+patch=1,EE,2194F4F8,extended,00000003
+[Soomis Forest R]
+patch=1,EE,2194F4FC,extended,00000003
+[>>> Clanton's Gutter Run Challenge Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F10C,extended,00000001
+[Challenge Strip 4]
+patch=1,EE,2194F510,extended,00000003
+[>>> Cayn Hughes Testimonial Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F110,extended,00000001
+[Imperial Diebak R]
+patch=1,EE,2194F530,extended,00000003
+[Acer Naim Substructure R]
+patch=1,EE,2194F534,extended,00000003
+[San-Kei Speedway]
+patch=1,EE,2194F538,extended,00000003
+[>>> San-Kei Outfield Eliminator Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F114,extended,00000001
+[San-Kei Outfield]
+patch=1,EE,2194F550,extended,00000003
+[>>> Imperial Diebak Speed Challenge Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F118,extended,00000001
+[Imperial Diebak]
+patch=1,EE,2194F570,extended,00000003
+[>>> Core Worlds Masters Cup Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Event Icon]
+patch=1,EE,2194F11C,extended,00000001
+[Soomis River Run]
+patch=1,EE,2194F590,extended,00000003
+[Caldera Quarry]
+patch=1,EE,2194F594,extended,00000003
+[San-Kei Outfield]
+patch=1,EE,2194F598,extended,00000003
+[Mata Wai Plains R]
+patch=1,EE,2194F59C,extended,00000003
+

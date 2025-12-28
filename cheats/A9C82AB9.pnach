@@ -1,0 +1,100 @@
+gametitle=Demon Stone-Forgotten Realms
+[Enable Code (Must Be On)]
+patch=1,EE,901195FC,extended,0C047B20
+[Infinite Health]
+patch=1,EE,200C0220,extended,8E210310
+[Infinite Health]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Health]
+patch=1,EE,200C0228,extended,AE21030C
+[Infinite Health]
+patch=1,EE,20201C50,extended,0C030088
+[Infinite Health/1-Hit Deaths For Enemies]
+patch=1,EE,201AA6A0,extended,24030001
+[Infinite Health/1-Hit Deaths For Enemies]
+patch=1,EE,201AA6B4,extended,10610002
+[Infinite Health/1-Hit Deaths For Enemies]
+patch=1,EE,201AA6BC,extended,AE80030C
+[Max Hero Meter]
+patch=1,EE,200C0230,extended,3C013F80
+[Max Hero Meter]
+patch=1,EE,200C0234,extended,03E00008
+[Max Hero Meter]
+patch=1,EE,200C0238,extended,AC810024
+[Max Hero Meter]
+patch=1,EE,202046C0,extended,0803008C
+[Infinite Ammo]
+patch=1,EE,201A85EC,extended,00000000
+[Extra Ammo]
+patch=1,EE,101A85E8,extended,00000001
+[Buying Items Doesnt Decrease Gold]
+patch=1,EE,2024AACC,extended,00000000
+[Buying Items Increases Gold]
+patch=1,EE,2024AAC4,extended,00651821
+[Buying Upgrades Dont Decrease Unspent Points]
+patch=1,EE,2024ABCC,extended,00000000
+[Buying Upgrades Increases Unspent Points]
+patch=1,EE,2024ABC4,extended,00651821
+[>>> Zhai Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Unspent Gold]
+patch=1,EE,2050C0DC,extended,05F5E0FF
+[Max Total Gold]
+patch=1,EE,2050C0E0,extended,05F5E0FF
+[Max Total Exp. Points]
+patch=1,EE,2050C0E4,extended,05F5E0FF
+[Max Unspent Exp. Points]
+patch=1,EE,2050C0E8,extended,05F5E0FF
+[Level 99]
+patch=1,EE,2050C0EC,extended,00000063
+[>>> Rannek Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Unspent Gold]
+patch=1,EE,2050C290,extended,05F5E0FF
+[Max Total Gold]
+patch=1,EE,2050C294,extended,05F5E0FF
+[Max Total Exp. Points]
+patch=1,EE,2050C298,extended,05F5E0FF
+[Max Unspent Exp. Points]
+patch=1,EE,2050C29C,extended,05F5E0FF
+[Level 99]
+patch=1,EE,2050C2A0,extended,00000063
+[>>> Illius Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Unspent Gold]
+patch=1,EE,2050C444,extended,05F5E0FF
+[Max Total Gold]
+patch=1,EE,2050C448,extended,05F5E0FF
+[Max Total Exp. Points]
+patch=1,EE,2050C44C,extended,05F5E0FF
+[Max Unspent Exp. Points]
+patch=1,EE,2050C450,extended,05F5E0FF
+[Level 99]
+patch=1,EE,2050C454,extended,00000063
+[>>> Unlock Levels/Unlockable Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Chapter 1]
+patch=1,EE,2050BB24,extended,01010101
+[Chapter 2]
+patch=1,EE,2050BB94,extended,01010101
+[Chapter 3]
+patch=1,EE,2050BC04,extended,01010101
+[Chapter 4]
+patch=1,EE,2050BC74,extended,01010101
+[Chapter 5]
+patch=1,EE,2050BCE4,extended,01010101
+[Chapter 6]
+patch=1,EE,2050BD54,extended,01010101
+[Chapter 7]
+patch=1,EE,2050BDC4,extended,01010101
+[Chapter 8]
+patch=1,EE,2050BE34,extended,01010101
+[Chapter 9]
+patch=1,EE,2050BEA4,extended,01010101
+[Chapter 10]
+patch=1,EE,2050BF14,extended,01010101
+[All Chapters]
+patch=1,EE,4050BB24,extended,000A001C
+[All Chapters]
+patch=1,EE,01010101,extended,00000000
+

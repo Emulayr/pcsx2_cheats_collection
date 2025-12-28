@@ -1,0 +1,20 @@
+gametitle=MTV's Pimp My Ride
+[Enable Code (Must Be On)]
+patch=1,EE,90321410,extended,0C0F25FB
+[Infinite Cash]
+patch=1,EE,105393F4,extended,0000FFFF
+[Max Cash]
+patch=1,EE,205393F4,extended,05F5E0FF
+[Buying Items Doesnt Decrease Cash]
+patch=1,EE,20205CB4,extended,00000000
+[BUying Items Increases Cash]
+patch=1,EE,20205CA4,extended,00651021
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D0528582,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,20126454,extended,00000000
+[P1 Press {L2}+{SELECT} To Stop Timer]
+patch=1,EE,D0528582,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Stop Timer]
+patch=1,EE,20126454,extended,E6000010
+

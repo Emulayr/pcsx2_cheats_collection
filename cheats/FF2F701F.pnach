@@ -1,0 +1,88 @@
+gametitle=Dukes Of Hazzard-Return Of The General Lee, The
+[Enable Code (Must Be On)]
+patch=1,EE,901897E8,extended,00832021
+[Drive Through Most Objects]
+patch=1,EE,202D2DD0,extended,03E00008
+[Drive Through Most Objects]
+patch=1,EE,202D2DD4,extended,00000000
+[Infinite Time]
+patch=1,EE,202E8344,extended,00000000
+[Idiot AI]
+patch=1,EE,20452600,extended,03E00008
+[Idiot AI]
+patch=1,EE,20452604,extended,00000000
+[>>> No Damage Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Panel]
+patch=1,EE,20421288,extended,03E00008
+[Panel]
+patch=1,EE,2042128C,extended,00000000
+[Engine]
+patch=1,EE,204243E0,extended,03E00008
+[Engine]
+patch=1,EE,204243E4,extended,00000000
+[Light]
+patch=1,EE,20422D70,extended,03E00008
+[Light]
+patch=1,EE,20422D74,extended,00000000
+[Chassis]
+patch=1,EE,20424FF0,extended,03E00008
+[Chassis]
+patch=1,EE,20424FF4,extended,00000000
+[Chassis]
+patch=1,EE,20425278,extended,03E00008
+[Chassis]
+patch=1,EE,2042527C,extended,00000000
+[>>> Unlock Multiplayer Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Hot Pursuit]
+patch=1,EE,2061D750,extended,00000001
+[Head To head]
+patch=1,EE,2061D754,extended,00000001
+[Demolition Derby]
+patch=1,EE,2061D758,extended,00000001
+[All Multiplayer Modes]
+patch=1,EE,4061D750,extended,00030001
+[All Multiplayer Modes]
+patch=1,EE,00000001,extended,00000000
+[>>> Unlock Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[TV Stars Interviews]
+patch=1,EE,2061D75C,extended,00000001
+[Ratbag Production Vision]
+patch=1,EE,2061D760,extended,00000001
+[Ratbag Production Interviews]
+patch=1,EE,2061D764,extended,00000001
+[Cinematic Highlights]
+patch=1,EE,2061D768,extended,00000001
+[All Movies]
+patch=1,EE,4061D75C,extended,00040001
+[All Movies]
+patch=1,EE,00000001,extended,00000000
+[>>> Unlock Multiplayer Vehicle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sheriff's Car]
+patch=1,EE,2061D778,extended,00000001
+[Black Car]
+patch=1,EE,2061D77C,extended,00000001
+[Tow Truck]
+patch=1,EE,2061D780,extended,00000001
+[Police Car]
+patch=1,EE,2061D784,extended,00000001
+[General Lee]
+patch=1,EE,2061D788,extended,00000001
+[Pickup Truck]
+patch=1,EE,2061D78C,extended,00000001
+[Limousine]
+patch=1,EE,2061D790,extended,00000001
+[Roadrunner]
+patch=1,EE,2061D794,extended,00000001
+[Turbo General Lee]
+patch=1,EE,2061D798,extended,00000001
+[Double Zero]
+patch=1,EE,2061D79C,extended,00000001
+[All Vehicles]
+patch=1,EE,4061D778,extended,000A0001
+[All Vehicles]
+patch=1,EE,00000001,extended,00000000
+

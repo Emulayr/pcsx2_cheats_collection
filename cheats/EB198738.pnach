@@ -1,0 +1,1240 @@
+gametitle=Lord Of The Rings-The Third Age
+[Enable Code (Must Be On)]
+patch=1,EE,90278018,extended,0C0C73F0
+[Infinite Level Up Points Usage]
+patch=1,EE,2018C9CC,extended,00000000
+[Use Level Up Points To Gain More]
+patch=1,EE,2018C9C8,extended,00651821
+[Infinite Item Usage]
+patch=1,EE,20194610,extended,00000000
+[Extra Items]
+patch=1,EE,10194608,extended,00000001
+[Access All Skills]
+patch=1,EE,201953CC,extended,00000000
+[Access All Skills]
+patch=1,EE,201953D4,extended,00000000
+[Access All Skills]
+patch=1,EE,201953DC,extended,00000000
+[Access All Skills]
+patch=1,EE,201953E4,extended,00000000
+[Access All Skills]
+patch=1,EE,201953EC,extended,00000000
+[Perfect Mode]
+patch=1,EE,203A6DF0,extended,00000064
+[>>> Unlock Scene Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Scene 1]
+patch=1,EE,003A6C50,extended,00000001
+[Scene 2]
+patch=1,EE,003A6C51,extended,00000001
+[Scene 3]
+patch=1,EE,003A6C52,extended,00000001
+[Scene 4]
+patch=1,EE,003A6C53,extended,00000001
+[Scene 5]
+patch=1,EE,003A6C54,extended,00000001
+[Scene 6]
+patch=1,EE,003A6C55,extended,00000001
+[Scene 7]
+patch=1,EE,003A6C56,extended,00000001
+[Scene 8]
+patch=1,EE,003A6C57,extended,00000001
+[Scene 9]
+patch=1,EE,003A6C58,extended,00000001
+[Scene 10]
+patch=1,EE,003A6C59,extended,00000001
+[Scene 11]
+patch=1,EE,003A6C5A,extended,00000001
+[Scene 12]
+patch=1,EE,003A6C5B,extended,00000001
+[Scene 13]
+patch=1,EE,003A6C5C,extended,00000001
+[Scene 14]
+patch=1,EE,003A6C5D,extended,00000001
+[Scene 15]
+patch=1,EE,003A6C5E,extended,00000001
+[Scene 16]
+patch=1,EE,003A6C5F,extended,00000001
+[Scene 17]
+patch=1,EE,003A6C60,extended,00000001
+[Scene 18]
+patch=1,EE,003A6C61,extended,00000001
+[Scene 19]
+patch=1,EE,003A6C62,extended,00000001
+[Scene 20]
+patch=1,EE,003A6C63,extended,00000001
+[Scene 21]
+patch=1,EE,003A6C64,extended,00000001
+[Scene 22]
+patch=1,EE,003A6C65,extended,00000001
+[Scene 23]
+patch=1,EE,003A6C66,extended,00000001
+[Scene 24]
+patch=1,EE,003A6C67,extended,00000001
+[Scene 25]
+patch=1,EE,003A6C68,extended,00000001
+[Scene 26]
+patch=1,EE,003A6C69,extended,00000001
+[Scene 27]
+patch=1,EE,003A6C6A,extended,00000001
+[Scene 28]
+patch=1,EE,003A6C6B,extended,00000001
+[Scene 29]
+patch=1,EE,003A6C6C,extended,00000001
+[Scene 30]
+patch=1,EE,003A6C6D,extended,00000001
+[Scene 31]
+patch=1,EE,003A6C6E,extended,00000001
+[Scene 32]
+patch=1,EE,003A6C6F,extended,00000001
+[Scene 33]
+patch=1,EE,003A6C70,extended,00000001
+[Scene 34]
+patch=1,EE,003A6C71,extended,00000001
+[Scene 35]
+patch=1,EE,003A6C72,extended,00000001
+[Scene 36]
+patch=1,EE,003A6C73,extended,00000001
+[Scene 37]
+patch=1,EE,003A6C74,extended,00000001
+[Scene 38]
+patch=1,EE,003A6C75,extended,00000001
+[Scene 39]
+patch=1,EE,003A6C76,extended,00000001
+[Scene 40]
+patch=1,EE,003A6C77,extended,00000001
+[Scene 41]
+patch=1,EE,003A6C78,extended,00000001
+[Scene 42]
+patch=1,EE,003A6C79,extended,00000001
+[Scene 43]
+patch=1,EE,003A6C7A,extended,00000001
+[Scene 44]
+patch=1,EE,003A6C7B,extended,00000001
+[Scene 45]
+patch=1,EE,003A6C7C,extended,00000001
+[Scene 46]
+patch=1,EE,003A6C7D,extended,00000001
+[Scene 47]
+patch=1,EE,003A6C7E,extended,00000001
+[Scene 48]
+patch=1,EE,003A6C7F,extended,00000001
+[Scene 49]
+patch=1,EE,003A6C80,extended,00000001
+[Scene 50]
+patch=1,EE,003A6C81,extended,00000001
+[Scene 51]
+patch=1,EE,003A6C82,extended,00000001
+[Scene 52]
+patch=1,EE,003A6C83,extended,00000001
+[Scene 53]
+patch=1,EE,003A6C84,extended,00000001
+[Scene 54]
+patch=1,EE,003A6C85,extended,00000001
+[Scene 55]
+patch=1,EE,003A6C86,extended,00000001
+[Scene 56]
+patch=1,EE,003A6C87,extended,00000001
+[Scene 57]
+patch=1,EE,003A6C88,extended,00000001
+[Scene 58]
+patch=1,EE,003A6C89,extended,00000001
+[Scene 59]
+patch=1,EE,003A6C8A,extended,00000001
+[Scene 60]
+patch=1,EE,003A6C8B,extended,00000001
+[Scene 61]
+patch=1,EE,003A6C8C,extended,00000001
+[Scene 62]
+patch=1,EE,003A6C8D,extended,00000001
+[Scene 63]
+patch=1,EE,003A6C8E,extended,00000001
+[Scene 64]
+patch=1,EE,003A6C8F,extended,00000001
+[Scene 65]
+patch=1,EE,003A6C90,extended,00000001
+[Scene 66]
+patch=1,EE,003A6C91,extended,00000001
+[Scene 67]
+patch=1,EE,003A6C92,extended,00000001
+[Scene 68]
+patch=1,EE,003A6C93,extended,00000001
+[Scene 69]
+patch=1,EE,003A6C94,extended,00000001
+[Scene 70]
+patch=1,EE,003A6C95,extended,00000001
+[Scene 71]
+patch=1,EE,003A6C96,extended,00000001
+[Scene 72]
+patch=1,EE,003A6C97,extended,00000001
+[Scene 73]
+patch=1,EE,003A6C98,extended,00000001
+[Scene 74]
+patch=1,EE,003A6C99,extended,00000001
+[Scene 75]
+patch=1,EE,003A6C9A,extended,00000001
+[Scene 76]
+patch=1,EE,003A6C9B,extended,00000001
+[Scene 77]
+patch=1,EE,003A6C9C,extended,00000001
+[Scene 78]
+patch=1,EE,003A6C9D,extended,00000001
+[Scene 79]
+patch=1,EE,003A6C9E,extended,00000001
+[Scene 80]
+patch=1,EE,003A6C9F,extended,00000001
+[Scene 81]
+patch=1,EE,003A6CA0,extended,00000001
+[Scene 82]
+patch=1,EE,003A6CA1,extended,00000001
+[Scene 83]
+patch=1,EE,003A6CA2,extended,00000001
+[Scene 84]
+patch=1,EE,003A6CA3,extended,00000001
+[Scene 85]
+patch=1,EE,003A6CA4,extended,00000001
+[Scene 86]
+patch=1,EE,003A6CA5,extended,00000001
+[Scene 87]
+patch=1,EE,003A6CA6,extended,00000001
+[Scene 88]
+patch=1,EE,003A6CA7,extended,00000001
+[Scene 89]
+patch=1,EE,003A6CA8,extended,00000001
+[Scene 90]
+patch=1,EE,003A6CA9,extended,00000001
+[Scene 91]
+patch=1,EE,003A6CAA,extended,00000001
+[Scene 92]
+patch=1,EE,003A6CAB,extended,00000001
+[Scene 93]
+patch=1,EE,003A6CAC,extended,00000001
+[Scene 94]
+patch=1,EE,003A6CAD,extended,00000001
+[Scene 95]
+patch=1,EE,003A6CAE,extended,00000001
+[Scene 96]
+patch=1,EE,003A6CAF,extended,00000001
+[Scene 97]
+patch=1,EE,003A6CB0,extended,00000001
+[Scene 98]
+patch=1,EE,003A6CB1,extended,00000001
+[Scene 99]
+patch=1,EE,003A6CB2,extended,00000001
+[Scene 100]
+patch=1,EE,003A6CB3,extended,00000001
+[Scene 101]
+patch=1,EE,003A6CB4,extended,00000001
+[Scene 102]
+patch=1,EE,003A6CB5,extended,00000001
+[Scene 103]
+patch=1,EE,003A6CB6,extended,00000001
+[Scene 104]
+patch=1,EE,003A6CB7,extended,00000001
+[Scene 105]
+patch=1,EE,003A6CB8,extended,00000001
+[Scene 106]
+patch=1,EE,003A6CB9,extended,00000001
+[Scene 107]
+patch=1,EE,003A6CBA,extended,00000001
+[Scene 108]
+patch=1,EE,003A6CBB,extended,00000001
+[Scene 109]
+patch=1,EE,003A6CBC,extended,00000001
+[All Scenes]
+patch=1,EE,403A6C50,extended,001B0001
+[All Scenes]
+patch=1,EE,00000001,extended,00000000
+[All Scenes]
+patch=1,EE,003A6CBC,extended,00000001
+[>>> Eaoden Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,20CCD8FC,extended,05F5E0FF
+[Quick Exp Gain]
+patch=1,EE,10CCE2B4,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20CCE2B4,extended,05F5E0FF
+[Infinite Level Up Points]
+patch=1,EE,10CCE2BC,extended,0000270F
+[Infinite AP]
+patch=1,EE,10CCE2BE,extended,0000270F
+[Max Strength]
+patch=1,EE,10CCE2C0,extended,00000063
+[Super Strength]
+patch=1,EE,10CCE2C0,extended,000003E7
+[Max Const]
+patch=1,EE,10CCE2C2,extended,00000063
+[Super Const]
+patch=1,EE,10CCE2C2,extended,000003E7
+[Max Dexterity]
+patch=1,EE,10CCE2C4,extended,00000063
+[Super Dexterity]
+patch=1,EE,10CCE2C4,extended,000003E7
+[Max Speed]
+patch=1,EE,10CCE2C6,extended,00000063
+[Super Speed]
+patch=1,EE,10CCE2C6,extended,000003E7
+[Max Spirit]
+patch=1,EE,10CCE2C8,extended,00000063
+[Super Spirit]
+patch=1,EE,10CCE2C8,extended,000003E7
+[>>> Max Spear Craft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Rohirrim Rage]
+patch=1,EE,203A7820,extended,0000001E
+[Wrath Of Edoras]
+patch=1,EE,203A7824,extended,0000001E
+[Invigorating Blow]
+patch=1,EE,203A7828,extended,0000002D
+[Rampage Of Helm]
+patch=1,EE,203A782C,extended,0000003C
+[>>> Max Spirit Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Spirit Drought]
+patch=1,EE,203A786C,extended,00000023
+[Channel Spirit]
+patch=1,EE,203A7870,extended,00000023
+[Channel Defense]
+patch=1,EE,203A7874,extended,00000032
+[Silence Evil]
+patch=1,EE,203A7878,extended,00000032
+[Shatter Armor]
+patch=1,EE,203A787C,extended,00000041
+[Absorption]
+patch=1,EE,203A7880,extended,00000041
+[Sacrifice Reserves]
+patch=1,EE,203A7884,extended,00000050
+[Battle Mirror]
+patch=1,EE,203A7888,extended,00000050
+[Scatter Health]
+patch=1,EE,203A788C,extended,0000005F
+[Leech Essence]
+patch=1,EE,203A7890,extended,0000005F
+[>>> Max Passive Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Might Of Helm]
+patch=1,EE,203A789C,extended,0000000A
+[Rohan Evasion]
+patch=1,EE,203A78A0,extended,00000005
+[Grace Of The Mearas]
+patch=1,EE,203A78A4,extended,00000005
+[Rohirrim Evade]
+patch=1,EE,203A78A8,extended,00000005
+[Focus Defense]
+patch=1,EE,203A78AC,extended,00000005
+[Inspiring Grace]
+patch=1,EE,203A78B0,extended,00000005
+[Focus Health]
+patch=1,EE,203A78B4,extended,00000005
+[Focus Spirit]
+patch=1,EE,203A78B8,extended,00000005
+[Frenzy]
+patch=1,EE,203A78BC,extended,00000005
+[Absorb Malice]
+patch=1,EE,203A78C0,extended,00000028
+[>>> Max Lightcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gift Of Galadriel]
+patch=1,EE,203A7924,extended,00000005
+[Aura Of Life]
+patch=1,EE,203A7928,extended,0000000A
+[Haste Of The Elves]
+patch=1,EE,203A792C,extended,0000000F
+[Power Of The Valar]
+patch=1,EE,203A7930,extended,00000014
+[Sleep]
+patch=1,EE,203A7934,extended,00000014
+[Drain Spirit]
+patch=1,EE,203A7938,extended,00000014
+[Suffocate Evil]
+patch=1,EE,203A793C,extended,0000001E
+[Blinding Light]
+patch=1,EE,203A7940,extended,00000032
+[>>> Max Shadowcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dispel]
+patch=1,EE,203A7968,extended,00000005
+[Whip Of The Master]
+patch=1,EE,203A796C,extended,0000000A
+[Silence]
+patch=1,EE,203A7970,extended,0000000F
+[Crippling]
+patch=1,EE,203A7974,extended,00000014
+[Drain Health]
+patch=1,EE,203A7978,extended,00000014
+[Black Speech]
+patch=1,EE,203A797C,extended,00000014
+[Fear]
+patch=1,EE,203A7980,extended,0000001E
+[Wheel Of Fire]
+patch=1,EE,203A7984,extended,00000032
+[>>> Max Craft Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kingsfoil]
+patch=1,EE,203A79AC,extended,00000001
+[Lembas]
+patch=1,EE,203A79B0,extended,00000032
+[Old Toby]
+patch=1,EE,203A79B4,extended,00000041
+[Elf Medicine]
+patch=1,EE,203A79B8,extended,0000007D
+[Valar Guidance]
+patch=1,EE,203A79BC,extended,0000001E
+[Orthanc Fire]
+patch=1,EE,203A79C0,extended,00000014
+[Bruinen Waters]
+patch=1,EE,203A79C4,extended,00000014
+[Rhudaur Roots]
+patch=1,EE,203A79C8,extended,00000014
+[Nimrodel Air]
+patch=1,EE,203A79CC,extended,00000014
+[Sauron Blood]
+patch=1,EE,203A79D0,extended,00000014
+[Maiar Embers]
+patch=1,EE,203A79D4,extended,00000014
+[Thengal Stone]
+patch=1,EE,203A79D8,extended,0000001E
+[Shelob Slime]
+patch=1,EE,203A79DC,extended,0000001E
+[Haunted Dust]
+patch=1,EE,203A79E0,extended,0000001E
+[Simbelmyne Petals]
+patch=1,EE,203A79E4,extended,00000096
+[Mushrooms]
+patch=1,EE,203A79E8,extended,000000B4
+[>>> Morwen Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,20CCE75C,extended,05F5E0FF
+[Quick Exp Gain]
+patch=1,EE,10CCF114,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20CCF114,extended,05F5E0FF
+[Infinite Level Up Points]
+patch=1,EE,10CCF11C,extended,0000270F
+[Infinite AP]
+patch=1,EE,10CCF11E,extended,0000270F
+[Max Strength]
+patch=1,EE,10CCF120,extended,00000063
+[Super Strength]
+patch=1,EE,10CCF120,extended,000003E7
+[Max Const]
+patch=1,EE,10CCF122,extended,00000063
+[Super Const]
+patch=1,EE,10CCF122,extended,000003E7
+[Max Dexterity]
+patch=1,EE,10CCF124,extended,00000063
+[Super Dexterity]
+patch=1,EE,10CCF124,extended,000003E7
+[Max Speed]
+patch=1,EE,10CCF126,extended,00000063
+[Super Speed]
+patch=1,EE,10CCF126,extended,000003E7
+[Max Spirit]
+patch=1,EE,10CCF128,extended,00000063
+[Super Spirit]
+patch=1,EE,10CCF128,extended,000003E7
+[>>> Max Dual-Axe Craft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Rage Of The Maiden]
+patch=1,EE,203A7638,extended,00000014
+[Poisoned Wounds]
+patch=1,EE,203A763C,extended,00000023
+[Twin Wounds]
+patch=1,EE,203A7640,extended,00000023
+[Sneak Attack]
+patch=1,EE,203A7644,extended,00000032
+[Paralyzing Wound]
+patch=1,EE,203A7648,extended,00000032
+[Wrath Of Penmark]
+patch=1,EE,203A764C,extended,00000041
+[Stunning Cleave]
+patch=1,EE,203A7650,extended,00000041
+[Valorous Cleave]
+patch=1,EE,203A7654,extended,00000050
+[Orc Bane]
+patch=1,EE,203A7658,extended,00000050
+[Rohirric Rampage]
+patch=1,EE,203A765C,extended,0000005F
+[>>> Max Thief Craft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Capture Strength]
+patch=1,EE,203A7674,extended,0000000F
+[Steal Action]
+patch=1,EE,203A7678,extended,0000001E
+[Steal Health]
+patch=1,EE,203A767C,extended,0000001E
+[Seize Dexterity]
+patch=1,EE,203A7680,extended,0000002D
+[Steal Experience]
+patch=1,EE,203A7684,extended,0000003C
+[Cloak Of The Plains]
+patch=1,EE,203A7688,extended,0000004B
+[>>> Max Passive Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Snowbourne Sleep]
+patch=1,EE,203A76B0,extended,0000000A
+[Eorlingas Rally]
+patch=1,EE,203A76B4,extended,00000005
+[Hands Of Rohan]
+patch=1,EE,203A76B8,extended,00000005
+[Inspire Crafting]
+patch=1,EE,203A76BC,extended,00000005
+[Justice Of Balin]
+patch=1,EE,203A76C0,extended,00000005
+[Mearas Good Fortune]
+patch=1,EE,203A76C4,extended,00000005
+[Blessing Of Armor]
+patch=1,EE,203A76C8,extended,00000005
+[Overwhelming Blows]
+patch=1,EE,203A76CC,extended,00000005
+[Poison Hastening]
+patch=1,EE,203A76D0,extended,00000005
+[Double Attack]
+patch=1,EE,203A76D4,extended,00000028
+[>>> Max Lightcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gift Of Galadriel]
+patch=1,EE,203A7738,extended,00000005
+[Aura Of Life]
+patch=1,EE,203A773C,extended,0000000A
+[Haste Of The Elves]
+patch=1,EE,203A7740,extended,0000000F
+[Power Of The Valar]
+patch=1,EE,203A7744,extended,00000014
+[Sleep]
+patch=1,EE,203A7748,extended,00000014
+[Drain Spirit]
+patch=1,EE,203A774C,extended,00000014
+[Suffocate Evil]
+patch=1,EE,203A7750,extended,0000001E
+[Blinding Light]
+patch=1,EE,203A7754,extended,00000032
+[>>> Max Shadowcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dispel]
+patch=1,EE,203A777C,extended,00000005
+[Whip Of The Master]
+patch=1,EE,203A7780,extended,0000000A
+[Silence]
+patch=1,EE,203A7784,extended,0000000F
+[Crippling]
+patch=1,EE,203A7788,extended,00000014
+[Drain Health]
+patch=1,EE,203A778C,extended,00000014
+[Black Speech]
+patch=1,EE,203A7790,extended,00000014
+[Fear]
+patch=1,EE,203A7794,extended,0000001E
+[Wheel Of Fire]
+patch=1,EE,203A7798,extended,00000032
+[>>> Max Craft Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kingsfoil]
+patch=1,EE,203A77C0,extended,00000001
+[Lembas]
+patch=1,EE,203A77C4,extended,00000032
+[Old Toby]
+patch=1,EE,203A77C8,extended,00000041
+[Elf Medicine]
+patch=1,EE,203A77CC,extended,0000007D
+[Valar Guidance]
+patch=1,EE,203A77D0,extended,0000001E
+[Orthanc Fire]
+patch=1,EE,203A77D4,extended,00000014
+[Bruinen Waters]
+patch=1,EE,203A77D8,extended,00000014
+[Rhudaur Roots]
+patch=1,EE,203A77DC,extended,00000014
+[Nimrodel Air]
+patch=1,EE,203A77E0,extended,00000014
+[Sauron Blood]
+patch=1,EE,203A77E4,extended,00000014
+[Maiar Embers]
+patch=1,EE,203A77E8,extended,00000014
+[Thengal Stone]
+patch=1,EE,203A77EC,extended,0000001E
+[Shelob Slime]
+patch=1,EE,203A77F0,extended,0000001E
+[Haunted Dust]
+patch=1,EE,203A77F4,extended,0000001E
+[Simbelmyne Petals]
+patch=1,EE,203A77F8,extended,00000096
+[Mushrooms]
+patch=1,EE,203A77FC,extended,000000B4
+[>>> Hadhod Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,20CCF5BC,extended,05F5E0FF
+[Quick Exp Gain]
+patch=1,EE,10CCFF74,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20CCFF74,extended,05F5E0FF
+[Infinite Level Up Points]
+patch=1,EE,10CCFF7C,extended,0000270F
+[Infinite AP]
+patch=1,EE,10CCFF7E,extended,0000270F
+[Max Strength]
+patch=1,EE,10CCFF80,extended,00000063
+[Super Strength]
+patch=1,EE,10CCFF80,extended,000003E7
+[Max Const]
+patch=1,EE,10CCFF82,extended,00000063
+[Super Const]
+patch=1,EE,10CCFF82,extended,000003E7
+[Max Dexterity]
+patch=1,EE,10CCFF84,extended,00000063
+[Super Dexterity]
+patch=1,EE,10CCFF84,extended,000003E7
+[Max Speed]
+patch=1,EE,10CCFF86,extended,00000063
+[Super Speed]
+patch=1,EE,10CCFF86,extended,000003E7
+[Max Spirit]
+patch=1,EE,10CCFF88,extended,00000063
+[Super Spirit]
+patch=1,EE,10CCFF88,extended,000003E7
+[>>> Max Axe Craft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Cleaving Wound]
+patch=1,EE,203A7444,extended,00000005
+[Crippling Smash]
+patch=1,EE,203A7448,extended,00000014
+[Hew Armor]
+patch=1,EE,203A744C,extended,00000019
+[Stone Hewer]
+patch=1,EE,203A7450,extended,00000023
+[Mountain Rage]
+patch=1,EE,203A7454,extended,00000023
+[Durin Wrath]
+patch=1,EE,203A7458,extended,00000032
+[Counter Attack]
+patch=1,EE,203A745C,extended,00000032
+[Berserk]
+patch=1,EE,203A7460,extended,00000041
+[Spirit Cleave]
+patch=1,EE,203A7464,extended,00000041
+[Smite]
+patch=1,EE,203A7468,extended,00000050
+[Rampage Of Durin]
+patch=1,EE,203A746C,extended,0000005F
+[Mountain Hewer]
+patch=1,EE,203A7470,extended,00000064
+[>>> Max Spirit Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Endure Flame]
+patch=1,EE,203A7488,extended,0000000F
+[Damaging Shield]
+patch=1,EE,203A748C,extended,0000001E
+[Mountain Shield]
+patch=1,EE,203A7490,extended,0000001E
+[Flames Of Ruin]
+patch=1,EE,203A7494,extended,0000002D
+[Devastating Shield]
+patch=1,EE,203A7498,extended,0000005F
+[Dragon Calling]
+patch=1,EE,203A749C,extended,00000064
+[>>> Max Passive Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dwarven Evade]
+patch=1,EE,203A74C4,extended,0000000A
+[Dwarven Rally]
+patch=1,EE,203A74C8,extended,00000005
+[Lordly Might]
+patch=1,EE,203A74CC,extended,00000005
+[Evasion Of Gloin]
+patch=1,EE,203A74D0,extended,00000005
+[Battle Hardened Armor]
+patch=1,EE,203A74D4,extended,00000005
+[Overwhelming Axes]
+patch=1,EE,203A74D8,extended,00000005
+[Might Of Balin]
+patch=1,EE,203A74DC,extended,00000005
+[Dwarven Challenge]
+patch=1,EE,203A74E0,extended,00000005
+[Dwarven Haste]
+patch=1,EE,203A74E4,extended,00000005
+[Double Attack]
+patch=1,EE,203A74E8,extended,00000005
+[>>> Max Lightcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gift Of Galadriel]
+patch=1,EE,203A754C,extended,00000005
+[Aura Of Life]
+patch=1,EE,203A7550,extended,0000000A
+[Haste Of The Elves]
+patch=1,EE,203A7554,extended,0000000F
+[Power Of The Valar]
+patch=1,EE,203A7558,extended,00000014
+[Sleep]
+patch=1,EE,203A755C,extended,00000014
+[Drain Spirit]
+patch=1,EE,203A7560,extended,00000014
+[Suffocate Evil]
+patch=1,EE,203A7564,extended,0000001E
+[Blinding Light]
+patch=1,EE,203A7568,extended,00000032
+[>>> Max Shadowcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dispel]
+patch=1,EE,203A7590,extended,00000005
+[Whip Of The Master]
+patch=1,EE,203A7594,extended,0000000A
+[Silence]
+patch=1,EE,203A7598,extended,0000000F
+[Crippling]
+patch=1,EE,203A759C,extended,00000014
+[Drain Health]
+patch=1,EE,203A75A0,extended,00000014
+[Black Speech]
+patch=1,EE,203A75A4,extended,00000014
+[Fear]
+patch=1,EE,203A75A8,extended,0000001E
+[Wheel Of Fire]
+patch=1,EE,203A75AC,extended,00000032
+[>>> Max Craft Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kingsfoil]
+patch=1,EE,203A75D4,extended,00000001
+[Lembas]
+patch=1,EE,203A75D8,extended,00000032
+[Old Toby]
+patch=1,EE,203A75DC,extended,00000041
+[Elf Medicine]
+patch=1,EE,203A75E0,extended,0000007D
+[Valar Guidance]
+patch=1,EE,203A75E4,extended,0000001E
+[Orthanc Fire]
+patch=1,EE,203A75E8,extended,00000014
+[Bruinen Waters]
+patch=1,EE,203A75EC,extended,00000014
+[Rhudaur Roots]
+patch=1,EE,203A75F0,extended,00000014
+[Nimrodel Air]
+patch=1,EE,203A75F4,extended,00000014
+[Sauron Blood]
+patch=1,EE,203A75F8,extended,00000014
+[Maiar Embers]
+patch=1,EE,203A75FC,extended,00000014
+[Thengal Stone]
+patch=1,EE,203A7600,extended,0000001E
+[Shelob Slime]
+patch=1,EE,203A7604,extended,0000001E
+[Haunted Dust]
+patch=1,EE,203A7608,extended,0000001E
+[Simbelmyne Petals]
+patch=1,EE,203A760C,extended,00000096
+[Mushrooms]
+patch=1,EE,203A7610,extended,000000B4
+[>>> Elegost Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,20CD041C,extended,05F5E0FF
+[Quick Exp Gain]
+patch=1,EE,10CD0DD4,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20CD0DD4,extended,05F5E0FF
+[Infinite Level Up Points]
+patch=1,EE,10CD0DDC,extended,0000270F
+[Infinite AP]
+patch=1,EE,10CD0DDE,extended,0000270F
+[Max Strength]
+patch=1,EE,10CD0DE0,extended,00000063
+[Super Strength]
+patch=1,EE,10CD0DE0,extended,000003E7
+[Max Const]
+patch=1,EE,10CD0DE2,extended,00000063
+[Super Const]
+patch=1,EE,10CD0DE2,extended,000003E7
+[Max Dexterity]
+patch=1,EE,10CD0DE4,extended,00000063
+[Super Dexterity]
+patch=1,EE,10CD0DE4,extended,000003E7
+[Max Speed]
+patch=1,EE,10CD0DE6,extended,00000063
+[Super Speed]
+patch=1,EE,10CD0DE6,extended,000003E7
+[Max Spirit]
+patch=1,EE,10CD0DE8,extended,00000063
+[Super Spirit]
+patch=1,EE,10CD0DE8,extended,000003E7
+[>>> Max Bow Craft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Arrow Flurry]
+patch=1,EE,203A7254,extended,0000000F
+[Blinding Shot]
+patch=1,EE,203A7258,extended,0000000F
+[Draining Shot]
+patch=1,EE,203A725C,extended,0000001E
+[Crippling Shot]
+patch=1,EE,203A7260,extended,0000001E
+[Shield Piercing]
+patch=1,EE,203A7264,extended,0000002D
+[Pinning Shot]
+patch=1,EE,203A7268,extended,0000003C
+[True Shot]
+patch=1,EE,203A726C,extended,0000004B
+[>>> Max Ranger Craft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Piercing Might]
+patch=1,EE,203A7298,extended,00000005
+[Pierce Will]
+patch=1,EE,203A729C,extended,0000000A
+[Arrows Of Sleep]
+patch=1,EE,203A72A0,extended,00000014
+[Paralyzing Shot]
+patch=1,EE,203A72A4,extended,00000014
+[Kingsfoil Grace]
+patch=1,EE,203A72A8,extended,00000023
+[Cursed Arrow]
+patch=1,EE,203A72AC,extended,00000023
+[Flash Arrow]
+patch=1,EE,203A72B0,extended,00000032
+[Arrow Splinters]
+patch=1,EE,203A72B4,extended,00000032
+[Grace Of Athelas]
+patch=1,EE,203A72B8,extended,00000041
+[Pierce Spirit]
+patch=1,EE,203A72BC,extended,00000041
+[Northern Storm]
+patch=1,EE,203A72C0,extended,0000005F
+[Fangorn Roots]
+patch=1,EE,203A72C4,extended,00000064
+[>>> Max Passive Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Ranger Evade]
+patch=1,EE,203A72D8,extended,0000000A
+[Dunedain Evasion]
+patch=1,EE,203A72DC,extended,00000005
+[Hands Of The Bowman]
+patch=1,EE,203A72E0,extended,00000005
+[Ranger War Rally]
+patch=1,EE,203A72E4,extended,00000005
+[Spirit Of The North]
+patch=1,EE,203A72E8,extended,00000005
+[Frenzy]
+patch=1,EE,203A72EC,extended,00000005
+[Belssing Of Haste]
+patch=1,EE,203A72F0,extended,00000005
+[Sleep Volley]
+patch=1,EE,203A72F4,extended,00000005
+[Lingering Sleep]
+patch=1,EE,203A72F8,extended,00000005
+[Crippling Might]
+patch=1,EE,203A72FC,extended,00000005
+[>>> Max Lightcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gift Of Galadriel]
+patch=1,EE,203A7360,extended,00000005
+[Aura Of Life]
+patch=1,EE,203A7364,extended,0000000A
+[Haste Of The Elves]
+patch=1,EE,203A7368,extended,0000000F
+[Power Of The Valar]
+patch=1,EE,203A736C,extended,00000014
+[Sleep]
+patch=1,EE,203A7370,extended,00000014
+[Drain Spirit]
+patch=1,EE,203A7374,extended,00000014
+[Suffocate Evil]
+patch=1,EE,203A7378,extended,0000001E
+[Blinding Light]
+patch=1,EE,203A737C,extended,00000032
+[>>> Max Shadowcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dispel]
+patch=1,EE,203A73A4,extended,00000005
+[Whip Of The Master]
+patch=1,EE,203A73A8,extended,0000000A
+[Silence]
+patch=1,EE,203A73AC,extended,0000000F
+[Crippling]
+patch=1,EE,203A73B0,extended,00000014
+[Drain Health]
+patch=1,EE,203A73B4,extended,00000014
+[Black Speech]
+patch=1,EE,203A73B8,extended,00000014
+[Fear]
+patch=1,EE,203A73BC,extended,0000001E
+[Wheel Of Fire]
+patch=1,EE,203A73C0,extended,00000032
+[>>> Max Craft Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kingsfoil]
+patch=1,EE,203A73E8,extended,00000001
+[Lembas]
+patch=1,EE,203A73EC,extended,00000032
+[Old Toby]
+patch=1,EE,203A73F0,extended,00000041
+[Elf Medicine]
+patch=1,EE,203A73F4,extended,0000007D
+[Valar Guidance]
+patch=1,EE,203A73F8,extended,0000001E
+[Orthanc Fire]
+patch=1,EE,203A73FC,extended,00000014
+[Bruinen Waters]
+patch=1,EE,203A7400,extended,00000014
+[Rhudaur Roots]
+patch=1,EE,203A7404,extended,00000014
+[Nimrodel Air]
+patch=1,EE,203A7408,extended,00000014
+[Sauron Blood]
+patch=1,EE,203A740C,extended,00000014
+[Maiar Embers]
+patch=1,EE,203A7410,extended,00000014
+[Thengal Stone]
+patch=1,EE,203A7414,extended,0000001E
+[Shelob Slime]
+patch=1,EE,203A7418,extended,0000001E
+[Haunted Dust]
+patch=1,EE,203A741C,extended,0000001E
+[Simbelmyne Petals]
+patch=1,EE,203A7420,extended,00000096
+[Mushrooms]
+patch=1,EE,203A7424,extended,000000B4
+[>>> Berethor Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,20CD127C,extended,05F5E0FF
+[Quick Exp Gain]
+patch=1,EE,10CD1C34,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20CD1C34,extended,05F5E0FF
+[Infinite Level Up Points]
+patch=1,EE,10CD1C3C,extended,0000270F
+[Infinite AP]
+patch=1,EE,10CD1C3E,extended,0000270F
+[Max Strength]
+patch=1,EE,10CD1C40,extended,00000063
+[Super Strength]
+patch=1,EE,10CD1C40,extended,000003E7
+[Max Const]
+patch=1,EE,10CD1C42,extended,00000063
+[Super Const]
+patch=1,EE,10CD1C42,extended,000003E7
+[Max Dexterity]
+patch=1,EE,10CD1C44,extended,00000063
+[Super Dexterity]
+patch=1,EE,10CD1C44,extended,000003E7
+[Max Speed]
+patch=1,EE,10CD1C46,extended,00000063
+[Super Speed]
+patch=1,EE,10CD1C46,extended,000003E7
+[Max Spirit]
+patch=1,EE,10CD1C48,extended,00000063
+[Super Spirit]
+patch=1,EE,10CD1C48,extended,000003E7
+[>>> Max Sword Craft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Guardian Strike]
+patch=1,EE,203A7064,extended,00000005
+[Orc Bane]
+patch=1,EE,203A7068,extended,00000005
+[Shattering Strike]
+patch=1,EE,203A706C,extended,0000000A
+[Counter Attack]
+patch=1,EE,203A7070,extended,00000014
+[Citadel Rage]
+patch=1,EE,203A7074,extended,00000014
+[Uruk-hai Bane]
+patch=1,EE,203A7078,extended,00000023
+[Ecthelion Wrath]
+patch=1,EE,203A707C,extended,00000023
+[Defensive Strike]
+patch=1,EE,203A7080,extended,00000032
+[Targeted Strike]
+patch=1,EE,203A7084,extended,00000041
+[Strunning Strike]
+patch=1,EE,203A7088,extended,0000005F
+[Gondor Rampage]
+patch=1,EE,203A708C,extended,00000064
+[>>> Max Leadership Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Company Might]
+patch=1,EE,203A70A8,extended,00000005
+[Company Valor]
+patch=1,EE,203A70AC,extended,00000005
+[Stand Fast]
+patch=1,EE,203A70B0,extended,0000000A
+[Fellowship Grace]
+patch=1,EE,203A70B4,extended,00000014
+[War Call]
+patch=1,EE,203A70B8,extended,00000014
+[Company Resistance]
+patch=1,EE,203A70BC,extended,00000023
+[All Retreat]
+patch=1,EE,203A70C0,extended,00000023
+[Company Rally]
+patch=1,EE,203A70C4,extended,00000032
+[Royal Grace]
+patch=1,EE,203A70C8,extended,00000032
+[Shield Of Courage]
+patch=1,EE,203A70CC,extended,00000041
+[Last Gasp]
+patch=1,EE,203A70D0,extended,00000041
+[War Cry]
+patch=1,EE,203A70D4,extended,00000050
+[Company Power]
+patch=1,EE,203A70D8,extended,00000050
+[Captain's Inspire]
+patch=1,EE,203A70DC,extended,0000005F
+[>>> Max Passive Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Citadel Might]
+patch=1,EE,203A70EC,extended,0000000A
+[Ithilien Inspiration]
+patch=1,EE,203A70F0,extended,00000005
+[Rising Valor]
+patch=1,EE,203A70F4,extended,00000005
+[Gondorian Evade]
+patch=1,EE,203A70F8,extended,00000005
+[Challenge Of Gondor]
+patch=1,EE,203A70FC,extended,00000005
+[Increased Armor]
+patch=1,EE,203A7100,extended,00000005
+[Immune To Fear]
+patch=1,EE,203A7104,extended,00000005
+[Citadel Evasion]
+patch=1,EE,203A7108,extended,00000005
+[Double Attack]
+patch=1,EE,203A710C,extended,00000005
+[Ecthelion Might]
+patch=1,EE,203A7110,extended,00000005
+[>>> Max Lightcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gift Of Galadriel]
+patch=1,EE,203A7174,extended,00000005
+[Aura Of Life]
+patch=1,EE,203A7178,extended,0000000A
+[Haste Of The Elves]
+patch=1,EE,203A717C,extended,0000000F
+[Power Of The Valar]
+patch=1,EE,203A7180,extended,00000014
+[Sleep]
+patch=1,EE,203A7184,extended,00000014
+[Drain Spirit]
+patch=1,EE,203A7188,extended,00000014
+[Suffocate Evil]
+patch=1,EE,203A718C,extended,0000001E
+[Blinding Light]
+patch=1,EE,203A7190,extended,00000032
+[>>> Max Shadowcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dispel]
+patch=1,EE,203A71B8,extended,00000005
+[Whip Of The Master]
+patch=1,EE,203A71BC,extended,0000000A
+[Silence]
+patch=1,EE,203A71C0,extended,0000000F
+[Crippling]
+patch=1,EE,203A71C4,extended,00000014
+[Drain Health]
+patch=1,EE,203A71C8,extended,00000014
+[Black Speech]
+patch=1,EE,203A71CC,extended,00000014
+[Fear]
+patch=1,EE,203A71D0,extended,0000001E
+[Wheel Of Fire]
+patch=1,EE,203A71D4,extended,00000032
+[>>> Max Craft Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kingsfoil]
+patch=1,EE,203A71FC,extended,00000001
+[Lembas]
+patch=1,EE,203A7200,extended,00000032
+[Old Toby]
+patch=1,EE,203A7204,extended,00000041
+[Elf Medicine]
+patch=1,EE,203A7208,extended,0000007D
+[Valar Guidance]
+patch=1,EE,203A720C,extended,0000001E
+[Orthanc Fire]
+patch=1,EE,203A7210,extended,00000014
+[Bruinen Waters]
+patch=1,EE,203A7214,extended,00000014
+[Rhudaur Roots]
+patch=1,EE,203A7218,extended,00000014
+[Nimrodel Air]
+patch=1,EE,203A721C,extended,00000014
+[Sauron Blood]
+patch=1,EE,203A7220,extended,00000014
+[Maiar Embers]
+patch=1,EE,203A7224,extended,00000014
+[Thengal Stone]
+patch=1,EE,203A7228,extended,0000001E
+[Shelob Slime]
+patch=1,EE,203A722C,extended,0000001E
+[Haunted Dust]
+patch=1,EE,203A7230,extended,0000001E
+[Simbelmyne Petals]
+patch=1,EE,203A7234,extended,00000096
+[Mushrooms]
+patch=1,EE,203A7238,extended,000000B4
+[>>> Idrial Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,20CD20DC,extended,05F5E0FF
+[Quick Exp Gain]
+patch=1,EE,10CD2A94,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20CD2A94,extended,05F5E0FF
+[Infinite Level Up Points]
+patch=1,EE,10CD2A9C,extended,0000270F
+[Infinite AP]
+patch=1,EE,10CD2A9E,extended,0000270F
+[Max Strength]
+patch=1,EE,10CD2AA0,extended,00000063
+[Super Strength]
+patch=1,EE,10CD2AA0,extended,000003E7
+[Max Const]
+patch=1,EE,10CD2AA2,extended,00000063
+[Super Const]
+patch=1,EE,10CD2AA2,extended,000003E7
+[Max Dexterity]
+patch=1,EE,10CD2AA4,extended,00000063
+[Super Dexterity]
+patch=1,EE,10CD2AA4,extended,000003E7
+[Max Speed]
+patch=1,EE,10CD2AA6,extended,00000063
+[Super Speed]
+patch=1,EE,10CD2AA6,extended,000003E7
+[Max Spirit]
+patch=1,EE,10CD2AA8,extended,00000063
+[Super Spirit]
+patch=1,EE,10CD2AA8,extended,000003E7
+[>>> Max Sword Craft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Fluid Strike]
+patch=1,EE,203A6E78,extended,00000005
+[Weakening Slash]
+patch=1,EE,203A6E7C,extended,0000000F
+[Wounding Strike]
+patch=1,EE,203A6E80,extended,0000000F
+[Elven Rage]
+patch=1,EE,203A6E84,extended,0000001E
+[Stunning Strike]
+patch=1,EE,203A6E88,extended,0000001E
+[Leech Inspiration]
+patch=1,EE,203A6E8C,extended,0000002D
+[Destined Strine]
+patch=1,EE,203A6E90,extended,0000003C
+[Gil-galed Rampage]
+patch=1,EE,203A6E94,extended,0000004B
+[>>> Max Spirit Powers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Haste Of The Elves]
+patch=1,EE,203A6EC4,extended,0000000A
+[Drain Inspiration]
+patch=1,EE,203A6EC8,extended,00000014
+[Gift Of Galadriel]
+patch=1,EE,203A6ECC,extended,00000019
+[Cleanse Shadow]
+patch=1,EE,203A6ED0,extended,00000023
+[Aura Of The Valar]
+patch=1,EE,203A6ED4,extended,00000028
+[Power Of The Valar]
+patch=1,EE,203A6ED8,extended,00000032
+[Valinor Endurance]
+patch=1,EE,203A6EDC,extended,00000037
+[Valorous Haste]
+patch=1,EE,203A6EE0,extended,00000041
+[Cleansing Waters]
+patch=1,EE,203A6EE4,extended,00000046
+[Gift Of Grey Haven]
+patch=1,EE,203A6EE8,extended,0000005F
+[Water Stallion]
+patch=1,EE,203A6EEC,extended,00000064
+[>>> Max Passive Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Elven Evade]
+patch=1,EE,203A6F00,extended,0000000A
+[Full Gift Of Lorien]
+patch=1,EE,203A6F04,extended,00000005
+[Fury Of The Valar]
+patch=1,EE,203A6F08,extended,00000005
+[Mallorn Armor]
+patch=1,EE,203A6F0C,extended,00000005
+[Fortunes Mastery]
+patch=1,EE,203A6F10,extended,00000005
+[Elven Inspiration]
+patch=1,EE,203A6F14,extended,00000005
+[Haste Of The Valar]
+patch=1,EE,203A6F18,extended,00000005
+[Endure Shadow]
+patch=1,EE,203A6F1C,extended,00000005
+[Frenzy]
+patch=1,EE,203A6F20,extended,00000005
+[Grace Of The Elder]
+patch=1,EE,203A6F24,extended,00000005
+[>>> Max Lightcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gift Of Galadriel]
+patch=1,EE,203A6F88,extended,00000005
+[Aura Of Life]
+patch=1,EE,203A6F8C,extended,0000000A
+[Haste Of The Elves]
+patch=1,EE,203A6F90,extended,0000000F
+[Power Of The Valar]
+patch=1,EE,203A6F94,extended,00000014
+[Sleep]
+patch=1,EE,203A6F98,extended,00000014
+[Drain Spirit]
+patch=1,EE,203A6F9C,extended,00000014
+[Suffocate Evil]
+patch=1,EE,203A6FA0,extended,0000001E
+[Blinding Light]
+patch=1,EE,203A6FA4,extended,00000032
+[>>> Max Shadowcraft Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dispel]
+patch=1,EE,203A6FCC,extended,00000005
+[Whip Of The Master]
+patch=1,EE,203A6FD0,extended,0000000A
+[Silence]
+patch=1,EE,203A6FD4,extended,0000000F
+[Crippling]
+patch=1,EE,203A6FD8,extended,00000014
+[Drain Health]
+patch=1,EE,203A6FDC,extended,00000014
+[Black Speech]
+patch=1,EE,203A6FE0,extended,00000014
+[Fear]
+patch=1,EE,203A6FE4,extended,0000001E
+[Wheel Of Fire]
+patch=1,EE,203A6FE8,extended,00000032
+[>>> Max Craft Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kingsfoil]
+patch=1,EE,203A7010,extended,00000001
+[Lembas]
+patch=1,EE,203A7014,extended,00000032
+[Old Toby]
+patch=1,EE,203A7018,extended,00000041
+[Elf Medicine]
+patch=1,EE,203A701C,extended,0000007D
+[Valar Guidance]
+patch=1,EE,203A7020,extended,0000001E
+[Orthanc Fire]
+patch=1,EE,203A7024,extended,00000014
+[Bruinen Waters]
+patch=1,EE,203A7028,extended,00000014
+[Rhudaur Roots]
+patch=1,EE,203A702C,extended,00000014
+[Nimrodel Air]
+patch=1,EE,203A7030,extended,00000014
+[Sauron Blood]
+patch=1,EE,203A7034,extended,00000014
+[Maiar Embers]
+patch=1,EE,203A7038,extended,00000014
+[Thengal Stone]
+patch=1,EE,203A703C,extended,0000001E
+[Shelob Slime]
+patch=1,EE,203A7040,extended,0000001E
+[Haunted Dust]
+patch=1,EE,203A7044,extended,0000001E
+[Simbelmyne Petals]
+patch=1,EE,203A7048,extended,00000096
+[Mushrooms]
+patch=1,EE,203A704C,extended,000000B4
+

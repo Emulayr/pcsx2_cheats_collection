@@ -1,0 +1,86 @@
+gametitle=SpongeBob SquarePants-Movie, The
+[Enable Code (Must Be On)]
+patch=1,EE,90125958,extended,00832021
+[Unlock All Extras]
+patch=1,EE,207ACFD8,extended,0000002A
+[Max Manliness Points]
+patch=1,EE,207ACED4,extended,0001869F
+[Max Treasure Cheats/Unlock All Extras]
+patch=1,EE,207ACED8,extended,00000063
+[Max Goofy Goober Tokens]
+patch=1,EE,207ACEDC,extended,0000270F
+[Infinite Upgrade Points]
+patch=1,EE,203227EC,extended,00000000
+[Max Infinite Upgrade Points]
+patch=1,EE,203227E4,extended,2405001E
+[Extra Upgrade Points]
+patch=1,EE,103227E4,extended,00000001
+[Max Infinite Upgrade Points (Alternate)]
+patch=1,EE,207ACFE8,extended,0000001E
+[>>> SpongeBob Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Krabby Patties]
+patch=1,EE,207AC080,extended,00000006
+[Max Krabby Patties]
+patch=1,EE,207AC084,extended,00000006
+[>>> Upgrade Maxed Out! Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Karate Spin]
+patch=1,EE,007ABBF9,extended,00000002
+[Bash]
+patch=1,EE,007ABBFA,extended,00000002
+[SponogeBowl]
+patch=1,EE,007ABBFB,extended,00000002
+[Sonic Wave]
+patch=1,EE,007ABBFC,extended,00000002
+[Health]
+patch=1,EE,007ABC01,extended,00000003
+[>>> Patrick Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Krabby Patties]
+patch=1,EE,207AC4F0,extended,00000006
+[Max Krabby Patties]
+patch=1,EE,207AC4F4,extended,00000006
+[>>> Upgrade Maxed Out! Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Star Spin]
+patch=1,EE,007ABBFD,extended,00000002
+[Cartwheel]
+patch=1,EE,007ABBFE,extended,00000002
+[Smash]
+patch=1,EE,007ABBFF,extended,00000002
+[Throw]
+patch=1,EE,007ABC00,extended,00000002
+[Health]
+patch=1,EE,007ABC02,extended,00000003
+[>>> Have Treasure Cheats Collected Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[No Cheese!]
+patch=1,EE,207ACEE0,extended,00000001
+[I'm Ready... Depression]
+patch=1,EE,207ACEE4,extended,00000002
+[Sandwich Driving 101]
+patch=1,EE,207ACEE8,extended,00000003
+[Three... Thousand Miles To Shell City]
+patch=1,EE,207ACEEC,extended,00000003
+[Rub A Dub Dub, Slip Slide In The Tub]
+patch=1,EE,207ACEF0,extended,00000003
+[Bubble Blowing Baby Hunt]
+patch=1,EE,207ACEF4,extended,00000003
+[No Weenie Parking Anytime]
+patch=1,EE,207ACEF8,extended,00000002
+[Rock Slide]
+patch=1,EE,207ACF00,extended,00000003
+[Now That We're Men...]
+patch=1,EE,207ACF04,extended,00000005
+[Shell City, Dead Ahead]
+patch=1,EE,207ACF08,extended,00000004
+[Sundae Driving]
+patch=1,EE,207ACF14,extended,00000003
+[Google-Eyes And Smelly Knick Knacks]
+patch=1,EE,207ACF18,extended,00000003
+[Welcome To Planktopolis... Minions]
+patch=1,EE,207ACF20,extended,00000003
+[Drive Of The Knucklehead-Mcspazitron]
+patch=1,EE,207ACF24,extended,00000004
+

@@ -1,0 +1,28 @@
+gametitle=Simpson's Road Rage
+[Enable Code (Must Be On)]
+patch=1,EE,9030FF5C,extended,0C0BECF7
+[Infinite Money]
+patch=1,EE,1032085C,extended,0000FFFF
+[Infinite Money]
+patch=1,EE,1032ECF0,extended,0000FFFF
+[Max Money]
+patch=1,EE,2032085C,extended,000F423F
+[Max Money]
+patch=1,EE,2032ECF0,extended,000F423F
+[Press {L1}+{L2} For More Time]
+patch=1,EE,D0485EC2,extended,0000FAFF
+[Press {L1}+{L2} For More Time]
+patch=1,EE,20320EB0,extended,0007FFFF
+[Press {R1}+{R2} For No Time]
+patch=1,EE,D0485EC2,extended,0000F5FF
+[Press {R1}+{R2} For No Time]
+patch=1,EE,20320EB0,extended,00000000
+[Instant Pickup & Dropoff]
+patch=1,EE,20331B54,extended,45C80000
+[Unlock All Missions (Mission Mode)]
+patch=1,EE,20320908,extended,0000000A
+[Have All Characters]
+patch=1,EE,40320980,extended,000C0001
+[Have All Characters]
+patch=1,EE,00000001,extended,00000000
+
