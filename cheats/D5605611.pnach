@@ -1,0 +1,194 @@
+gametitle=[SCUS-97264] Syphon Filter-The Omega Strain
+[Enable Code (Must Be On)]
+patch=1,EE,9026B478,extended,0C0497CE
+[Infinite Health]
+patch=1,EE,200C0220,extended,3C01004F
+[Infinite Health]
+patch=1,EE,200C0224,extended,8C217858
+[Infinite Health]
+patch=1,EE,200C0228,extended,50340001
+[Infinite Health]
+patch=1,EE,200C022C,extended,27FFFFE8
+[Infinite Health]
+patch=1,EE,200C0230,extended,03E00008
+[Infinite Health]
+patch=1,EE,200C0234,extended,00000000
+[Infinite Health]
+patch=1,EE,203CCB58,extended,0C030088
+[Infinite Health & 1-Hit Death Enemies]
+patch=1,EE,200C0220,extended,3C01004F
+[Infinite Health & 1-Hit Death Enemies]
+patch=1,EE,200C0224,extended,8C217858
+[Infinite Health & 1-Hit Death Enemies]
+patch=1,EE,200C0228,extended,50340001
+[Infinite Health & 1-Hit Death Enemies]
+patch=1,EE,200C022C,extended,27FFFFE8
+[Infinite Health & 1-Hit Death Enemies]
+patch=1,EE,200C0230,extended,03E00008
+[Infinite Health & 1-Hit Death Enemies]
+patch=1,EE,200C0234,extended,00000000
+[Infinite Health & 1-Hit Death Enemies]
+patch=1,EE,203CCB58,extended,0C030088
+[Infinite Health & 1-Hit Death Enemies]
+patch=1,EE,203CCBB0,extended,AE800040
+[Infinite Armor]
+patch=1,EE,200C0240,extended,3C01004F
+[Infinite Armor]
+patch=1,EE,200C0244,extended,8C217858
+[Infinite Armor]
+patch=1,EE,200C0248,extended,50350001
+[Infinite Armor]
+patch=1,EE,200C024C,extended,27FF0008
+[Infinite Armor]
+patch=1,EE,200C0250,extended,03E00008
+[Infinite Armor]
+patch=1,EE,200C0254,extended,44020000
+[Infinite Armor]
+patch=1,EE,20187980,extended,0C030090
+[Infinite Armor & No Armor For Enemies]
+patch=1,EE,200C0240,extended,3C01004F
+[Infinite Armor & No Armor For Enemies]
+patch=1,EE,200C0244,extended,8C217858
+[Infinite Armor & No Armor For Enemies]
+patch=1,EE,200C0248,extended,50350001
+[Infinite Armor & No Armor For Enemies]
+patch=1,EE,200C024C,extended,27FF0008
+[Infinite Armor & No Armor For Enemies]
+patch=1,EE,200C0250,extended,03E00008
+[Infinite Armor & No Armor For Enemies]
+patch=1,EE,200C0254,extended,44020000
+[Infinite Armor & No Armor For Enemies]
+patch=1,EE,20187980,extended,0C030090
+[Infinite Armor & No Armor For Enemies]
+patch=1,EE,20187988,extended,AEA033A0
+[Infinite Ammo]
+patch=1,EE,2013FC34,extended,00000000
+[Extra Ammo]
+patch=1,EE,2013FC30,extended,00441021
+[Empty Clip For Max Ammo]
+patch=1,EE,2013FC30,extended,240203E7
+[Never Reload]
+patch=1,EE,20140B9C,extended,00000000
+[Enemies Cant Move]
+patch=1,EE,2016C9D0,extended,03E00008
+[Enemies Cant Move]
+patch=1,EE,2016C9D4,extended,00000000
+[Idiot AI]
+patch=1,EE,2016DDB0,extended,03E00008
+[Idiot AI]
+patch=1,EE,2016DDB4,extended,00000000
+[Ammo Multiplier Increased x2]
+patch=1,EE,20186304,extended,00000000
+[Ammo Multiplier Increased x2]
+patch=1,EE,2048A2D0,extended,4019999A
+[Ammo Multiplier Increased x5]
+patch=1,EE,20186304,extended,00000000
+[Ammo Multiplier Increased x5]
+patch=1,EE,2048A2D0,extended,40C00000
+[Ammo Multiplier Increased x10]
+patch=1,EE,20186304,extended,00000000
+[Ammo Multiplier Increased x10]
+patch=1,EE,2048A2D0,extended,41400000
+[Ammo Multiplier Increased x50]
+patch=1,EE,20186304,extended,00000000
+[Ammo Multiplier Increased x50]
+patch=1,EE,2048A2D0,extended,42700000
+[Ammo Multiplier Increased x100]
+patch=1,EE,20186304,extended,00000000
+[Ammo Multiplier Increased x100]
+patch=1,EE,2048A2D0,extended,42F00000
+[Max Armor Increased x2]
+patch=1,EE,201B6964,extended,00000000
+[Max Armor Increased x2]
+patch=1,EE,2048A1C8,extended,40000000
+[Max Armor Increased x5]
+patch=1,EE,201B6964,extended,00000000
+[Max Armor Increased x5]
+patch=1,EE,2048A1C8,extended,40A00000
+[Max Armor Increased x10]
+patch=1,EE,201B6964,extended,00000000
+[Max Armor Increased x10]
+patch=1,EE,2048A1C8,extended,41200000
+[Max Armor Increased x50]
+patch=1,EE,201B6964,extended,00000000
+[Max Armor Increased x50]
+patch=1,EE,2048A1C8,extended,42480000
+[Max Armor Increased x100]
+patch=1,EE,201B6964,extended,00000000
+[Max Armor Increased x100]
+patch=1,EE,2048A1C8,extended,42C80000
+[Super Armor Increase]
+patch=1,EE,201B6964,extended,00000000
+[Super Armor Increase]
+patch=1,EE,2048A1C8,extended,7FFF0000
+[Max Health Increased x2]
+patch=1,EE,201B69A4,extended,00000000
+[Max Health Increased x2]
+patch=1,EE,2048A1D0,extended,40000000
+[Max Health Increased x5]
+patch=1,EE,201B69A4,extended,00000000
+[Max Health Increased x5]
+patch=1,EE,2048A1D0,extended,40A00000
+[Max Health Increased x10]
+patch=1,EE,201B69A4,extended,00000000
+[Max Health Increased x10]
+patch=1,EE,2048A1D0,extended,41200000
+[Max Health Increased x50]
+patch=1,EE,201B69A4,extended,00000000
+[Max Health Increased x50]
+patch=1,EE,2048A1D0,extended,42480000
+[Max Health Increased x100]
+patch=1,EE,201B69A4,extended,00000000
+[Max Health Increased x100]
+patch=1,EE,2048A1D0,extended,42C80000
+[Super Health Increase]
+patch=1,EE,201B69A4,extended,00000000
+[Super Health Increase]
+patch=1,EE,2048A1D0,extended,7FFF0000
+[Always Low Time]
+patch=1,EE,20244FE8,extended,AE2006DC
+[Access All Equipment (Equipment Modify)]
+patch=1,EE,20332B5C,extended,00000000
+[Access All Levels (Command Center)]
+patch=1,EE,20333030,extended,24020001
+[Always Receive All Awards]
+patch=1,EE,20332F90,extended,03E00008
+[Always Receive All Awards]
+patch=1,EE,20332F94,extended,24020001
+[Always Receive All Awards]
+patch=1,EE,20333B10,extended,03E00008
+[Always Receive All Awards]
+patch=1,EE,20333B14,extended,24020001
+[Take No Damage From Fire]
+patch=1,EE,2048A1F0,extended,00000000
+[Starting Armor x2]
+patch=1,EE,2048A238,extended,000001F4
+[Starting Armor x5]
+patch=1,EE,2048A238,extended,000004E2
+[Starting Armor x10]
+patch=1,EE,2048A238,extended,000009C4
+[Starting Armor x50]
+patch=1,EE,2048A238,extended,000030D4
+[Starting Armor x100]
+patch=1,EE,2048A238,extended,000061A8
+[Max P.I.D. Illumination Outer]
+patch=1,EE,204979E0,extended,46FA0000
+[Max P.I.D. Illumination Inner]
+patch=1,EE,204979E8,extended,46FA0000
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+patch=1,EE,D055A35C,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+patch=1,EE,101E25FA,extended,00001000
+[P1 Press {L2}+{SELECT} To Disable Walk Thru Walls]
+patch=1,EE,D055A35C,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Disable Walk Thru Walls]
+patch=1,EE,101E25FA,extended,00001040
+[P1 Press {R1}+{SELECT} To Enable First Person Mode]
+patch=1,EE,D055A35C,extended,0000F7FE
+[P1 Press {R1}+{SELECT} To Enable First Person Mode]
+patch=1,EE,2017BAF0,extended,00000000
+[P1 Press {R2}+{SELECT} To Disable First Person Mode]
+patch=1,EE,D055A35C,extended,0000FDFE
+[P1 Press {R2}+{SELECT} To Disable First Person Mode]
+patch=1,EE,2017BAF0,extended,1040000D
+

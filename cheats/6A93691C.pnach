@@ -1,0 +1,344 @@
+gametitle=Burnout 2-Point Of Impact
+[Enable Code (Must Be On)]
+patch=1,EE,9011646C,extended,0C071380
+[Infinite Turbo]
+patch=1,EE,20398A84,extended,42C80000
+[Quick Score Gain]
+patch=1,EE,103984C0,extended,0000FFFF
+[Max Score]
+patch=1,EE,203984C0,extended,05F5E0FF
+[Press {R1}+{CROSS} For Nitrous Boost]
+patch=1,EE,D047EE02,extended,0000B7FF
+[Press {R1}+{CROSS} For Nitrous Boost]
+patch=1,EE,2039BFD4,extended,43FA0000
+[Have Offensive Driving 101 Completed]
+patch=1,EE,203659C4,extended,00000001
+[Always Low Time]
+patch=1,EE,20367550,extended,000006F0
+[Press {R1}+{R2} For Jump]
+patch=1,EE,D047ED4A,extended,0000F5FF
+[Press {R1}+{R2} For Jump]
+patch=1,EE,2039B5D4,extended,41800000
+[Press {L1}+{R1} For Super Jump]
+patch=1,EE,D047ED4A,extended,0000F3FF
+[Press {L1}+{R1} For Super Jump]
+patch=1,EE,2039B5D4,extended,42200000
+[Press {L1}+{R2} For Mega Jump]
+patch=1,EE,D047ED4A,extended,0000FCFF
+[Press {L1}+{R2} For Mega Jump]
+patch=1,EE,2039B5D4,extended,42800000
+[Press {L1}+{L2} For Hella Jump]
+patch=1,EE,D047ED4A,extended,0000FAFF
+[Press {L1}+{L2} For Hella Jump]
+patch=1,EE,2039B5D4,extended,42C80000
+[>>> After Race Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Low Total Time]
+patch=1,EE,20398AEC,extended,00000000
+[Always Low Lap 1 Time]
+patch=1,EE,20399120,extended,00000000
+[Always Low Lap 2 Time]
+patch=1,EE,20399124,extended,00000000
+[Always Low Lap 3 Time]
+patch=1,EE,20399128,extended,00000000
+[Always Low Lap 4 Time]
+patch=1,EE,2039912C,extended,00000000
+[Always Low Lap 5 Time]
+patch=1,EE,20399130,extended,00000000
+[Always Low Lap 6 Time]
+patch=1,EE,20399134,extended,00000000
+[Always Low Lap 7 Time]
+patch=1,EE,20399138,extended,00000000
+[Always Low Lap 8 Time]
+patch=1,EE,2039913C,extended,00000000
+[Max Number Of Crashes]
+patch=1,EE,20398EC0,extended,05F5E0FF
+[Max Score]
+patch=1,EE,20398B1C,extended,05F5E0FF
+[Unlock All Cars]
+patch=1,EE,40365860,extended,00160001
+[Unlock All Cars]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Single Tracks]
+patch=1,EE,403658B8,extended,001E0001
+[Unlock All Single Tracks]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Championship Stages]
+patch=1,EE,40365930,extended,000F0001
+[Unlock All Championship Stages]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Custom Series Championship Stages]
+patch=1,EE,4036596C,extended,00070001
+[Unlock All Custom Series Championship Stages]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Misc.]
+patch=1,EE,40265988,extended,00070001
+[Unlock All Misc.]
+patch=1,EE,00000000,extended,00000000
+[>>> Unlock Car Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Compact]
+patch=1,EE,20365860,extended,00000000
+[Coupe]
+patch=1,EE,20365864,extended,00000000
+[Sport]
+patch=1,EE,20365868,extended,00000000
+[Roaster]
+patch=1,EE,2036586C,extended,00000000
+[Pickup]
+patch=1,EE,20365870,extended,00000000
+[Muscle]
+patch=1,EE,20365874,extended,00000000
+[SUV]
+patch=1,EE,20365878,extended,00000000
+[Custom Compact]
+patch=1,EE,2036587C,extended,00000000
+[Custom Coupe]
+patch=1,EE,20365880,extended,00000000
+[Custom Sport]
+patch=1,EE,20365884,extended,00000000
+[Custom Roadster]
+patch=1,EE,20365888,extended,00000000
+[Custom Pickup]
+patch=1,EE,2036588C,extended,00000000
+[Custom Muscle]
+patch=1,EE,20365890,extended,00000000
+[Custom SUV]
+patch=1,EE,20365894,extended,00000000
+[Cop Car]
+patch=1,EE,20365898,extended,00000000
+[Hot Rod]
+patch=1,EE,2036589C,extended,00000000
+[Oval Racer]
+patch=1,EE,203658A0,extended,00000000
+[Japanese Muscle]
+patch=1,EE,203658A4,extended,00000000
+[Supercar]
+patch=1,EE,203658A8,extended,00000000
+[Classic]
+patch=1,EE,203658AC,extended,00000000
+[Gangster]
+patch=1,EE,203658B0,extended,00000000
+[Driver's Ed]
+patch=1,EE,203658B4,extended,00000000
+[>>> Unlock Single Track Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Palm Bay Heights]
+patch=1,EE,203658B8,extended,00000000
+[Palm Bay Marina]
+patch=1,EE,203658BC,extended,00000000
+[Airport Terminal 3]
+patch=1,EE,203658C0,extended,00000000
+[Airport Terminal 1 & 2]
+patch=1,EE,203658C4,extended,00000000
+[Sunrise Valley Downtown]
+patch=1,EE,203658C8,extended,00000000
+[Sunrise Valley Springs]
+patch=1,EE,203658CC,extended,00000000
+[Interstate Loop]
+patch=1,EE,203658D0,extended,00000000
+[88 Interchange]
+patch=1,EE,203658D4,extended,00000000
+[Big Surf Grove]
+patch=1,EE,203658D8,extended,00000000
+[Big Surf Shores]
+patch=1,EE,203658DC,extended,00000000
+[Crystal Summit Peak]
+patch=1,EE,203658E0,extended,00000000
+[Crystal Summit Lake]
+patch=1,EE,203658E4,extended,00000000
+[Ocean Sprint]
+patch=1,EE,203658E8,extended,00000000
+[Heartbreak Hills]
+patch=1,EE,203658EC,extended,00000000
+[Freeway Dash]
+patch=1,EE,203658F0,extended,00000000
+[Palm Bay Heights (R)]
+patch=1,EE,203658F4,extended,00000000
+[Palm Bay Marina (R)]
+patch=1,EE,203658F8,extended,00000000
+[Airport Terminal 3 (R)]
+patch=1,EE,203658FC,extended,00000000
+[Airport Terminal 1 & 2 (R)]
+patch=1,EE,20365900,extended,00000000
+[Sunrise Valley Downtown (R)]
+patch=1,EE,20365904,extended,00000000
+[Sunrise Valley Springs (R)]
+patch=1,EE,20365908,extended,00000000
+[Interstate Loop (R)]
+patch=1,EE,2036590C,extended,00000000
+[88 Interchange (R)]
+patch=1,EE,20365910,extended,00000000
+[Big Surf Grove (R)]
+patch=1,EE,20365914,extended,00000000
+[Big Surf Shores (R)]
+patch=1,EE,20365918,extended,00000000
+[Crystal Summit Peak (R)]
+patch=1,EE,2036591C,extended,00000000
+[Crystal Summit Lake (R)]
+patch=1,EE,20365920,extended,00000000
+[Ocean Sprint (R)]
+patch=1,EE,20365924,extended,00000000
+[Heartbreak Hills (R)]
+patch=1,EE,20365928,extended,00000000
+[Freeway Dash (R)]
+patch=1,EE,2036592C,extended,00000000
+[>>> Unlock Championship Stage Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Pacific Gate Grand Prix]
+patch=1,EE,20365930,extended,00000000
+[Face Off 1]
+patch=1,EE,20365934,extended,00000000
+[The Run To The Sun]
+patch=1,EE,20365938,extended,00000000
+[Pursuit 1]
+patch=1,EE,2036593C,extended,00000000
+[Winding Road Grand Prix]
+patch=1,EE,20365940,extended,00000000
+[Face Off 2]
+patch=1,EE,20365944,extended,00000000
+[The Miracle Mile]
+patch=1,EE,20365948,extended,00000000
+[Pursuit 2]
+patch=1,EE,2036594C,extended,00000000
+[Roller Coaster Grand Prix]
+patch=1,EE,20365950,extended,00000000
+[Face Off 3]
+patch=1,EE,20365954,extended,00000000
+[The Crystal Freeway]
+patch=1,EE,20365958,extended,00000000
+[Pursuit 3]
+patch=1,EE,2036595C,extended,00000000
+[Street Storm Grand Prix]
+patch=1,EE,20365960,extended,00000000
+[Face Off 4]
+patch=1,EE,20365964,extended,00000000
+[Custom Series Qualifier]
+patch=1,EE,20365968,extended,00000000
+[>>> Unlock Custom Series Championship Stage Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Speed Streak Grand Prix]
+patch=1,EE,2036596C,extended,00000000
+[Pursuit 4]
+patch=1,EE,20365970,extended,00000000
+[Split Second Grand Prix]
+patch=1,EE,20365974,extended,00000000
+[Pursuit 5]
+patch=1,EE,20365978,extended,00000000
+[Point Of Impact Grand Prix]
+patch=1,EE,2036597C,extended,00000000
+[Pursuit 6]
+patch=1,EE,20365980,extended,00000000
+[Heart Attack Grand Prix]
+patch=1,EE,20365984,extended,00000000
+[>>> Unlock Misc. Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Face Off]
+patch=1,EE,20365988,extended,00000000
+[Runaway]
+patch=1,EE,2036598C,extended,00000000
+[Invulnerable]
+patch=1,EE,20365990,extended,00000000
+[Infinite Boost Cheat]
+patch=1,EE,20365994,extended,00000000
+[Free Run Cheat]
+patch=1,EE,20365998,extended,00000000
+[Pursuit Mode]
+patch=1,EE,2036599C,extended,00000000
+[Custom Series Championship]
+patch=1,EE,203659A0,extended,00000000
+[>>> Have Championship Stage Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Pacific Gate Grand Prix]
+patch=1,EE,20364BE4,extended,00000001
+[Face Off 1]
+patch=1,EE,20364C7C,extended,00000001
+[The Run To The Sun]
+patch=1,EE,20364D14,extended,00000001
+[Pursuit 1]
+patch=1,EE,20364DAC,extended,00000001
+[Winding Road Grand Prix]
+patch=1,EE,20364E44,extended,00000001
+[Face Off 2]
+patch=1,EE,20364EDC,extended,00000001
+[Heartbreak Hills]
+patch=1,EE,20364F74,extended,00000001
+[Pursuit 2]
+patch=1,EE,2036500C,extended,00000001
+[Crystal Summit Peak]
+patch=1,EE,203650A4,extended,00000001
+[Face Off 3]
+patch=1,EE,2036513C,extended,00000001
+[Freeway Dash]
+patch=1,EE,203651D4,extended,00000001
+[Pursuit 3]
+patch=1,EE,2036526C,extended,00000001
+[Sunrise Valley Springs]
+patch=1,EE,20365304,extended,00000001
+[Face Off 4]
+patch=1,EE,2036539C,extended,00000001
+[Custom Series Qualifier]
+patch=1,EE,20365434,extended,00000001
+[>>> Have Custom Championship Stage Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Speed Streak Grand Prix]
+patch=1,EE,203654CC,extended,00000001
+[Pursuit 4]
+patch=1,EE,20365564,extended,00000001
+[Split Second Grand Prix]
+patch=1,EE,203655FC,extended,00000001
+[Pursuit 5]
+patch=1,EE,20365694,extended,00000001
+[Point Of Impact Grand Prix]
+patch=1,EE,2036572C,extended,00000001
+[Pursuit 6]
+patch=1,EE,203657C4,extended,00000001
+[Heart Attack Grand Prix]
+patch=1,EE,2036585C,extended,00000001
+[>>> Have Offensive Driving 101 Mode Gold Medal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Oncoming Traffic]
+patch=1,EE,203659AC,extended,00000002
+[Near Misses]
+patch=1,EE,203659B0,extended,00000002
+[Drifting]
+patch=1,EE,203659B4,extended,00000002
+[Getting Air]
+patch=1,EE,203659B8,extended,00000002
+[Boost Meter]
+patch=1,EE,203659BC,extended,00000002
+[Use The Boost]
+patch=1,EE,203659C0,extended,00000002
+[>>> Have Crash Mode Gold Medal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Down Hill Demolition]
+patch=1,EE,203F0494,extended,00000002
+[Coastal Crush]
+patch=1,EE,203F0498,extended,00000002
+[Out Of Control Tower]
+patch=1,EE,203F049C,extended,00000002
+[Pacific Peril]
+patch=1,EE,203F04A0,extended,00000002
+[Rattlesnake Row]
+patch=1,EE,203F04A4,extended,00000002
+[Dip Disaster]
+patch=1,EE,203F04A8,extended,00000002
+[Sandstorm Shredder]
+patch=1,EE,203F04AC,extended,00000002
+[Ridge Riot]
+patch=1,EE,203F04B0,extended,00000002
+[Freeway Fury]
+patch=1,EE,203F04B4,extended,00000002
+[Avalanche]
+patch=1,EE,203F04B8,extended,00000002
+[Late Arrival]
+patch=1,EE,203F04BC,extended,00000002
+[Glass Canyon]
+patch=1,EE,203F04C0,extended,00000002
+[Hairpin Havoc]
+patch=1,EE,203F04C4,extended,00000002
+[Dam Buster]
+patch=1,EE,203F04C8,extended,00000002
+[Ballistic Beach]
+patch=1,EE,203F04CC,extended,00000002
+

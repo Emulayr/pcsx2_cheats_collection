@@ -1,0 +1,42 @@
+gametitle=Kya Dark Lineage
+[Enable Code (Must Be On)]
+patch=1,EE,904045B8,extended,0C0869D0
+[Infinite Health]
+patch=1,EE,201A72E4,extended,0040202D
+[Infinite Health]
+patch=1,EE,201A72E8,extended,C480000C
+[Infinite Health]
+patch=1,EE,201A72EC,extended,E4800008
+[Infinite Magic]
+patch=1,EE,201D7A00,extended,0200202D
+[Infinite Magic]
+patch=1,EE,201D7A04,extended,C4800018
+[Infinite Magic]
+patch=1,EE,201D7A08,extended,E4800014
+[Max Freed Nativs]
+patch=1,EE,204248D4,extended,00000104
+[Max Noolies]
+patch=1,EE,2048DABC,extended,0000270F
+[Always Low Time (0:00)]
+patch=1,EE,202DBE68,extended,AE204214
+[P1 Press {SELECT}+Up For Super Slow Motion]
+patch=1,EE,D0495B9C,extended,0000FFEE
+[P1 Press {SELECT}+Up For Super Slow Motion]
+patch=1,EE,20450BDC,extended,3F000000
+[P1 Press {SELECT}+Down For Slow Motion]
+patch=1,EE,D0495B9C,extended,0000FFBE
+[P1 Press {SELECT}+Down For Slow Motion]
+patch=1,EE,20450BDC,extended,3F400000
+[P1 Press {SELECT}+{L3} For Normal Motion]
+patch=1,EE,D0495B9C,extended,0000FFFC
+[P1 Press {SELECT}+{L3} For Normal Motion]
+patch=1,EE,20450BDC,extended,3F800000
+[P1 Press {SELECT}+Left For Hyper Mode]
+patch=1,EE,D0495B9C,extended,0000FF7E
+[P1 Press {SELECT}+Left For Hyper Mode]
+patch=1,EE,20450BDC,extended,40000000
+[P1 Press {SELECT}+Right For Super Hyper Mode]
+patch=1,EE,D0495B9C,extended,0000FFDE
+[P1 Press {SELECT}+Right For Super Hyper Mode]
+patch=1,EE,20450BDC,extended,40800000
+

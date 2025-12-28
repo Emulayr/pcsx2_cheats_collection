@@ -1,0 +1,32 @@
+gametitle=[SLUS-20294] Gitaroo Man
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,001350A7
+[Have All Collection]
+cheat0_code = "2029C0A0 FFFFFFFF
+[>>> Unlock Movie Codes (Theater) <<<]
+patch=1,EE,00000000,extended,00000000
+[Movie 1]
+patch=1,EE,2026EA20,extended,00000001
+[Movie 2]
+patch=1,EE,2026EA30,extended,00000001
+[Movie 3]
+patch=1,EE,2026EA40,extended,00000001
+[Movie 4]
+patch=1,EE,2026EA50,extended,00000001
+[Movie 5]
+patch=1,EE,2026EA60,extended,00000001
+[Movie 6]
+patch=1,EE,2026EA70,extended,00000001
+[Movie 7]
+patch=1,EE,2026EA80,extended,00000001
+[Movie 8]
+patch=1,EE,2026EA90,extended,00000001
+[Movie 9]
+patch=1,EE,2026EAA0,extended,00000001
+[Movie 10]
+patch=1,EE,2026EAB0,extended,00000001
+[Movie 11]
+patch=1,EE,2026EAC0,extended,00000001
+[Movie 12]
+patch=1,EE,2026EAD0,extended,00000001
+

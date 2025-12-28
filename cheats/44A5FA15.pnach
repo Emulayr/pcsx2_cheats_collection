@@ -1,0 +1,90 @@
+gametitle=Final Fantasy VII-Dirge Of Cerberus
+[Enable Code (Must Be On)]
+patch=1,EE,90442DC8,extended,0C111B1F
+[Infinite Health]
+patch=1,EE,200C0220,extended,240103E7
+[Infinite Health]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Health]
+patch=1,EE,200C0228,extended,AC810020
+[Infinite Health]
+patch=1,EE,20317660,extended,08030088
+[Infinite MP]
+patch=1,EE,200C0230,extended,24100064
+[Infinite MP]
+patch=1,EE,200C0234,extended,080C5D70
+[Infinite MP]
+patch=1,EE,200C0238,extended,A6300024
+[Infinite MP]
+patch=1,EE,20317604,extended,0C03008C
+[Infinite Gil]
+patch=1,EE,10A0B748,extended,0000FFFF
+[Max Gil]
+patch=1,EE,20A0B748,extended,05F5E0FF
+[Buying Items Doesnt Decrease Gil]
+patch=1,EE,2032110C,extended,00000000
+[Buying Items Increases Gil]
+patch=1,EE,20321100,extended,00641821
+[Quick Exp Gain]
+patch=1,EE,10A0B750,extended,0000FFFF
+[Max Exp]
+patch=1,EE,20A0B750,extended,05F5E0FF
+[Super Strong Attacks]
+patch=1,EE,20A0B764,extended,05F5E0FF
+[Max DEX]
+patch=1,EE,10A0B772,extended,00000064
+[Max DEF]
+patch=1,EE,10A0B774,extended,00000064
+[Max STR]
+patch=1,EE,10A0B776,extended,00000064
+[Max INT]
+patch=1,EE,10A0B778,extended,00000064
+[Infinite Item/Ammo Usage]
+patch=1,EE,2031E884,extended,00000000
+[Never Reload]
+patch=1,EE,20319E58,extended,00000000
+[Unlock Event Viewer]
+patch=1,EE,704B6D40,extended,00000001
+[Unlock All Extra Missions]
+patch=1,EE,704B6D40,extended,00000001
+[Unlock All Extra Missions]
+patch=1,EE,404B6D64,extended,00030001
+[Unlock All Extra Missions]
+patch=1,EE,FFFFFFFF,extended,00000000
+[Unlock All Character Viewer]
+patch=1,EE,704B6D70,extended,001001FF
+[Unlock All Sound Gallery]
+patch=1,EE,704B6D71,extended,000000FE
+[Unlock All Sound Gallery]
+patch=1,EE,704B6D72,extended,00000003
+[Unlock All Art Gallery]
+patch=1,EE,704B6D72,extended,0010FFFC
+[Unlock All Art Gallery]
+patch=1,EE,704B6D74,extended,0000000F
+[>>> Chapter Ranking Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Targets Destroyed]
+patch=1,EE,20A0B450,extended,05F5E0FF
+[No Targets Destroyed]
+patch=1,EE,20A0B450,extended,00000000
+[Max Critical Hits]
+patch=1,EE,20A0B45C,extended,05F5E0FF
+[No Critical Hits]
+patch=1,EE,20A0B45C,extended,00000000
+[Max Items Used]
+patch=1,EE,20A0B460,extended,05F5E0FF
+[No Items Used]
+patch=1,EE,20A0B460,extended,00000000
+[Max Damage Sustained]
+patch=1,EE,20A0B470,extended,05F5E0FF
+[No Damage Sustained]
+patch=1,EE,20A0B470,extended,00000000
+[Max Magic Casted]
+patch=1,EE,20A0B484,extended,05F5E0FF
+[No Magic Casted]
+patch=1,EE,20A0B484,extended,00000000
+[Max All Slots]
+patch=1,EE,40A0B004,extended,003C0003
+[Max All Slots]
+patch=1,EE,000003E7,extended,00000000
+

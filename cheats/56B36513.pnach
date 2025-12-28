@@ -1,0 +1,38 @@
+gametitle=XGRA-Extreme-G Racing Association
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,001ED69F
+[Infinite Shield Energy]
+patch=1,EE,202B1E20,extended,440FC000
+[Infinite Shield Energy]
+patch=1,EE,202B1E28,extended,440FC000
+[>>> Unlock Track Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Scavenger City-City Circuit]
+patch=1,EE,002A97AD,extended,00000001
+[Scavenger City-Outlands Circuit]
+patch=1,EE,002A97AF,extended,00000001
+[Vostok, Anatarctica-Vostok Peaks Circuit]
+patch=1,EE,002A97B1,extended,00000001
+[Vostok, Anatarctica-Vostok Coastal Circuit]
+patch=1,EE,002A97B3,extended,00000001
+[Dunroth's Folly-Dunroth's Folly Circuit]
+patch=1,EE,002A97B5,extended,00000001
+[Dunroth's Folly-Dunroth's Rift Circuit]
+patch=1,EE,002A97B7,extended,00000001
+[Deep Space E.R.F. Station-Mining Dome Circuit]
+patch=1,EE,002A97B9,extended,00000001
+[Deep Space E.R.F. Station-E.R.F. Unit Circuit]
+patch=1,EE,002A97BB,extended,00000001
+[Deep Sea Anomaly-Anomaly 17 Circuit]
+patch=1,EE,002A97BD,extended,00000001
+[Deep Sea Anomaly-Anomaly 19 Circuit]
+patch=1,EE,002A97BF,extended,00000001
+[Santarem, Brazilia-Reacator Circuit]
+patch=1,EE,002A97C1,extended,00000001
+[Santarem, Brazilia-Torre Circuit]
+patch=1,EE,002A97C3,extended,00000001
+[Culver's Reach-Hellas Ridge Circuit]
+patch=1,EE,002A97C5,extended,00000001
+[Culver's Reach-Arabian Ridge Circuit]
+patch=1,EE,002A97C7,extended,00000001
+

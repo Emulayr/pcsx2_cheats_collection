@@ -1,0 +1,408 @@
+gametitle=[SCUS-97353] Ratchet & Clank-Up Your Arsenal
+[Enable Code (Must Be On)]
+patch=1,EE,9012F420,extended,00832021
+[Infinite Health]
+patch=1,EE,201A7430,extended,0000006E
+[Quick Bolt Gain]
+patch=1,EE,00142660,extended,000000FF
+[Super Quick Bolt Gain]
+patch=1,EE,10142660,extended,0000FFFF
+[Max Bolts]
+patch=1,EE,20142660,extended,05F5E0FF
+[Max Nanotech Level]
+patch=1,EE,20142694,extended,05F5E0FF
+[Have X Used]
+patch=1,EE,00142725,extended,00000028
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,D01CD0C2,extended,0000BFFF
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,201A4CD8,extended,3E000000
+[Unlock Wrench Replace-Demo Code Cheat]
+patch=1,EE,001427A1,extended,00000001
+[Have All Misc. Items Found]
+patch=1,EE,001426A2,extended,00000065
+[Access All Cinematics/Sketchbook/Credits]
+patch=1,EE,00142692,extended,00000001
+[Unlock All Cinematics]
+patch=1,EE,20142BA8,extended,FFFFFFFF
+[Unlock All Cinematics]
+patch=1,EE,20142BAC,extended,FFFFFFFF
+[Unlock All Cinematics]
+patch=1,EE,20142BB0,extended,FFFFFFFF
+[Unlock All Cinematics]
+patch=1,EE,20142BB4,extended,FFFFFFFF
+[Unlock All Cinematics]
+patch=1,EE,20142BB8,extended,FFFFFFFF
+[Unlock All Cinematics]
+patch=1,EE,20142BBC,extended,FFFFFFFF
+[Unlock All Cinematics]
+patch=1,EE,20142BC0,extended,FFFFFFFF
+[Unlock All Cinematics]
+patch=1,EE,20142BC4,extended,FFFFFFFF
+[Unlock All Cinematics]
+cheat0_code = "20142BC8 FFFFFFFF
+[>>> Increase Nanotech Level By 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level Increase 1]
+patch=1,EE,001426B0,extended,00000001
+[Level Increase 2]
+patch=1,EE,001426B1,extended,00000001
+[Level Increase 3]
+patch=1,EE,001426B2,extended,00000001
+[Level Increase 4]
+patch=1,EE,001426B3,extended,00000001
+[Level Increase 5]
+patch=1,EE,001426B4,extended,00000001
+[Level Increase 6]
+patch=1,EE,001426B5,extended,00000001
+[Level Increase 7]
+patch=1,EE,001426B6,extended,00000001
+[Level Increase 8]
+patch=1,EE,001426B7,extended,00000001
+[Level Increase 9]
+patch=1,EE,001426B8,extended,00000001
+[Level Increase 10]
+patch=1,EE,001426B9,extended,00000001
+[All 10 Increases]
+patch=1,EE,201426B0,extended,01010101
+[All 10 Increases]
+patch=1,EE,201426B4,extended,01010101
+[All 10 Increases]
+patch=1,EE,101426B8,extended,00000101
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Big Head Heroes]
+patch=1,EE,001D5472,extended,00000001
+[Big Head Enemies]
+patch=1,EE,001D5473,extended,00000001
+[Time Freeze]
+patch=1,EE,001D5474,extended,00000001
+[Secret Agent Clank]
+patch=1,EE,001D5475,extended,00000001
+[Ships To Ducks]
+patch=1,EE,001D5476,extended,00000001
+[Mirrow Universe]
+patch=1,EE,001D5477,extended,00000001
+[Wrench Replace-Demo Code]
+patch=1,EE,001D5479,extended,00000001
+[>>> Have Gadget Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Heli-Pack]
+patch=1,EE,00142CA2,extended,00000001
+[Thruster-Pack]
+patch=1,EE,00142CA3,extended,00000001
+[Hypershot]
+patch=1,EE,00142CAB,extended,00000001
+[Gravity Boots]
+patch=1,EE,00142CAD,extended,00000001
+[Refractor]
+patch=1,EE,00142CB2,extended,00000001
+[Charge Boots]
+patch=1,EE,00142CBD,extended,00000001
+[Tyhrra-Guise]
+patch=1,EE,00142CBE,extended,00000001
+[Warp Pad]
+patch=1,EE,00142CBF,extended,00000001
+[PDA]
+patch=1,EE,00142CC3,extended,00000001
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Bolt Grabber V2]
+patch=1,EE,00142CA5,extended,00000001
+[Map-O-Matic]
+patch=1,EE,00142CA7,extended,00000001
+[The Hacker]
+patch=1,EE,00142CB4,extended,00000001
+[Nano-pak]
+patch=1,EE,00142CC0,extended,00000001
+[Star Map]
+patch=1,EE,00142CC1,extended,00000001
+[Master Plan]
+patch=1,EE,00142CC2,extended,00000001
+[Issue 1-Pirate Booty!]
+patch=1,EE,001D554F,extended,00000001
+[Issue 4-Deja Q All Over Again]
+patch=1,EE,001D5550,extended,00000001
+[Issue 2-Arriba Amoeba!]
+patch=1,EE,001D5551,extended,00000001
+[Issue 3-Shadow Of The Robot]
+patch=1,EE,001D5552,extended,00000001
+[Issue 5-The SHaming Of The Q]
+patch=1,EE,001D5553,extended,00000001
+[>>> Have Weapon Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Plasma Coil]
+patch=1,EE,00142CB0,extended,00000001
+[Lava Gun]
+patch=1,EE,00142CB1,extended,00000001
+[Bouncer]
+patch=1,EE,00142CB3,extended,00000001
+[Miniturret Glove]
+patch=1,EE,00142CB5,extended,00000001
+[Shield Charger]
+patch=1,EE,00142CB6,extended,00000001
+[Shock Blaster]
+patch=1,EE,00142CC7,extended,00000001
+[N6O Storm]
+patch=1,EE,00142CCF,extended,00000001
+[Infector]
+patch=1,EE,00142CD7,extended,00000001
+[Annihilator]
+patch=1,EE,00142CDF,extended,00000001
+[Spitting Hydra]
+patch=1,EE,00142CE7,extended,00000001
+[Disc Blade Gun]
+patch=1,EE,00142CEF,extended,00000001
+[Agents Of Doom]
+patch=1,EE,00142CF7,extended,00000001
+[Rift Inducer]
+patch=1,EE,00142CFF,extended,00000001
+[Holo Shield Glove]
+patch=1,EE,00142D07,extended,00000001
+[Flux Rifle]
+patch=1,EE,00142D0F,extended,00000001
+[Nitro Launcher]
+patch=1,EE,00142D17,extended,00000001
+[Plasma Whip]
+patch=1,EE,00142D1F,extended,00000001
+[Suck Cannon]
+patch=1,EE,00142D27,extended,00000001
+[Qwack-O-Ray]
+patch=1,EE,00142D2F,extended,00000001
+[Ry3no]
+patch=1,EE,00142D37,extended,00000001
+[>>> Infinite Ammo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Plasma Coil/Plasma Storm]
+patch=1,EE,20142830,extended,0000000F
+[Lava Gun/Liquid Nitrogen Gun]
+patch=1,EE,20142834,extended,000000C8
+[Bouncer/Heavy Bouncer]
+patch=1,EE,2014283C,extended,0000000A
+[Miniturret Glove/Megaturret Glove]
+patch=1,EE,20142844,extended,0000000A
+[Shield Charger/Tesla Barrier]
+patch=1,EE,20142848,extended,00000004
+[Shock Blaster/Shock Cannon]
+patch=1,EE,2014288C,extended,0000001E
+[N6O Storm/N90 Hurricane]
+patch=1,EE,201428AC,extended,0000012C
+[Infector/Infecto-Bomb]
+patch=1,EE,201428CC,extended,00000014
+[Annihilator/Decimator]
+patch=1,EE,201428EC,extended,00000014
+[Spitting Hydra/Tempest]
+patch=1,EE,2014290C,extended,0000000F
+[Disc Blade Gun/Multi-Disc Gun]
+patch=1,EE,2014292C,extended,00000019
+[Agents Of Doom/Agents Of Dread]
+patch=1,EE,2014294C,extended,00000008
+[Rift Inducer/Rift Ripper]
+patch=1,EE,2014296C,extended,0000000C
+[Holo Shield Glove/Ultrashield Launcher]
+patch=1,EE,2014298C,extended,0000000C
+[Flux Rifle/Splitter Rifle]
+patch=1,EE,201429AC,extended,0000000F
+[Nitro Launcher/Nitro Eruptor]
+patch=1,EE,201429CC,extended,0000000C
+[Plasma Whip/Quantum Whip]
+patch=1,EE,201429EC,extended,00000019
+[Ry3no/Rynocirator]
+patch=1,EE,20142A4C,extended,00000019
+[>>> Have Weapon Upgraded Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Plasma Storm]
+patch=1,EE,20142E20,extended,00157C00
+[Liquid Nitrogen Gun]
+patch=1,EE,20142E24,extended,00020D00
+[Heavy Bouncer]
+patch=1,EE,20142E2C,extended,000EE480
+[Megaturret Glove]
+patch=1,EE,20142E34,extended,0001B580
+[Tesla Barrier]
+patch=1,EE,20142E38,extended,00083400
+[Shock Cannon]
+patch=1,EE,20142E7C,extended,00007D00
+[N9O Hurricane]
+patch=1,EE,20142E9C,extended,00019C80
+[Infecto-Bomb]
+patch=1,EE,20142EBC,extended,0001DB00
+[Decimator]
+patch=1,EE,20142EDC,extended,00060E00
+[Tempest]
+patch=1,EE,20142EFC,extended,00017700
+[Multi-Disc Gun]
+patch=1,EE,20142F1C,extended,0005E880
+[Agents Of Dread]
+patch=1,EE,20142F3C,extended,0002EE00
+[Rift Ripper]
+patch=1,EE,20142F5C,extended,00060E00
+[Ultrashield Launcher]
+patch=1,EE,20142F7C,extended,00015180
+[Splitter Rifle]
+patch=1,EE,20142F9C,extended,00016A80
+[Nitro Erupter]
+patch=1,EE,20142FBC,extended,00014500
+[Quantum Whip]
+patch=1,EE,20142FDC,extended,00019C80
+[Vortex Cannon]
+patch=1,EE,20142FFC,extended,0000FA00
+[Qwack-O-Blitzer]
+patch=1,EE,2014301C,extended,0007D000
+[Rynocirator]
+patch=1,EE,2014303C,extended,00445C00
+[>>> Have Skill Points Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Go For Hung Time]
+patch=1,EE,001D54B0,extended,00000001
+[Stay Squeaky Clean]
+patch=1,EE,001D54B1,extended,00000001
+[Strive For Arcade Perfection]
+patch=1,EE,001D54B2,extended,00000001
+[Beat Helga's Boat Time]
+patch=1,EE,001D54B3,extended,00000001
+[Turn Up The Heat]
+patch=1,EE,001D54B4,extended,00000001
+[Monkeying Around]
+patch=1,EE,001D54B5,extended,00000001
+[Reflect On How To Score]
+patch=1,EE,001D54B6,extended,00000001
+[Bugs To Birds]
+patch=1,EE,001D54B7,extended,00000001
+[Bash The Bug]
+patch=1,EE,001D54B8,extended,00000001
+[Be An Eight Time Champ]
+patch=1,EE,001D54B9,extended,00000001
+[Flee Flawlessly]
+patch=1,EE,001D54BA,extended,00000001
+[Lights, Camera, Action!]
+patch=1,EE,001D54BB,extended,00000001
+[Search For Sunken Treasure]
+patch=1,EE,001D54BC,extended,00000001
+[Be A Sharpshooter]
+patch=1,EE,001D54BD,extended,00000001
+[Get To The Belt]
+patch=1,EE,001D54BE,extended,00000001
+[Bash The Party]
+patch=1,EE,001D54BF,extended,00000001
+[Feeling Lucky?]
+patch=1,EE,001D54C0,extended,00000001
+[You Break It, You Win It]
+patch=1,EE,001D54C1,extended,00000001
+[2002 Was a Good Year In The City]
+patch=1,EE,001D54C2,extended,00000001
+[Suck It Up!]
+patch=1,EE,001D54C3,extended,00000001
+[Aim High]
+patch=1,EE,001D54C4,extended,00000001
+[Zap Back At Ya']
+patch=1,EE,001D54C5,extended,00000001
+[Break The Dan]
+patch=1,EE,001D54C6,extended,00000001
+[Spread Your Germs]
+patch=1,EE,001D54C7,extended,00000001
+[Hit The Motherload]
+patch=1,EE,001D54C8,extended,00000001
+[Set A New Record For Qwark-Pirate Booty!]
+patch=1,EE,001D54C9,extended,00000001
+[Set A New Record For Qwark-Deja Q All Over Again]
+patch=1,EE,001D54CA,extended,00000001
+[Set A New Record For Qwark-Arriba Amoeba!]
+patch=1,EE,001D54CB,extended,00000001
+[Set A New Record For Qwark-Shadow Of The Robot]
+patch=1,EE,001D54CC,extended,00000001
+[Set A New Record For Qwark-The Shaming Of The Q]
+patch=1,EE,001D54CD,extended,00000001
+[All Skill Points]
+patch=1,EE,401D54B0,extended,00070001
+[All Skill Points]
+patch=1,EE,01010101,extended,00000000
+[All Skill Points]
+patch=1,EE,101D54CC,extended,00000101
+[>>> Have Titanium Bolt Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Bolt 1]
+patch=1,EE,001BBB18,extended,00000001
+[Bolt 2]
+patch=1,EE,001BBB19,extended,00000001
+[Bolt 3]
+patch=1,EE,001BBB1A,extended,00000001
+[Bolt 4]
+patch=1,EE,001BBB1B,extended,00000001
+[Bolt 5]
+patch=1,EE,001BBB1C,extended,00000001
+[Bolt 6]
+patch=1,EE,001BBB1D,extended,00000001
+[Bolt 7]
+patch=1,EE,001BBB1E,extended,00000001
+[Bolt 8]
+patch=1,EE,001BBB1F,extended,00000001
+[Bolt 9]
+patch=1,EE,001BBB20,extended,00000001
+[Bolt 10]
+patch=1,EE,001BBB21,extended,00000001
+[Bolt 11]
+patch=1,EE,001BBB22,extended,00000001
+[Bolt 12]
+patch=1,EE,001BBB23,extended,00000001
+[Bolt 13]
+patch=1,EE,001BBB24,extended,00000001
+[Bolt 14]
+patch=1,EE,001BBB25,extended,00000001
+[Bolt 15]
+patch=1,EE,001BBB26,extended,00000001
+[Bolt 16]
+patch=1,EE,001BBB27,extended,00000001
+[Bolt 17]
+patch=1,EE,001BBB28,extended,00000001
+[Bolt 18]
+patch=1,EE,001BBB29,extended,00000001
+[Bolt 19]
+patch=1,EE,001BBB2A,extended,00000001
+[Bolt 20]
+patch=1,EE,001BBB2B,extended,00000001
+[Bolt 21]
+patch=1,EE,001BBB2C,extended,00000001
+[Bolt 22]
+patch=1,EE,001BBB2D,extended,00000001
+[Bolt 23]
+patch=1,EE,001BBB2E,extended,00000001
+[Bolt 24]
+patch=1,EE,001BBB2F,extended,00000001
+[Bolt 25]
+patch=1,EE,001BBB30,extended,00000001
+[Bolt 26]
+patch=1,EE,001BBB31,extended,00000001
+[Bolt 27]
+patch=1,EE,001BBB32,extended,00000001
+[Bolt 28]
+patch=1,EE,001BBB33,extended,00000001
+[Bolt 29]
+patch=1,EE,001BBB34,extended,00000001
+[Bolt 30]
+patch=1,EE,001BBB35,extended,00000001
+[Bolt 31]
+patch=1,EE,001BBB36,extended,00000001
+[Bolt 32]
+patch=1,EE,001BBB37,extended,00000001
+[Bolt 33]
+patch=1,EE,001BBB38,extended,00000001
+[Bolt 34]
+patch=1,EE,001BBB39,extended,00000001
+[Bolt 35]
+patch=1,EE,001BBB3A,extended,00000001
+[Bolt 36]
+patch=1,EE,001BBB3B,extended,00000001
+[Bolt 37]
+patch=1,EE,001BBB3C,extended,00000001
+[Bolt 38]
+patch=1,EE,001BBB3D,extended,00000001
+[Bolt 39]
+patch=1,EE,001BBB3E,extended,00000001
+[Bolt 40]
+patch=1,EE,001BBB3F,extended,00000001
+[All Titanium Bolts]
+patch=1,EE,401BBB18,extended,000A0001
+[All Titanium Bolts]
+patch=1,EE,01010101,extended,00000000
+

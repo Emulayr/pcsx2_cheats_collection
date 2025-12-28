@@ -1,0 +1,592 @@
+gametitle=Fullmetal Alchemist-And The Broken Angel
+[Enable Code (Must Be On)]
+patch=1,EE,901169E4,extended,0C046FEC
+[Infinite HP (In-Battle)]
+patch=1,EE,200C0220,extended,240503E7
+[Infinite HP (In-Battle)]
+patch=1,EE,200C0224,extended,0804DBC4
+[Infinite HP (In-Battle)]
+patch=1,EE,200C0228,extended,AE85037C
+[Infinite HP (In-Battle)]
+patch=1,EE,2012DE04,extended,0C030088
+[Infinite Frenzy Gauge]
+patch=1,EE,102CEE40,extended,00000064
+[Always Frenzy Mode]
+patch=1,EE,002CEE42,extended,00000003
+[Infinite Ammo]
+patch=1,EE,201F3A9C,extended,00000000
+[Max Infinite Ammo]
+patch=1,EE,201F3A98,extended,240503E7
+[Extra Ammo]
+patch=1,EE,101F3A98,extended,00000001
+[>>> Edward Elric Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CD868,extended,00000063
+[Infinite HP]
+patch=1,EE,102CD86A,extended,000003E7
+[Max HP]
+patch=1,EE,102CD86C,extended,000003E7
+[Max ATK]
+patch=1,EE,102CD86E,extended,000003E7
+[Max DEF]
+patch=1,EE,102CD870,extended,000003E7
+[Max ALC]
+patch=1,EE,102CD872,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CD874,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CD874,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CD874,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CD874,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CD874,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CD876,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CD878,extended,000003E7
+[Max EXP]
+patch=1,EE,202CD87C,extended,000F423F
+[>>> Alphonse Elric Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CDA64,extended,00000063
+[Infinite HP]
+patch=1,EE,102CDA66,extended,000003E7
+[Max HP]
+patch=1,EE,102CDA68,extended,000003E7
+[Max ATK]
+patch=1,EE,102CDA6A,extended,000003E7
+[Max DEF]
+patch=1,EE,102CDA6C,extended,000003E7
+[Max ALC]
+patch=1,EE,102CDA6E,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CDA70,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CDA70,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CDA70,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CDA70,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CDA70,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CDA72,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CDA74,extended,000003E7
+[Max EXP]
+patch=1,EE,202CDA78,extended,000F423F
+[>>> Character 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CDC60,extended,00000063
+[Infinite HP]
+patch=1,EE,102CDC62,extended,000003E7
+[Max HP]
+patch=1,EE,102CDC64,extended,000003E7
+[Max ATK]
+patch=1,EE,102CDC66,extended,000003E7
+[Max DEF]
+patch=1,EE,102CDC68,extended,000003E7
+[Max ALC]
+patch=1,EE,102CDC6A,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CDC6C,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CDC6C,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CDC6C,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CDC6C,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CDC6C,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CDC6E,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CDC70,extended,000003E7
+[Max EXP]
+patch=1,EE,202CDC74,extended,000F423F
+[>>> Character 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CDE5C,extended,00000063
+[Infinite HP]
+patch=1,EE,102CDE5E,extended,000003E7
+[Max HP]
+patch=1,EE,102CDE60,extended,000003E7
+[Max ATK]
+patch=1,EE,102CDE62,extended,000003E7
+[Max DEF]
+patch=1,EE,102CDE64,extended,000003E7
+[Max ALC]
+patch=1,EE,102CDE66,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CDE68,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CDE68,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CDE68,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CDE68,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CDE68,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CDE6A,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CDE6C,extended,000003E7
+[Max EXP]
+patch=1,EE,202CDE70,extended,000F423F
+[>>> Character 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CE058,extended,00000063
+[Infinite HP]
+patch=1,EE,102CE05A,extended,000003E7
+[Max HP]
+patch=1,EE,102CE05C,extended,000003E7
+[Max ATK]
+patch=1,EE,102CE05E,extended,000003E7
+[Max DEF]
+patch=1,EE,102CE060,extended,000003E7
+[Max ALC]
+patch=1,EE,102CE062,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CE064,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CE064,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CE064,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CE064,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CE064,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CE066,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CE068,extended,000003E7
+[Max EXP]
+patch=1,EE,202CE06C,extended,000F423F
+[>>> Character 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CE254,extended,00000063
+[Infinite HP]
+patch=1,EE,102CE256,extended,000003E7
+[Max HP]
+patch=1,EE,102CE258,extended,000003E7
+[Max ATK]
+patch=1,EE,102CE25A,extended,000003E7
+[Max DEF]
+patch=1,EE,102CE25C,extended,000003E7
+[Max ALC]
+patch=1,EE,102CE25E,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CE260,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CE260,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CE260,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CE260,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CE260,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CE262,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CE264,extended,000003E7
+[Max EXP]
+patch=1,EE,202CE268,extended,000F423F
+[>>> Character 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CE450,extended,00000063
+[Infinite HP]
+patch=1,EE,102CE452,extended,000003E7
+[Max HP]
+patch=1,EE,102CE454,extended,000003E7
+[Max ATK]
+patch=1,EE,102CE456,extended,000003E7
+[Max DEF]
+patch=1,EE,102CE458,extended,000003E7
+[Max ALC]
+patch=1,EE,102CE45A,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CE45C,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CE45C,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CE45C,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CE45C,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CE45C,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CE45E,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CE460,extended,000003E7
+[Max EXP]
+patch=1,EE,202CE464,extended,000F423F
+[>>> Character 8 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CE64C,extended,00000063
+[Infinite HP]
+patch=1,EE,102CE64E,extended,000003E7
+[Max HP]
+patch=1,EE,102CE650,extended,000003E7
+[Max ATK]
+patch=1,EE,102CE652,extended,000003E7
+[Max DEF]
+patch=1,EE,102CE654,extended,000003E7
+[Max ALC]
+patch=1,EE,102CE656,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CE658,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CE658,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CE658,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CE658,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CE658,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CE65A,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CE65C,extended,000003E7
+[Max EXP]
+patch=1,EE,202CE660,extended,000F423F
+[>>> Character 9 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CE848,extended,00000063
+[Infinite HP]
+patch=1,EE,102CE84A,extended,000003E7
+[Max HP]
+patch=1,EE,102CE84C,extended,000003E7
+[Max ATK]
+patch=1,EE,102CE84E,extended,000003E7
+[Max DEF]
+patch=1,EE,102CE850,extended,000003E7
+[Max ALC]
+patch=1,EE,102CE852,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CE854,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CE854,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CE854,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CE854,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CE854,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CE856,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CE858,extended,000003E7
+[Max EXP]
+patch=1,EE,202CE85C,extended,000F423F
+[>>> Character 10 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CEA44,extended,00000063
+[Infinite HP]
+patch=1,EE,102CEA46,extended,000003E7
+[Max HP]
+patch=1,EE,102CEA48,extended,000003E7
+[Max ATK]
+patch=1,EE,102CEA4A,extended,000003E7
+[Max DEF]
+patch=1,EE,102CEA4C,extended,000003E7
+[Max ALC]
+patch=1,EE,102CEA4E,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CEA50,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CEA50,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CEA50,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CEA50,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CEA50,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CEA52,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CEA54,extended,000003E7
+[Max EXP]
+patch=1,EE,202CEA58,extended,000F423F
+[>>> Character 11 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,102CEC40,extended,00000063
+[Infinite HP]
+patch=1,EE,102CEC42,extended,000003E7
+[Max HP]
+patch=1,EE,102CEC44,extended,000003E7
+[Max ATK]
+patch=1,EE,102CEC46,extended,000003E7
+[Max DEF]
+patch=1,EE,102CEC48,extended,000003E7
+[Max ALC]
+patch=1,EE,102CEC4A,extended,000003E7
+[Have ATK Up]
+patch=1,EE,102CEC4C,extended,00000001
+[Have ALC Up]
+patch=1,EE,102CEC4C,extended,00000002
+[Have DEF Up]
+patch=1,EE,102CEC4C,extended,00000004
+[Have AGL Up]
+patch=1,EE,102CEC4C,extended,00000008
+[Have ATK/ALC/DEF/AGL Up]
+patch=1,EE,102CEC4C,extended,00000010
+[Infinite Bonus Points]
+patch=1,EE,102CEC4E,extended,000003E7
+[Max Bonus Points]
+patch=1,EE,102CEC50,extended,000003E7
+[Max EXP]
+patch=1,EE,202CEC54,extended,000F423F
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,002CD899,extended,00000063
+[Slot 2]
+patch=1,EE,002CD89C,extended,00000063
+[Slot 3]
+patch=1,EE,002CD89F,extended,00000063
+[Slot 4]
+patch=1,EE,002CD8A2,extended,00000063
+[Slot 5]
+patch=1,EE,002CD8A5,extended,00000063
+[Slot 6]
+patch=1,EE,002CD8A8,extended,00000063
+[Slot 7]
+patch=1,EE,002CD8AB,extended,00000063
+[Slot 8]
+patch=1,EE,002CD8AE,extended,00000063
+[Slot 9]
+patch=1,EE,002CD8B1,extended,00000063
+[Slot 10]
+patch=1,EE,002CD8B4,extended,00000063
+[Slot 11]
+patch=1,EE,002CD8B7,extended,00000063
+[Slot 12]
+patch=1,EE,002CD8BA,extended,00000063
+[Slot 13]
+patch=1,EE,002CD8BD,extended,00000063
+[Slot 14]
+patch=1,EE,002CD8C0,extended,00000063
+[Slot 15]
+patch=1,EE,002CD8C3,extended,00000063
+[Slot 16]
+patch=1,EE,002CD8C6,extended,00000063
+[Slot 17]
+patch=1,EE,002CD8C9,extended,00000063
+[Slot 18]
+patch=1,EE,002CD8CC,extended,00000063
+[Slot 19]
+patch=1,EE,002CD8CF,extended,00000063
+[Slot 20]
+patch=1,EE,002CD8D2,extended,00000063
+[Slot 21]
+patch=1,EE,002CD8D5,extended,00000063
+[Slot 22]
+patch=1,EE,002CD8D8,extended,00000063
+[Slot 23]
+patch=1,EE,002CD8DB,extended,00000063
+[Slot 24]
+patch=1,EE,002CD8DE,extended,00000063
+[Slot 25]
+patch=1,EE,002CD8E1,extended,00000063
+[Slot 26]
+patch=1,EE,002CD8E4,extended,00000063
+[Slot 27]
+patch=1,EE,002CD8E7,extended,00000063
+[Slot 28]
+patch=1,EE,002CD8EA,extended,00000063
+[Slot 29]
+patch=1,EE,002CD8ED,extended,00000063
+[Slot 30]
+patch=1,EE,002CD8F0,extended,00000063
+[Slot 31]
+patch=1,EE,002CD8F3,extended,00000063
+[Slot 32]
+patch=1,EE,002CD8F6,extended,00000063
+[Slot 33]
+patch=1,EE,002CD8F9,extended,00000063
+[Slot 34]
+patch=1,EE,002CD8FC,extended,00000063
+[Slot 35]
+patch=1,EE,002CD8FF,extended,00000063
+[Slot 36]
+patch=1,EE,002CD902,extended,00000063
+[Slot 37]
+patch=1,EE,002CD905,extended,00000063
+[Slot 38]
+patch=1,EE,002CD908,extended,00000063
+[Slot 39]
+patch=1,EE,002CD90B,extended,00000063
+[Slot 40]
+patch=1,EE,002CD90E,extended,00000063
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Elixir (S)-Slot 1]
+patch=1,EE,002CD898,extended,00000001
+[Elixir (M)-Slot 2]
+patch=1,EE,002CD89B,extended,00000002
+[Elixir (L)-Slot 3]
+patch=1,EE,002CD89E,extended,00000003
+[Elixir (X)-Slot 4]
+patch=1,EE,002CD8A1,extended,00000004
+[Doubalixir (S)-Slot 5]
+patch=1,EE,002CD8A4,extended,00000006
+[Doubalixir (M)-Slot 6]
+patch=1,EE,002CD8A7,extended,00000007
+[Doubalixir (S)-Slot 7]
+patch=1,EE,002CD8AA,extended,00000008
+[Doubalixir (S)-Slot 8]
+patch=1,EE,002CD8AD,extended,00000009
+[Waker-Upper-Slot 9]
+patch=1,EE,002CD8B0,extended,0000000B
+[Relax-Herb-Slot 10]
+patch=1,EE,002CD8B3,extended,0000000D
+[Detox-Herb-Slot 11]
+patch=1,EE,002CD8B6,extended,0000000E
+[Equip-Herb-Slot 12]
+patch=1,EE,002CD8BB,extended,0000000F
+[ALC-Herb-Slot 13]
+patch=1,EE,002CD8BC,extended,00000010
+[ATK-Caps-Slot 14]
+patch=1,EE,002CD8BF,extended,00000013
+[ALC-Caps-Slot 15]
+patch=1,EE,002CD8C2,extended,00000014
+[DEF-Caps-Slot 16]
+patch=1,EE,002CD8C5,extended,00000015
+[AGL-Caps-Slot 17]
+patch=1,EE,002CD8C8,extended,00000016
+[Magic-Caps-Slot 18]
+patch=1,EE,002CD8CB,extended,00000017
+[Frenzy Potion-Slot 19]
+patch=1,EE,002CD8CE,extended,00000018
+[Special Potion-Slot 20]
+patch=1,EE,002CD8D1,extended,00000019
+[Growth Seed-Slot 21]
+patch=1,EE,002CD8D4,extended,0000001A
+[Reloader (Wood)-Slot 22]
+patch=1,EE,002CD8D7,extended,0000001C
+[Reloader (Metal)-Slot 23]
+patch=1,EE,002CD8DA,extended,0000001D
+[Fire Element-Slot 24]
+patch=1,EE,002CD8DD,extended,00000020
+[Wind Element-Slot 25]
+patch=1,EE,002CD8E0,extended,00000021
+[Lightning-Slot 26]
+patch=1,EE,002CD8E3,extended,00000022
+[>>> Have Accessory Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lead Ring-Slot 1]
+patch=1,EE,202CD914,extended,00010009
+[Silver Ring-Slot 2]
+patch=1,EE,202CD918,extended,0001000A
+[Gold Ring-Slot 3]
+patch=1,EE,202CD91C,extended,0001000B
+[Fullmetal Ring-Slot 4]
+patch=1,EE,202CD920,extended,0001000C
+[Lead Bangle-Slot 5]
+patch=1,EE,202CD924,extended,0001000F
+[Silver Bangle-Slot 6]
+patch=1,EE,202CD928,extended,00010010
+[Gold Bangle-Slot 7]
+patch=1,EE,202CD92C,extended,00010011
+[Fullmetal Bangle-Slot 8]
+patch=1,EE,202CD930,extended,00010012
+[Lead Plate-Slot 9]
+patch=1,EE,202CD934,extended,00010015
+[Silver Plate-Slot 10]
+patch=1,EE,202CD938,extended,00010016
+[Gold Plate-Slot 11]
+patch=1,EE,202CD93C,extended,00010017
+[Fullmetal Plate-Slot 12]
+patch=1,EE,202CD940,extended,00010018
+[Lead Earrings-Slot 13]
+patch=1,EE,202CD944,extended,0001001B
+[Silver Earrings-Slot 14]
+patch=1,EE,202CD948,extended,0001001C
+[Gold Earrings-Slot 15]
+patch=1,EE,202CD94C,extended,0001001D
+[Fullmetal Earrings-Slot 16]
+patch=1,EE,202CD950,extended,0001001E
+[Double-Edged Ring-Slot 17]
+patch=1,EE,202CD954,extended,00010021
+[Double-Edged Bangle-Slot 18]
+patch=1,EE,202CD958,extended,00010022
+[Double-Edged Armor-Slot 19]
+patch=1,EE,202CD95C,extended,00010023
+[Double-Edged Earrings-Slot 20]
+patch=1,EE,202CD960,extended,00010024
+[Moon Medal-Slot 21]
+patch=1,EE,202CD964,extended,00010027
+[Sun Medal-Slot 22]
+patch=1,EE,202CD968,extended,00010028
+[Armlet Of Accuracy-Slot 23]
+patch=1,EE,202CD96C,extended,0001002B
+[Armlet Of Strength-Slot 24]
+patch=1,EE,202CD970,extended,0001002C
+[Armlet Of Prowess-Slot 25]
+patch=1,EE,202CD974,extended,0001002D
+[Armlet Of Penetration-Slot 26]
+patch=1,EE,202CD978,extended,0001002E
+[Armlet Of Absorption-Slot 27]
+patch=1,EE,202CD97C,extended,0001002F
+[Armlet Of Consecution-Slot 28]
+patch=1,EE,202CD980,extended,00010030
+[Armlet Of Debilitation-Slot 29]
+patch=1,EE,202CD984,extended,00010031
+[Steel Armor-Slot 30]
+patch=1,EE,202CD988,extended,00010034
+[Bulletproof Vest-Slot 31]
+patch=1,EE,202CD98C,extended,00010035
+[Alchemy Armor-Slot 32]
+patch=1,EE,202CD990,extended,00010036
+[Alchemic Crystal-Slot 33]
+patch=1,EE,202CD994,extended,00010039
+[Tall Boots-Slot 34]
+patch=1,EE,202CD998,extended,0001003A
+[Glass Samurai-Slot 35]
+patch=1,EE,202CD99C,extended,0001003B
+[Grindstone-Slot 36]
+patch=1,EE,202CD9A0,extended,0001003E
+[Demon Fist-Slot 37]
+patch=1,EE,202CD9A4,extended,0001003F
+[Red Loincloth-Slot 38]
+patch=1,EE,202CD9A8,extended,00010040
+[White Loincloth-Slot 39]
+patch=1,EE,202CD9AC,extended,00010041
+[Ripped Loincloth-Slot 40]
+patch=1,EE,202CD9B0,extended,00010042
+[Bond Of Brotherhood-Slot 41]
+patch=1,EE,202CD9B4,extended,00010045
+[Cologne-Slot 42]
+patch=1,EE,202CD9B8,extended,00010046
+[Cloak-Slot 43]
+patch=1,EE,202CD9BC,extended,00010047
+[Amulet-Slot 44]
+patch=1,EE,202CD9C0,extended,00010048
+[Lucky Bag-Slot 45]
+patch=1,EE,202CD9C4,extended,00010049
+[Training Manual-Slot 46]
+patch=1,EE,202CD9C8,extended,0001004A
+[Brawling Guide-Slot 47]
+patch=1,EE,202CD9CC,extended,0001004D
+[Alchemy Guide-Slot 48]
+patch=1,EE,202CD9D0,extended,0001004E
+[Combo Guide-Slot 49]
+patch=1,EE,202CD9D4,extended,0001004F
+[Ultra Combo Guide-Slot 50]
+patch=1,EE,202CD9D8,extended,00010050
+[Flurry Guide-Slot 51]
+patch=1,EE,202CD9DC,extended,00010051
+

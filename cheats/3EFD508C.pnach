@@ -1,0 +1,26 @@
+gametitle=Gallop Racer 2003
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,003547CF
+[Infinite Stamina]
+patch=1,EE,204B2A10,extended,00180000
+[Always Low Time]
+patch=1,EE,204B2954,extended,00000000
+[Infinite Money]
+patch=1,EE,104098EC,extended,0000FFFF
+[Max Money]
+patch=1,EE,204098EC,extended,05F5E0FF
+[Quick Points Gain]
+patch=1,EE,104098F4,extended,0000FFFF
+[Max Points]
+patch=1,EE,204098F4,extended,05F5E0FF
+[>>> TRA Academy Max Test Score Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Week 1]
+patch=1,EE,10396838,extended,00000064
+[Week 2]
+patch=1,EE,1039683A,extended,00000064
+[Week 3]
+patch=1,EE,1039683C,extended,00000064
+[Week 4]
+patch=1,EE,10396840,extended,00000064
+

@@ -1,0 +1,580 @@
+gametitle=Dot.Hack-Part 4 Quarantine
+[Enable Code (Must Be On)]
+patch=1,EE,9012AE7C,extended,0C04C1E6
+[Infinite Item Usage]
+patch=1,EE,20178BD8,extended,00000000
+[Infinite Item Usage]
+patch=1,EE,20178BEC,extended,00000000
+[Extra Items]
+patch=1,EE,20178BE8,extended,00831821
+[Use Item Once For Max Item]
+patch=1,EE,20178BD8,extended,00000000
+[Use Item Once For Max Item]
+patch=1,EE,20178BE8,extended,24030063
+[Infinite Party Item Usage]
+patch=1,EE,E0022021,extended,0049F5C4
+[Infinite Party Item Usage]
+patch=1,EE,2049F5F0,extended,00000000
+[Infinite Party Item Usage]
+patch=1,EE,1049F5FE,extended,00001000
+[Extra Party Items]
+patch=1,EE,D049F5C4,extended,00002021
+[Extra Party Items]
+patch=1,EE,1049F5EC,extended,00000001
+[Infinite HP (All Characters-In Battle)]
+patch=1,EE,E002FA6C,extended,0042C258
+[Infinite HP (All Characters-In Battle)]
+patch=1,EE,2042C250,extended,86240074
+[Infinite HP (All Characters-In Battle)]
+patch=1,EE,2042C25C,extended,A6240070
+[Infinite SP (All Characters-In Battle)]
+patch=1,EE,E002202D,extended,0042C3C0
+[Infinite SP (All Characters-In Battle)]
+patch=1,EE,2042C3B8,extended,862A0076
+[Infinite SP (All Characters-In Battle)]
+patch=1,EE,2042C3D0,extended,A62A0072
+[Quick Exp Gain (All Characters)]
+patch=1,EE,D0485944,extended,00008514
+[Quick Exp Gain (All Characters)]
+patch=1,EE,20485948,extended,241303E7
+[Have All Party Members]
+cheat0_code = "20981870 FFFFFFFF
+[Can Call Any Party Member Anytime]
+cheat0_code = "20981874 FFFFFFFF
+[Have All Servers Accessible]
+patch=1,EE,20981884,extended,0000001F
+[Have All Desktops]
+patch=1,EE,20981888,extended,FFFFFFFF
+[Have All Desktops]
+cheat0_code = "2098188C FFFFFFFF
+[Have All BGM's]
+patch=1,EE,20981894,extended,FFFFFFFF
+[Have All BGM's]
+cheat0_code = "20981898 FFFFFFFF
+[Unlock All Movies]
+patch=1,EE,209818A0,extended,FFFFFFFF
+[Unlock All Movies]
+patch=1,EE,209818A4,extended,FFFFFFFF
+[Unlock All Movies]
+cheat0_code = "209818A8 FFFFFFFF
+[All Trades Approved With Only 1 Item Traded]
+patch=1,EE,D045D608,extended,00001821
+[All Trades Approved With Only 1 Item Traded]
+patch=1,EE,2045D614,extended,00000000
+[Buying Items From Stores Doesnt Decrease Gold]
+patch=1,EE,D0464900,extended,0000967F
+[Buying Items From Stores Doesnt Decrease Gold]
+patch=1,EE,2046490C,extended,00000000
+[Buying Items From Stores Increases Gold]
+patch=1,EE,D04648CC,extended,0000EB8C
+[Buying Items From Stores Increases Gold]
+patch=1,EE,204648DC,extended,02022021
+[Set Game Clear Status]
+patch=1,EE,D0987A7A,extended,00000003
+[Set Game Clear Status]
+patch=1,EE,00987A7A,extended,00000004
+[Never Infected]
+patch=1,EE,20985DBC,extended,00000000
+[Have All Virus Cores]
+patch=1,EE,4098034C,extended,00060001
+[Have All Virus Cores]
+patch=1,EE,63636363,extended,00000000
+[Have All Virus Cores]
+patch=1,EE,10980364,extended,00006363
+[Have All Grunty Foods]
+patch=1,EE,10980366,extended,00006363
+[Have All Grunty Foods]
+patch=1,EE,40980368,extended,00030001
+[Have All Grunty Foods]
+patch=1,EE,63636363,extended,00000000
+[Have All Grunty Foods]
+patch=1,EE,10980374,extended,00006363
+[Have All Event Items]
+patch=1,EE,10980376,extended,00000101
+[Have All Event Items]
+patch=1,EE,40980378,extended,00070001
+[Have All Event Items]
+patch=1,EE,01010101,extended,00000000
+[Have All Event Items]
+patch=1,EE,10980394,extended,00000101
+[Have All Event Items]
+patch=1,EE,00980465,extended,00000001
+[Have All Event Items]
+patch=1,EE,10980466,extended,00000101
+[Have All Event Items]
+patch=1,EE,20980468,extended,01010101
+[Have All Event Items]
+patch=1,EE,1098046C,extended,00000101
+[Have All Event Items]
+patch=1,EE,0098046E,extended,00000001
+[Have All Book Of 1000's]
+patch=1,EE,0098045D,extended,00000001
+[Have All Book Of 1000's]
+patch=1,EE,1098045E,extended,00000101
+[Have All Book Of 1000's]
+patch=1,EE,20980460,extended,01010101
+[Have All Book Of 1000's]
+patch=1,EE,00980464,extended,00000001
+[>>> Kite Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10986AE6,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0986AE8,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10986AE8,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10986AEC,extended,0000FFFF
+[Max Money]
+patch=1,EE,20986AEC,extended,0098967F
+[Max HP]
+patch=1,EE,10986AFC,extended,0000270F
+[Max SP]
+patch=1,EE,10986AFE,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20986AFC,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40986B00,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Mia Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10986BC2,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0986BC4,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10986BC4,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10986BC8,extended,0000FFFF
+[Max Money]
+patch=1,EE,20986BC8,extended,0098967F
+[Max HP]
+patch=1,EE,10986BD8,extended,0000270F
+[Max SP]
+patch=1,EE,10986BDA,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20986BD8,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40986BDC,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Orca Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10986C9E,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0986CA0,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10986CA0,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10986CA4,extended,0000FFFF
+[Max Money]
+patch=1,EE,20986CA4,extended,0098967F
+[Max HP]
+patch=1,EE,10986CB4,extended,0000270F
+[Max SP]
+patch=1,EE,10986CB6,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20986CB4,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40986CB8,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Marlo Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10986D7A,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0986D7C,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10986D7C,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10986D80,extended,0000FFFF
+[Max Money]
+patch=1,EE,20986D80,extended,0098967F
+[Max HP]
+patch=1,EE,10986D90,extended,0000270F
+[Max SP]
+patch=1,EE,10986D92,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20986D90,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40986D94,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Sanjuro Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10986E56,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0986E58,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10986E58,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10986E5C,extended,0000FFFF
+[Max Money]
+patch=1,EE,20986E5C,extended,0098967F
+[Max HP]
+patch=1,EE,10986E6C,extended,0000270F
+[Max SP]
+patch=1,EE,10986E6E,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20986E6C,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40986E70,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Nuke Usagimaru Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10986F32,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0986F34,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10986F34,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10986F38,extended,0000FFFF
+[Max Money]
+patch=1,EE,20986F38,extended,0098967F
+[Max HP]
+patch=1,EE,10986F48,extended,0000270F
+[Max SP]
+patch=1,EE,10986F4A,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20986F48,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40986F4C,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Balmung Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,1098700E,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0987010,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10987010,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10987014,extended,0000FFFF
+[Max Money]
+patch=1,EE,20987014,extended,0098967F
+[Max HP]
+patch=1,EE,10987024,extended,0000270F
+[Max SP]
+patch=1,EE,10987026,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20987024,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40987028,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Moonstone Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,109870EA,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D09870EC,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109870EC,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,109870F0,extended,0000FFFF
+[Max Money]
+patch=1,EE,209870F0,extended,0098967F
+[Max HP]
+patch=1,EE,10987100,extended,0000270F
+[Max SP]
+patch=1,EE,10987102,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20987100,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40987104,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Piros Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,109871C6,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D09871C8,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109871C8,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,109871CC,extended,0000FFFF
+[Max Money]
+patch=1,EE,209871CC,extended,0098967F
+[Max HP]
+patch=1,EE,109871DC,extended,0000270F
+[Max SP]
+patch=1,EE,109871DE,extended,000003E7
+[Max HP & SP]
+patch=1,EE,209871DC,extended,03E7270F
+[Max All Stats]
+patch=1,EE,409871E0,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Wiseman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,109872A2,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D09872A4,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109872A4,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,109872A8,extended,0000FFFF
+[Max Money]
+patch=1,EE,209872A8,extended,0098967F
+[Max HP]
+patch=1,EE,109872B8,extended,0000270F
+[Max SP]
+patch=1,EE,109872BA,extended,000003E7
+[Max HP & SP]
+patch=1,EE,209872B8,extended,03E7270F
+[Max All Stats]
+patch=1,EE,409872BC,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Elk Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,1098737E,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0987380,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10987380,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10987384,extended,0000FFFF
+[Max Money]
+patch=1,EE,20987384,extended,0098967F
+[Max HP]
+patch=1,EE,10987394,extended,0000270F
+[Max SP]
+patch=1,EE,10987396,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20987394,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40987398,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Natsume Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,1098745A,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D098745C,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,1098745C,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10987460,extended,0000FFFF
+[Max Money]
+patch=1,EE,20987460,extended,0098967F
+[Max HP]
+patch=1,EE,10987470,extended,0000270F
+[Max SP]
+patch=1,EE,10987472,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20987470,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40987474,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Rachel Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10987536,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0987538,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10987538,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,1098753C,extended,0000FFFF
+[Max Money]
+patch=1,EE,2098753C,extended,0098967F
+[Max HP]
+patch=1,EE,1098754C,extended,0000270F
+[Max SP]
+patch=1,EE,1098754E,extended,000003E7
+[Max HP & SP]
+patch=1,EE,2098754C,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40987550,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Gardenia Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10987612,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0987614,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10987614,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10987618,extended,0000FFFF
+[Max Money]
+patch=1,EE,20987618,extended,0098967F
+[Max HP]
+patch=1,EE,10987628,extended,0000270F
+[Max SP]
+patch=1,EE,1098762A,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20987628,extended,03E7270F
+[Max All Stats]
+patch=1,EE,4098762C,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Terajima Ryoko Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,109876EE,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D09876F0,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109876F0,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,109876F4,extended,0000FFFF
+[Max Money]
+patch=1,EE,209876F4,extended,0098967F
+[Max HP]
+patch=1,EE,10987704,extended,0000270F
+[Max SP]
+patch=1,EE,10987706,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20987704,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40987708,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> BlackRose Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,109877CA,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D09877CC,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109877CC,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,109877D0,extended,0000FFFF
+[Max Money]
+patch=1,EE,209877D0,extended,0098967F
+[Max HP]
+patch=1,EE,109877E0,extended,0000270F
+[Max SP]
+patch=1,EE,109877E2,extended,000003E7
+[Max HP & SP]
+patch=1,EE,209877E0,extended,03E7270F
+[Max All Stats]
+patch=1,EE,409877E4,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Mistral Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,109878A6,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D09878A8,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,109878A8,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,109878AC,extended,0000FFFF
+[Max Money]
+patch=1,EE,209878AC,extended,0098967F
+[Max HP]
+patch=1,EE,109878BC,extended,0000270F
+[Max SP]
+patch=1,EE,109878BE,extended,000003E7
+[Max HP & SP]
+patch=1,EE,209878BC,extended,03E7270F
+[Max All Stats]
+patch=1,EE,409878C0,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Helba Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10987982,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0987984,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10987984,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10987988,extended,0000FFFF
+[Max Money]
+patch=1,EE,20987988,extended,0098967F
+[Max HP]
+patch=1,EE,10987998,extended,0000270F
+[Max SP]
+patch=1,EE,1098799A,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20987998,extended,03E7270F
+[Max All Stats]
+patch=1,EE,4098799C,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Tsukasa Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,10988052,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0988054,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10988054,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10988058,extended,0000FFFF
+[Max Money]
+patch=1,EE,20988058,extended,0098967F
+[Max HP]
+patch=1,EE,10988068,extended,0000270F
+[Max SP]
+patch=1,EE,1098806A,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20988068,extended,03E7270F
+[Max All Stats]
+patch=1,EE,4098806C,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Subaru Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,1098812E,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D0988130,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,10988130,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10988134,extended,0000FFFF
+[Max Money]
+patch=1,EE,20988134,extended,0098967F
+[Max HP]
+patch=1,EE,10988144,extended,0000270F
+[Max SP]
+patch=1,EE,10988146,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20988144,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40988148,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+[>>> Sora Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 99]
+patch=1,EE,1098820A,extended,00000063
+[Quick Exp Gain]
+patch=1,EE,D098820C,extended,002003E7
+[Quick Exp Gain]
+patch=1,EE,1098820C,extended,000003E7
+[Quick Money Gain]
+patch=1,EE,10988210,extended,0000FFFF
+[Max Money]
+patch=1,EE,20988210,extended,0098967F
+[Max HP]
+patch=1,EE,10988220,extended,0000270F
+[Max SP]
+patch=1,EE,10988222,extended,000003E7
+[Max HP & SP]
+patch=1,EE,20988220,extended,03E7270F
+[Max All Stats]
+patch=1,EE,40988224,extended,00080001
+[Max All Stats]
+patch=1,EE,03E703E7,extended,00000000
+

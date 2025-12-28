@@ -1,0 +1,8 @@
+gametitle=[SLUS-20138] Rayman 2-Revolution
+[Enable Code (Must Be On)]
+patch=1,EE,901C8484,extended,0C089313
+[Infinite Health]
+patch=1,EE,201F3544,extended,00000000
+[Infinite Air]
+patch=1,EE,203841A0,extended,43960000
+

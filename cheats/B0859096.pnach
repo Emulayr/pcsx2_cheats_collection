@@ -1,0 +1,358 @@
+gametitle=Baldur's Gate-Dark Alliance 2
+[Enable Code (Must Be On)]
+patch=1,EE,902D2D34,extended,0C0B7EFD
+[P1 Press {L1}+{R1} When Paused For Debug Menu]
+patch=1,EE,D04D0602,extended,0000F3FF
+[P1 Press {L1}+{R1} When Paused For Debug Menu]
+patch=1,EE,0035FAB8,extended,00000068
+[P2 Press {L1}+{R1} When Paused For Debug Menu]
+patch=1,EE,D04D0702,extended,0000FFFE
+[P2 Press {L1}+{R1} When Paused For Debug Menu]
+patch=1,EE,0035FAB8,extended,00000068
+[Invulnerabilty On (Both Players)]
+patch=1,EE,2035F7AC,extended,00000001
+[Unlock Extreme Mode/Characters]
+patch=1,EE,2044AB60,extended,0000001D
+[>>> Unlock Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Drizzt Do'Urden]
+patch=1,EE,20313F7C,extended,00000000
+[Artemis Enteri]
+patch=1,EE,20313F94,extended,00000000
+[Level 99 P1]
+patch=1,EE,1055FFDC,extended,00006363
+[Quick Exp Gain P1]
+patch=1,EE,1055FFE0,extended,0000FFFF
+[Max Exp P1]
+patch=1,EE,2055FFE0,extended,05F5E100
+[Max Strength P1]
+patch=1,EE,2055FFFC,extended,00000063
+[Max Dexterity P1]
+patch=1,EE,20560000,extended,00000063
+[Max Constitution P1]
+patch=1,EE,20560004,extended,00000063
+[Max Intelligence P1]
+patch=1,EE,20560008,extended,00000063
+[Max Wisdom P1]
+patch=1,EE,2056000C,extended,00000063
+[Max Charisma P1]
+patch=1,EE,20560010,extended,00000063
+[Infinite Health P1]
+patch=1,EE,2056002C,extended,461C3000
+[Max Health P1]
+patch=1,EE,20560030,extended,461C3000
+[Infinite Magic P1]
+patch=1,EE,20560044,extended,461C3000
+[Max Magic P1]
+patch=1,EE,20560048,extended,461C3000
+[Infinite Money P1]
+patch=1,EE,10560064,extended,0000FFFF
+[Max Money P1]
+patch=1,EE,20560064,extended,05F5E0FF
+[Infinite Spell Points P1]
+patch=1,EE,20560068,extended,00000063
+[Max All Skills P1]
+patch=1,EE,4056006C,extended,00090001
+[Max All Skills P1]
+patch=1,EE,05050505,extended,00000000
+[No Weight Carried P1]
+patch=1,EE,205600EC,extended,00000000
+[Level 99 P2]
+patch=1,EE,1056630C,extended,00006363
+[Quick Exp Gain P2]
+patch=1,EE,10566310,extended,0000FFFF
+[Max Exp P2]
+patch=1,EE,20566310,extended,05F5E100
+[Max Strength P2]
+patch=1,EE,2056632C,extended,00000063
+[Max Dexterity P2]
+patch=1,EE,20566330,extended,00000063
+[Max Constitution P2]
+patch=1,EE,20566334,extended,00000063
+[Max Intelligence P2]
+patch=1,EE,20566338,extended,00000063
+[Max Wisdom P2]
+patch=1,EE,2056633C,extended,00000063
+[Max Charisma P2]
+patch=1,EE,20566340,extended,00000063
+[Infinite Health P2]
+patch=1,EE,2056635C,extended,461C3000
+[Max Health P2]
+patch=1,EE,20566360,extended,461C3000
+[Infinite Magic P2]
+patch=1,EE,20566374,extended,461C3000
+[Max Magic P2]
+patch=1,EE,20566378,extended,461C3000
+[Infinite Money P2]
+patch=1,EE,10566394,extended,0000FFFF
+[Max Money P2]
+patch=1,EE,20566394,extended,05F5E0FF
+[Infinite Spell Points P2]
+patch=1,EE,20566398,extended,00000063
+[Max All Skills P2]
+patch=1,EE,4056639C,extended,00090001
+[Max All Skills P2]
+patch=1,EE,05056835,extended,00000000
+[No Weight Carried P2]
+patch=1,EE,2056641C,extended,00000000
+[>>> P1 Max Magic Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,20560D24,extended,00000009
+[Slot 2]
+patch=1,EE,20560D3C,extended,00000009
+[Slot 3]
+patch=1,EE,20560D54,extended,00000009
+[Slot 4]
+patch=1,EE,20560D6C,extended,00000009
+[Slot 5]
+patch=1,EE,20560D84,extended,00000009
+[Slot 6]
+patch=1,EE,20560D9C,extended,00000009
+[Slot 7]
+patch=1,EE,20560DB4,extended,00000009
+[Slot 8]
+patch=1,EE,20560DCC,extended,00000009
+[Slot 9]
+patch=1,EE,20560DE4,extended,00000009
+[Slot 10]
+patch=1,EE,20560DFC,extended,00000009
+[Slot 11]
+patch=1,EE,20560E14,extended,00000009
+[Slot 12]
+patch=1,EE,20560E2C,extended,00000009
+[Slot 13]
+patch=1,EE,20560E44,extended,00000009
+[Slot 14]
+patch=1,EE,20560E5C,extended,00000009
+[Slot 15]
+patch=1,EE,20560E74,extended,00000009
+[Slot 16]
+patch=1,EE,20560E8C,extended,00000009
+[Slot 17]
+patch=1,EE,20560EA4,extended,00000009
+[Slot 18]
+patch=1,EE,20560EBC,extended,00000009
+[Slot 19]
+patch=1,EE,20560ED4,extended,00000009
+[Slot 20]
+patch=1,EE,20560EEC,extended,00000009
+[Slot 21]
+patch=1,EE,20560F04,extended,00000009
+[Slot 22]
+patch=1,EE,20560F1C,extended,00000009
+[Slot 23]
+patch=1,EE,20560F34,extended,00000009
+[Slot 24]
+patch=1,EE,20560F4C,extended,00000009
+[Slot 25]
+patch=1,EE,20560F64,extended,00000009
+[Slot 26]
+patch=1,EE,20560F7C,extended,00000009
+[Slot 27]
+patch=1,EE,20560F94,extended,00000009
+[Slot 28]
+patch=1,EE,20560FAC,extended,00000009
+[Slot 29]
+patch=1,EE,20560FC4,extended,00000009
+[Slot 30]
+patch=1,EE,20560FDC,extended,00000009
+[Slot 31]
+patch=1,EE,20560FF4,extended,00000009
+[Slot 32]
+patch=1,EE,2056100C,extended,00000009
+[Slot 33]
+patch=1,EE,20561024,extended,00000009
+[Slot 34]
+patch=1,EE,2056103C,extended,00000009
+[Slot 35]
+patch=1,EE,20561054,extended,00000009
+[Slot 36]
+patch=1,EE,2056106C,extended,00000009
+[Slot 37]
+patch=1,EE,20561084,extended,00000009
+[Slot 38]
+patch=1,EE,2056109C,extended,00000009
+[Slot 39]
+patch=1,EE,205610B4,extended,00000009
+[Slot 40]
+patch=1,EE,205610CC,extended,00000009
+[Slot 41]
+patch=1,EE,205610E4,extended,00000009
+[Slot 42]
+patch=1,EE,205610FC,extended,00000009
+[Slot 43]
+patch=1,EE,20561114,extended,00000009
+[Slot 44]
+patch=1,EE,2056112C,extended,00000009
+[Slot 45]
+patch=1,EE,20561144,extended,00000009
+[Slot 46]
+patch=1,EE,2056115C,extended,00000009
+[Slot 47]
+patch=1,EE,20561174,extended,00000009
+[Slot 48]
+patch=1,EE,2056118C,extended,00000009
+[Slot 49]
+patch=1,EE,205611A4,extended,00000009
+[Slot 50]
+patch=1,EE,205611BC,extended,00000009
+[Slot 51]
+patch=1,EE,205611D4,extended,00000009
+[Slot 52]
+patch=1,EE,205611EC,extended,00000009
+[Slot 53]
+patch=1,EE,20561204,extended,00000009
+[Slot 54]
+patch=1,EE,2056121C,extended,00000009
+[Slot 55]
+patch=1,EE,20561234,extended,00000009
+[Slot 56]
+patch=1,EE,2056124C,extended,00000009
+[Slot 57]
+patch=1,EE,20561264,extended,00000009
+[Slot 58]
+patch=1,EE,2056127C,extended,00000009
+[Slot 59]
+patch=1,EE,20561294,extended,00000009
+[Slot 60]
+patch=1,EE,205612AC,extended,00000009
+[Slot 61]
+patch=1,EE,205612C4,extended,00000009
+[Slot 62]
+patch=1,EE,205612DC,extended,00000009
+[Slot 63]
+patch=1,EE,205612F4,extended,00000009
+[Slot 64]
+patch=1,EE,2056130C,extended,00000009
+[>>> P2 Max Magic Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Slot 1]
+patch=1,EE,20567054,extended,00000009
+[Slot 2]
+patch=1,EE,2056706C,extended,00000009
+[Slot 3]
+patch=1,EE,20567084,extended,00000009
+[Slot 4]
+patch=1,EE,2056709C,extended,00000009
+[Slot 5]
+patch=1,EE,205670B4,extended,00000009
+[Slot 6]
+patch=1,EE,205670CC,extended,00000009
+[Slot 7]
+patch=1,EE,205670E4,extended,00000009
+[Slot 8]
+patch=1,EE,205670FC,extended,00000009
+[Slot 9]
+patch=1,EE,20567114,extended,00000009
+[Slot 10]
+patch=1,EE,2056712C,extended,00000009
+[Slot 11]
+patch=1,EE,20567144,extended,00000009
+[Slot 12]
+patch=1,EE,2056715C,extended,00000009
+[Slot 13]
+patch=1,EE,20567174,extended,00000009
+[Slot 14]
+patch=1,EE,2056718C,extended,00000009
+[Slot 15]
+patch=1,EE,205671A4,extended,00000009
+[Slot 16]
+patch=1,EE,205671BC,extended,00000009
+[Slot 17]
+patch=1,EE,205671D4,extended,00000009
+[Slot 18]
+patch=1,EE,205671EC,extended,00000009
+[Slot 19]
+patch=1,EE,20567204,extended,00000009
+[Slot 20]
+patch=1,EE,2056721C,extended,00000009
+[Slot 21]
+patch=1,EE,20567234,extended,00000009
+[Slot 22]
+patch=1,EE,2056724C,extended,00000009
+[Slot 23]
+patch=1,EE,20567264,extended,00000009
+[Slot 24]
+patch=1,EE,2056727C,extended,00000009
+[Slot 25]
+patch=1,EE,20567294,extended,00000009
+[Slot 26]
+patch=1,EE,205672AC,extended,00000009
+[Slot 27]
+patch=1,EE,205672C4,extended,00000009
+[Slot 28]
+patch=1,EE,205672DC,extended,00000009
+[Slot 29]
+patch=1,EE,205672F4,extended,00000009
+[Slot 30]
+patch=1,EE,2056730C,extended,00000009
+[Slot 31]
+patch=1,EE,20567324,extended,00000009
+[Slot 32]
+patch=1,EE,2056733C,extended,00000009
+[Slot 33]
+patch=1,EE,20567354,extended,00000009
+[Slot 34]
+patch=1,EE,2056736C,extended,00000009
+[Slot 35]
+patch=1,EE,20567384,extended,00000009
+[Slot 36]
+patch=1,EE,2056739C,extended,00000009
+[Slot 37]
+patch=1,EE,205673B4,extended,00000009
+[Slot 38]
+patch=1,EE,205673CC,extended,00000009
+[Slot 39]
+patch=1,EE,205673E4,extended,00000009
+[Slot 40]
+patch=1,EE,205673FC,extended,00000009
+[Slot 41]
+patch=1,EE,20567414,extended,00000009
+[Slot 42]
+patch=1,EE,2056742C,extended,00000009
+[Slot 43]
+patch=1,EE,20567444,extended,00000009
+[Slot 44]
+patch=1,EE,2056745C,extended,00000009
+[Slot 45]
+patch=1,EE,20567474,extended,00000009
+[Slot 46]
+patch=1,EE,2056748C,extended,00000009
+[Slot 47]
+patch=1,EE,205674A4,extended,00000009
+[Slot 48]
+patch=1,EE,205674BC,extended,00000009
+[Slot 49]
+patch=1,EE,205674D4,extended,00000009
+[Slot 50]
+patch=1,EE,205674EC,extended,00000009
+[Slot 51]
+patch=1,EE,20567504,extended,00000009
+[Slot 52]
+patch=1,EE,2056751C,extended,00000009
+[Slot 53]
+patch=1,EE,20567534,extended,00000009
+[Slot 54]
+patch=1,EE,2056754C,extended,00000009
+[Slot 55]
+patch=1,EE,20567564,extended,00000009
+[Slot 56]
+patch=1,EE,2056757C,extended,00000009
+[Slot 57]
+patch=1,EE,20567594,extended,00000009
+[Slot 58]
+patch=1,EE,205675AC,extended,00000009
+[Slot 59]
+patch=1,EE,205675C4,extended,00000009
+[Slot 60]
+patch=1,EE,205675DC,extended,00000009
+[Slot 61]
+patch=1,EE,205675F4,extended,00000009
+[Slot 62]
+patch=1,EE,2056760C,extended,00000009
+[Slot 63]
+patch=1,EE,20567624,extended,00000009
+[Slot 64]
+patch=1,EE,2056763C,extended,00000009
+

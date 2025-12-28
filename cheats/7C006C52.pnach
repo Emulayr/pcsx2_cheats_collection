@@ -1,0 +1,24 @@
+gametitle=Sopranos-Road To Respect, The
+[Enable Code (Must Be On)]
+patch=1,EE,90398E4C,extended,0C0EBF8B
+[Infinite Health]
+patch=1,EE,2029F954,extended,8E420020
+[Infinite Health]
+patch=1,EE,2029F960,extended,240101F4
+[Infinite Health]
+patch=1,EE,2029F964,extended,A441000E
+[Never Reload]
+patch=1,EE,202E67FC,extended,00000000
+[Never Reload With Max Clip]
+patch=1,EE,202E67EC,extended,24020063
+[Infinite Money]
+patch=1,EE,104AA140,extended,0000FFFF
+[Max Money]
+patch=1,EE,204AA140,extended,05F5E0FF
+[Max Respect]
+patch=1,EE,204AA144,extended,00000064
+[Shooting Weapon Doesnt Decrease Respect]
+patch=1,EE,20108814,extended,00000000
+[Unlock All Concept Art]
+cheat0_code = "204AA7A0 FFFFFFFF
+

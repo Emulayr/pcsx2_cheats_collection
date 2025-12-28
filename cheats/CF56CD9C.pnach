@@ -1,0 +1,66 @@
+gametitle=Lord Of The Rings-Fellowship Of The Rings, The
+[Enable Code (Must Be On)]
+patch=1,EE,90362B0C,extended,0C0DF676
+[Infinite Health]
+patch=1,EE,200C0220,extended,3C010039
+[Infinite Health]
+patch=1,EE,200C0224,extended,8C2112DC
+[Infinite Health]
+patch=1,EE,200C0228,extended,10200008
+[Infinite Health]
+patch=1,EE,200C022C,extended,3C0342C8
+[Infinite Health]
+patch=1,EE,200C0230,extended,8C2100C8
+[Infinite Health]
+patch=1,EE,200C0234,extended,10200005
+[Infinite Health]
+patch=1,EE,200C0238,extended,00000000
+[Infinite Health]
+patch=1,EE,200C023C,extended,8C21038C
+[Infinite Health]
+patch=1,EE,200C0240,extended,10200002
+[Infinite Health]
+patch=1,EE,200C0244,extended,00000000
+[Infinite Health]
+patch=1,EE,200C0248,extended,AC2300A4
+[Infinite Health]
+patch=1,EE,200C024C,extended,03E00008
+[Infinite Health]
+patch=1,EE,200C0250,extended,00000000
+[Infinite Health]
+patch=1,EE,20362B24,extended,08030088
+[Infinite Item Usage]
+patch=1,EE,20280A24,extended,00000000
+[Extra Items]
+patch=1,EE,20280A1C,extended,00511021
+[Super Small Characters]
+patch=1,EE,2040047C,extended,3E000000
+[Super Small Characters]
+patch=1,EE,2040048C,extended,3E000000
+[Super Small Characters]
+patch=1,EE,2040049C,extended,3E000000
+[Small Characters]
+patch=1,EE,2040047C,extended,3F000000
+[Small Characters]
+patch=1,EE,2040048C,extended,3F000000
+[Small Characters]
+patch=1,EE,2040049C,extended,3F000000
+[Large Characters]
+patch=1,EE,2040047C,extended,40000000
+[Large Characters]
+patch=1,EE,2040048C,extended,40000000
+[Large Characters]
+patch=1,EE,2040049C,extended,40000000
+[Super Large Characters]
+patch=1,EE,2040047C,extended,40400000
+[Super Large Characters]
+patch=1,EE,2040048C,extended,40400000
+[Super Large Characters]
+patch=1,EE,2040049C,extended,40400000
+[Ultra Large Characters]
+patch=1,EE,2040047C,extended,40800000
+[Ultra Large Characters]
+patch=1,EE,2040048C,extended,40800000
+[Ultra Large Characters]
+patch=1,EE,2040049C,extended,40800000
+

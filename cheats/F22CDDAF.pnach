@@ -1,0 +1,218 @@
+gametitle=Gradius III & IV
+[Enable Code (Must Be On)]
+patch=1,EE,9023EAD0,extended,0C084CF7
+[>>> Gradius III Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Invincibility (Both Players)]
+patch=1,EE,2013C6E4,extended,00000000
+[Invincibility (Both Players)]
+patch=1,EE,2013C6EC,extended,00000000
+[Infinite Lives P1]
+patch=1,EE,11001050,extended,00000063
+[Quick Score Gain P1]
+patch=1,EE,11001054,extended,00009999
+[Max Score P1]
+patch=1,EE,21001054,extended,09999999
+[P1 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,D04FECA8,extended,00000101
+[P1 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,1100106A,extended,00000001
+[P1 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,D04FECA8,extended,00000104
+[P1 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,1100106A,extended,00000002
+[P1 Press {SELECT}+{R2} For Level 3 Powerup]
+patch=1,EE,D04FECA8,extended,00000102
+[P1 Press {SELECT}+{R2} For Level 3 Powerup]
+patch=1,EE,1100106A,extended,00000003
+[P1 Press {SELECT}+{R1} For Level 4 Powerup]
+patch=1,EE,D04FECA8,extended,00000108
+[P1 Press {SELECT}+{R1} For Level 4 Powerup]
+patch=1,EE,1100106A,extended,00000004
+[P1 Press {SELECT}+{L1}+{L2} For Level 5 Powerup]
+patch=1,EE,D04FECA8,extended,00000105
+[P1 Press {SELECT}+{L1}+{L2} For Level 5 Powerup]
+patch=1,EE,1100106A,extended,00000005
+[P1 Press {SELECT}+{R1}+{R2} For Level 6 Powerup]
+patch=1,EE,D04FECA8,extended,0000010A
+[P1 Press {SELECT}+{R1}+{R2} For Level 6 Powerup]
+patch=1,EE,1100106A,extended,00000006
+[P1 Press {SELECT}+{L1}+{L1}+{R1}+{R2} For Level 7 Powerup]
+patch=1,EE,D04FECA8,extended,0000010F
+[P1 Press {SELECT}+{L1}+{L1}+{R1}+{R2} For Level 7 Powerup]
+patch=1,EE,1100106A,extended,00000007
+[>>> P1 Speedup Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1]
+patch=1,EE,01001069,extended,00000001
+[Level 2]
+patch=1,EE,01001069,extended,00000002
+[Level 3]
+patch=1,EE,01001069,extended,00000003
+[Level 4]
+patch=1,EE,01001069,extended,00000004
+[Level 5]
+patch=1,EE,01001069,extended,00000005
+[Infinite Lives P2]
+patch=1,EE,110010D0,extended,00000003
+[Quick Score Gain P2]
+patch=1,EE,110010D4,extended,00009999
+[Max Score P2]
+patch=1,EE,210010D4,extended,09999999
+[P2 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,D04FECAC,extended,00000101
+[P2 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,110010EA,extended,00000001
+[P2 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,D04FECAC,extended,00000104
+[P2 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,110010EA,extended,00000002
+[P2 Press {SELECT}+{R2} For Level 3 Powerup]
+patch=1,EE,D04FECAC,extended,00000102
+[P2 Press {SELECT}+{R2} For Level 3 Powerup]
+patch=1,EE,110010EA,extended,00000003
+[P2 Press {SELECT}+{R1} For Level 4 Powerup]
+patch=1,EE,D04FECAC,extended,00000108
+[P2 Press {SELECT}+{R1} For Level 4 Powerup]
+patch=1,EE,110010EA,extended,00000004
+[P2 Press {SELECT}+{L1}+{L2} For Level 5 Powerup]
+patch=1,EE,D04FECAC,extended,00000105
+[P2 Press {SELECT}+{L1}+{L2} For Level 5 Powerup]
+patch=1,EE,110010EA,extended,00000005
+[P2 Press {SELECT}+{R1}+{R2} For Level 6 Powerup]
+patch=1,EE,D04FECAC,extended,0000010A
+[P2 Press {SELECT}+{R1}+{R2} For Level 6 Powerup]
+patch=1,EE,110010EA,extended,00000006
+[P2 Press {SELECT}+{L1}+{L1}+{R1}+{R2} For Level 7 Powerup]
+patch=1,EE,D04FECAC,extended,0000010F
+[P2 Press {SELECT}+{L1}+{L1}+{R1}+{R2} For Level 7 Powerup]
+patch=1,EE,110010EA,extended,00000007
+[>>> P2 Speedup Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1]
+patch=1,EE,010010E9,extended,00000001
+[Level 2]
+patch=1,EE,010010E9,extended,00000002
+[Level 3]
+patch=1,EE,010010E9,extended,00000003
+[Level 4]
+patch=1,EE,010010E9,extended,00000004
+[Level 5]
+patch=1,EE,010010E9,extended,00000005
+[Unlock All Stages (Stage Select)]
+patch=1,EE,0088D774,extended,0000002A
+[>>> Unlock Extra Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Cube Attack]
+patch=1,EE,0088D7E3,extended,00000001
+[Gradius]
+patch=1,EE,0088D775,extended,00000001
+[Salamander]
+patch=1,EE,0088D776,extended,00000001
+[Extra Edit]
+patch=1,EE,0088D7E1,extended,00000001
+[>>> Gradius IV Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Lives P1]
+patch=1,EE,00896008,extended,00000003
+[Quick Score Gain P1]
+patch=1,EE,10896004,extended,0000FFFF
+[Max Score P1]
+patch=1,EE,20896004,extended,05F5E0FF
+[Infinite Lives P2]
+patch=1,EE,0089601C,extended,00000003
+[Quick Score Gain P2]
+patch=1,EE,10896018,extended,0000FFFF
+[Max Score P2]
+patch=1,EE,20896018,extended,05F5E0FF
+[P1 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,D0892C16,extended,00000101
+[P1 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,10896042,extended,00000001
+[P1 Press {SELECT}+{L1} For Level 2 Powerup]
+patch=1,EE,D0892C16,extended,00000104
+[P1 Press {SELECT}+{L1} For Level 2 Powerup]
+patch=1,EE,10896042,extended,00000002
+[P1 Press {SELECT}+{R2} For Level 3 Powerup]
+patch=1,EE,D0892C16,extended,00000102
+[P1 Press {SELECT}+{R2} For Level 3 Powerup]
+patch=1,EE,10896042,extended,00000003
+[P1 Press {SELECT}+{R1} For Level 4 Powerup]
+patch=1,EE,D0892C16,extended,00000108
+[P1 Press {SELECT}+{R1} For Level 4 Powerup]
+patch=1,EE,10896042,extended,00000004
+[P1 Press {SELECT}+{L1}+{L2} For Level 5 Powerup]
+patch=1,EE,D0892C16,extended,00000105
+[P1 Press {SELECT}+{L1}+{L2} For Level 5 Powerup]
+patch=1,EE,10896042,extended,00000005
+[P1 Press {SELECT}+{R1}+{R2} For Level 6 Powerup]
+patch=1,EE,D0892C16,extended,0000010A
+[P1 Press {SELECT}+{R1}+{R2} For Level 6 Powerup]
+patch=1,EE,10896042,extended,00000006
+[P2 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,D0892C1A,extended,00000101
+[P2 Press {SELECT}+{L2} For Level 1 Powerup]
+patch=1,EE,10896042,extended,00000001
+[P2 Press {SELECT}+{L1} For Level 2 Powerup]
+patch=1,EE,D0892C1A,extended,00000104
+[P2 Press {SELECT}+{L1} For Level 2 Powerup]
+patch=1,EE,10896042,extended,00000002
+[P2 Press {SELECT}+{R2} For Level 3 Powerup]
+patch=1,EE,D0892C1A,extended,00000102
+[P2 Press {SELECT}+{R2} For Level 3 Powerup]
+patch=1,EE,10896042,extended,00000003
+[P2 Press {SELECT}+{R1} For Level 4 Powerup]
+patch=1,EE,D0892C1A,extended,00000108
+[P2 Press {SELECT}+{R1} For Level 4 Powerup]
+patch=1,EE,10896042,extended,00000004
+[P2 Press {SELECT}+{L1}+{L2} For Level 5 Powerup]
+patch=1,EE,D0892C1A,extended,00000105
+[P2 Press {SELECT}+{L1}+{L2} For Level 5 Powerup]
+patch=1,EE,10896042,extended,00000005
+[P2 Press {SELECT}+{R1}+{R2} For Level 6 Powerup]
+patch=1,EE,D0892C1A,extended,0000010A
+[P2 Press {SELECT}+{R1}+{R2} For Level 6 Powerup]
+patch=1,EE,10896042,extended,00000006
+[Unlock Stage Select Mode]
+patch=1,EE,0089413A,extended,00000001
+[Pause For Hit Disp On/Off]
+patch=1,EE,0089413A,extended,00000002
+[Unlock Stage Select Mode & Pause For Hit Disp On/Off]
+patch=1,EE,0089413A,extended,00000003
+[Unlock All Stages (Stage Select)]
+patch=1,EE,00894138,extended,00000008
+[>>> Both Player Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Lives]
+patch=1,EE,20185958,extended,00000000
+[Extra Lives]
+patch=1,EE,1018594C,extended,00000001
+[Invincibility]
+patch=1,EE,101A782A,extended,00001000
+[Max Power Up/Immune To Bullets/Enemies]
+patch=1,EE,E0030000,extended,00896142
+[Max Power Up/Immune To Bullets/Enemies]
+patch=1,EE,20896140,extended,04050400
+[Max Power Up/Immune To Bullets/Enemies]
+patch=1,EE,20896150,extended,0000000A
+[Max Power Up/Immune To Bullets/Enemies]
+patch=1,EE,10896154,extended,00000028
+[>>> Speedup Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1]
+patch=1,EE,00896142,extended,00000001
+[Level 2]
+patch=1,EE,00896142,extended,00000002
+[Level 3]
+patch=1,EE,00896142,extended,00000003
+[Level 4]
+patch=1,EE,00896142,extended,00000004
+[Level 5]
+patch=1,EE,00896142,extended,00000005
+[Max Power Up]
+patch=1,EE,E0020000,extended,00896142
+[Max Power Up]
+patch=1,EE,20896140,extended,04050400
+[Max Power Up]
+patch=1,EE,10896154,extended,00000008
+

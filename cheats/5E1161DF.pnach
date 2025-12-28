@@ -1,0 +1,32 @@
+gametitle=Commandos Strike Force
+[Enable Code (Must Be On)]
+patch=1,EE,9011B4C0,extended,0C0451BC
+[Infinite Health]
+patch=1,EE,20281968,extended,240207D0
+[Infinite Health]
+patch=1,EE,2028196C,extended,AC820008
+[Infinite Stamina]
+patch=1,EE,20282978,extended,00000000
+[Infinite Primary Ammo]
+patch=1,EE,20255908,extended,00000000
+[Max Infinite Primary Ammo]
+patch=1,EE,20255904,extended,24030063
+[Extra Primary Ammo]
+patch=1,EE,20255904,extended,00651821
+[Infinite Secondary Ammo]
+patch=1,EE,20255938,extended,00000000
+[Max Infinite Secondary Ammo]
+patch=1,EE,20255934,extended,24030063
+[Extra Secondary Ammo]
+patch=1,EE,20255934,extended,00651821
+[Never Reload/Infinite Grenades]
+patch=1,EE,202505B8,extended,00000000
+[Never Reload With Max Clip/Grenades]
+patch=1,EE,202505B4,extended,24020063
+[Infinite Health Packs]
+patch=1,EE,2025138C,extended,00000000
+[Max Health Packs]
+patch=1,EE,20251388,extended,24020063
+[Extra Health Packs]
+patch=1,EE,10251388,extended,00000001
+

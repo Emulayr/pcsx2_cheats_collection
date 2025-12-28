@@ -1,0 +1,12 @@
+gametitle=Fisherman Bass Club
+[Enable Code (Must Be On)]
+patch=1,EE,90116F2C,extended,0C048BF2
+[Infinite Quiz Time]
+patch=1,EE,104AEACA,extended,00000225
+[Press {L1}+{SELECT} For Next Quiz Question]
+patch=1,EE,D044EF42,extended,0000FBFE
+[Press {L1}+{SELECT} For Next Quiz Question]
+patch=1,EE,104AEACC,extended,00000040
+[Have All Challenges/Tournaments Completed]
+cheat0_code = "20492134 FFFFFFFF
+

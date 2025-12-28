@@ -1,0 +1,10 @@
+gametitle=[SLUS-20341] Woody Woodpecker
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0012C2E7
+[Infinite Lives]
+patch=1,EE,10920A7C,extended,0000000A
+[Max Money]
+patch=1,EE,10920A80,extended,0000270F
+[Infinite Special Movies]
+patch=1,EE,10920A84,extended,00000063
+

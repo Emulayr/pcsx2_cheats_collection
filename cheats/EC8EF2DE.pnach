@@ -1,0 +1,14 @@
+gametitle=[SLUS-21277] Nickelodeon Barnyard
+[Enable Code (Must Be On)]
+patch=1,EE,904B2470,extended,00832021
+[Max Gopher Bucks]
+patch=1,EE,20EA25E0,extended,0000270F
+[Max Gopher Bucks]
+patch=1,EE,20EA25E4,extended,0000270F
+[Infinite Stamina]
+patch=1,EE,20EA25EC,extended,00000000
+[Infinite Milk Supply]
+patch=1,EE,20421088,extended,00000000
+[Unlock All Bonus/Antics]
+cheat0_code = "20C615BC FFFFFFFF
+

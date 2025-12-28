@@ -1,0 +1,10 @@
+gametitle=Tak And The Power Of Juju
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0036D3BF
+[Infinite Health]
+patch=1,EE,201BBBA8,extended,3C013F80
+[Infinite Health]
+patch=1,EE,201BBBAC,extended,AE410298
+[Infinite Orange Feathers]
+patch=1,EE,20434600,extended,0000270F
+

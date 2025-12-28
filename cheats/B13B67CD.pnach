@@ -1,0 +1,32 @@
+gametitle=Batman Vengeance
+[Enable Code (Must Be On)]
+patch=1,EE,F0200008,extended,0024298F
+[Unlock All Levels]
+patch=1,EE,008470C0,extended,00000017
+[Have All Items]
+cheat0_code = "2084713C FFFFFFFF
+[Unlock All Movies]
+patch=1,EE,10847144,extended,0000FFFF
+[Have All Cheats]
+patch=1,EE,10847146,extended,0000FFFF
+[Max Level Scores]
+patch=1,EE,40847148,extended,00030001
+[Max Level Scores]
+patch=1,EE,0A0A0A0A,extended,00000000
+[Infinite Health]
+patch=1,EE,0089E35A,extended,000000C8
+[Infinite Batarangs]
+patch=1,EE,1089E3A6,extended,0000000F
+[Infinite Electric Batarangs]
+patch=1,EE,1089E3A8,extended,0000000F
+[Infinite Stunners]
+patch=1,EE,1089E3AA,extended,0000000F
+[Infinite Nets]
+patch=1,EE,1089E3AC,extended,0000000F
+[Infinite Remote Charges]
+patch=1,EE,1089E3AE,extended,0000000F
+[Infinite Flash Bombs]
+patch=1,EE,1089E3B0,extended,0000000F
+[Infinite Batcuffs]
+patch=1,EE,1089E3B2,extended,0000000F
+

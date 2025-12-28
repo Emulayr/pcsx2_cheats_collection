@@ -1,0 +1,1138 @@
+gametitle=X-Men III-The Official Game
+[Enable Code (Must Be On)]
+patch=1,EE,904309D8,extended,00832021
+[Invulnerable]
+patch=1,EE,205B99F8,extended,00000001
+[Infinite Mission Time]
+patch=1,EE,202A1A88,extended,00000000
+[Infinite Danger Room Time]
+patch=1,EE,202A1AB4,extended,00000000
+[Enemies Cant Hit You]
+patch=1,EE,202F8798,extended,03E00008
+[Enemies Cant Hit You]
+patch=1,EE,202F879C,extended,00000000
+[>>> Profile 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Costume Modifier Codes]
+[Wolverine-Costume 1]
+patch=1,EE,005A8DD4,extended,00000000
+[Wolverine-Costume 2]
+patch=1,EE,005A8DD4,extended,00000001
+[Wolverine-Costume 3]
+patch=1,EE,005A8DD4,extended,00000002
+[Iceman-Costume 1]
+patch=1,EE,005A8DD5,extended,00000000
+[Iceman-Costume 2]
+patch=1,EE,005A8DD5,extended,00000001
+[Iceman-Costume 3]
+patch=1,EE,005A8DD5,extended,00000002
+[Nightcrawler-Costume 1]
+patch=1,EE,005A8DD6,extended,00000000
+[Nightcrawler-Costume 2]
+patch=1,EE,005A8DD6,extended,00000001
+[Nightcrawler-Costume 3]
+patch=1,EE,005A8DD6,extended,00000002
+[>>> Wolverine Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A8DD7,extended,00000005
+[Max Strength]
+patch=1,EE,005A8DD8,extended,00000005
+[Max Blocking]
+patch=1,EE,005A8DD9,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A8DDA,extended,00000005
+[Max Fury]
+patch=1,EE,005A8DDB,extended,00000005
+[>>> Iceman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A8DDC,extended,00000005
+[Max Strength]
+patch=1,EE,005A8DDD,extended,00000005
+[Max Blocking]
+patch=1,EE,005A8DDE,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A8DDF,extended,00000005
+[Max Fury]
+patch=1,EE,005A8DE0,extended,00000005
+[>>> Nightcrawler Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A8DE1,extended,00000005
+[Max Strength]
+patch=1,EE,005A8DE2,extended,00000005
+[Max Blocking]
+patch=1,EE,005A8DE3,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A8DE4,extended,00000005
+[Max Fury]
+patch=1,EE,005A8DE5,extended,00000005
+[>>> Unlock Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lady Liberty]
+patch=1,EE,205A8E30,extended,00000001
+[Liberty Island]
+patch=1,EE,205A8E3C,extended,00000001
+[Alkali Lake]
+patch=1,EE,205A8E48,extended,00000001
+[Generator Room]
+patch=1,EE,205A8E54,extended,00000001
+[Alkali Lab]
+patch=1,EE,205A8E60,extended,00000001
+[Holding Pens]
+patch=1,EE,205A8E6C,extended,00000001
+[Testing Center]
+patch=1,EE,205A8E78,extended,00000001
+[Hangar]
+patch=1,EE,205A8E84,extended,00000001
+[Launching Bay]
+patch=1,EE,205A8E90,extended,00000001
+[Dark Cerebro]
+patch=1,EE,205A8E9C,extended,00000001
+[Fission Plant]
+patch=1,EE,205A8EA8,extended,00000001
+[Coolant Tunnels]
+patch=1,EE,205A8EB4,extended,00000001
+[Fire Serpent]
+patch=1,EE,205A8EC0,extended,00000001
+[Castle Gatehouse]
+patch=1,EE,205A8ECC,extended,00000001
+[Zen Garden]
+patch=1,EE,205A8ED8,extended,00000001
+[Brooklyn Bridge]
+patch=1,EE,205A8EE4,extended,00000001
+[Multiple Man]
+patch=1,EE,205A8EF0,extended,00000001
+[Warrior's Dojo]
+patch=1,EE,205A8EFC,extended,00000001
+[Lady Deathstrike]
+patch=1,EE,205A8F08,extended,00000001
+[Silver Samurai]
+patch=1,EE,205A8F14,extended,00000001
+[Kowloon Highway]
+patch=1,EE,205A8F20,extended,00000001
+[Downtown Kowloon]
+patch=1,EE,205A8F2C,extended,00000001
+[Giant Sentinel]
+patch=1,EE,205A8F38,extended,00000001
+[Augmentation Room]
+patch=1,EE,205A8F44,extended,00000001
+[Master Mold Interior]
+patch=1,EE,205A8F50,extended,00000001
+[Master Mold Reactor]
+patch=1,EE,205A8F5C,extended,00000001
+[Telepurgatory]
+patch=1,EE,205A8F68,extended,00000001
+[Sabretooth]
+patch=1,EE,205A8F74,extended,00000001
+[All Missions Completed]
+patch=1,EE,405A8E30,extended,001C0003
+[All Missions Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Have Sentinel Tech Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Generator Room]
+patch=1,EE,005A8E58,extended,00000005
+[Alkali Lab]
+patch=1,EE,005A8E64,extended,00000005
+[Holding Pens]
+patch=1,EE,005A8E70,extended,00000005
+[Testing Center]
+patch=1,EE,005A8E7C,extended,00000005
+[Hangar]
+patch=1,EE,005A8E88,extended,00000005
+[Launching Bay]
+patch=1,EE,005A8E94,extended,00000005
+[Dark Cerebro]
+patch=1,EE,005A8EA0,extended,00000005
+[Fission Plant]
+patch=1,EE,005A8EAC,extended,00000005
+[Coolant Tunnels]
+patch=1,EE,005A8EB8,extended,00000005
+[Fire Serpent]
+patch=1,EE,005A8EC4,extended,00000005
+[Castle Gatehouse]
+patch=1,EE,005A8ED0,extended,00000005
+[Zen Garden]
+patch=1,EE,005A8EDC,extended,00000005
+[Brooklyn Bridge]
+patch=1,EE,005A8EE8,extended,00000005
+[Multiple Man]
+patch=1,EE,005A8EF4,extended,00000005
+[Warrior's Dojo]
+patch=1,EE,005A8F00,extended,00000005
+[Lady Deathstrike]
+patch=1,EE,005A8F0C,extended,00000005
+[Silver Samurai]
+patch=1,EE,005A8F18,extended,00000005
+[Kowloon Highway]
+patch=1,EE,005A8F24,extended,00000005
+[Downtown Kowloon]
+patch=1,EE,005A8F30,extended,00000005
+[Giant Sentinel]
+patch=1,EE,005A8F3C,extended,00000005
+[Augmentation Room]
+patch=1,EE,005A8F48,extended,00000005
+[Master Mold Interior]
+patch=1,EE,005A8F54,extended,00000005
+[Master Mold Reactor]
+patch=1,EE,005A8F60,extended,00000005
+[Telepurgatory]
+patch=1,EE,005A8F6C,extended,00000005
+[Sabretooth]
+patch=1,EE,005A8F78,extended,00000005
+[>>> Have Weapon X File Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Generator Room]
+patch=1,EE,005A8E59,extended,00000001
+[Alkali Lab]
+patch=1,EE,005A8E65,extended,00000001
+[Holding Pens]
+patch=1,EE,005A8E71,extended,00000001
+[Testing Center]
+patch=1,EE,005A8E7D,extended,00000001
+[Hangar]
+patch=1,EE,005A8E89,extended,00000001
+[Launching Bay]
+patch=1,EE,005A8E95,extended,00000001
+[Dark Cerebro]
+patch=1,EE,005A8EA1,extended,00000001
+[Fission Plant]
+patch=1,EE,005A8EAD,extended,00000001
+[Coolant Tunnels]
+patch=1,EE,005A8EB9,extended,00000001
+[Fire Serpent]
+patch=1,EE,005A8EC5,extended,00000001
+[Castle Gatehouse]
+patch=1,EE,005A8ED1,extended,00000001
+[Zen Garden]
+patch=1,EE,005A8EDD,extended,00000001
+[Brooklyn Bridge]
+patch=1,EE,005A8EE9,extended,00000001
+[Multiple Man]
+patch=1,EE,005A8EF5,extended,00000001
+[Warrior's Dojo]
+patch=1,EE,005A8F01,extended,00000001
+[Lady Deathstrike]
+patch=1,EE,005A8F0D,extended,00000001
+[Silver Samurai]
+patch=1,EE,005A8F19,extended,00000001
+[Kowloon Highway]
+patch=1,EE,005A8F25,extended,00000001
+[Downtown Kowloon]
+patch=1,EE,005A8F31,extended,00000001
+[Giant Sentinel]
+patch=1,EE,005A8F3D,extended,00000001
+[Augmentation Room]
+patch=1,EE,005A8F49,extended,00000001
+[Master Mold Interior]
+patch=1,EE,005A8F55,extended,00000001
+[Master Mold Reactor]
+patch=1,EE,005A8F61,extended,00000001
+[Telepurgatory]
+patch=1,EE,005A8F6D,extended,00000001
+[Sabretooth]
+patch=1,EE,005A8F79,extended,00000001
+[>>> Have Mission 100% Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lady Liberty]
+patch=1,EE,005A8E36,extended,00000001
+[Liberty Island]
+patch=1,EE,005A8E42,extended,00000001
+[Alkali Lake]
+patch=1,EE,005A8E4E,extended,00000001
+[Generator Room]
+patch=1,EE,005A8E5A,extended,00000009
+[Alkali Lab]
+patch=1,EE,005A8E66,extended,00000009
+[Holding Pens]
+patch=1,EE,005A8E72,extended,00000009
+[Testing Center]
+patch=1,EE,005A8E7E,extended,00000009
+[Hangar]
+patch=1,EE,005A8E8A,extended,00000008
+[Launching Bay]
+patch=1,EE,005A8E96,extended,0000000A
+[Dark Cerebro]
+patch=1,EE,005A8EA2,extended,0000000A
+[Fission Plant]
+patch=1,EE,005A8EAE,extended,00000009
+[Coolant Tunnels]
+patch=1,EE,005A8EBA,extended,0000000A
+[Fire Serpent]
+patch=1,EE,005A8EC6,extended,0000000A
+[Castle Gatehouse]
+patch=1,EE,005A8ED2,extended,00000008
+[Zen Garden]
+patch=1,EE,005A8EDE,extended,00000008
+[Brooklyn Bridge]
+patch=1,EE,005A8EEA,extended,0000000A
+[Multiple Man]
+patch=1,EE,005A8EF6,extended,0000000A
+[Warrior's Dojo]
+patch=1,EE,005A8F02,extended,00000009
+[Lady Deathstrike]
+patch=1,EE,005A8F0E,extended,00000008
+[Silver Samurai]
+patch=1,EE,005A8F1A,extended,00000008
+[Kowloon Highway]
+patch=1,EE,005A8F26,extended,0000000A
+[Downtown Kowloon]
+patch=1,EE,005A8F32,extended,0000000A
+[Giant Sentinel]
+patch=1,EE,005A8F3E,extended,0000000A
+[Augmentation Room]
+patch=1,EE,005A8F4A,extended,00000007
+[Master Mold Interior]
+patch=1,EE,005A8F56,extended,0000000A
+[Master Mold Reactor]
+patch=1,EE,005A8F62,extended,00000007
+[Telepurgatory]
+patch=1,EE,005A8F6E,extended,00000007
+[Sabretooth]
+patch=1,EE,005A8F7A,extended,00000007
+[>>> Profile 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Costume Modifier Codes]
+[Wolverine-Costume 1]
+patch=1,EE,005A8FE0,extended,00000000
+[Wolverine-Costume 2]
+patch=1,EE,005A8FE0,extended,00000001
+[Wolverine-Costume 3]
+patch=1,EE,005A8FE0,extended,00000002
+[Iceman-Costume 1]
+patch=1,EE,005A8FE1,extended,00000000
+[Iceman-Costume 2]
+patch=1,EE,005A8FE1,extended,00000001
+[Iceman-Costume 3]
+patch=1,EE,005A8FE1,extended,00000002
+[Nightcrawler-Costume 1]
+patch=1,EE,005A8FE2,extended,00000000
+[Nightcrawler-Costume 2]
+patch=1,EE,005A8FE2,extended,00000001
+[Nightcrawler-Costume 3]
+patch=1,EE,005A8FE2,extended,00000002
+[>>> Wolverine Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A8FE3,extended,00000005
+[Max Strength]
+patch=1,EE,005A8FE4,extended,00000005
+[Max Blocking]
+patch=1,EE,005A8FE5,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A8FE6,extended,00000005
+[Max Fury]
+patch=1,EE,005A8FE7,extended,00000005
+[>>> Iceman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A8FE8,extended,00000005
+[Max Strength]
+patch=1,EE,005A8FE9,extended,00000005
+[Max Blocking]
+patch=1,EE,005A8FEA,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A8FEB,extended,00000005
+[Max Fury]
+patch=1,EE,005A8FEC,extended,00000005
+[>>> Nightcrawler Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A8FED,extended,00000005
+[Max Strength]
+patch=1,EE,005A8FEE,extended,00000005
+[Max Blocking]
+patch=1,EE,005A8FEF,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A8FF0,extended,00000005
+[Max Fury]
+patch=1,EE,005A8FF1,extended,00000005
+[>>> Unlock Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lady Liberty]
+patch=1,EE,205A903C,extended,00000001
+[Liberty Island]
+patch=1,EE,205A9048,extended,00000001
+[Alkali Lake]
+patch=1,EE,205A9054,extended,00000001
+[Generator Room]
+patch=1,EE,205A9060,extended,00000001
+[Alkali Lab]
+patch=1,EE,205A906C,extended,00000001
+[Holding Pens]
+patch=1,EE,205A9078,extended,00000001
+[Testing Center]
+patch=1,EE,205A9084,extended,00000001
+[Hangar]
+patch=1,EE,205A9090,extended,00000001
+[Launching Bay]
+patch=1,EE,205A909C,extended,00000001
+[Dark Cerebro]
+patch=1,EE,205A90A8,extended,00000001
+[Fission Plant]
+patch=1,EE,205A90B4,extended,00000001
+[Coolant Tunnels]
+patch=1,EE,205A90C0,extended,00000001
+[Fire Serpent]
+patch=1,EE,205A90CC,extended,00000001
+[Castle Gatehouse]
+patch=1,EE,205A90D8,extended,00000001
+[Zen Garden]
+patch=1,EE,205A90E4,extended,00000001
+[Brooklyn Bridge]
+patch=1,EE,205A90F0,extended,00000001
+[Multiple Man]
+patch=1,EE,205A90FC,extended,00000001
+[Warrior's Dojo]
+patch=1,EE,205A9108,extended,00000001
+[Lady Deathstrike]
+patch=1,EE,205A9114,extended,00000001
+[Silver Samurai]
+patch=1,EE,205A9120,extended,00000001
+[Kowloon Highway]
+patch=1,EE,205A912C,extended,00000001
+[Downtown Kowloon]
+patch=1,EE,205A9138,extended,00000001
+[Giant Sentinel]
+patch=1,EE,205A9144,extended,00000001
+[Augmentation Room]
+patch=1,EE,205A9150,extended,00000001
+[Master Mold Interior]
+patch=1,EE,205A915C,extended,00000001
+[Master Mold Reactor]
+patch=1,EE,205A9168,extended,00000001
+[Telepurgatory]
+patch=1,EE,205A9174,extended,00000001
+[Sabretooth]
+patch=1,EE,205A9180,extended,00000001
+[All Missions Completed]
+patch=1,EE,405A903C,extended,001C0003
+[All Missions Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Have Sentinel Tech Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Generator Room]
+patch=1,EE,005A9064,extended,00000005
+[Alkali Lab]
+patch=1,EE,005A9070,extended,00000005
+[Holding Pens]
+patch=1,EE,005A907C,extended,00000005
+[Testing Center]
+patch=1,EE,005A9088,extended,00000005
+[Hangar]
+patch=1,EE,005A9094,extended,00000005
+[Launching Bay]
+patch=1,EE,005A90A0,extended,00000005
+[Dark Cerebro]
+patch=1,EE,005A90AC,extended,00000005
+[Fission Plant]
+patch=1,EE,005A90B8,extended,00000005
+[Coolant Tunnels]
+patch=1,EE,005A90C4,extended,00000005
+[Fire Serpent]
+patch=1,EE,005A90D0,extended,00000005
+[Castle Gatehouse]
+patch=1,EE,005A90DC,extended,00000005
+[Zen Garden]
+patch=1,EE,005A90E8,extended,00000005
+[Brooklyn Bridge]
+patch=1,EE,005A90F4,extended,00000005
+[Multiple Man]
+patch=1,EE,005A9100,extended,00000005
+[Warrior's Dojo]
+patch=1,EE,005A910C,extended,00000005
+[Lady Deathstrike]
+patch=1,EE,005A9118,extended,00000005
+[Silver Samurai]
+patch=1,EE,005A9124,extended,00000005
+[Kowloon Highway]
+patch=1,EE,005A9130,extended,00000005
+[Downtown Kowloon]
+patch=1,EE,005A913C,extended,00000005
+[Giant Sentinel]
+patch=1,EE,005A9148,extended,00000005
+[Augmentation Room]
+patch=1,EE,005A9154,extended,00000005
+[Master Mold Interior]
+patch=1,EE,005A9160,extended,00000005
+[Master Mold Reactor]
+patch=1,EE,005A916C,extended,00000005
+[Telepurgatory]
+patch=1,EE,005A9178,extended,00000005
+[Sabretooth]
+patch=1,EE,005A9184,extended,00000005
+[>>> Have Weapon X File Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Generator Room]
+patch=1,EE,005A9065,extended,00000001
+[Alkali Lab]
+patch=1,EE,005A9071,extended,00000001
+[Holding Pens]
+patch=1,EE,005A907D,extended,00000001
+[Testing Center]
+patch=1,EE,005A9089,extended,00000001
+[Hangar]
+patch=1,EE,005A9095,extended,00000001
+[Launching Bay]
+patch=1,EE,005A90A1,extended,00000001
+[Dark Cerebro]
+patch=1,EE,005A90AD,extended,00000001
+[Fission Plant]
+patch=1,EE,005A90B9,extended,00000001
+[Coolant Tunnels]
+patch=1,EE,005A90C5,extended,00000001
+[Fire Serpent]
+patch=1,EE,005A90D1,extended,00000001
+[Castle Gatehouse]
+patch=1,EE,005A90DD,extended,00000001
+[Zen Garden]
+patch=1,EE,005A90E9,extended,00000001
+[Brooklyn Bridge]
+patch=1,EE,005A90F5,extended,00000001
+[Multiple Man]
+patch=1,EE,005A9101,extended,00000001
+[Warrior's Dojo]
+patch=1,EE,005A910D,extended,00000001
+[Lady Deathstrike]
+patch=1,EE,005A9119,extended,00000001
+[Silver Samurai]
+patch=1,EE,005A9125,extended,00000001
+[Kowloon Highway]
+patch=1,EE,005A9131,extended,00000001
+[Downtown Kowloon]
+patch=1,EE,005A913D,extended,00000001
+[Giant Sentinel]
+patch=1,EE,005A9149,extended,00000001
+[Augmentation Room]
+patch=1,EE,005A9155,extended,00000001
+[Master Mold Interior]
+patch=1,EE,005A9161,extended,00000001
+[Master Mold Reactor]
+patch=1,EE,005A916D,extended,00000001
+[Telepurgatory]
+patch=1,EE,005A9179,extended,00000001
+[Sabretooth]
+patch=1,EE,005A9185,extended,00000001
+[>>> Have Mission 100% Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lady Liberty]
+patch=1,EE,005A9042,extended,00000001
+[Liberty Island]
+patch=1,EE,005A904E,extended,00000001
+[Alkali Lake]
+patch=1,EE,005A905A,extended,00000001
+[Generator Room]
+patch=1,EE,005A9066,extended,00000009
+[Alkali Lab]
+patch=1,EE,005A9072,extended,00000009
+[Holding Pens]
+patch=1,EE,005A907E,extended,00000009
+[Testing Center]
+patch=1,EE,005A908A,extended,00000009
+[Hangar]
+patch=1,EE,005A9096,extended,00000008
+[Launching Bay]
+patch=1,EE,005A90A2,extended,0000000A
+[Dark Cerebro]
+patch=1,EE,005A90AE,extended,0000000A
+[Fission Plant]
+patch=1,EE,005A90BA,extended,00000009
+[Coolant Tunnels]
+patch=1,EE,005A90C6,extended,0000000A
+[Fire Serpent]
+patch=1,EE,005A90D2,extended,0000000A
+[Castle Gatehouse]
+patch=1,EE,005A90DE,extended,00000008
+[Zen Garden]
+patch=1,EE,005A90EA,extended,00000008
+[Brooklyn Bridge]
+patch=1,EE,005A90F6,extended,0000000A
+[Multiple Man]
+patch=1,EE,005A9102,extended,0000000A
+[Warrior's Dojo]
+patch=1,EE,005A910E,extended,00000009
+[Lady Deathstrike]
+patch=1,EE,005A911A,extended,00000008
+[Silver Samurai]
+patch=1,EE,005A9126,extended,00000008
+[Kowloon Highway]
+patch=1,EE,005A9132,extended,0000000A
+[Downtown Kowloon]
+patch=1,EE,005A913E,extended,0000000A
+[Giant Sentinel]
+patch=1,EE,005A914A,extended,0000000A
+[Augmentation Room]
+patch=1,EE,005A9156,extended,00000007
+[Master Mold Interior]
+patch=1,EE,005A9162,extended,0000000A
+[Master Mold Reactor]
+patch=1,EE,005A916E,extended,00000007
+[Telepurgatory]
+patch=1,EE,005A917A,extended,00000007
+[Sabretooth]
+patch=1,EE,005A9186,extended,00000007
+[>>> Profile 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Costume Modifier Codes]
+[Wolverine-Costume 1]
+patch=1,EE,005A91EC,extended,00000000
+[Wolverine-Costume 2]
+patch=1,EE,005A91EC,extended,00000001
+[Wolverine-Costume 3]
+patch=1,EE,005A91EC,extended,00000002
+[Iceman-Costume 1]
+patch=1,EE,005A91ED,extended,00000000
+[Iceman-Costume 2]
+patch=1,EE,005A91ED,extended,00000001
+[Iceman-Costume 3]
+patch=1,EE,005A91ED,extended,00000002
+[Nightcrawler-Costume 1]
+patch=1,EE,005A91EE,extended,00000000
+[Nightcrawler-Costume 2]
+patch=1,EE,005A91EE,extended,00000001
+[Nightcrawler-Costume 3]
+patch=1,EE,005A91EE,extended,00000002
+[>>> Wolverine Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A91EF,extended,00000005
+[Max Strength]
+patch=1,EE,005A91F0,extended,00000005
+[Max Blocking]
+patch=1,EE,005A91F1,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A91F2,extended,00000005
+[Max Fury]
+patch=1,EE,005A91F3,extended,00000005
+[>>> Iceman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A91F4,extended,00000005
+[Max Strength]
+patch=1,EE,005A91F5,extended,00000005
+[Max Blocking]
+patch=1,EE,005A91F6,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A91F7,extended,00000005
+[Max Fury]
+patch=1,EE,005A91F8,extended,00000005
+[>>> Nightcrawler Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A91F9,extended,00000005
+[Max Strength]
+patch=1,EE,005A91FA,extended,00000005
+[Max Blocking]
+patch=1,EE,005A91FB,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A91FC,extended,00000005
+[Max Fury]
+patch=1,EE,005A91FD,extended,00000005
+[>>> Unlock Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lady Liberty]
+patch=1,EE,205A9248,extended,00000001
+[Liberty Island]
+patch=1,EE,205A9254,extended,00000001
+[Alkali Lake]
+patch=1,EE,205A9260,extended,00000001
+[Generator Room]
+patch=1,EE,205A926C,extended,00000001
+[Alkali Lab]
+patch=1,EE,205A9278,extended,00000001
+[Holding Pens]
+patch=1,EE,205A9284,extended,00000001
+[Testing Center]
+patch=1,EE,205A9290,extended,00000001
+[Hangar]
+patch=1,EE,205A929C,extended,00000001
+[Launching Bay]
+patch=1,EE,205A92A8,extended,00000001
+[Dark Cerebro]
+patch=1,EE,205A92B4,extended,00000001
+[Fission Plant]
+patch=1,EE,205A92C0,extended,00000001
+[Coolant Tunnels]
+patch=1,EE,205A92CC,extended,00000001
+[Fire Serpent]
+patch=1,EE,205A92D8,extended,00000001
+[Castle Gatehouse]
+patch=1,EE,205A92E4,extended,00000001
+[Zen Garden]
+patch=1,EE,205A92F0,extended,00000001
+[Brooklyn Bridge]
+patch=1,EE,205A92FC,extended,00000001
+[Multiple Man]
+patch=1,EE,205A9308,extended,00000001
+[Warrior's Dojo]
+patch=1,EE,205A9314,extended,00000001
+[Lady Deathstrike]
+patch=1,EE,205A9320,extended,00000001
+[Silver Samurai]
+patch=1,EE,205A932C,extended,00000001
+[Kowloon Highway]
+patch=1,EE,205A9338,extended,00000001
+[Downtown Kowloon]
+patch=1,EE,205A9344,extended,00000001
+[Giant Sentinel]
+patch=1,EE,205A9350,extended,00000001
+[Augmentation Room]
+patch=1,EE,205A935C,extended,00000001
+[Master Mold Interior]
+patch=1,EE,205A9368,extended,00000001
+[Master Mold Reactor]
+patch=1,EE,205A9374,extended,00000001
+[Telepurgatory]
+patch=1,EE,205A9380,extended,00000001
+[Sabretooth]
+patch=1,EE,205A938C,extended,00000001
+[All Missions Completed]
+patch=1,EE,405A9248,extended,001C0003
+[All Missions Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Have Sentinel Tech Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Generator Room]
+patch=1,EE,005A9270,extended,00000005
+[Alkali Lab]
+patch=1,EE,005A927C,extended,00000005
+[Holding Pens]
+patch=1,EE,005A9288,extended,00000005
+[Testing Center]
+patch=1,EE,005A9294,extended,00000005
+[Hangar]
+patch=1,EE,005A92A0,extended,00000005
+[Launching Bay]
+patch=1,EE,005A92AC,extended,00000005
+[Dark Cerebro]
+patch=1,EE,005A92B8,extended,00000005
+[Fission Plant]
+patch=1,EE,005A92C4,extended,00000005
+[Coolant Tunnels]
+patch=1,EE,005A92D0,extended,00000005
+[Fire Serpent]
+patch=1,EE,005A92DC,extended,00000005
+[Castle Gatehouse]
+patch=1,EE,005A92E8,extended,00000005
+[Zen Garden]
+patch=1,EE,005A92F4,extended,00000005
+[Brooklyn Bridge]
+patch=1,EE,005A9300,extended,00000005
+[Multiple Man]
+patch=1,EE,005A930C,extended,00000005
+[Warrior's Dojo]
+patch=1,EE,005A9318,extended,00000005
+[Lady Deathstrike]
+patch=1,EE,005A9324,extended,00000005
+[Silver Samurai]
+patch=1,EE,005A9330,extended,00000005
+[Kowloon Highway]
+patch=1,EE,005A933C,extended,00000005
+[Downtown Kowloon]
+patch=1,EE,005A9348,extended,00000005
+[Giant Sentinel]
+patch=1,EE,005A9354,extended,00000005
+[Augmentation Room]
+patch=1,EE,005A9360,extended,00000005
+[Master Mold Interior]
+patch=1,EE,005A936C,extended,00000005
+[Master Mold Reactor]
+patch=1,EE,005A9378,extended,00000005
+[Telepurgatory]
+patch=1,EE,005A9384,extended,00000005
+[Sabretooth]
+patch=1,EE,005A9390,extended,00000005
+[>>> Have Weapon X File Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Generator Room]
+patch=1,EE,005A9271,extended,00000001
+[Alkali Lab]
+patch=1,EE,005A927D,extended,00000001
+[Holding Pens]
+patch=1,EE,005A9289,extended,00000001
+[Testing Center]
+patch=1,EE,005A9295,extended,00000001
+[Hangar]
+patch=1,EE,005A92A1,extended,00000001
+[Launching Bay]
+patch=1,EE,005A92AD,extended,00000001
+[Dark Cerebro]
+patch=1,EE,005A92B9,extended,00000001
+[Fission Plant]
+patch=1,EE,005A92C5,extended,00000001
+[Coolant Tunnels]
+patch=1,EE,005A92D1,extended,00000001
+[Fire Serpent]
+patch=1,EE,005A92DD,extended,00000001
+[Castle Gatehouse]
+patch=1,EE,005A92E9,extended,00000001
+[Zen Garden]
+patch=1,EE,005A92F5,extended,00000001
+[Brooklyn Bridge]
+patch=1,EE,005A9301,extended,00000001
+[Multiple Man]
+patch=1,EE,005A930D,extended,00000001
+[Warrior's Dojo]
+patch=1,EE,005A9319,extended,00000001
+[Lady Deathstrike]
+patch=1,EE,005A9325,extended,00000001
+[Silver Samurai]
+patch=1,EE,005A9331,extended,00000001
+[Kowloon Highway]
+patch=1,EE,005A933D,extended,00000001
+[Downtown Kowloon]
+patch=1,EE,005A9349,extended,00000001
+[Giant Sentinel]
+patch=1,EE,005A9355,extended,00000001
+[Augmentation Room]
+patch=1,EE,005A9361,extended,00000001
+[Master Mold Interior]
+patch=1,EE,005A936D,extended,00000001
+[Master Mold Reactor]
+patch=1,EE,005A9379,extended,00000001
+[Telepurgatory]
+patch=1,EE,005A9385,extended,00000001
+[Sabretooth]
+patch=1,EE,005A9391,extended,00000001
+[>>> Have Mission 100% Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lady Liberty]
+patch=1,EE,005A924E,extended,00000001
+[Liberty Island]
+patch=1,EE,005A925A,extended,00000001
+[Alkali Lake]
+patch=1,EE,005A9266,extended,00000001
+[Generator Room]
+patch=1,EE,005A9272,extended,00000009
+[Alkali Lab]
+patch=1,EE,005A927E,extended,00000009
+[Holding Pens]
+patch=1,EE,005A928A,extended,00000009
+[Testing Center]
+patch=1,EE,005A9296,extended,00000009
+[Hangar]
+patch=1,EE,005A92A2,extended,00000008
+[Launching Bay]
+patch=1,EE,005A92AE,extended,0000000A
+[Dark Cerebro]
+patch=1,EE,005A92BA,extended,0000000A
+[Fission Plant]
+patch=1,EE,005A92C6,extended,00000009
+[Coolant Tunnels]
+patch=1,EE,005A92D2,extended,0000000A
+[Fire Serpent]
+patch=1,EE,005A92DE,extended,0000000A
+[Castle Gatehouse]
+patch=1,EE,005A92EA,extended,00000008
+[Zen Garden]
+patch=1,EE,005A92F6,extended,00000008
+[Brooklyn Bridge]
+patch=1,EE,005A9302,extended,0000000A
+[Multiple Man]
+patch=1,EE,005A930E,extended,0000000A
+[Warrior's Dojo]
+patch=1,EE,005A931A,extended,00000009
+[Lady Deathstrike]
+patch=1,EE,005A9326,extended,00000008
+[Silver Samurai]
+patch=1,EE,005A9332,extended,00000008
+[Kowloon Highway]
+patch=1,EE,005A933E,extended,0000000A
+[Downtown Kowloon]
+patch=1,EE,005A934A,extended,0000000A
+[Giant Sentinel]
+patch=1,EE,005A9356,extended,0000000A
+[Augmentation Room]
+patch=1,EE,005A9362,extended,00000007
+[Master Mold Interior]
+patch=1,EE,005A936E,extended,0000000A
+[Master Mold Reactor]
+patch=1,EE,005A937A,extended,00000007
+[Telepurgatory]
+patch=1,EE,005A9386,extended,00000007
+[Sabretooth]
+patch=1,EE,005A9392,extended,00000007
+[>>> Profile 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Costume Modifier Codes]
+[Wolverine-Costume 1]
+patch=1,EE,005A93F8,extended,00000000
+[Wolverine-Costume 2]
+patch=1,EE,005A93F8,extended,00000001
+[Wolverine-Costume 3]
+patch=1,EE,005A93F8,extended,00000002
+[Iceman-Costume 1]
+patch=1,EE,005A93F9,extended,00000000
+[Iceman-Costume 2]
+patch=1,EE,005A93F9,extended,00000001
+[Iceman-Costume 3]
+patch=1,EE,005A93F9,extended,00000002
+[Nightcrawler-Costume 1]
+patch=1,EE,005A93FA,extended,00000000
+[Nightcrawler-Costume 2]
+patch=1,EE,005A93FA,extended,00000001
+[Nightcrawler-Costume 3]
+patch=1,EE,005A93FA,extended,00000002
+[>>> Wolverine Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A93FB,extended,00000005
+[Max Strength]
+patch=1,EE,005A93FC,extended,00000005
+[Max Blocking]
+patch=1,EE,005A93FD,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A93FE,extended,00000005
+[Max Fury]
+patch=1,EE,005A93FF,extended,00000005
+[>>> Iceman Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A9400,extended,00000005
+[Max Strength]
+patch=1,EE,005A9401,extended,00000005
+[Max Blocking]
+patch=1,EE,005A9402,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A9403,extended,00000005
+[Max Fury]
+patch=1,EE,005A9404,extended,00000005
+[>>> Nightcrawler Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Health]
+patch=1,EE,005A9405,extended,00000005
+[Max Strength]
+patch=1,EE,005A9406,extended,00000005
+[Max Blocking]
+patch=1,EE,005A9407,extended,00000005
+[Max Healing Factor]
+patch=1,EE,005A9408,extended,00000005
+[Max Fury]
+patch=1,EE,005A9409,extended,00000005
+[>>> Unlock Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lady Liberty]
+patch=1,EE,205A9454,extended,00000001
+[Liberty Island]
+patch=1,EE,205A9460,extended,00000001
+[Alkali Lake]
+patch=1,EE,205A946C,extended,00000001
+[Generator Room]
+patch=1,EE,205A9478,extended,00000001
+[Alkali Lab]
+patch=1,EE,205A9484,extended,00000001
+[Holding Pens]
+patch=1,EE,205A9490,extended,00000001
+[Testing Center]
+patch=1,EE,205A949C,extended,00000001
+[Hangar]
+patch=1,EE,205A94A8,extended,00000001
+[Launching Bay]
+patch=1,EE,205A94B4,extended,00000001
+[Dark Cerebro]
+patch=1,EE,205A94C0,extended,00000001
+[Fission Plant]
+patch=1,EE,205A94CC,extended,00000001
+[Coolant Tunnels]
+patch=1,EE,205A94D8,extended,00000001
+[Fire Serpent]
+patch=1,EE,205A94E4,extended,00000001
+[Castle Gatehouse]
+patch=1,EE,205A94F0,extended,00000001
+[Zen Garden]
+patch=1,EE,205A94FC,extended,00000001
+[Brooklyn Bridge]
+patch=1,EE,205A9508,extended,00000001
+[Multiple Man]
+patch=1,EE,205A9514,extended,00000001
+[Warrior's Dojo]
+patch=1,EE,205A9520,extended,00000001
+[Lady Deathstrike]
+patch=1,EE,205A952C,extended,00000001
+[Silver Samurai]
+patch=1,EE,205A9538,extended,00000001
+[Kowloon Highway]
+patch=1,EE,205A9544,extended,00000001
+[Downtown Kowloon]
+patch=1,EE,205A9550,extended,00000001
+[Giant Sentinel]
+patch=1,EE,205A955C,extended,00000001
+[Augmentation Room]
+patch=1,EE,205A9568,extended,00000001
+[Master Mold Interior]
+patch=1,EE,205A9574,extended,00000001
+[Master Mold Reactor]
+patch=1,EE,205A9580,extended,00000001
+[Telepurgatory]
+patch=1,EE,205A958C,extended,00000001
+[Sabretooth]
+patch=1,EE,205A9598,extended,00000001
+[All Missions Completed]
+patch=1,EE,405A9454,extended,001C0003
+[All Missions Completed]
+patch=1,EE,00000001,extended,00000000
+[>>> Have Sentinel Tech Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Generator Room]
+patch=1,EE,005A947C,extended,00000005
+[Alkali Lab]
+patch=1,EE,005A9488,extended,00000005
+[Holding Pens]
+patch=1,EE,005A9494,extended,00000005
+[Testing Center]
+patch=1,EE,005A94A0,extended,00000005
+[Hangar]
+patch=1,EE,005A94AC,extended,00000005
+[Launching Bay]
+patch=1,EE,005A94B8,extended,00000005
+[Dark Cerebro]
+patch=1,EE,005A94C4,extended,00000005
+[Fission Plant]
+patch=1,EE,005A94D0,extended,00000005
+[Coolant Tunnels]
+patch=1,EE,005A94DC,extended,00000005
+[Fire Serpent]
+patch=1,EE,005A94E8,extended,00000005
+[Castle Gatehouse]
+patch=1,EE,005A94F4,extended,00000005
+[Zen Garden]
+patch=1,EE,005A9500,extended,00000005
+[Brooklyn Bridge]
+patch=1,EE,005A950C,extended,00000005
+[Multiple Man]
+patch=1,EE,005A9518,extended,00000005
+[Warrior's Dojo]
+patch=1,EE,005A9524,extended,00000005
+[Lady Deathstrike]
+patch=1,EE,005A9530,extended,00000005
+[Silver Samurai]
+patch=1,EE,005A953C,extended,00000005
+[Kowloon Highway]
+patch=1,EE,005A9548,extended,00000005
+[Downtown Kowloon]
+patch=1,EE,005A9554,extended,00000005
+[Giant Sentinel]
+patch=1,EE,005A9560,extended,00000005
+[Augmentation Room]
+patch=1,EE,005A956C,extended,00000005
+[Master Mold Interior]
+patch=1,EE,005A9578,extended,00000005
+[Master Mold Reactor]
+patch=1,EE,005A9584,extended,00000005
+[Telepurgatory]
+patch=1,EE,005A9590,extended,00000005
+[Sabretooth]
+patch=1,EE,005A959C,extended,00000005
+[>>> Have Weapon X File Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Generator Room]
+patch=1,EE,005A947D,extended,00000001
+[Alkali Lab]
+patch=1,EE,005A9489,extended,00000001
+[Holding Pens]
+patch=1,EE,005A9495,extended,00000001
+[Testing Center]
+patch=1,EE,005A94A1,extended,00000001
+[Hangar]
+patch=1,EE,005A94AD,extended,00000001
+[Launching Bay]
+patch=1,EE,005A94B9,extended,00000001
+[Dark Cerebro]
+patch=1,EE,005A94C5,extended,00000001
+[Fission Plant]
+patch=1,EE,005A94D1,extended,00000001
+[Coolant Tunnels]
+patch=1,EE,005A94DD,extended,00000001
+[Fire Serpent]
+patch=1,EE,005A94E9,extended,00000001
+[Castle Gatehouse]
+patch=1,EE,005A94F5,extended,00000001
+[Zen Garden]
+patch=1,EE,005A9501,extended,00000001
+[Brooklyn Bridge]
+patch=1,EE,005A950D,extended,00000001
+[Multiple Man]
+patch=1,EE,005A9519,extended,00000001
+[Warrior's Dojo]
+patch=1,EE,005A9525,extended,00000001
+[Lady Deathstrike]
+patch=1,EE,005A9531,extended,00000001
+[Silver Samurai]
+patch=1,EE,005A953D,extended,00000001
+[Kowloon Highway]
+patch=1,EE,005A9549,extended,00000001
+[Downtown Kowloon]
+patch=1,EE,005A9555,extended,00000001
+[Giant Sentinel]
+patch=1,EE,005A9561,extended,00000001
+[Augmentation Room]
+patch=1,EE,005A956D,extended,00000001
+[Master Mold Interior]
+patch=1,EE,005A9579,extended,00000001
+[Master Mold Reactor]
+patch=1,EE,005A9585,extended,00000001
+[Telepurgatory]
+patch=1,EE,005A9591,extended,00000001
+[Sabretooth]
+patch=1,EE,005A959D,extended,00000001
+[>>> Have Mission 100% Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Lady Liberty]
+patch=1,EE,005A945A,extended,00000001
+[Liberty Island]
+patch=1,EE,005A9466,extended,00000001
+[Alkali Lake]
+patch=1,EE,005A9472,extended,00000001
+[Generator Room]
+patch=1,EE,005A947E,extended,00000009
+[Alkali Lab]
+patch=1,EE,005A948A,extended,00000009
+[Holding Pens]
+patch=1,EE,005A9496,extended,00000009
+[Testing Center]
+patch=1,EE,005A94A2,extended,00000009
+[Hangar]
+patch=1,EE,005A94AE,extended,00000008
+[Launching Bay]
+patch=1,EE,005A94BA,extended,0000000A
+[Dark Cerebro]
+patch=1,EE,005A94C6,extended,0000000A
+[Fission Plant]
+patch=1,EE,005A94D2,extended,00000009
+[Coolant Tunnels]
+patch=1,EE,005A94DE,extended,0000000A
+[Fire Serpent]
+patch=1,EE,005A94EA,extended,0000000A
+[Castle Gatehouse]
+patch=1,EE,005A94F6,extended,00000008
+[Zen Garden]
+patch=1,EE,005A9502,extended,00000008
+[Brooklyn Bridge]
+patch=1,EE,005A950E,extended,0000000A
+[Multiple Man]
+patch=1,EE,005A951A,extended,0000000A
+[Warrior's Dojo]
+patch=1,EE,005A9526,extended,00000009
+[Lady Deathstrike]
+patch=1,EE,005A9532,extended,00000008
+[Silver Samurai]
+patch=1,EE,005A953E,extended,00000008
+[Kowloon Highway]
+patch=1,EE,005A954A,extended,0000000A
+[Downtown Kowloon]
+patch=1,EE,005A9556,extended,0000000A
+[Giant Sentinel]
+patch=1,EE,005A9562,extended,0000000A
+[Augmentation Room]
+patch=1,EE,005A956E,extended,00000007
+[Master Mold Interior]
+patch=1,EE,005A957A,extended,0000000A
+[Master Mold Reactor]
+patch=1,EE,005A9586,extended,00000007
+[Telepurgatory]
+patch=1,EE,005A9592,extended,00000007
+[Sabretooth]
+patch=1,EE,005A959E,extended,00000007
+

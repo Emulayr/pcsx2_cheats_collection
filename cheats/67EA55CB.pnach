@@ -1,0 +1,108 @@
+gametitle=Enter The Matrix (Version 1.0)
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,003C8BDF
+[Infinite Health]
+patch=1,EE,2019CE3C,extended,3C0143FA
+[Infinite Health]
+patch=1,EE,2019CE44,extended,AC610354
+[Infinite Ammo]
+patch=1,EE,20287468,extended,00000000
+[Extra Ammo]
+patch=1,EE,10287464,extended,00000001
+[Max Infinite Ammo]
+patch=1,EE,20286E9C,extended,24030063
+[Max Infinite Ammo]
+patch=1,EE,20286EA4,extended,AC430060
+[Infinite Focus]
+patch=1,EE,2029FAB0,extended,3C0142C8
+[Infinite Focus]
+patch=1,EE,2029FAB8,extended,ACC10364
+[Rapid Fire]
+patch=1,EE,D048D402,extended,0000F7FF
+[Rapid Fire]
+patch=1,EE,20287AC4,extended,00000000
+[Rapid Fire]
+patch=1,EE,D048D402,extended,0010F7FF
+[Rapid Fire]
+patch=1,EE,20287AC4,extended,AE2200D8
+[Rapid Fire & Enemies Cant Shoot]
+patch=1,EE,202873AC,extended,104001CA
+[Rapid Fire & Enemies Cant Shoot]
+patch=1,EE,D048D402,extended,0000F7FF
+[Rapid Fire & Enemies Cant Shoot]
+patch=1,EE,20287380,extended,00000000
+[Rapid Fire & Enemies Cant Shoot]
+patch=1,EE,D048D402,extended,0010F7FF
+[Rapid Fire & Enemies Cant Shoot]
+patch=1,EE,20287380,extended,104001D5
+[Rapid Fire (Everyone)]
+patch=1,EE,20287380,extended,00000000
+[Movies Disabled]
+patch=1,EE,203CEDB0,extended,24020001
+[Infinite Health P1 (Multiplayer)]
+patch=1,EE,20125EEC,extended,00000000
+[Infinite Health (Everyone)]
+patch=1,EE,20130880,extended,00000000
+[Super Focus Mode]
+patch=1,EE,2015CFA0,extended,00000000
+[Mega Hyper Mode]
+patch=1,EE,204ABF7C,extended,41000000
+[Super Hyper Mode]
+patch=1,EE,204ABF7C,extended,40800000
+[Hyper Mode]
+patch=1,EE,204ABF7C,extended,40000000
+[Slow Motion]
+patch=1,EE,204ABF7C,extended,3F000000
+[Super Slow Motion]
+patch=1,EE,204ABF7C,extended,3E800000
+[Mega Slow Motion]
+patch=1,EE,204ABF7C,extended,3E400000
+[Enemies Cant Shoot]
+patch=1,EE,202873AC,extended,104001CA
+[Idiot AI]
+patch=1,EE,2026FDB0,extended,03E00008
+[Idiot AI]
+patch=1,EE,2026FDB4,extended,00000000
+[1-Hit Death (Enemies)]
+patch=1,EE,200C0220,extended,3C040002
+[1-Hit Death (Enemies)]
+patch=1,EE,200C0224,extended,8CE100D8
+[1-Hit Death (Enemies)]
+patch=1,EE,200C0228,extended,00240824
+[1-Hit Death (Enemies)]
+patch=1,EE,200C022C,extended,50200001
+[1-Hit Death (Enemies)]
+patch=1,EE,200C0230,extended,ACE00354
+[1-Hit Death (Enemies)]
+patch=1,EE,200C0234,extended,03E00008
+[1-Hit Death (Enemies)]
+patch=1,EE,200C0238,extended,264601CC
+[1-Hit Death (Enemies)]
+patch=1,EE,201289DC,extended,0C030088
+[>>> Activate Individual Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Ammo]
+patch=1,EE,1024F38A,extended,00001000
+[Infinite Ammo]
+patch=1,EE,1028741A,extended,00001000
+[Infinite Ammo]
+patch=1,EE,10287CF8,extended,00001000
+[All Weapons Unlocked]
+patch=1,EE,203BF838,extended,00000000
+[All Weapons Unlocked]
+patch=1,EE,203C4DA0,extended,00000000
+[Invisibility (Stops Enemies From Seeing You)]
+patch=1,EE,2013474C,extended,00000000
+[Invisibility (Stops Enemies From Seeing You)]
+patch=1,EE,10147BE2,extended,00001000
+[Faster Logos Flight Speed]
+patch=1,EE,20231800,extended,00000000
+[Unlocked Bonus Test Level]
+patch=1,EE,2019A734,extended,00000000
+[Unlocked Bonus Test Level]
+patch=1,EE,2019A738,extended,00000000
+[Infinite Focus (Alternate)]
+patch=1,EE,2029F9A8,extended,00000000
+[Infinite Health (Alternate)]
+patch=1,EE,2012813C,extended,00000000
+

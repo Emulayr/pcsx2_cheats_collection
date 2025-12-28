@@ -1,0 +1,26 @@
+gametitle=[SLUS-20886] Sitting Ducks
+[Enable Code (Must Be On)]
+patch=1,EE,903222F4,extended,0C0C58B4
+[Have All Flyers]
+patch=1,EE,2094213C,extended,00000064
+[Max Feathers]
+patch=1,EE,209422EC,extended,000003E7
+[Have All Gold/Silver/Bronze Feathers]
+patch=1,EE,203E61D0,extended,24010003
+[Have All Gold/Silver/Bronze Feathers]
+patch=1,EE,203E61D4,extended,AC610AAC
+[Always Low Total Time]
+patch=1,EE,203E8360,extended,AC800788
+[>>> Have Equipment Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Teeth]
+patch=1,EE,209422FC,extended,00000001
+[Alligator Mask]
+patch=1,EE,20942320,extended,00000001
+[Blue Hood]
+patch=1,EE,20942344,extended,00000001
+[All Equipment]
+patch=1,EE,203F3678,extended,24020001
+[All Equipment]
+patch=1,EE,203F367C,extended,A0820000
+

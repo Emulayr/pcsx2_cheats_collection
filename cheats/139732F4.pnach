@@ -1,0 +1,114 @@
+gametitle=Goblin Commander-Unleash The Horde
+[Enable Code (Must Be On)]
+patch=1,EE,90263044,extended,0C0B745E
+[Unlock All Campaign Acts (All Slots)]
+patch=1,EE,200C0220,extended,AC820088
+[Unlock All Campaign Acts (All Slots)]
+patch=1,EE,200C0224,extended,24020005
+[Unlock All Campaign Acts (All Slots)]
+patch=1,EE,200C0228,extended,03E00008
+[Unlock All Campaign Acts (All Slots)]
+patch=1,EE,200C022C,extended,AC82008C
+[Unlock All Campaign Acts (All Slots)]
+patch=1,EE,201B9890,extended,08030088
+[Unlock All Campaign Acts (All Slots)]
+patch=1,EE,201B9894,extended,24020004
+[Infinite Souls]
+patch=1,EE,200C0230,extended,14800003
+[Infinite Souls]
+patch=1,EE,200C0234,extended,2401270F
+[Infinite Souls]
+patch=1,EE,200C0238,extended,AC610078
+[Infinite Souls]
+patch=1,EE,200C023C,extended,27FF0010
+[Infinite Souls]
+patch=1,EE,200C0240,extended,03E00008
+[Infinite Souls]
+patch=1,EE,200C0244,extended,00000000
+[Infinite Souls]
+patch=1,EE,201C4D34,extended,0C03008C
+[Infinite Gold]
+patch=1,EE,200C0250,extended,50800003
+[Infinite Gold]
+patch=1,EE,200C0254,extended,27FF0004
+[Infinite Gold]
+patch=1,EE,200C0258,extended,2402270F
+[Infinite Gold]
+patch=1,EE,200C025C,extended,AC62007C
+[Infinite Gold]
+patch=1,EE,200C0260,extended,27FF000C
+[Infinite Gold]
+patch=1,EE,200C0264,extended,03E00008
+[Infinite Gold]
+patch=1,EE,200C0268,extended,00000000
+[Infinite Gold]
+patch=1,EE,201C4D3C,extended,0C030094
+[>>> Unlock All Campaign Act Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Save Slot 1]
+patch=1,EE,207A6BA8,extended,00000004
+[Save Slot 1]
+patch=1,EE,207A6BAC,extended,00000005
+[Save Slot 2]
+patch=1,EE,207A6C38,extended,00000004
+[Save Slot 2]
+patch=1,EE,207A6C3C,extended,00000005
+[Save Slot 3]
+patch=1,EE,207A6CC8,extended,00000004
+[Save Slot 3]
+patch=1,EE,207A6CCC,extended,00000005
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[P1 Press {L1}+{SELECT} For God Mode Structures On]
+patch=1,EE,D0468082,extended,0000FBFE
+[P1 Press {L1}+{SELECT} For God Mode Structures On]
+patch=1,EE,007A6980,extended,00000001
+[P1 Press {L2}+{SELECT} For God Mode Structures Off]
+patch=1,EE,D0468082,extended,0000FEFE
+[P1 Press {L2}+{SELECT} For God Mode Structures Off]
+patch=1,EE,007A6980,extended,00000000
+[P1 Press {R1}+{SELECT} To Enable God Mode For Team]
+patch=1,EE,D0468082,extended,0000F7FE
+[P1 Press {R1}+{SELECT} To Enable God Mode For Team]
+patch=1,EE,007A6981,extended,00000001
+[P1 Press {R2}+{SELECT} To Disable God Mode For Team]
+patch=1,EE,D0468082,extended,0000FDFE
+[P1 Press {R2}+{SELECT} To Disable God Mode For Team]
+patch=1,EE,007A6981,extended,00000000
+[Team God Mode Always On]
+patch=1,EE,007A6981,extended,00000001
+[Team God Mode Always Off]
+patch=1,EE,007A6981,extended,00000000
+[P1 Press {L1}+Up For Game Speed x16]
+patch=1,EE,D0468082,extended,0000FBEF
+[P1 Press {L1}+Up For Game Speed x16]
+patch=1,EE,2037F7F0,extended,41800000
+[P1 Press {L1}+Right For Game Speed x8]
+patch=1,EE,D0468082,extended,0000FBDF
+[P1 Press {L1}+Right For Game Speed x8]
+patch=1,EE,2037F7F0,extended,41000000
+[P1 Press {L1}+Down For Game Speed x4]
+patch=1,EE,D0468082,extended,0000FBBF
+[P1 Press {L1}+Down For Game Speed x4]
+patch=1,EE,2037F7F0,extended,40800000
+[P1 Press {L1}+Left For Game Speed x2]
+patch=1,EE,D0468082,extended,0000FB7F
+[P1 Press {L1}+Left For Game Speed x2]
+patch=1,EE,2037F7F0,extended,40000000
+[P1 Press {R1}+Up For Game Speed x1/2]
+patch=1,EE,D0468082,extended,0000F7EF
+[P1 Press {R1}+Up For Game Speed x1/2]
+patch=1,EE,2037F7F0,extended,3F000000
+[P1 Press {R1}+Right For Game Speed x1/4]
+patch=1,EE,D0468082,extended,0000F7DF
+[P1 Press {R1}+Right For Game Speed x1/4]
+patch=1,EE,2037F7F0,extended,3E800000
+[P1 Press {R1}+Down For Game Speed Normal]
+patch=1,EE,D0468082,extended,0000F7BF
+[P1 Press {R1}+Down For Game Speed Normal]
+patch=1,EE,2037F7F0,extended,3F000000
+[Disable Fog Of War]
+patch=1,EE,201FBC7C,extended,A060003B
+[Disable Fog Of War]
+patch=1,EE,101FBC82,extended,00001000
+

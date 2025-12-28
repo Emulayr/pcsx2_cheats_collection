@@ -1,0 +1,36 @@
+gametitle=[SLUS-21496] Pro Stroke Golf-World Tour 2007
+[Enable Code (Must Be On)]
+patch=1,EE,9030D8C0,extended,00832021
+[Always Hole In One (Human Players)]
+patch=1,EE,200C0220,extended,24060000
+[Always Hole In One (Human Players)]
+patch=1,EE,200C0224,extended,ACA600A0
+[Always Hole In One (Human Players)]
+patch=1,EE,200C0228,extended,03E00008
+[Always Hole In One (Human Players)]
+patch=1,EE,200C022C,extended,8C430000
+[Always Hole In One (Human Players)]
+patch=1,EE,202E71D8,extended,0C030088
+[>>> All Player Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Strokes Always Worth 1]
+patch=1,EE,10221BE0,extended,0000000A
+[Strokes Always Worth 5]
+patch=1,EE,10221BE0,extended,00000005
+[Strokes Always Worth 4]
+patch=1,EE,10221BE0,extended,00000004
+[Strokes Always Worth 3]
+patch=1,EE,10221BE0,extended,00000003
+[Strokes Always Worth 2]
+patch=1,EE,10221BE0,extended,00000002
+[Always Hole In One]
+patch=1,EE,20221BE0,extended,24020001
+[>>> PSG Career Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Renown]
+patch=1,EE,209E77E8,extended,0001869F
+[Infinite Money]
+patch=1,EE,109E77EC,extended,0000FFFF
+[Max Money]
+patch=1,EE,209E77EC,extended,05F5E0FF
+

@@ -1,0 +1,162 @@
+gametitle=Magna Carta-Tears Of Blood
+[Enable Code (Must Be On)]
+patch=1,EE,9012085C,extended,0C045B1C
+[Quick Record Gain]
+patch=1,EE,10E3ED48,extended,0000FFFF
+[Max Record]
+patch=1,EE,20E3ED48,extended,05F5E0FF
+[Always Low Play Time]
+patch=1,EE,20E3ED58,extended,00000000
+[Infinite Sid]
+patch=1,EE,10E3EE3C,extended,0000FFFF
+[Max Sid]
+patch=1,EE,20E3EE3C,extended,05F5E0FF
+[Buying Items Doesnt Decrease Sid]
+patch=1,EE,203A0FF0,extended,00000000
+[Buying Items Increases Sid]
+patch=1,EE,203A0FE8,extended,00651821
+[Quick Max Sid Gain]
+patch=1,EE,203A10B8,extended,00000000
+[Infinite Item Usage]
+patch=1,EE,2039FDF0,extended,00000000
+[Max Infinite Items]
+patch=1,EE,2039FDD8,extended,24020063
+[Extra Items]
+patch=1,EE,2039FDD8,extended,00461021
+[View Talisman To Have All]
+patch=1,EE,200C0280,extended,00402021
+[View Talisman To Have All]
+patch=1,EE,200C0284,extended,2405005E
+[View Talisman To Have All]
+patch=1,EE,200C0288,extended,24010001
+[View Talisman To Have All]
+patch=1,EE,200C028C,extended,A081001A
+[View Talisman To Have All]
+patch=1,EE,200C0290,extended,24A5FFFF
+[View Talisman To Have All]
+patch=1,EE,200C0294,extended,1CA0FFFC
+[View Talisman To Have All]
+patch=1,EE,200C0298,extended,24840064
+[View Talisman To Have All]
+patch=1,EE,200C029C,extended,03E00008
+[View Talisman To Have All]
+patch=1,EE,200C02A0,extended,00000000
+[View Talisman To Have All]
+patch=1,EE,202FE2C0,extended,080300A0
+[>>> In-Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Activation Code (Must Be On)]
+patch=1,EE,200C0000,extended,8E010000
+[Activation Code (Must Be On)]
+patch=1,EE,200C0004,extended,30210100
+[Activation Code (Must Be On)]
+patch=1,EE,200C0008,extended,8E03020C
+[Activation Code (Must Be On)]
+patch=1,EE,200C000C,extended,1020001C
+[Activation Code (Must Be On)]
+patch=1,EE,200C0010,extended,8C630060
+[Activation Code (Must Be On)]
+patch=1,EE,200C0078,extended,0810B62C
+[Activation Code (Must Be On)]
+patch=1,EE,200C00F8,extended,0810B62C
+[Activation Code (Must Be On)]
+patch=1,EE,203FE074,extended,0C030000
+[Max HP (All Characters)]
+patch=1,EE,200C0080,extended,2401270F
+[Max HP (All Characters)]
+patch=1,EE,200C0084,extended,AC610034
+[Infinite HP (All Characters)]
+patch=1,EE,200C0088,extended,2401270F
+[Infinite HP (All Characters)]
+patch=1,EE,200C008C,extended,AC6100AC
+[1-Hit Death (Enemies)]
+patch=1,EE,200C0014,extended,24010001
+[1-Hit Death (Enemies)]
+patch=1,EE,200C0018,extended,AC6100AC
+[Max Party Leadership Meter]
+patch=1,EE,200C02E0,extended,3C0142C8
+[Max Party Leadership Meter]
+patch=1,EE,200C02E4,extended,8E230390
+[Max Party Leadership Meter]
+patch=1,EE,200C02E8,extended,03E00008
+[Max Party Leadership Meter]
+patch=1,EE,200C02EC,extended,AC610028
+[Max Party Leadership Meter]
+patch=1,EE,20369A40,extended,0C0300B8
+[No Enemy Leadership Meter]
+patch=1,EE,200C02F0,extended,3C010000
+[No Enemy Leadership Meter]
+patch=1,EE,200C02F4,extended,8E230394
+[No Enemy Leadership Meter]
+patch=1,EE,200C02F8,extended,03E00008
+[No Enemy Leadership Meter]
+patch=1,EE,200C02FC,extended,AC610028
+[No Enemy Leadership Meter]
+patch=1,EE,20369A50,extended,0C0300BC
+[>>> All Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,200C0200,extended,2401270F
+[Max HP]
+patch=1,EE,200C0204,extended,080BF890
+[Max HP]
+patch=1,EE,200C0208,extended,AE010034
+[Max HP]
+patch=1,EE,2041D508,extended,0C030080
+[View Menu To Refill HP]
+patch=1,EE,200C0210,extended,2401270F
+[View Menu To Refill HP]
+patch=1,EE,200C0214,extended,080BF890
+[View Menu To Refill HP]
+patch=1,EE,200C0218,extended,AE0100AC
+[View Menu To Refill HP]
+patch=1,EE,2041D574,extended,0C030084
+[Max CHA]
+patch=1,EE,200C0220,extended,240503E7
+[Max CHA]
+patch=1,EE,200C0224,extended,03E00008
+[Max CHA]
+patch=1,EE,200C0228,extended,AE050038
+[Max CHA]
+patch=1,EE,2041D550,extended,0C030088
+[Max ATK]
+patch=1,EE,200C0230,extended,240503E7
+[Max ATK]
+patch=1,EE,200C0234,extended,03E00008
+[Max ATK]
+patch=1,EE,200C0238,extended,AE050040
+[Max ATK]
+patch=1,EE,2041D510,extended,0C03008C
+[Max DEF]
+patch=1,EE,200C0240,extended,240503E7
+[Max DEF]
+patch=1,EE,200C0244,extended,03E00008
+[Max DEF]
+patch=1,EE,200C0248,extended,AE050044
+[Max DEF]
+patch=1,EE,2041D530,extended,0C030090
+[Max MAG]
+patch=1,EE,200C0250,extended,240503E7
+[Max MAG]
+patch=1,EE,200C0254,extended,03E00008
+[Max MAG]
+patch=1,EE,200C0258,extended,AE050048
+[Max MAG]
+patch=1,EE,2041D560,extended,0C030094
+[Max RES]
+patch=1,EE,200C0260,extended,240503E7
+[Max RES]
+patch=1,EE,200C0264,extended,03E00008
+[Max RES]
+patch=1,EE,200C0268,extended,AE05004C
+[Max RES]
+patch=1,EE,2041D540,extended,0C030098
+[Level 99]
+patch=1,EE,200C0270,extended,24010063
+[Level 99]
+patch=1,EE,200C0274,extended,080BF890
+[Level 99]
+patch=1,EE,200C0278,extended,AE0100A8
+[Level 99]
+patch=1,EE,2041D5E0,extended,0C03009C
+

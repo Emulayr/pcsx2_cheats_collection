@@ -1,0 +1,68 @@
+gametitle=Getaway-Black Monday, The
+[Enable Code (Must Be On)]
+patch=1,EE,90433864,extended,0C10DEA4
+[Infinite Health]
+patch=1,EE,201DB4F4,extended,3C0142C8
+[Infinite Health]
+patch=1,EE,201DB4FC,extended,AC810630
+[Infinite Ammo]
+patch=1,EE,201C0FD4,extended,00000000
+[Max Infinite Ammo]
+patch=1,EE,201C0FC8,extended,240203E7
+[Extra Ammo]
+patch=1,EE,201C0FC8,extended,00431021
+[Never Reload]
+patch=1,EE,201ECAD4,extended,00000000
+[Infinite Grenades]
+patch=1,EE,201EC3A4,extended,00000000
+[Idiot AI-All NPC's]
+patch=1,EE,201C7D50,extended,03E00008
+[Idiot AI-All NPC's]
+patch=1,EE,201C7D54,extended,00000000
+[NPC's Cant Shoot]
+patch=1,EE,201C84D0,extended,03E00008
+[NPC's Cant Shoot]
+patch=1,EE,201C84D4,extended,00000000
+[Civilians Turn Into Cops In Cars]
+patch=1,EE,2010EDB8,extended,08043B73
+[Civilians Turn Into Cops On Foot]
+patch=1,EE,2010EDB8,extended,08043B7B
+[Cops In Cars Turn Into Civilians]
+patch=1,EE,2010EDD8,extended,08043B6C
+[Cops In Cars Turn Into Cops On Foot]
+patch=1,EE,2010EDD8,extended,08043B7B
+[Cops On Foot Turn Into Civilians]
+patch=1,EE,2010EDEC,extended,1040FFF0
+[Cops On Foot Turn Into Cops In Cars]
+patch=1,EE,2010EDEC,extended,1040FFF7
+[Faster Characters]
+patch=1,EE,204AAA80,extended,42000000
+[Super Fast Characters]
+patch=1,EE,204AAA80,extended,41C00000
+[Ultra Fast Characters]
+patch=1,EE,204AAA80,extended,41000000
+[Super Slow Characters]
+patch=1,EE,204AAA80,extended,42C80000
+[>>> Character Movement Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[P1 Press {L1}+{SELECT} For Faster Movement]
+patch=1,EE,D0550242,extended,0000FBFE
+[P1 Press {L1}+{SELECT} For Faster Movement]
+patch=1,EE,204AAA80,extended,42000000
+[P1 Press {L2}+{SELECT} For Super Fast Movement]
+patch=1,EE,D0550242,extended,0000FEFE
+[P1 Press {L2}+{SELECT} For Super Fast Movement]
+patch=1,EE,204AAA80,extended,41C00000
+[P1 Press {R1}+{SELECT} For Ultra Fast Movement]
+patch=1,EE,D0550242,extended,0000F7FE
+[P1 Press {R1}+{SELECT} For Ultra Fast Movement]
+patch=1,EE,204AAA80,extended,41400000
+[P1 Press {R2}+{SELECT} For Super Slow Movement]
+patch=1,EE,D0550242,extended,0000FDFE
+[P1 Press {R2}+{SELECT} For Super Slow Movement]
+patch=1,EE,204AAA80,extended,42C80000
+[P1 Press {L1}+{L2} For Normal Movement]
+patch=1,EE,D0550242,extended,0000FAFF
+[P1 Press {L1}+{L2} For Normal Movement]
+patch=1,EE,204AAA80,extended,42700000
+

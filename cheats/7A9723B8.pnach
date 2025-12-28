@@ -1,0 +1,208 @@
+gametitle=Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe
+[Enable Code (Must Be On)]
+patch=1,EE,9038B4E8,extended,0C0E756F
+[Infinite Health]
+patch=1,EE,202D713C,extended,C60008A0
+[Infinite Health]
+patch=1,EE,202D7148,extended,E60008A4
+[Infinite Arrows]
+patch=1,EE,20270C90,extended,00000000
+[Max Infinite Arrows]
+patch=1,EE,20270C88,extended,24040063
+[Extra Arrows]
+patch=1,EE,10270C88,extended,00000001
+[Infinite Coins]
+patch=1,EE,10635F04,extended,0000FFFF
+[Max Coins]
+patch=1,EE,20635F04,extended,0098967F
+[Infinite Time]
+patch=1,EE,20667020,extended,4560F000
+[Infinite Time]
+patch=1,EE,20667024,extended,4560F000
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,D1F2DA42,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Stop Timer]
+patch=1,EE,202D7B28,extended,00000000
+[P1 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,D1F2DA42,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Restart Timer]
+patch=1,EE,202D7B28,extended,E4800C90
+[Have Most Bonus Items]
+patch=1,EE,20253D68,extended,24030002
+[Have Most Bonus Items]
+patch=1,EE,20253D6C,extended,AD03000C
+[Have Most Bonus Items]
+patch=1,EE,20253DA0,extended,24030001
+[Have Most Bonus Items]
+patch=1,EE,20253DA8,extended,A0830000
+[Have Most Bonus Items]
+patch=1,EE,20253DB0,extended,24840001
+[Have Most Bonus Items]
+patch=1,EE,20253DF8,extended,24020002
+[Have Most Bonus Items]
+patch=1,EE,20253E00,extended,A0820000
+[Have Most Bonus Items]
+patch=1,EE,20253E08,extended,24840002
+[Have Most Bonus Items]
+patch=1,EE,20253E10,extended,24660000
+[>>> Have All Statues Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[The Air Raid]
+patch=1,EE,20637964,extended,00000015
+[The Air Raid]
+patch=1,EE,206379B8,extended,00000015
+[Glimpse Of Narnia]
+patch=1,EE,20637968,extended,00000005
+[Glimpse Of Narnia]
+patch=1,EE,206379BC,extended,00000005
+[The Spare Room]
+patch=1,EE,2063796C,extended,00000010
+[The Spare Room]
+patch=1,EE,206379C0,extended,00000010
+[Lantern Waste]
+patch=1,EE,20637970,extended,00000015
+[Lantern Waste]
+patch=1,EE,206379C4,extended,00000015
+[To Western Wood]
+patch=1,EE,20637974,extended,0000001D
+[To Western Wood]
+patch=1,EE,206379C8,extended,0000001D
+[Beaver Dam]
+patch=1,EE,20637978,extended,00000004
+[Beaver Dam]
+patch=1,EE,206379CC,extended,00000004
+[Through The Tunnel]
+patch=1,EE,2063797C,extended,0000000D
+[Through The Tunnel]
+patch=1,EE,206379D0,extended,0000000D
+[Frozen Lake]
+patch=1,EE,20637980,extended,00000007
+[Frozen Lake]
+patch=1,EE,206379D4,extended,00000007
+[The Great River]
+patch=1,EE,20637984,extended,00000010
+[The Great River]
+patch=1,EE,206379D8,extended,00000010
+[Rescue Edmund]
+patch=1,EE,20637988,extended,0000000A
+[Rescue Edmund]
+patch=1,EE,206379DC,extended,0000000A
+[Follow Aslan]
+patch=1,EE,2063798C,extended,0000000C
+[Follow Aslan]
+patch=1,EE,206379E0,extended,0000000C
+[Battle Of Beruna]
+patch=1,EE,20637990,extended,00000006
+[Battle Of Beruna]
+patch=1,EE,206379E4,extended,00000006
+[The Witch's Castle]
+patch=1,EE,20637994,extended,00000005
+[The Witch's Castle]
+patch=1,EE,206379E8,extended,00000005
+[The Great Battle]
+patch=1,EE,20637998,extended,00000007
+[The Great Battle]
+patch=1,EE,206379EC,extended,00000007
+[The White Witch]
+patch=1,EE,2063799C,extended,00000005
+[The White Witch]
+patch=1,EE,206379F0,extended,00000005
+[>>> Unlock Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[The Air Raid]
+patch=1,EE,D0635ACC,extended,00000000
+[The Air Raid]
+patch=1,EE,20635ACC,extended,00000001
+[Glimpse Of Narnia]
+patch=1,EE,D0635AD8,extended,00000000
+[Glimpse Of Narnia]
+patch=1,EE,20635AD8,extended,00000001
+[The Spare Room]
+patch=1,EE,D0635AE4,extended,00000000
+[The Spare Room]
+patch=1,EE,20635AE4,extended,00000001
+[Lantern Waste]
+patch=1,EE,D0635AF0,extended,00000000
+[Lantern Waste]
+patch=1,EE,20635AF0,extended,00000001
+[To Western Wood]
+patch=1,EE,D0635AFC,extended,00000000
+[To Western Wood]
+patch=1,EE,20635AFC,extended,00000001
+[Beaver Dam]
+patch=1,EE,D0635B08,extended,00000000
+[Beaver Dam]
+patch=1,EE,20635B08,extended,00000001
+[Through The Tunnel]
+patch=1,EE,D0635B14,extended,00000000
+[Through The Tunnel]
+patch=1,EE,20635B14,extended,00000001
+[Frozen Lake]
+patch=1,EE,D0635B20,extended,00000000
+[Frozen Lake]
+patch=1,EE,20635B20,extended,00000001
+[The Great River]
+patch=1,EE,D0635B2C,extended,00000000
+[The Great River]
+patch=1,EE,20635B2C,extended,00000001
+[Rescue Edmund]
+patch=1,EE,D0635B38,extended,00000000
+[Rescue Edmund]
+patch=1,EE,20635B38,extended,00000001
+[Follow Aslan]
+patch=1,EE,D0635B44,extended,00000000
+[Follow Aslan]
+patch=1,EE,20635B44,extended,00000001
+[Battle Of Beruna]
+patch=1,EE,D0635B50,extended,00000000
+[Battle Of Beruna]
+patch=1,EE,20635B50,extended,00000001
+[The Witch's Castle]
+patch=1,EE,D0635B5C,extended,00000000
+[The Witch's Castle]
+patch=1,EE,20635B5C,extended,00000001
+[The Great Battle]
+patch=1,EE,D0635B68,extended,00000000
+[The Great Battle]
+patch=1,EE,20635B68,extended,00000001
+[The White Witch]
+patch=1,EE,D0635B74,extended,00000000
+[The White Witch]
+patch=1,EE,20635B74,extended,00000001
+[>>> Have Level Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[The Air Raid]
+patch=1,EE,20635ACC,extended,00000002
+[Glimpse Of Narnia]
+patch=1,EE,20635AD8,extended,00000002
+[The Spare Room]
+patch=1,EE,20635AE4,extended,00000002
+[Lantern Waste]
+patch=1,EE,20635AF0,extended,00000002
+[To Western Wood]
+patch=1,EE,20635AFC,extended,00000002
+[Beaver Dam]
+patch=1,EE,20635B08,extended,00000002
+[Through The Tunnel]
+patch=1,EE,20635B14,extended,00000002
+[Frozen Lake]
+patch=1,EE,20635B20,extended,00000002
+[The Great River]
+patch=1,EE,20635B2C,extended,00000002
+[Rescue Edmund]
+patch=1,EE,20635B38,extended,00000002
+[Follow Aslan]
+patch=1,EE,20635B44,extended,00000002
+[Battle Of Beruna]
+patch=1,EE,20635B50,extended,00000002
+[The Witch's Castle]
+patch=1,EE,20635B5C,extended,00000002
+[The Great Battle]
+patch=1,EE,20635B68,extended,00000002
+[The White Witch]
+patch=1,EE,20635B74,extended,00000002
+[All Levels]
+patch=1,EE,40635ACC,extended,000F0003
+[All Levels]
+patch=1,EE,00000002,extended,00000000
+

@@ -1,0 +1,512 @@
+gametitle=Need For Speed-Underground
+[Enable Code (Must Be On)]
+patch=1,EE,903B156C,extended,0C0F3141
+[Infinite Nitrous Usage]
+patch=1,EE,2018D644,extended,44801000
+[Infinite Nitrous Usage]
+patch=1,EE,2018D858,extended,00000000
+[Always Max Nitrous Turbo]
+patch=1,EE,201D3CC0,extended,2403270F
+[Always Max Nitrous Turbo]
+patch=1,EE,201D3CC4,extended,AE2303F0
+[Always Max Nitrous Turbo]
+patch=1,EE,201D3CC8,extended,AE2303F8
+[Always Max Nitrous Turbo]
+patch=1,EE,2018D644,extended,44801000
+[Always Max Nitrous Turbo]
+patch=1,EE,2018D858,extended,00000000
+[Max Total Style Points]
+patch=1,EE,204A6274,extended,05F5E0FF
+[Infinite Money]
+patch=1,EE,104ADA0C,extended,0000FFFF
+[Max Money]
+patch=1,EE,204ADA0C,extended,05F5E0FF
+[Max Total Starts]
+patch=1,EE,204B595C,extended,05F5E0FF
+[Max Total Wins]
+patch=1,EE,204B5960,extended,05F5E0FF
+[No Total Losses]
+patch=1,EE,204B5964,extended,00000000
+[Max Total Sprint Starts]
+patch=1,EE,204B5968,extended,05F5E0FF
+[Max Total Sprint Wins]
+patch=1,EE,204B596C,extended,05F5E0FF
+[Max Total Sprint Style Points]
+patch=1,EE,204B5970,extended,05F5E0FF
+[Max Total Drag Starts]
+patch=1,EE,204B5974,extended,05F5E0FF
+[Max Total Drag Wins]
+patch=1,EE,204B5978,extended,05F5E0FF
+[Max Total Drag Style Points]
+patch=1,EE,204B597C,extended,05F5E0FF
+[Max Total Drift Starts]
+patch=1,EE,204B5980,extended,05F5E0FF
+[Max Total Drift Wins]
+patch=1,EE,204B5984,extended,05F5E0FF
+[Max Total Drift Style Points]
+patch=1,EE,204B5988,extended,05F5E0FF
+[Max Total Circuit Starts]
+patch=1,EE,204B598C,extended,05F5E0FF
+[Max Total Circuit Wins]
+patch=1,EE,204B5990,extended,05F5E0FF
+[Max Total Circuit Style Points]
+patch=1,EE,204B5994,extended,05F5E0FF
+[Have All Underground Race Progress]
+patch=1,EE,004AC9E7,extended,00000002
+[Have All Underground Race Progress]
+patch=1,EE,404AC9E8,extended,001B0001
+[Have All Underground Race Progress]
+patch=1,EE,02020202,extended,00000000
+[Have All Underground Race Progress]
+patch=1,EE,104ACA54,extended,00000202
+[Have All Underground Race Progress]
+patch=1,EE,004ACA56,extended,00000002
+[Debug Menu (Pause, Then Choose Options)]
+patch=1,EE,001F2B70,extended,00000007
+[Idiot AI]
+patch=1,EE,2016A6C0,extended,03E00008
+[Idiot AI]
+patch=1,EE,2016A6C4,extended,00000000
+[Unlock Everything]
+patch=1,EE,205016A4,extended,00000001
+[Unlock Everything]
+patch=1,EE,20503C94,extended,00000001
+[NOS Level 3]
+patch=1,EE,2046FC38,extended,00000003
+[NOS Level 2]
+patch=1,EE,2046FC38,extended,00000002
+[NOS Level 1]
+patch=1,EE,2046FC38,extended,00000001
+[NOS Level 0]
+patch=1,EE,2046FC38,extended,00000000
+[Super Easy AI]
+patch=1,EE,20500AB8,extended,00000001
+[Access Performance Level 1 Options]
+patch=1,EE,2050CE00,extended,00000001
+[Access Performance Level 2 Options]
+patch=1,EE,2050CE38,extended,00000001
+[Access More Visual Options]
+patch=1,EE,2050CE70,extended,00000001
+[Access All Circuit Tracks (Quick Race)]
+patch=1,EE,2050CEA8,extended,00000001
+[Access All Sprint Tracks (Quick Race)]
+patch=1,EE,2050CEE0,extended,00000001
+[Access All Drag Tracks (Quick Race)]
+patch=1,EE,2050CF18,extended,00000001
+[Access All Drift Tracks (Quick Race)]
+patch=1,EE,2050CF50,extended,00000001
+[Access Nissan Sentra SE R SpecV (Quick Race)]
+patch=1,EE,2050CFC0,extended,00000001
+[Access Mitsubishi Motors Eclipse (Quick Race)]
+patch=1,EE,2050CFF8,extended,00000001
+[Access Nissan 350 Z (Quick Race)]
+patch=1,EE,2050D030,extended,00000001
+[Access Toyota Celica (Quick Race)]
+patch=1,EE,2050D068,extended,00000001
+[Access Nissan Skyline GT R (Quick Race)]
+patch=1,EE,2050D0A0,extended,00000001
+[Unlock All Level 1 Options]
+patch=1,EE,004AC9EA,extended,00000002
+[Unlock All Level 1 Options]
+patch=1,EE,004AC9ED,extended,00000002
+[Unlock All Level 1 Options]
+patch=1,EE,004AC9F2,extended,00000002
+[Unlock All Level 2 Options]
+patch=1,EE,004ACA02,extended,00000002
+[Unlock All Level 2 Options]
+patch=1,EE,004ACA0A,extended,00000002
+[Unlock All Level 2 Options]
+patch=1,EE,004ACA14,extended,00000002
+[Unlock All Level 3 Options]
+patch=1,EE,004ACA26,extended,00000002
+[Unlock All Level 3 Options]
+patch=1,EE,004ACA34,extended,00000002
+[Unlock All Level 3 Options]
+patch=1,EE,004ACA40,extended,00000002
+[>>> Have Weight Reduction Kits Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD3E4,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD3E8,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD3EC,extended,00000003
+[Level U Option]
+patch=1,EE,204AD3F0,extended,00000004
+[>>> Have Brake Kits Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD474,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD478,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD47C,extended,00000003
+[Level U Option]
+patch=1,EE,204AD480,extended,00000004
+[>>> Have Engine/Exhaust Package Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD504,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD508,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD50C,extended,00000003
+[Level U Option]
+patch=1,EE,204AD510,extended,00000004
+[>>> Have Drivetrain Package Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD594,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD598,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD59C,extended,00000003
+[Level U Option]
+patch=1,EE,204AD5A0,extended,00000004
+[>>> Have Tires Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD624,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD628,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD62C,extended,00000003
+[Level U Option]
+patch=1,EE,204AD630,extended,00000004
+[>>> Have Suspension Package Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD6B4,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD6B8,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD6BC,extended,00000003
+[Level U Option]
+patch=1,EE,204AD6C0,extended,00000004
+[>>> Have Turbo Package Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD744,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD748,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD74C,extended,00000003
+[Level U Option]
+patch=1,EE,204AD750,extended,00000004
+[>>> Have E.C.U. & Fuel System Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD7D4,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD7D8,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD7DC,extended,00000003
+[Level U Option]
+patch=1,EE,204AD7E0,extended,00000004
+[>>> Have Nitrous Oxide Owned Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Level 1 Option]
+patch=1,EE,204AD864,extended,00000001
+[Level 2 Option]
+patch=1,EE,204AD868,extended,00000002
+[Level 3 Option]
+patch=1,EE,204AD86C,extended,00000003
+[Level U Option]
+patch=1,EE,204AD870,extended,00000004
+[>>> Have All U Options Equipped Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Volkswagen-Golf GTI]
+patch=1,EE,404A870C,extended,00090001
+[Volkswagen-Golf GTI]
+patch=1,EE,00000001,extended,00000000
+[Ford Focus]
+patch=1,EE,404A8A54,extended,00090001
+[Ford Focus]
+patch=1,EE,00000001,extended,00000000
+[Mazda Miata MX-5]
+patch=1,EE,404A8D9C,extended,00090001
+[Mazda Miata MX-5]
+patch=1,EE,00000001,extended,00000000
+[Dodge Neon]
+patch=1,EE,404A90E4,extended,00090001
+[Dodge Neon]
+patch=1,EE,00000001,extended,00000000
+[Honda Civic]
+patch=1,EE,404A942C,extended,00090001
+[Honda Civic]
+patch=1,EE,00000001,extended,00000000
+[Peugeot 206]
+patch=1,EE,404A9774,extended,00090001
+[Peugeot 206]
+patch=1,EE,00000001,extended,00000000
+[Toyota Celica]
+patch=1,EE,404A9ABC,extended,00090001
+[Toyota Celica]
+patch=1,EE,00000001,extended,00000000
+[Mitsubishi Motors Eclipse]
+patch=1,EE,404A9E04,extended,00090001
+[Mitsubishi Motors Eclipse]
+patch=1,EE,00000001,extended,00000000
+[Mazda RX-7]
+patch=1,EE,404AA14C,extended,00090001
+[Mazda RX-7]
+patch=1,EE,00000001,extended,00000000
+[Toyota Supra]
+patch=1,EE,404AA494,extended,00090001
+[Toyota Supra]
+patch=1,EE,00000001,extended,00000000
+[Honda S 2000]
+patch=1,EE,404AA7DC,extended,00090001
+[Honda S 2000]
+patch=1,EE,00000001,extended,00000000
+[Acura RSX]
+patch=1,EE,404AAB24,extended,00090001
+[Acura RSX]
+patch=1,EE,00000001,extended,00000000
+[Subaru Impreza]
+patch=1,EE,404AAE6C,extended,00090001
+[Subaru Impreza]
+patch=1,EE,00000001,extended,00000000
+[Mitsubishi Motors Lancer]
+patch=1,EE,404AB1B4,extended,00090001
+[Mitsubishi Motors Lancer]
+patch=1,EE,00000001,extended,00000000
+[Acura Integra Type R]
+patch=1,EE,404AB4FC,extended,00090001
+[Acura Integra Type R]
+patch=1,EE,00000001,extended,00000000
+[Hyundai Tiburon GY V6]
+patch=1,EE,404AB844,extended,00090001
+[Hyundai Tiburon GY V6]
+patch=1,EE,00000001,extended,00000000
+[Nissan 350 Z]
+patch=1,EE,404ABB8C,extended,00090001
+[Nissan 350 Z]
+patch=1,EE,00000001,extended,00000000
+[Nissan Sentra SE R SpecV]
+patch=1,EE,404ABED4,extended,00090001
+[Nissan Sentra SE R SpecV]
+patch=1,EE,00000001,extended,00000000
+[Nissan 240SX]
+patch=1,EE,404AC21C,extended,00090001
+[Nissan 240SX]
+patch=1,EE,00000001,extended,00000000
+[Nissan Skyline GT R]
+patch=1,EE,404AC564,extended,00090001
+[Nissan Skyline GT R]
+patch=1,EE,00000001,extended,00000000
+[Underground-Custom Car]
+patch=1,EE,404AC9A4,extended,00090001
+[Underground-Custom Car]
+patch=1,EE,00000001,extended,00000000
+[>>> Unlock Visual-Vinyl Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Side-Tear 1-25]
+patch=1,EE,004A6278,extended,00000001
+[Side-Tear 26-36]
+patch=1,EE,004A6279,extended,00000001
+[Side-Tear 37-39]
+patch=1,EE,004A627A,extended,00000001
+[Hood-Hood Tear 1-10]
+patch=1,EE,004A627B,extended,00000001
+[Side-Stripe 1-20]
+patch=1,EE,004A627C,extended,00000001
+[Side-Stripe 21-47]
+patch=1,EE,004A627D,extended,00000001
+[Side-Stripe 48-51]
+patch=1,EE,004A627E,extended,00000001
+[Hood-Hood Stripe 1-8]
+patch=1,EE,004A627F,extended,00000001
+[Side-Splash 1-8]
+patch=1,EE,004A6280,extended,00000001
+[Side-Splash 9-15]
+patch=1,EE,004A6281,extended,00000001
+[Side-Splash 16-17]
+patch=1,EE,004A6282,extended,00000001
+[Side-Modern 1-12]
+patch=1,EE,004A6283,extended,00000001
+[Side-Modern 13-31]
+patch=1,EE,004A6284,extended,00000001
+[Side-Modern 32-35]
+patch=1,EE,004A6285,extended,00000001
+[Hood-Hood Modern 1-8]
+patch=1,EE,004A6286,extended,00000001
+[Side-Flame 1-28]
+patch=1,EE,004A6287,extended,00000001
+[Side-Flame 29-39]
+patch=1,EE,004A6288,extended,00000001
+[Side-Flame 40-43]
+patch=1,EE,004A6289,extended,00000001
+[Hood-Hood Flame 1-7]
+patch=1,EE,004A628A,extended,00000001
+[Side-Lightning 1-16]
+patch=1,EE,004A628B,extended,00000001
+[Side-Lightning 17-24]
+patch=1,EE,004A628C,extended,00000001
+[Side-Lightning 25-26]
+patch=1,EE,004A628D,extended,00000001
+[Side-Flag 1-7]
+patch=1,EE,004A628E,extended,00000001
+[Side-Flag 8-9]
+patch=1,EE,004A628F,extended,00000001
+[Side-Flag 10-12]
+patch=1,EE,004A6290,extended,00000001
+[Side-Tribal 1-38]
+patch=1,EE,004A6291,extended,00000001
+[Side-Tribal 39-48]
+patch=1,EE,004A6292,extended,00000001
+[Side-Tribal 49-50]
+patch=1,EE,004A6293,extended,00000001
+[Hood-Hood Tribal 1-7]
+patch=1,EE,004A6294,extended,00000001
+[Side-Wild 1-9]
+patch=1,EE,004A6295,extended,00000001
+[Side-Wild 10-24]
+patch=1,EE,004A6296,extended,00000001
+[Side-Wild 25-27]
+patch=1,EE,004A6297,extended,00000001
+[Body-Body 1]
+patch=1,EE,004A6298,extended,00000001
+[Body-Body 2]
+patch=1,EE,004A6299,extended,00000001
+[Body-Body 3]
+patch=1,EE,004A629A,extended,00000001
+[Body-Body 4]
+patch=1,EE,004A629B,extended,00000001
+[Body-Body 5]
+patch=1,EE,004A629C,extended,00000001
+[Unique-Custom 1]
+patch=1,EE,004A629D,extended,00000001
+[Unique-Custom 2]
+patch=1,EE,004A629E,extended,00000001
+[Unique-Custom 3]
+patch=1,EE,004A629F,extended,00000001
+[Unique-Custom 4]
+patch=1,EE,004A62A0,extended,00000001
+[Unique-Custom 5]
+patch=1,EE,004A62A1,extended,00000001
+[Unique-Custom 6]
+patch=1,EE,004A62A2,extended,00000001
+[Unique-Custom 7]
+patch=1,EE,004A62A3,extended,00000001
+[Unique-Custom 8]
+patch=1,EE,004A62A4,extended,00000001
+[Unique-Custom 9]
+patch=1,EE,004A62A5,extended,00000001
+[Unique-Custom 10]
+patch=1,EE,004A62A6,extended,00000001
+[Unique-Custom 11]
+patch=1,EE,004A62A7,extended,00000001
+[Manufacturer-5Zigen]
+patch=1,EE,004A62A8,extended,00000001
+[Manufacturer-Act]
+patch=1,EE,004A62A9,extended,00000001
+[Manufacturer-Aem]
+patch=1,EE,004A62AA,extended,00000001
+[Manufacturer-Alpine]
+patch=1,EE,004A62AB,extended,00000001
+[Manufacturer-Apex Springs]
+patch=1,EE,004A62AC,extended,00000001
+[Manufacturer-Apex Integration]
+patch=1,EE,004A62AD,extended,00000001
+[Manufacturer-Arospeed]
+patch=1,EE,004A62AE,extended,00000001
+[Manufacturer-Audiobahn]
+patch=1,EE,004A62AF,extended,00000001
+[Manufacturer-Bbs]
+patch=1,EE,004A62B0,extended,00000001
+[Manufacturer-Bilstein]
+patch=1,EE,004A62B1,extended,00000001
+[Manufacturer-Borla]
+patch=1,EE,004A62B4,extended,00000001
+[Manufacturer-Brembo]
+patch=1,EE,004A62B3,extended,00000001
+[Manufacturer-DC Sports]
+patch=1,EE,004A62B4,extended,00000001
+[Manufacturer-Eibach Springs]
+patch=1,EE,004A62B5,extended,00000001
+[Manufacturer-Enkei]
+patch=1,EE,004A62B6,extended,00000001
+[Manufacturer-Greddy]
+patch=1,EE,004A62B7,extended,00000001
+[Manufacturer-H&R Springs]
+patch=1,EE,004A62B8,extended,00000001
+[Manufacturer-Hks Usa]
+patch=1,EE,004A62B9,extended,00000001
+[Manufacturer-HP Racing]
+patch=1,EE,004A62BA,extended,00000001
+[Manufacturer-Injen]
+patch=1,EE,004A62BB,extended,00000001
+[Manufacturer-Jackson Racing]
+patch=1,EE,004A62BC,extended,00000001
+[Manufacturer-Kenwood]
+patch=1,EE,004A62BD,extended,00000001
+[Manufacturer-Koni]
+patch=1,EE,004A62BE,extended,00000001
+[Manufacturer-Konig]
+patch=1,EE,004A62BF,extended,00000001
+[Manufacturer-Kumho Tires]
+patch=1,EE,004A62C0,extended,00000001
+[Manufacturer-Kvr Performance]
+patch=1,EE,004A62C1,extended,00000001
+[Manufacturer-Kyb America]
+patch=1,EE,004A62C2,extended,00000001
+[Manufacturer-Momo]
+patch=1,EE,004A62C3,extended,00000001
+[Manufacturer-Neuspeed]
+patch=1,EE,004A62C4,extended,00000001
+[Manufacturer-Nitrous Express]
+patch=1,EE,004A62C5,extended,00000001
+[Manufacturer-Nos (Holley)]
+patch=1,EE,004A62C6,extended,00000001
+[Manufacturer-O.Z.]
+patch=1,EE,004A62C7,extended,00000001
+[Manufacturer-Piaa]
+patch=1,EE,004A62C8,extended,00000001
+[Manufacturer-Plasmaglow]
+patch=1,EE,004A62C9,extended,00000001
+[Manufacturer-Racing Hart Wheels]
+patch=1,EE,004A62CA,extended,00000001
+[Manufacturer-Scorpion Exhausts]
+patch=1,EE,004A62CB,extended,00000001
+[Manufacturer-Skunk2 Racing]
+patch=1,EE,004A62CC,extended,00000001
+[Manufacturer-Sparco]
+patch=1,EE,004A62CD,extended,00000001
+[Manufacturer-Stillen]
+patch=1,EE,004A62CE,extended,00000001
+[Manufacturer-Street Glow]
+patch=1,EE,004A62CF,extended,00000001
+[Manufacturer-Eurolite]
+patch=1,EE,004A62D0,extended,00000001
+[Manufacturer-Toyo Tires]
+patch=1,EE,004A62D1,extended,00000001
+[Manufacturer-Turbonetics]
+patch=1,EE,004A62D2,extended,00000001
+[Manufacturer-Venom]
+patch=1,EE,004A62D3,extended,00000001
+[Manufacturer-Wilwood]
+patch=1,EE,004A62D4,extended,00000001
+[Manufacturer-Wolfrace Wheels]
+patch=1,EE,004A62D5,extended,00000001
+[Manufacturer-Vokohama]
+patch=1,EE,004A62D6,extended,00000001
+[Manufacturer-Abs Dynamics]
+patch=1,EE,004A62D7,extended,00000001
+[Manufacturer-Clutch Masters]
+patch=1,EE,004A62D8,extended,00000001
+[Manufacturer-Henshin Auto]
+patch=1,EE,004A62D9,extended,00000001
+[Manufacturer-Jsp America]
+patch=1,EE,004A62DA,extended,00000001
+[Manufacturer-Extreme Dimensions]
+patch=1,EE,004A62DB,extended,00000001
+[Unique-Stuff]
+patch=1,EE,004A62DC,extended,00000001
+[Unique-Autozone]
+patch=1,EE,004A62DD,extended,00000001
+[Unique-Heiroglyphics]
+patch=1,EE,004A62DE,extended,00000001
+[Unique-Xmod]
+patch=1,EE,004A62DF,extended,00000001
+

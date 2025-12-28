@@ -1,0 +1,38 @@
+gametitle=SpongeBob SquarePants-ROFD
+[Enable Code (Must Be On)]
+patch=1,EE,9033919C,extended,0C0CB59E
+[Max Overall Doubloons]
+patch=1,EE,20ADE5CC,extended,0000270F
+[Max Overall Jellyfish]
+patch=1,EE,20ADE5D0,extended,000003E7
+[Max Overall Money]
+patch=1,EE,20ADE5D4,extended,000003E7
+[Infinite Health/Pies]
+patch=1,EE,2023BE2C,extended,00000000
+[Pause For Max Health/Pies]
+patch=1,EE,200C0220,extended,080871D7
+[Pause For Max Health/Pies]
+patch=1,EE,200C0224,extended,AE060084
+[Pause For Max Health/Pies]
+patch=1,EE,2021C740,extended,08030088
+[Pause For Max Health/Pies]
+patch=1,EE,2021C744,extended,240603E7
+[Pickup 1 Doubloon For Max Current Level Doubloons]
+patch=1,EE,2037AE90,extended,240503E7
+[Catch 1 Jellyfish For Max Current Level Jellyfish]
+patch=1,EE,2037B15C,extended,240303E7
+[Press {CROSS} For Moon Jump]
+patch=1,EE,D04FA3C2,extended,0000BFFF
+[Press {CROSS} For Moon Jump]
+patch=1,EE,204BA434,extended,3E800000
+[Press {CROSS} For Moon Jump]
+patch=1,EE,D04FA3C2,extended,0010BFFF
+[Press {CROSS} For Moon Jump]
+patch=1,EE,204BA434,extended,00000000
+[Start With Max Health/Pies]
+patch=1,EE,20ADE594,extended,000003E7
+[Coins Come Back After Re-Entering Level]
+patch=1,EE,40ADC94C,extended,003F0001
+[Coins Come Back After Re-Entering Level]
+patch=1,EE,01010101,extended,00000000
+

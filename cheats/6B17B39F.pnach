@@ -1,0 +1,106 @@
+gametitle=Prince Of Persia-Warrior Within
+[Enable Code (Must Be On)]
+patch=1,EE,90103F10,extended,0C046750
+[Infinite Health]
+patch=1,EE,202173FC,extended,24030176
+[Infinite Health]
+patch=1,EE,20217404,extended,AE0301F4
+[Max Health]
+patch=1,EE,20317244,extended,8C410048
+[Max Health]
+patch=1,EE,2031724C,extended,24030176
+[Max Health]
+patch=1,EE,20317254,extended,AC231490
+[Infinite Sand Meter]
+patch=1,EE,200C0240,extended,2401000C
+[Infinite Sand Meter]
+patch=1,EE,200C0244,extended,AC610A94
+[Infinite Sand Meter]
+patch=1,EE,200C0248,extended,080F0E8B
+[Infinite Sand Meter]
+patch=1,EE,200C024C,extended,AF849FD0
+[Infinite Sand Meter]
+patch=1,EE,203C3A24,extended,08030090
+[Max Sand Meter]
+patch=1,EE,200C0250,extended,2401000C
+[Max Sand Meter]
+patch=1,EE,200C0254,extended,AC4111C8
+[Max Sand Meter]
+patch=1,EE,200C0258,extended,03E00008
+[Max Sand Meter]
+patch=1,EE,200C025C,extended,0240202D
+[Max Sand Meter]
+patch=1,EE,203199C4,extended,0C030094
+[Have All Sand Powers]
+patch=1,EE,200C0260,extended,2401FFFF
+[Have All Sand Powers]
+patch=1,EE,200C0264,extended,AE2111C4
+[Have All Sand Powers]
+patch=1,EE,200C0268,extended,03E00008
+[Have All Sand Powers]
+patch=1,EE,200C026C,extended,24430014
+[Have All Sand Powers]
+patch=1,EE,203C72A8,extended,0C030098
+[Have All Life Upgrades Found]
+patch=1,EE,200C0270,extended,8C611328
+[Have All Life Upgrades Found]
+patch=1,EE,200C0274,extended,342101FF
+[Have All Life Upgrades Found]
+patch=1,EE,200C0278,extended,AC611328
+[Have All Life Upgrades Found]
+patch=1,EE,200C027C,extended,080A9769
+[Have All Life Upgrades Found]
+patch=1,EE,200C0280,extended,AF869F10
+[Have All Life Upgrades Found]
+patch=1,EE,202A5D9C,extended,0803009C
+[Infinite Check Point Meter]
+patch=1,EE,2046C198,extended,00000000
+[Infinite Check Point Meter]
+patch=1,EE,2046D060,extended,00000000
+[Infinite Check Point Meter]
+patch=1,EE,2046D128,extended,00000000
+[Infinite Sand Usage]
+patch=1,EE,203C3EB0,extended,00000000
+[1-Hit Death (Enemies)]
+patch=1,EE,201ED4BC,extended,44806000
+[1-Hit Death (Enemies)]
+patch=1,EE,20390DDC,extended,24050000
+[1-Hit Death (Bosses)]
+patch=1,EE,20277B20,extended,24020000
+[Unlock All Video & Artwork Gallery]
+patch=1,EE,207DE440,extended,FFFFFFFF
+[Unlock All Video & Artwork Gallery]
+cheat0_code = "207DE444 FFFFFFFF
+[Unlock All Weapon Gallery]
+patch=1,EE,207DE448,extended,FFFFFFFF
+[Unlock All Weapon Gallery]
+cheat0_code = "207DE44C FFFFFFFF
+[Enemies Cant Attack]
+patch=1,EE,20254F40,extended,03E00008
+[Enemies Cant Attack]
+patch=1,EE,20254F44,extended,00000000
+[Enemies Cant Attack]
+patch=1,EE,20256F40,extended,03E00008
+[Enemies Cant Attack]
+patch=1,EE,20256F44,extended,00000000
+[Enemies Cant Perform Combo Attacks]
+patch=1,EE,20255840,extended,03E00008
+[Enemies Cant Perform Combo Attacks]
+patch=1,EE,20255844,extended,00000000
+[P1 Press {L1}+{SELECT} For Normal Speed]
+patch=1,EE,D07F9082,extended,0000FBFE
+[P1 Press {L1}+{SELECT} For Normal Speed]
+patch=1,EE,207B7E88,extended,3F800000
+[P1 Press {L2}+{SELECT} For Super Speed]
+patch=1,EE,D07F9082,extended,0000FEFE
+[P1 Press {L2}+{SELECT} For Super Speed]
+patch=1,EE,207B7E88,extended,3FC00000
+[P1 Press {R1}+{SELECT} For Turbo Speed]
+patch=1,EE,D07F9082,extended,0000F7FE
+[P1 Press {R1}+{SELECT} For Turbo Speed]
+patch=1,EE,207B7E88,extended,40000000
+[P1 Press {R2}+{SELECT} For Ultra Speed]
+patch=1,EE,D07F9082,extended,0000FDFE
+[P1 Press {R2}+{SELECT} For Ultra Speed]
+patch=1,EE,207B7E88,extended,40800000
+

@@ -1,0 +1,18 @@
+gametitle=[SLUS-20211] Top Gun-Combat Zones
+[Enable Code (Must Be On)]
+patch=1,EE,90118914,extended,0C042724
+[Infinite Time]
+patch=1,EE,201BD158,extended,43F00000
+[Easy Levels Completion]
+patch=1,EE,401E072C,extended,00240008
+[Easy Levels Completion]
+patch=1,EE,00000001,extended,00000000
+[Easy Levels Completion]
+patch=1,EE,401E0730,extended,00240008
+[Easy Levels Completion]
+patch=1,EE,05F5E0FF,extended,00000000
+[Max Level High Scores]
+patch=1,EE,401E0734,extended,00240008
+[Max Level High Scores]
+patch=1,EE,05F5E0FF,extended,00000000
+

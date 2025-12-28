@@ -1,0 +1,1062 @@
+gametitle=Incredible Hulk-Ultimate Destruction, The
+[Enable Code (Must Be On)]
+patch=1,EE,904FC99C,extended,0C14534A
+[Infinite Power (Normal Maximum)]
+patch=1,EE,200C0220,extended,C4411B14
+[Infinite Power (Normal Maximum)]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Power (Normal Maximum)]
+patch=1,EE,200C0228,extended,E4411B0C
+[Infinite Power (Normal Maximum)]
+patch=1,EE,201F2D5C,extended,0C030088
+[Infinite Power (Critical Mass)]
+patch=1,EE,200C0220,extended,C4411B10
+[Infinite Power (Critical Mass)]
+patch=1,EE,200C0224,extended,03E00008
+[Infinite Power (Critical Mass)]
+patch=1,EE,200C0228,extended,E4411B0C
+[Infinite Power (Critical Mass)]
+patch=1,EE,201F2D5C,extended,0C030088
+[Start On Last Leve (Choose Return To Gameplay)]
+patch=1,EE,E0020000,extended,01E4A3F0
+[Start On Last Leve (Choose Return To Gameplay)]
+patch=1,EE,21E4A3F0,extended,00000007
+[Start On Last Leve (Choose Return To Gameplay)]
+patch=1,EE,21E4A3F4,extended,00000003
+[Infinite Smash Points Total]
+patch=1,EE,11D67968,extended,0000FFFF
+[Max Smash Points Total]
+patch=1,EE,21D67968,extended,3B9AC9FF
+[Smash Points Always Increase By 50000]
+patch=1,EE,201075F8,extended,3412C350
+[Smash Points Always Increase By 40000]
+patch=1,EE,201075F8,extended,34129C40
+[Smash Points Always Increase By 30000]
+patch=1,EE,201075F8,extended,34127530
+[Smash Points Always Increase By 20000]
+patch=1,EE,201075F8,extended,34124E20
+[Smash Points Always Increase By 10000]
+patch=1,EE,201075F8,extended,34122710
+[Smash Points Always Increase By 5000]
+patch=1,EE,201075F8,extended,34121388
+[Quick Max Smash Points]
+patch=1,EE,20107640,extended,00000000
+[>>> Unlock Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character-Australian Flag Shorts]
+patch=1,EE,01D739A0,extended,00000000
+[Character-Grey Hulk]
+patch=1,EE,01D739D0,extended,00000000
+[Character-Joe Fix It]
+patch=1,EE,01D73A00,extended,00000000
+[Character-Abomination]
+patch=1,EE,01D73A30,extended,00000000
+[Character-Savage Banner]
+patch=1,EE,01D73A60,extended,00000000
+[Character-Canadian Flag Shorts]
+patch=1,EE,01D73A90,extended,00000000
+[Character-American Flag Shorts]
+patch=1,EE,01D73AC0,extended,00000000
+[Character-UK Flag Shorts]
+patch=1,EE,01D73AF0,extended,00000000
+[Character-French Flag Shorts]
+patch=1,EE,01D73B20,extended,00000000
+[Character-German Flag Shorts]
+patch=1,EE,01D73B50,extended,00000000
+[Character-Italian Flag Shorts]
+patch=1,EE,01D73B80,extended,00000000
+[Character-Spanish Flag Shorts]
+patch=1,EE,01D73BB0,extended,00000000
+[Character-Japanese Flag Shorts]
+patch=1,EE,01D73BE0,extended,00000000
+[Graphic Style-Black And White]
+patch=1,EE,01D73C10,extended,00000000
+[Graphic Style-Sepia]
+patch=1,EE,01D73C40,extended,00000000
+[Low Gravity]
+patch=1,EE,01D73D30,extended,00000000
+[Double Damage]
+patch=1,EE,01D73D60,extended,00000000
+[Double Power Collectables]
+patch=1,EE,01D73D90,extended,00000000
+[Cabs Galore]
+patch=1,EE,01D73DC0,extended,00000000
+[Gorilla Invasion]
+patch=1,EE,01D73E80,extended,00000000
+[All Knowing Hulk]
+patch=1,EE,01D73F10,extended,00000000
+[Road Rage]
+patch=1,EE,01D740D0,extended,00000000
+[Mass Transit]
+patch=1,EE,01D74100,extended,00000000
+[Color Character Concept Art 1]
+patch=1,EE,01D74130,extended,00000000
+[Color Character Concept Art 2]
+patch=1,EE,01D74160,extended,00000000
+[Color Character Concept Art 3]
+patch=1,EE,01D74190,extended,00000000
+[Smash Points Awarded-5000]
+patch=1,EE,01D74220,extended,00000000
+[Smash Points Awarded-10000]
+patch=1,EE,01D74250,extended,00000000
+[Smash Points Awarded-15000]
+patch=1,EE,01D74280,extended,00000000
+[Cow Missiles]
+patch=1,EE,01D742B0,extended,00000000
+[Invulnerability]
+patch=1,EE,01E47970,extended,00000000
+[>>> Stats Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Total Smash Points Earned]
+patch=1,EE,21D679A8,extended,05F5E0FF
+[No Total Smash Points Earned]
+patch=1,EE,21D679A8,extended,00000000
+[Max Comics Found]
+patch=1,EE,21D679E8,extended,05F5E0FF
+[No Comics Found]
+patch=1,EE,21D679E8,extended,00000000
+[Max Jump Makers Found]
+patch=1,EE,21D67A28,extended,05F5E0FF
+[No Jump Makers Found]
+patch=1,EE,21D67A28,extended,00000000
+[Max Smash Point Collectibles Found]
+patch=1,EE,21D67A68,extended,05F5E0FF
+[No Smash Point Collectibles Found]
+patch=1,EE,21D67A68,extended,00000000
+[Max Hulk Attacks]
+patch=1,EE,21D67AA8,extended,05F5E0FF
+[No Hulk Attacks]
+patch=1,EE,21D67AA8,extended,00000000
+[Max Number Of Jumps]
+patch=1,EE,21D67AE8,extended,05F5E0FF
+[No Number Of Jumps]
+patch=1,EE,21D67AE8,extended,00000000
+[Max Times The Hulk Entered Critical Mass]
+patch=1,EE,21D67B28,extended,05F5E0FF
+[No Times The Hulk Entered Critical Mass]
+patch=1,EE,21D67B28,extended,00000000
+[Max Hulk Deaths]
+patch=1,EE,21D67B68,extended,05F5E0FF
+[No Hulk Deaths]
+patch=1,EE,21D67B68,extended,00000000
+[Max Missile Catches]
+patch=1,EE,21D67BA8,extended,05F5E0FF
+[No Missile Catches]
+patch=1,EE,21D67BA8,extended,00000000
+[Max Weaponizations]
+patch=1,EE,21D67BE8,extended,05F5E0FF
+[No Weaponizations]
+patch=1,EE,21D67BE8,extended,00000000
+[Max Combos Executed]
+patch=1,EE,21D67C28,extended,05F5E0FF
+[No Combos Executed]
+patch=1,EE,21D67C28,extended,00000000
+[Max Number Of Airborne Grapples]
+patch=1,EE,21D67C68,extended,05F5E0FF
+[No Number Of Airborne Grapples]
+patch=1,EE,21D67C68,extended,00000000
+[Max Times Hulk Was Floated]
+patch=1,EE,21D67CA8,extended,05F5E0FF
+[No Times Hulk Was Floated]
+patch=1,EE,21D67CA8,extended,00000000
+[Max Air Recoveries]
+patch=1,EE,21D67CE8,extended,05F5E0FF
+[No Air Recoveries]
+patch=1,EE,21D67CE8,extended,00000000
+[Max Enemies Defeated]
+patch=1,EE,21D67D28,extended,05F5E0FF
+[No Enemies Defeated]
+patch=1,EE,21D67D28,extended,00000000
+[Max Police Defeated]
+patch=1,EE,21D67D68,extended,05F5E0FF
+[No Police Defeated]
+patch=1,EE,21D67D68,extended,00000000
+[Max Soldiers Defeated]
+patch=1,EE,21D67DA8,extended,05F5E0FF
+[No Soldiers Defeated]
+patch=1,EE,21D67DA8,extended,00000000
+[Max Missile Soldiers Defeated]
+patch=1,EE,21D67DE8,extended,05F5E0FF
+[No Missile Soldiers Defeated]
+patch=1,EE,21D67DE8,extended,00000000
+[Max Transports Defeated]
+patch=1,EE,21D67E28,extended,05F5E0FF
+[No Transports Defeated]
+patch=1,EE,21D67E28,extended,00000000
+[Max Tanks Defeated]
+patch=1,EE,21D67E68,extended,05F5E0FF
+[No Tanks Defeated]
+patch=1,EE,21D67E68,extended,00000000
+[Max Combat Vehicles Defeated]
+patch=1,EE,21D67EA8,extended,05F5E0FF
+[No Combat Vehicles Defeated]
+patch=1,EE,21D67EA8,extended,00000000
+[Max Gunships Defeated]
+patch=1,EE,21D67EE8,extended,05F5E0FF
+[No Gunships Defeated]
+patch=1,EE,21D67EE8,extended,00000000
+[Max Strike Fighters Defeated]
+patch=1,EE,21D67F28,extended,05F5E0FF
+[No Strike Fighters Defeated]
+patch=1,EE,21D67F28,extended,00000000
+[Max Infantry Defeated]
+patch=1,EE,21D67F68,extended,05F5E0FF
+[No Infantry Defeated]
+patch=1,EE,21D67F68,extended,00000000
+[Max Destroyers Defeated]
+patch=1,EE,21D67FA8,extended,05F5E0FF
+[No Destroyers Defeated]
+patch=1,EE,21D67FA8,extended,00000000
+[Max Trans Defieated]
+patch=1,EE,21D67FE8,extended,05F5E0FF
+[No Trans Defieated]
+patch=1,EE,21D67FE8,extended,00000000
+[Max MRLSs Defeated]
+patch=1,EE,21D68028,extended,05F5E0FF
+[No MRLSs Defeated]
+patch=1,EE,21D68028,extended,00000000
+[Max Capture Wardens Defeated]
+patch=1,EE,21D68068,extended,05F5E0FF
+[No Capture Wardens Defeated]
+patch=1,EE,21D68068,extended,00000000
+[Max Soldiers Thrown]
+patch=1,EE,21D680A8,extended,05F5E0FF
+[No Soldiers Thrown]
+patch=1,EE,21D680A8,extended,00000000
+[Max Major Buildings Destroyed]
+patch=1,EE,21D680E8,extended,05F5E0FF
+[No Major Buildings Destroyed]
+patch=1,EE,21D680E8,extended,00000000
+[Max Collectibles Collected]
+patch=1,EE,21D68128,extended,05F5E0FF
+[No Collectibles Collected]
+patch=1,EE,21D68128,extended,00000000
+[>>> Unlock Comic Book Gallery Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Comic Book 1]
+patch=1,EE,01D75C90,extended,00000000
+[Comic Book 2]
+patch=1,EE,01D75D70,extended,00000000
+[Comic Book 3]
+patch=1,EE,01D75E50,extended,00000000
+[Comic Book 4]
+patch=1,EE,01D75F30,extended,00000000
+[Comic Book 5]
+patch=1,EE,01D76010,extended,00000000
+[Comic Book 6]
+patch=1,EE,01D760F0,extended,00000000
+[Comic Book 7]
+patch=1,EE,01D761D0,extended,00000000
+[Comic Book 8]
+patch=1,EE,01D762B0,extended,00000000
+[Comic Book 9]
+patch=1,EE,01D76390,extended,00000000
+[Comic Book 10]
+patch=1,EE,01D76470,extended,00000000
+[Comic Book 11]
+patch=1,EE,01D76550,extended,00000000
+[Comic Book 12]
+patch=1,EE,01D76630,extended,00000000
+[Comic Book 13]
+patch=1,EE,01D76710,extended,00000000
+[Comic Book 14]
+patch=1,EE,01D767F0,extended,00000000
+[Comic Book 15]
+patch=1,EE,01D768D0,extended,00000000
+[Comic Book 16]
+patch=1,EE,01D769B0,extended,00000000
+[Comic Book 17]
+patch=1,EE,01D76A90,extended,00000000
+[Comic Book 18]
+patch=1,EE,01D76B70,extended,00000000
+[Comic Book 19]
+patch=1,EE,01D76C50,extended,00000000
+[Comic Book 20]
+patch=1,EE,01D76D30,extended,00000000
+[Comic Book 21]
+patch=1,EE,01D76E10,extended,00000000
+[Comic Book 22]
+patch=1,EE,01D76EF0,extended,00000000
+[Comic Book 23]
+patch=1,EE,01D76FD0,extended,00000000
+[Comic Book 24]
+patch=1,EE,01D770B0,extended,00000000
+[Comic Book 25]
+patch=1,EE,01D77190,extended,00000000
+[Comic Book 26]
+patch=1,EE,01D77270,extended,00000000
+[Comic Book 27]
+patch=1,EE,01D77350,extended,00000000
+[Comic Book 28]
+patch=1,EE,01D77430,extended,00000000
+[Comic Book 29]
+patch=1,EE,01D77510,extended,00000000
+[Comic Book 30]
+patch=1,EE,01D775F0,extended,00000000
+[Comic Book 31]
+patch=1,EE,01D776D0,extended,00000000
+[Comic Book 32]
+patch=1,EE,01D777B0,extended,00000000
+[Comic Book 33]
+patch=1,EE,01D77890,extended,00000000
+[Comic Book 34]
+patch=1,EE,01D77970,extended,00000000
+[Comic Book 35]
+patch=1,EE,01D77A50,extended,00000000
+[Comic Book 36]
+patch=1,EE,01D77B30,extended,00000000
+[Comic Book 37]
+patch=1,EE,01D77C10,extended,00000000
+[Comic Book 38]
+patch=1,EE,01D77CF0,extended,00000000
+[Comic Book 39]
+patch=1,EE,01D77DD0,extended,00000000
+[Comic Book 40]
+patch=1,EE,01D77EB0,extended,00000000
+[Comic Book 41]
+patch=1,EE,01D77F90,extended,00000000
+[Comic Book 42]
+patch=1,EE,01D78070,extended,00000000
+[Comic Book 43]
+patch=1,EE,01D78150,extended,00000000
+[Comic Book 44]
+patch=1,EE,01D78230,extended,00000000
+[Comic Book 45]
+patch=1,EE,01D78310,extended,00000000
+[Comic Book 46]
+patch=1,EE,01D783F0,extended,00000000
+[Comic Book 47]
+patch=1,EE,01D784D0,extended,00000000
+[Comic Book 48]
+patch=1,EE,01D785B0,extended,00000000
+[Comic Book 49]
+patch=1,EE,01D78690,extended,00000000
+[Comic Book 50]
+patch=1,EE,01D78770,extended,00000000
+[Comic Book 51]
+patch=1,EE,01D78850,extended,00000000
+[Comic Book 52]
+patch=1,EE,01D78930,extended,00000000
+[Comic Book 53]
+patch=1,EE,01D78A10,extended,00000000
+[Comic Book 54]
+patch=1,EE,01D78AF0,extended,00000000
+[Comic Book 55]
+patch=1,EE,01D78BD0,extended,00000000
+[Comic Book 56]
+patch=1,EE,01D78CB0,extended,00000000
+[Comic Book 57]
+patch=1,EE,01D78D90,extended,00000000
+[Comic Book 58]
+patch=1,EE,01D78E70,extended,00000000
+[Comic Book 59]
+patch=1,EE,01D78F50,extended,00000000
+[Comic Book 60]
+patch=1,EE,01D79030,extended,00000000
+[All Comic Book Gallery]
+patch=1,EE,41D75C90,extended,003C0038
+[All Comic Book Gallery]
+patch=1,EE,00691800,extended,00000000
+[>>> Unlock Character Gallery Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character 1]
+patch=1,EE,01D79110,extended,00000000
+[Character 2]
+patch=1,EE,01D791F0,extended,00000000
+[Character 3]
+patch=1,EE,01D792D0,extended,00000000
+[Character 4]
+patch=1,EE,01D793B0,extended,00000000
+[Character 5]
+patch=1,EE,01D79490,extended,00000000
+[Character 6]
+patch=1,EE,01D79570,extended,00000000
+[Character 7]
+patch=1,EE,01D79650,extended,00000000
+[Character 8]
+patch=1,EE,01D79730,extended,00000000
+[Character 9]
+patch=1,EE,01D79810,extended,00000000
+[Character 10]
+patch=1,EE,01D798F0,extended,00000000
+[Character 11]
+patch=1,EE,01D799D0,extended,00000000
+[Character 12]
+patch=1,EE,01D79AB0,extended,00000000
+[Character 13]
+patch=1,EE,01D79B90,extended,00000000
+[Character 14]
+patch=1,EE,01D79C70,extended,00000000
+[Character 15]
+patch=1,EE,01D79D50,extended,00000000
+[Character 16]
+patch=1,EE,01D79E30,extended,00000000
+[Character 17]
+patch=1,EE,01D79F10,extended,00000000
+[Character 18]
+patch=1,EE,01D79FF0,extended,00000000
+[Character 19]
+patch=1,EE,01D7A0D0,extended,00000000
+[Character 20]
+patch=1,EE,01D7A1B0,extended,00000000
+[Character 21]
+patch=1,EE,01D7A290,extended,00000000
+[Character 22]
+patch=1,EE,01D7A370,extended,00000000
+[Character 23]
+patch=1,EE,01D7A450,extended,00000000
+[Character 24]
+patch=1,EE,01D7A530,extended,00000000
+[Character 25]
+patch=1,EE,01D7A610,extended,00000000
+[Character 26]
+patch=1,EE,01D7A6F0,extended,00000000
+[Character 27]
+patch=1,EE,01D7A7D0,extended,00000000
+[Character 28]
+patch=1,EE,01D7A8B0,extended,00000000
+[Character 29]
+patch=1,EE,01D7A990,extended,00000000
+[Character 30]
+patch=1,EE,01D7AA70,extended,00000000
+[Character 31]
+patch=1,EE,01D7AB50,extended,00000000
+[Character 32]
+patch=1,EE,01D7AC30,extended,00000000
+[Character 33]
+patch=1,EE,01D7AD10,extended,00000000
+[Character 34]
+patch=1,EE,01D7ADF0,extended,00000000
+[Character 35]
+patch=1,EE,01D7AED0,extended,00000000
+[Character 36]
+patch=1,EE,01D7AFB0,extended,00000000
+[Character 37]
+patch=1,EE,01D7B090,extended,00000000
+[Character 38]
+patch=1,EE,01D7B170,extended,00000000
+[All Character Gallery]
+patch=1,EE,41D79110,extended,00260038
+[All Character Gallery]
+patch=1,EE,00691800,extended,00000000
+[>>> Unlock Enemy Gallery Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enemy 1]
+patch=1,EE,01D7BCD0,extended,00000000
+[Enemy 2]
+patch=1,EE,01D7BDB0,extended,00000000
+[Enemy 3]
+patch=1,EE,01D7BE90,extended,00000000
+[Enemy 4]
+patch=1,EE,01D7BF70,extended,00000000
+[Enemy 5]
+patch=1,EE,01D7C050,extended,00000000
+[Enemy 6]
+patch=1,EE,01D7C130,extended,00000000
+[Enemy 7]
+patch=1,EE,01D7C210,extended,00000000
+[Enemy 8]
+patch=1,EE,01D7C2F0,extended,00000000
+[Enemy 9]
+patch=1,EE,01D7C3D0,extended,00000000
+[Enemy 10]
+patch=1,EE,01D7C4B0,extended,00000000
+[Enemy 11]
+patch=1,EE,01D7C590,extended,00000000
+[Enemy 12]
+patch=1,EE,01D7C670,extended,00000000
+[Enemy 13]
+patch=1,EE,01D7C750,extended,00000000
+[Enemy 14]
+patch=1,EE,01D7C830,extended,00000000
+[Enemy 15]
+patch=1,EE,01D7C910,extended,00000000
+[Enemy 16]
+patch=1,EE,01D7C9F0,extended,00000000
+[Enemy 17]
+patch=1,EE,01D7CAD0,extended,00000000
+[All Enemy Gallery]
+patch=1,EE,41D7BCD0,extended,00110038
+[All Enemy Gallery]
+patch=1,EE,00691800,extended,00000000
+[>>> Unlock Environment Gallery Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Environment 1]
+patch=1,EE,01D7D2B0,extended,00000000
+[Environment 2]
+patch=1,EE,01D7D390,extended,00000000
+[Environment 3]
+patch=1,EE,01D7D470,extended,00000000
+[Environment 4]
+patch=1,EE,01D7D550,extended,00000000
+[Environment 5]
+patch=1,EE,01D7D630,extended,00000000
+[Environment 6]
+patch=1,EE,01D7D710,extended,00000000
+[Environment 7]
+patch=1,EE,01D7D7F0,extended,00000000
+[Environment 8]
+patch=1,EE,01D7D8D0,extended,00000000
+[Environment 9]
+patch=1,EE,01D7D9B0,extended,00000000
+[Environment 10]
+patch=1,EE,01D7DA90,extended,00000000
+[Environment 11]
+patch=1,EE,01D7DB70,extended,00000000
+[Environment 12]
+patch=1,EE,01D7DC50,extended,00000000
+[Environment 13]
+patch=1,EE,01D7DD30,extended,00000000
+[Environment 14]
+patch=1,EE,01D7DE10,extended,00000000
+[Environment 15]
+patch=1,EE,01D7DEF0,extended,00000000
+[Environment 16]
+patch=1,EE,01D7DFD0,extended,00000000
+[Environment 17]
+patch=1,EE,01D7E0B0,extended,00000000
+[Environment 18]
+patch=1,EE,01D7E190,extended,00000000
+[Environment 19]
+patch=1,EE,01D7E270,extended,00000000
+[Environment 20]
+patch=1,EE,01D7E350,extended,00000000
+[Environment 21]
+patch=1,EE,01D7E430,extended,00000000
+[Environment 22]
+patch=1,EE,01D7E510,extended,00000000
+[Environment 23]
+patch=1,EE,01D7E5F0,extended,00000000
+[Environment 24]
+patch=1,EE,01D7E6D0,extended,00000000
+[Environment 25]
+patch=1,EE,01D7E7B0,extended,00000000
+[Environment 26]
+patch=1,EE,01D7E890,extended,00000000
+[Environment 27]
+patch=1,EE,01D7E970,extended,00000000
+[Environment 28]
+patch=1,EE,01D7EA50,extended,00000000
+[Environment 29]
+patch=1,EE,01D7EB30,extended,00000000
+[Environment 30]
+patch=1,EE,01D7EC10,extended,00000000
+[Environment 31]
+patch=1,EE,01D7ECF0,extended,00000000
+[Environment 32]
+patch=1,EE,01D7EDD0,extended,00000000
+[Environment 33]
+patch=1,EE,01D7EEB0,extended,00000000
+[Environment 34]
+patch=1,EE,01D7EF90,extended,00000000
+[Environment 35]
+patch=1,EE,01D7F070,extended,00000000
+[Environment 36]
+patch=1,EE,01D7F150,extended,00000000
+[All Environment Gallery]
+patch=1,EE,41D7D2B0,extended,00240038
+[All Environment Gallery]
+patch=1,EE,00691800,extended,00000000
+[>>> Unlock Character Render Gallery Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character 1]
+patch=1,EE,01D7F230,extended,00000000
+[Character 2]
+patch=1,EE,01D7F310,extended,00000000
+[Character 3]
+patch=1,EE,01D7F3F0,extended,00000000
+[Character 4]
+patch=1,EE,01D7F4D0,extended,00000000
+[Character 5]
+patch=1,EE,01D7F5B0,extended,00000000
+[Character 6]
+patch=1,EE,01D7F690,extended,00000000
+[Character 7]
+patch=1,EE,01D7F770,extended,00000000
+[Character 8]
+patch=1,EE,01D7F850,extended,00000000
+[Character 9]
+patch=1,EE,01D7F930,extended,00000000
+[Character 10]
+patch=1,EE,01D7FA10,extended,00000000
+[Character 11]
+patch=1,EE,01D7FAF0,extended,00000000
+[Character 12]
+patch=1,EE,01D7FBD0,extended,00000000
+[Character 13]
+patch=1,EE,01D7FCB0,extended,00000000
+[Character 14]
+patch=1,EE,01D7FD90,extended,00000000
+[Character 15]
+patch=1,EE,01D7FE70,extended,00000000
+[All Character Render Gallery]
+patch=1,EE,41D7F230,extended,000F0038
+[All Character Render Gallery]
+patch=1,EE,00691800,extended,00000000
+[>>> Unlock Enemy Render Gallery Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enemy Render 1]
+patch=1,EE,01E405D0,extended,00000000
+[Enemy Render 2]
+patch=1,EE,01E406B0,extended,00000000
+[Enemy Render 3]
+patch=1,EE,01E40790,extended,00000000
+[All Enemy Render Gallery]
+patch=1,EE,41E405D0,extended,00030038
+[All Enemy Render Gallery]
+patch=1,EE,00000000,extended,00000000
+[>>> Unlock In-Game Movies Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Movie 1]
+patch=1,EE,01E40950,extended,00000000
+[Movie 2]
+patch=1,EE,01E40A30,extended,00000000
+[Movie 3]
+patch=1,EE,01E40B10,extended,00000000
+[Movie 4]
+patch=1,EE,01E40BF0,extended,00000000
+[Movie 5]
+patch=1,EE,01E40CD0,extended,00000000
+[Movie 6]
+patch=1,EE,01E40DB0,extended,00000000
+[Movie 7]
+patch=1,EE,01E40E90,extended,00000000
+[Movie 8]
+patch=1,EE,01E40F70,extended,00000000
+[Movie 9]
+patch=1,EE,01E41050,extended,00000000
+[Movie 10]
+patch=1,EE,01E41130,extended,00000000
+[Movie 11]
+patch=1,EE,01E41210,extended,00000000
+[Movie 12]
+patch=1,EE,01E412F0,extended,00000000
+[Movie 13]
+patch=1,EE,01E413D0,extended,00000000
+[Movie 14]
+patch=1,EE,01E414B0,extended,00000000
+[Movie 15]
+patch=1,EE,01E41590,extended,00000000
+[All In-Game Movies]
+patch=1,EE,41E40950,extended,000F0038
+[All In-Game Movies]
+patch=1,EE,00000000,extended,00000000
+[>>> Unlock The Making Of Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Movie 1]
+patch=1,EE,01E41750,extended,00000000
+[Movie 2]
+patch=1,EE,01E41830,extended,00000000
+[Movie 3]
+patch=1,EE,01E41910,extended,00000000
+[Movie 4]
+patch=1,EE,01E419F0,extended,00000000
+[Movie 5]
+patch=1,EE,01E41AD0,extended,00000000
+[Movie 6]
+patch=1,EE,01E41BB0,extended,00000000
+[Movie 7]
+patch=1,EE,01E41C90,extended,00000000
+[Movie 8]
+patch=1,EE,01E41D70,extended,00000000
+[All The Making Of Movies]
+patch=1,EE,41E41750,extended,00080038
+[All The Making Of Movies]
+patch=1,EE,00000000,extended,00000000
+[>>> Unlock Move Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Steel Fists]
+patch=1,EE,21E42160,extended,00000000
+[Dashing Straight]
+patch=1,EE,21E42230,extended,00000000
+[Air Recovery]
+patch=1,EE,21E423D0,extended,00000000
+[Running Grab]
+patch=1,EE,21E424A0,extended,00000000
+[Sonic Clap]
+patch=1,EE,21E42570,extended,00000000
+[Slam Kick]
+patch=1,EE,21E42640,extended,00000000
+[Shield]
+patch=1,EE,21E42710,extended,00000000
+[Shockwave Smash]
+patch=1,EE,21E427E0,extended,00000000
+[Air Dash]
+patch=1,EE,21E428B0,extended,00000000
+[Dashing Sonic Clap]
+patch=1,EE,21E42980,extended,00000000
+[Air Stomp]
+patch=1,EE,21E42A50,extended,00000000
+[Air Enemy Grapple]
+patch=1,EE,21E42B20,extended,00000000
+[Tornado Uppercut]
+patch=1,EE,21E42BF0,extended,00000000
+[Rapid Punch Burst]
+patch=1,EE,21E42CC0,extended,00000000
+[Cyclone Skyjack]
+patch=1,EE,21E42E60,extended,00000000
+[Critical Thunder Clap]
+patch=1,EE,21E43000,extended,00000000
+[Power Surge Level]
+patch=1,EE,21E43270,extended,00000000
+[Spear Impale]
+patch=1,EE,21E43340,extended,00000000
+[Bowling]
+patch=1,EE,21E43410,extended,00000000
+[Dashing Uppercut]
+patch=1,EE,21E434E0,extended,00000000
+[Double Fist Toss]
+patch=1,EE,21E435B0,extended,00000000
+[Dashing Ground Slam]
+patch=1,EE,21E43680,extended,00000000
+[Uppercut Float]
+patch=1,EE,21E438F0,extended,00000000
+[Gamma Bomb]
+patch=1,EE,21E43A90,extended,00000000
+[Hammer Toss]
+patch=1,EE,21E43B60,extended,00000000
+[Air Critical Thunder Clap]
+patch=1,EE,21E43C30,extended,00000000
+[Elbow Drop]
+patch=1,EE,21E43DD0,extended,00000000
+[Floor Kick]
+patch=1,EE,21E43EA0,extended,00000000
+[Critical Mass Surge Level 2]
+patch=1,EE,21E43F70,extended,00000000
+[Missile Pack]
+patch=1,EE,21E44040,extended,00000000
+[Ball And Chain]
+patch=1,EE,21E44110,extended,00000000
+[Shockwave Smash Repeater]
+patch=1,EE,21E441E0,extended,00000000
+[Punt Kick]
+patch=1,EE,21E442B0,extended,00000000
+[Air Spike]
+patch=1,EE,21E44380,extended,00000000
+[Target Kick]
+patch=1,EE,21E445F0,extended,00000000
+[Gamma Quake]
+patch=1,EE,21E446C0,extended,00000000
+[Critical Pain Combo]
+patch=1,EE,21E44790,extended,00000000
+[Critical Atomic Smash]
+patch=1,EE,21E44860,extended,00000000
+[Power Surge Level 2]
+patch=1,EE,21E44A00,extended,00000000
+[Missile Catch]
+patch=1,EE,21E44AD0,extended,00000000
+[Super Air Dash]
+patch=1,EE,21E44C70,extended,00000000
+[Air Cannonball]
+patch=1,EE,21E44D40,extended,00000000
+[Critical Mass Surge Level 3]
+patch=1,EE,21E44EE0,extended,00000000
+[Shockwave Smash Repeater]
+patch=1,EE,21E44FB0,extended,00000000
+[Double Air Dash]
+patch=1,EE,21E45220,extended,00000000
+[Double Super Air Dash]
+patch=1,EE,21E452F0,extended,00000000
+[Shield Grind]
+patch=1,EE,21E453C0,extended,00000000
+[Ground Smash]
+patch=1,EE,21E45560,extended,00000000
+[Air Critical Slam]
+patch=1,EE,21E45970,extended,00000000
+[Super Air Strike]
+patch=1,EE,21E45B10,extended,00000000
+[Running Club Ram]
+patch=1,EE,21E45BE0,extended,00000000
+[Smash Express]
+patch=1,EE,21E45CB0,extended,00000000
+[Back Hand]
+patch=1,EE,21E45D80,extended,00000000
+[Hitch Hike]
+patch=1,EE,21E45E50,extended,00000000
+[Gamma Bomb]
+patch=1,EE,21E45F20,extended,00000000
+[Shield Grind Kick]
+patch=1,EE,21E45FF0,extended,00000000
+[Club Smash]
+patch=1,EE,21E460C0,extended,00000000
+[Rising Upper]
+patch=1,EE,21E46190,extended,00000000
+[Headbutt]
+patch=1,EE,21E46260,extended,00000000
+[Air Ground Smash]
+patch=1,EE,21E46330,extended,00000000
+[Air Sonic Clap]
+patch=1,EE,21E46400,extended,00000000
+[Missile Punch Back]
+patch=1,EE,21E464D0,extended,00000000
+[Power Surge Level 3]
+patch=1,EE,21E465A0,extended,00000000
+[All Moves]
+patch=1,EE,41E42160,extended,00540034
+[All Moves]
+patch=1,EE,00000000,extended,00000000
+[>>> Have Move Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Steel Fists]
+patch=1,EE,01E42178,extended,00000001
+[Dashing Straight]
+patch=1,EE,01E42248,extended,00000001
+[Air Recovery]
+patch=1,EE,01E423E8,extended,00000001
+[Running Grab]
+patch=1,EE,01E424B8,extended,00000001
+[Sonic Clap]
+patch=1,EE,01E42588,extended,00000001
+[Slam Kick]
+patch=1,EE,01E42658,extended,00000001
+[Shield]
+patch=1,EE,01E42728,extended,00000001
+[Shockwave Smash]
+patch=1,EE,01E427F8,extended,00000001
+[Air Dash]
+patch=1,EE,01E428C8,extended,00000001
+[Dashing Sonic Clap]
+patch=1,EE,01E42998,extended,00000001
+[Air Stomp]
+patch=1,EE,01E42A68,extended,00000001
+[Air Enemy Grapple]
+patch=1,EE,01E42B38,extended,00000001
+[Tornado Uppercut]
+patch=1,EE,01E42C08,extended,00000001
+[Rapid Punch Burst]
+patch=1,EE,01E42CD8,extended,00000001
+[Cyclone Skyjack]
+patch=1,EE,01E42E78,extended,00000001
+[Critical Thunder Clap]
+patch=1,EE,01E43018,extended,00000001
+[Power Surge Level]
+patch=1,EE,01E43288,extended,00000001
+[Spear Impale]
+patch=1,EE,01E43358,extended,00000001
+[Bowling]
+patch=1,EE,01E43428,extended,00000001
+[Dashing Uppercut]
+patch=1,EE,01E434F8,extended,00000001
+[Double Fist Toss]
+patch=1,EE,01E435C8,extended,00000001
+[Dashing Ground Slam]
+patch=1,EE,01E43698,extended,00000001
+[Uppercut Float]
+patch=1,EE,01E43908,extended,00000001
+[Gamma Bomb]
+patch=1,EE,01E43AA8,extended,00000001
+[Hammer Toss]
+patch=1,EE,01E43B78,extended,00000001
+[Air Critical Thunder Clap]
+patch=1,EE,01E43C48,extended,00000001
+[Elbow Drop]
+patch=1,EE,01E43DE8,extended,00000001
+[Floor Kick]
+patch=1,EE,01E43EB8,extended,00000001
+[Critical Mass Surge Level 2]
+patch=1,EE,01E43F88,extended,00000001
+[Missile Pack]
+patch=1,EE,01E44058,extended,00000001
+[Ball And Chain]
+patch=1,EE,01E44128,extended,00000001
+[Shockwave Smash Repeater]
+patch=1,EE,01E441F8,extended,00000001
+[Punt Kick]
+patch=1,EE,01E442C8,extended,00000001
+[Air Spike]
+patch=1,EE,01E44398,extended,00000001
+[Target Kick]
+patch=1,EE,01E44608,extended,00000001
+[Gamma Quake]
+patch=1,EE,01E446D8,extended,00000001
+[Critical Pain Combo]
+patch=1,EE,01E447A8,extended,00000001
+[Critical Atomic Smash]
+patch=1,EE,01E44878,extended,00000001
+[Power Surge Level 2]
+patch=1,EE,01E44A18,extended,00000001
+[Missile Catch]
+patch=1,EE,01E44AE8,extended,00000001
+[Super Air Dash]
+patch=1,EE,01E44C88,extended,00000001
+[Air Cannonball]
+patch=1,EE,01E44D58,extended,00000001
+[Critical Mass Surge Level 3]
+patch=1,EE,01E44EF8,extended,00000001
+[Shockwave Smash Repeater]
+patch=1,EE,01E44FC8,extended,00000001
+[Double Air Dash]
+patch=1,EE,01E45238,extended,00000001
+[Double Super Air Dash]
+patch=1,EE,01E45308,extended,00000001
+[Shield Grind]
+patch=1,EE,01E453D8,extended,00000001
+[Ground Smash]
+patch=1,EE,01E45578,extended,00000001
+[Air Critical Slam]
+patch=1,EE,01E45988,extended,00000001
+[Super Air Strike]
+patch=1,EE,01E45B28,extended,00000001
+[Running Club Ram]
+patch=1,EE,01E45BF8,extended,00000001
+[Smash Express]
+patch=1,EE,01E45CC8,extended,00000001
+[Back Hand]
+patch=1,EE,01E45D98,extended,00000001
+[Hitch Hike]
+patch=1,EE,01E45E68,extended,00000001
+[Gamma Bomb]
+patch=1,EE,01E45F38,extended,00000001
+[Shield Grind Kick]
+patch=1,EE,01E46008,extended,00000001
+[Club Smash]
+patch=1,EE,01E460D8,extended,00000001
+[Rising Upper]
+patch=1,EE,01E461A8,extended,00000001
+[Headbutt]
+patch=1,EE,01E46278,extended,00000001
+[Air Ground Smash]
+patch=1,EE,01E46348,extended,00000001
+[Air Sonic Clap]
+patch=1,EE,01E46418,extended,00000001
+[Missile Punch Back]
+patch=1,EE,01E464E8,extended,00000001
+[Power Surge Level 3]
+patch=1,EE,01E465B8,extended,00000001
+[All Moves]
+patch=1,EE,41E42178,extended,00540034
+[All Moves]
+patch=1,EE,00000001,extended,00000000
+[>>> Moves Cost ../../cheats-ps-pcsx2/CheatDevicePS2-CheatDatabase-PCSX2-pnach-SLUS-1.sh Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Steel Fists]
+patch=1,EE,21E4217C,extended,00000000
+[Dashing Straight]
+patch=1,EE,21E4224C,extended,00000000
+[Air Recovery]
+patch=1,EE,21E423EC,extended,00000000
+[Running Grab]
+patch=1,EE,21E424BC,extended,00000000
+[Sonic Clap]
+patch=1,EE,21E4258C,extended,00000000
+[Slam Kick]
+patch=1,EE,21E4265C,extended,00000000
+[Shield]
+patch=1,EE,21E4272C,extended,00000000
+[Shockwave Smash]
+patch=1,EE,21E427FC,extended,00000000
+[Air Dash]
+patch=1,EE,21E428CC,extended,00000000
+[Dashing Sonic Clap]
+patch=1,EE,21E4299C,extended,00000000
+[Air Stomp]
+patch=1,EE,21E42A6C,extended,00000000
+[Air Enemy Grapple]
+patch=1,EE,21E42B3C,extended,00000000
+[Tornado Uppercut]
+patch=1,EE,21E42C0C,extended,00000000
+[Rapid Punch Burst]
+patch=1,EE,21E42CDC,extended,00000000
+[Cyclone Skyjack]
+patch=1,EE,21E42E7C,extended,00000000
+[Critical Thunder Clap]
+patch=1,EE,21E4301C,extended,00000000
+[Power Surge Level]
+patch=1,EE,21E4328C,extended,00000000
+[Spear Impale]
+patch=1,EE,21E4335C,extended,00000000
+[Bowling]
+patch=1,EE,21E4342C,extended,00000000
+[Dashing Uppercut]
+patch=1,EE,21E434FC,extended,00000000
+[Double Fist Toss]
+patch=1,EE,21E435CC,extended,00000000
+[Dashing Ground Slam]
+patch=1,EE,21E4369C,extended,00000000
+[Uppercut Float]
+patch=1,EE,21E4390C,extended,00000000
+[Gamma Bomb]
+patch=1,EE,21E43AAC,extended,00000000
+[Hammer Toss]
+patch=1,EE,21E43B7C,extended,00000000
+[Air Critical Thunder Clap]
+patch=1,EE,21E43C4C,extended,00000000
+[Elbow Drop]
+patch=1,EE,21E43DEC,extended,00000000
+[Floor Kick]
+patch=1,EE,21E43EBC,extended,00000000
+[Critical Mass Surge Level 2]
+patch=1,EE,21E43F8C,extended,00000000
+[Missile Pack]
+patch=1,EE,21E4405C,extended,00000000
+[Ball And Chain]
+patch=1,EE,21E4412C,extended,00000000
+[Shockwave Smash Repeater]
+patch=1,EE,21E441FC,extended,00000000
+[Punt Kick]
+patch=1,EE,21E442CC,extended,00000000
+[Air Spike]
+patch=1,EE,21E4439C,extended,00000000
+[Target Kick]
+patch=1,EE,21E4460C,extended,00000000
+[Gamma Quake]
+patch=1,EE,21E446DC,extended,00000000
+[Critical Pain Combo]
+patch=1,EE,21E447AC,extended,00000000
+[Critical Atomic Smash]
+patch=1,EE,21E4487C,extended,00000000
+[Power Surge Level 2]
+patch=1,EE,21E44A1C,extended,00000000
+[Missile Catch]
+patch=1,EE,21E44AEC,extended,00000000
+[Super Air Dash]
+patch=1,EE,21E44C8C,extended,00000000
+[Air Cannonball]
+patch=1,EE,21E44D5C,extended,00000000
+[Critical Mass Surge Level 3]
+patch=1,EE,21E44EFC,extended,00000000
+[Shockwave Smash Repeater]
+patch=1,EE,21E44FCC,extended,00000000
+[Double Air Dash]
+patch=1,EE,21E4523C,extended,00000000
+[Double Super Air Dash]
+patch=1,EE,21E4530C,extended,00000000
+[Shield Grind]
+patch=1,EE,21E453DC,extended,00000000
+[Ground Smash]
+patch=1,EE,21E4557C,extended,00000000
+[Air Critical Slam]
+patch=1,EE,21E4598C,extended,00000000
+[Super Air Strike]
+patch=1,EE,21E45B2C,extended,00000000
+[Running Club Ram]
+patch=1,EE,21E45BFC,extended,00000000
+[Smash Express]
+patch=1,EE,21E45CCC,extended,00000000
+[Back Hand]
+patch=1,EE,21E45D9C,extended,00000000
+[Hitch Hike]
+patch=1,EE,21E45E6C,extended,00000000
+[Gamma Bomb]
+patch=1,EE,21E45F3C,extended,00000000
+[Shield Grind Kick]
+patch=1,EE,21E4600C,extended,00000000
+[Club Smash]
+patch=1,EE,21E460DC,extended,00000000
+[Rising Upper]
+patch=1,EE,21E461AC,extended,00000000
+[Headbutt]
+patch=1,EE,21E4627C,extended,00000000
+[Air Ground Smash]
+patch=1,EE,21E4634C,extended,00000000
+[Air Sonic Clap]
+patch=1,EE,21E4641C,extended,00000000
+[Missile Punch Back]
+patch=1,EE,21E464EC,extended,00000000
+[Power Surge Level 3]
+patch=1,EE,21E465BC,extended,00000000
+[All Moves]
+patch=1,EE,41E4217C,extended,00540034
+[All Moves]
+patch=1,EE,00000000,extended,00000000
+

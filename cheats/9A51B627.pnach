@@ -1,0 +1,317 @@
+gametitle=Fatal Frame 2-Crimson Butterfly
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0023C917
+[Max Health]
+patch=1,EE,202E0DBC,extended,0001869F
+[Infinite Health]
+patch=1,EE,202E0DB8,extended,0001869F
+[Max Spirit Orbs]
+patch=1,EE,20344250,extended,00000063
+[Always Low Game Play Time]
+patch=1,EE,20408E30,extended,00000000
+[Always Low Game Play Time]
+patch=1,EE,20408E34,extended,00000000
+[Always Low Game Play Time]
+patch=1,EE,20408E38,extended,00000000
+[Max Total Score]
+patch=1,EE,20408E3C,extended,000F423F
+[Max Total Score]
+patch=1,EE,20408E40,extended,000F423F
+[Hella Photos Taken]
+patch=1,EE,20408E44,extended,0000270F
+[Always No Defeated]
+patch=1,EE,20408E48,extended,00000000
+[Max High Score]
+patch=1,EE,20408E4C,extended,0001869F
+[>>> Camera Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Basic Functions Codes]
+[Range-1 Spirit Orb]
+patch=1,EE,002BE192,extended,00000001
+[Range-2 Spirit Orbs]
+patch=1,EE,002BE192,extended,00000002
+[Range-3 Spirit Orbs]
+patch=1,EE,002BE192,extended,00000003
+[Range-Max Level]
+patch=1,EE,002BE191,extended,00000003
+[Accumulation-1 Spirit Orb]
+patch=1,EE,002BE194,extended,00000001
+[Accumulation-2 Spirit Orbs]
+patch=1,EE,002BE194,extended,00000002
+[Accumulation-3 Spirit Orbs]
+patch=1,EE,002BE194,extended,00000003
+[Accumulation-Max Level]
+patch=1,EE,002BE1BE,extended,00000003
+[Sensitivity-1 Spirit Orb]
+patch=1,EE,002BE193,extended,00000001
+[Sensitivity-2 Spirit Orbs]
+patch=1,EE,002BE193,extended,00000002
+[Sensitivity-3 Spirit Orbs]
+patch=1,EE,002BE193,extended,00000003
+[Sensitivity-Max Level]
+patch=1,EE,002BE190,extended,00000003
+[>>> Power-Up Lens Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Lens]
+cheat0_code = "202BE1AC FFFFFFFF
+[Slow-1 Spirit Orb]
+patch=1,EE,002BE196,extended,00000001
+[Slow-2 Spirit Orbs]
+patch=1,EE,002BE196,extended,00000002
+[Slow-3 Spirit Orbs]
+patch=1,EE,002BE196,extended,00000003
+[Slow-Max Level]
+patch=1,EE,002BE1B5,extended,00000003
+[Stun-1 Spirit Orb]
+patch=1,EE,002BE197,extended,00000001
+[Stun-2 Spirit Orbs]
+patch=1,EE,002BE197,extended,00000002
+[Stun-3 Spirit Orbs]
+patch=1,EE,002BE197,extended,00000003
+[Stun-Max Level]
+patch=1,EE,002BE1B6,extended,00000003
+[See-1 Spirit Orb]
+patch=1,EE,002BE198,extended,00000001
+[See-2 Spirit Orbs]
+patch=1,EE,002BE198,extended,00000002
+[See-3 Spirit Orbs]
+patch=1,EE,002BE198,extended,00000003
+[See-Max Level]
+patch=1,EE,002BE1B7,extended,00000003
+[Track-1 Spirit Orb]
+patch=1,EE,002BE199,extended,00000001
+[Track-2 Spirit Orbs]
+patch=1,EE,002BE199,extended,00000002
+[Track-3 Spirit Orbs]
+patch=1,EE,002BE199,extended,00000003
+[Track-Max Level]
+patch=1,EE,002BE1B8,extended,00000003
+[Stop-1 Spirit Orb]
+patch=1,EE,002BE19A,extended,00000001
+[Stop-2 Spirit Orbs]
+patch=1,EE,002BE19A,extended,00000002
+[Stop-3 Spirit Orbs]
+patch=1,EE,002BE19A,extended,00000003
+[Stop-Max Level]
+patch=1,EE,002BE1B9,extended,00000003
+[Blast-1 Spirit Orb]
+patch=1,EE,002BE19B,extended,00000001
+[Blast-2 Spirit Orbs]
+patch=1,EE,002BE19B,extended,00000002
+[Blast-3 Spirit Orbs]
+patch=1,EE,002BE19B,extended,00000003
+[Blast-Max Level]
+patch=1,EE,002BE1BA,extended,00000003
+[Zero-1 Spirit Orb]
+patch=1,EE,002BE19C,extended,00000001
+[Zero-2 Spirit Orbs]
+patch=1,EE,002BE19C,extended,00000002
+[Zero-3 Spirit Orbs]
+patch=1,EE,002BE19C,extended,00000003
+[Zero-Max Level]
+patch=1,EE,002BE1BB,extended,00000003
+[Crush-1 Spirit Orb]
+patch=1,EE,002BE19D,extended,00000001
+[Crush-2 Spirit Orbs]
+patch=1,EE,002BE19D,extended,00000002
+[Crush-3 Spirit Orbs]
+patch=1,EE,002BE19D,extended,00000003
+[Crush-Max Level]
+patch=1,EE,002BE1BC,extended,00000003
+[Serial-1 Spirit Orb]
+patch=1,EE,002BE19E,extended,00000001
+[Serial-2 Spirit Orbs]
+patch=1,EE,002BE19E,extended,00000002
+[Serial-3 Spirit Orbs]
+patch=1,EE,002BE19E,extended,00000003
+[Serial-Max Level]
+patch=1,EE,002BE1BD,extended,00000003
+[>>> Max Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Type-14 Film]
+patch=1,EE,202BD00C,extended,00000063
+[Type-61 Film]
+patch=1,EE,202BD014,extended,00000063
+[Type-90 Film]
+patch=1,EE,202BD01C,extended,00000063
+[Type-Zero Film]
+patch=1,EE,202BD024,extended,00000063
+[Herbal Medicine]
+patch=1,EE,202BD02C,extended,00000063
+[Sacred Water]
+patch=1,EE,202BD034,extended,00000063
+[Stone Mirror]
+patch=1,EE,202BD03C,extended,00000063
+[Moon Grass]
+patch=1,EE,202BD044,extended,00000063
+[Moon Incense]
+patch=1,EE,202BD04C,extended,00000063
+[>>> Have Item Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Ther Camera Obscura]
+patch=1,EE,202BD054,extended,00000001
+[Flashlight]
+patch=1,EE,202BD05C,extended,00000001
+[Twin Statue Key R]
+patch=1,EE,202BD064,extended,00000001
+[Twin Statue Key L]
+patch=1,EE,202BD06C,extended,00000001
+[Miyako's Diary]
+patch=1,EE,202BD074,extended,00000001
+[Miyako's Diary 2]
+patch=1,EE,202BD07C,extended,00000001
+[Old Book]
+patch=1,EE,202BD084,extended,00000001
+[Statue Photo]
+patch=1,EE,202BD08C,extended,00000001
+[Osaka House Map]
+patch=1,EE,202BD094,extended,00000001
+[Twin Doll Heads]
+patch=1,EE,202BD09C,extended,00000001
+[Butterfly Key]
+patch=1,EE,202BD0A4,extended,00000001
+[Diamond Stack Key]
+patch=1,EE,202BD0AC,extended,00000001
+[Diamond Link Key]
+patch=1,EE,202BD0B4,extended,00000001
+[Hammer Key]
+patch=1,EE,202BD0BC,extended,00000001
+[Ginger Key]
+patch=1,EE,202BD0C4,extended,00000001
+[Crimson Wing Tome]
+patch=1,EE,202BD0CC,extended,00000001
+[Taboo Tome]
+patch=1,EE,202BD0D4,extended,00000001
+[Twin Tome]
+patch=1,EE,202BD0DC,extended,00000001
+[Disaster Tome]
+patch=1,EE,202BD0E4,extended,00000001
+[Ritual Tome]
+patch=1,EE,202BD0EC,extended,00000001
+[Light Key]
+patch=1,EE,202BD0F4,extended,00000001
+[Shadow Key]
+patch=1,EE,202BD0FC,extended,00000001
+[Rusty Key]
+patch=1,EE,202BD104,extended,00000001
+[Crimson Ball]
+patch=1,EE,202BD10C,extended,00000001
+[Film Reel 1]
+patch=1,EE,202BD114,extended,00000001
+[Film Reel 2]
+patch=1,EE,202BD11C,extended,00000001
+[Film Reel 3]
+patch=1,EE,202BD124,extended,00000001
+[Film Reel 4]
+patch=1,EE,202BD12C,extended,00000001
+[Film Reel 5]
+patch=1,EE,202BD134,extended,00000001
+[Film Reel 6]
+patch=1,EE,202BD13C,extended,00000001
+[Film Reel 7]
+patch=1,EE,202BD144,extended,00000001
+[Bell Key]
+patch=1,EE,202BD14C,extended,00000001
+[Doll's Head]
+patch=1,EE,202BD154,extended,00000001
+[Doll's Right Arm]
+patch=1,EE,202BD15C,extended,00000001
+[Doll's Left Arm]
+patch=1,EE,202BD164,extended,00000001
+[Glass Eyes]
+patch=1,EE,202BD16C,extended,00000001
+[Tachibana Crest]
+patch=1,EE,202BD174,extended,00000001
+[Tsuchihara Crest]
+patch=1,EE,202BD17C,extended,00000001
+[Kiryu Crest]
+patch=1,EE,202BD184,extended,00000001
+[Osaka Crest]
+patch=1,EE,202BD18C,extended,00000001
+[Spirit Stone Radio]
+patch=1,EE,202BD194,extended,00000001
+[Black Bag]
+patch=1,EE,202BD19C,extended,00000001
+[Design Plans]
+patch=1,EE,202BD1A4,extended,00000001
+[Red Cord Doll]
+patch=1,EE,202BD1AC,extended,00000001
+[Paulownia Key]
+patch=1,EE,202BD1B4,extended,00000001
+[Octagon Key]
+patch=1,EE,202BD1BC,extended,00000001
+[Master's Key]
+patch=1,EE,202BD1C4,extended,00000001
+[Bloody Ring]
+patch=1,EE,202BD1CC,extended,00000001
+[>>> File Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Notebooks]
+patch=1,EE,403CAFC0,extended,00050001
+[Have All Notebooks]
+patch=1,EE,02020202,extended,00000000
+[Have All Notebooks]
+patch=1,EE,103CAFD4,extended,00000202
+[Have All Notebooks]
+patch=1,EE,003CAFD6,extended,00000002
+[Have All Notebooks]
+patch=1,EE,203CAFD8,extended,00020002
+[Have All Notebooks]
+patch=1,EE,203CAFDC,extended,00020002
+[Have All Notebooks]
+patch=1,EE,203CAFE0,extended,02020202
+[Have All Notebooks]
+patch=1,EE,203CAFE4,extended,02020202
+[Have All Notebooks]
+patch=1,EE,103CAFE8,extended,00000202
+[Have All Scraps]
+patch=1,EE,003CAFEA,extended,00000002
+[Have All Scraps]
+patch=1,EE,103CAFEE,extended,00000202
+[Have All Scraps]
+patch=1,EE,003CAFF1,extended,00000002
+[Have All Scraps]
+patch=1,EE,103CAFFC,extended,00000202
+[Have All Scraps]
+patch=1,EE,003CAFFE,extended,00000002
+[Have All Scraps]
+patch=1,EE,203CB000,extended,02020202
+[Have All Scraps]
+patch=1,EE,203CB004,extended,02020202
+[Have All Scraps]
+patch=1,EE,003CB008,extended,00000002
+[Have All Scraps]
+patch=1,EE,103CB00A,extended,00000202
+[Have All Scraps]
+patch=1,EE,203CB00C,extended,02020202
+[Have All Scraps]
+patch=1,EE,203CB010,extended,02020202
+[Have All Old Books]
+patch=1,EE,403CB014,extended,00060001
+[Have All Old Books]
+patch=1,EE,02020202,extended,00000000
+[Have All Old Books]
+patch=1,EE,103CB02C,extended,00000202
+[Have All Old Books]
+patch=1,EE,003CB02E,extended,00000002
+[Have All Old Books]
+patch=1,EE,103CB030,extended,00000202
+[Have All Photos]
+patch=1,EE,403CB03C,extended,00050001
+[Have All Photos]
+patch=1,EE,02020202,extended,00000000
+[Have All Photos]
+patch=1,EE,003CB050,extended,00000002
+[Have All Maps]
+patch=1,EE,103CB056,extended,00000202
+[Have All Maps]
+patch=1,EE,003CB058,extended,00000002
+[Have All Memos]
+patch=1,EE,40404028,extended,00140002
+[Have All Memos]
+patch=1,EE,00000002,extended,00000000
+[Have All Radios]
+patch=1,EE,40372140,extended,000A0001
+[Have All Radios]
+patch=1,EE,02020202,extended,00000000
+

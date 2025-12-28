@@ -1,0 +1,84 @@
+gametitle=Wallace & Gromit-The Curse Of Were-Rabbit
+[Enable Code (Must Be On)]
+patch=1,EE,904D6454,extended,0C139AD5
+[Disable FMV]
+patch=1,EE,204D9370,extended,24020001
+[Infinite Time (Missions)]
+patch=1,EE,20301BA8,extended,00000000
+[Max Health]
+patch=1,EE,202FE914,extended,24050040
+[Max Health]
+patch=1,EE,202FE918,extended,AE250E58
+[Infinite Health]
+patch=1,EE,202FE924,extended,8E250E58
+[Infinite Health]
+patch=1,EE,202FE930,extended,8E250E58
+[Infinite Health]
+patch=1,EE,202FE93C,extended,AE250E54
+[Pause To Have All Cards]
+patch=1,EE,2019E088,extended,24010005
+[Pause To Have All Cards]
+patch=1,EE,2019E08C,extended,A041000A
+[Pause To Have All Cards]
+patch=1,EE,2019E090,extended,24020001
+[View Cards To Unlock Them]
+patch=1,EE,2019CDA0,extended,24010005
+[View Cards To Unlock Them]
+patch=1,EE,2019CDA4,extended,A041000A
+[View Cards To Unlock Them]
+patch=1,EE,2019CDA8,extended,24020000
+[View Upgrades To Unlock Them]
+patch=1,EE,2023270C,extended,24010005
+[View Upgrades To Unlock Them]
+patch=1,EE,20232710,extended,A041000A
+[View Upgrades To Unlock Them]
+patch=1,EE,10232716,extended,00001000
+[Coins Worth 100]
+patch=1,EE,20185788,extended,24420064
+[Coins Worth 50]
+patch=1,EE,20185788,extended,24420032
+[Coins Worth 20]
+patch=1,EE,20185788,extended,24420014
+[Coins Worth 10]
+patch=1,EE,20185788,extended,2442000A
+[Coins Worth 5]
+patch=1,EE,20185788,extended,24420005
+[Coins Worth 2]
+patch=1,EE,20185788,extended,24420002
+[Quick Max Coins Gain]
+patch=1,EE,10185792,extended,00001000
+[Buying Items Doesnt Decrease Coins]
+patch=1,EE,201857F0,extended,00000000
+[Buying Items Increases Coins]
+patch=1,EE,201857E0,extended,00652821
+[>>> Activate Debug Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Debug Pests]
+patch=1,EE,20552848,extended,00000001
+[Debug Pests Getting Stuck]
+patch=1,EE,20553DC8,extended,00000001
+[Debug Events]
+patch=1,EE,2055284C,extended,00000001
+[Debug Names]
+patch=1,EE,20552850,extended,00000001
+[Debug Moving Solids]
+patch=1,EE,20556EFC,extended,00000001
+[Show Particles]
+patch=1,EE,20553828,extended,00000001
+[Heat Haze]
+patch=1,EE,2055382C,extended,00000001
+[Depth Of Field]
+patch=1,EE,20556E3C,extended,00000001
+[Glow]
+patch=1,EE,20556E40,extended,00000001
+[Debug Behavior]
+patch=1,EE,2055232C,extended,00000001
+[Debug Lights]
+patch=1,EE,205531D4,extended,00000001
+[Debug Reset Points]
+patch=1,EE,20552338,extended,00000001
+[Debug Game State]
+patch=1,EE,20552640,extended,00000001
+[Debug Music]
+patch=1,EE,20553598,extended,00000001
+

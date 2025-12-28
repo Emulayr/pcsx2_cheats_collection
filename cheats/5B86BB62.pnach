@@ -1,0 +1,164 @@
+gametitle=007 Nightfire
+[Enable Code (Must Be On)]
+patch=1,EE,90A13A04,extended,0C2814E7
+[Enable Code (Must Be On)]
+patch=1,EE,902274D4,extended,0C08D8E2
+[Enable Code (Must Be On)]
+patch=1,EE,902C8EB4,extended,0C0A9FA1
+[>>> Action Mission Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Never Reload]
+patch=1,EE,D022433C,extended,10002420
+[Never Reload]
+patch=1,EE,201A1978,extended,00000000
+[Infinite Ammo]
+patch=1,EE,D022433C,extended,10002420
+[Infinite Ammo]
+patch=1,EE,201A1A44,extended,00000000
+[Extra Ammo]
+patch=1,EE,D022433C,extended,10002420
+[Extra Ammo]
+patch=1,EE,202582F8,extended,01441821
+[Infinite Health]
+patch=1,EE,E0022420,extended,0022433C
+[Infinite Health]
+patch=1,EE,2019BD24,extended,3C0142C8
+[Infinite Health]
+patch=1,EE,2019BD2C,extended,AE610894
+[Weapons With Zoom Can Zoom HELLA]
+patch=1,EE,E0022420,extended,0022433C
+[Weapons With Zoom Can Zoom HELLA]
+patch=1,EE,201A1B84,extended,00000000
+[Weapons With Zoom Can Zoom HELLA]
+patch=1,EE,201A1BC0,extended,00000000
+[Super Jump & Infinite Health]
+patch=1,EE,E0032420,extended,0022433C
+[Super Jump & Infinite Health]
+patch=1,EE,201918B8,extended,3C01BF80
+[Super Jump & Infinite Health]
+patch=1,EE,201960F8,extended,3C0142C8
+[Super Jump & Infinite Health]
+patch=1,EE,20196100,extended,AE010894
+[Mega Jump & Infinite Health]
+patch=1,EE,E0032420,extended,0022433C
+[Mega Jump & Infinite Health]
+patch=1,EE,201918B8,extended,3C01C000
+[Mega Jump & Infinite Health]
+patch=1,EE,201960F8,extended,3C0142C8
+[Mega Jump & Infinite Health]
+patch=1,EE,20196100,extended,AE010894
+[Ultra Jump & Infinite Health]
+patch=1,EE,E0032420,extended,0022433C
+[Ultra Jump & Infinite Health]
+patch=1,EE,201918B8,extended,3C01C080
+[Ultra Jump & Infinite Health]
+patch=1,EE,201960F8,extended,3C0142C8
+[Ultra Jump & Infinite Health]
+patch=1,EE,20196100,extended,AE010894
+[>>> Activate In-Game Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Health]
+patch=1,EE,D022433C,extended,10002420
+[Infinite Health]
+patch=1,EE,202A3738,extended,00000001
+[Infinite Ammo]
+patch=1,EE,D022433C,extended,10002420
+[Infinite Ammo]
+patch=1,EE,202A3740,extended,00000001
+[>>> Unlock Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Paris Prelude]
+patch=1,EE,D022433C,extended,10002420
+[Paris Prelude]
+patch=1,EE,202DF2F0,extended,00000001
+[The Exchange]
+patch=1,EE,D022433C,extended,10002420
+[The Exchange]
+patch=1,EE,202DF308,extended,00000001
+[Alpine Escape]
+patch=1,EE,D022433C,extended,10002420
+[Alpine Escape]
+patch=1,EE,202DF320,extended,00000001
+[Enemies Vanquished]
+patch=1,EE,D022433C,extended,10002420
+[Enemies Vanquished]
+patch=1,EE,202DF338,extended,00000001
+[Double Cross]
+patch=1,EE,D022433C,extended,10002420
+[Double Cross]
+patch=1,EE,202DF350,extended,00000001
+[Night Shift]
+patch=1,EE,D022433C,extended,10002420
+[Night Shift]
+patch=1,EE,202DF368,extended,00000001
+[Chain Reaction]
+patch=1,EE,D022433C,extended,10002420
+[Chain Reaction]
+patch=1,EE,202DF380,extended,00000001
+[Phoenix Fire]
+patch=1,EE,D022433C,extended,10002420
+[Phoenix Fire]
+patch=1,EE,202DF398,extended,00000001
+[Deep Descent]
+patch=1,EE,D022433C,extended,10002420
+[Deep Descent]
+patch=1,EE,202DF3B0,extended,00000001
+[Island Infiltration]
+patch=1,EE,D022433C,extended,10002420
+[Island Infiltration]
+patch=1,EE,202DF3C8,extended,00000001
+[Countdown]
+patch=1,EE,D022433C,extended,10002420
+[Countdown]
+patch=1,EE,202DF3E0,extended,00000001
+[Equinox]
+patch=1,EE,D022433C,extended,10002420
+[Equinox]
+patch=1,EE,202DF3F8,extended,00000001
+[All Levels]
+patch=1,EE,E00C2420,extended,0022433C
+[All Levels]
+patch=1,EE,202DF2F0,extended,00000001
+[All Levels]
+patch=1,EE,202DF308,extended,00000001
+[All Levels]
+patch=1,EE,202DF320,extended,00000001
+[All Levels]
+patch=1,EE,202DF338,extended,00000001
+[All Levels]
+patch=1,EE,202DF350,extended,00000001
+[All Levels]
+patch=1,EE,202DF368,extended,00000001
+[All Levels]
+patch=1,EE,202DF380,extended,00000001
+[All Levels]
+patch=1,EE,202DF398,extended,00000001
+[All Levels]
+patch=1,EE,202DF3B0,extended,00000001
+[All Levels]
+patch=1,EE,202DF3C8,extended,00000001
+[All Levels]
+patch=1,EE,202DF3E0,extended,00000001
+[All Levels]
+patch=1,EE,202DF3F8,extended,00000001
+[>>> Driving Mission Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Ammo]
+patch=1,EE,D024C174,extended,1000D2FC
+[Infinite Ammo]
+patch=1,EE,2020E5C8,extended,00000000
+[Extra Ammo]
+patch=1,EE,D024C174,extended,1000D2FC
+[Extra Ammo]
+patch=1,EE,2020E5C4,extended,00501021
+[Infinite Health]
+patch=1,EE,E004D2FC,extended,0024C174
+[Infinite Health]
+patch=1,EE,200C0220,extended,3C01453B
+[Infinite Health]
+patch=1,EE,200C0224,extended,08082622
+[Infinite Health]
+patch=1,EE,200C0228,extended,AC610378
+[Infinite Health]
+patch=1,EE,20209868,extended,08030088
+

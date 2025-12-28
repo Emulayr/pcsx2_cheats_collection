@@ -1,0 +1,96 @@
+gametitle=Fairly Odd Parents!-Shadow Showdown, The
+[Enable Code (Must Be On)]
+patch=1,EE,903C1884,extended,0C0F37E7
+[Infinite Sprint]
+patch=1,EE,2016A81C,extended,00000000
+[Max Crowns]
+patch=1,EE,200C0220,extended,2401270F
+[Max Crowns]
+patch=1,EE,200C0224,extended,AC413414
+[Max Crowns]
+patch=1,EE,200C0228,extended,08068D6B
+[Max Crowns]
+patch=1,EE,200C022C,extended,C44C3414
+[Max Crowns]
+patch=1,EE,201A35A8,extended,08030088
+[Infinite Luck]
+patch=1,EE,200C0230,extended,24020008
+[Infinite Luck]
+patch=1,EE,200C0234,extended,03E00008
+[Infinite Luck]
+patch=1,EE,200C0238,extended,ACA20380
+[Infinite Luck]
+patch=1,EE,201C52D4,extended,0C03008C
+[Infinite Double Jumps]
+patch=1,EE,20169AE8,extended,00000000
+[>>> Fairly Disastrous Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Crowns]
+patch=1,EE,205C2554,extended,0000012C
+[Have All Clover Leaves]
+patch=1,EE,205C2558,extended,00000002
+[Have All Stickers]
+patch=1,EE,205C255C,extended,00000006
+[Have All Video Clips]
+patch=1,EE,205C2560,extended,00000001
+[>>> Dad's Dream Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Crowns]
+patch=1,EE,205C25F4,extended,0000012C
+[Have All Clover Leaves]
+patch=1,EE,205C25F8,extended,00000002
+[Have All Stickers]
+patch=1,EE,205C25FC,extended,00000006
+[Have All Video Clips]
+patch=1,EE,205C2600,extended,00000001
+[>>> Take It On The Chin Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Crowns]
+patch=1,EE,205C2694,extended,0000012C
+[Have All Clover Leaves]
+patch=1,EE,205C2698,extended,00000002
+[Have All Stickers]
+patch=1,EE,205C269C,extended,00000006
+[Have All Video Clips]
+patch=1,EE,205C26A0,extended,00000001
+[>>> Get A Clue Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Crowns]
+patch=1,EE,205C2734,extended,0000012C
+[Have All Clover Leaves]
+patch=1,EE,205C2738,extended,00000002
+[Have All Stickers]
+patch=1,EE,205C273C,extended,00000006
+[Have All Video Clips]
+patch=1,EE,205C2740,extended,00000001
+[>>> Vicky Strikes Back Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Crowns]
+patch=1,EE,205C27D4,extended,0000012C
+[Have All Clover Leaves]
+patch=1,EE,205C27D8,extended,00000002
+[Have All Stickers]
+patch=1,EE,205C27DC,extended,00000006
+[Have All Video Clips]
+patch=1,EE,205C27E0,extended,00000001
+[>>> The Great Esc-Ape Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Crowns]
+patch=1,EE,205C2874,extended,0000012C
+[Have All Clover Leaves]
+patch=1,EE,205C2878,extended,00000002
+[Have All Stickers]
+patch=1,EE,205C287C,extended,00000006
+[Have All Video Clips]
+patch=1,EE,205C2880,extended,00000001
+[>>> Multiplayer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Score P1]
+patch=1,EE,205D6938,extended,000003E7
+[No Score P1]
+patch=1,EE,205D6938,extended,00000000
+[Max Score P2]
+patch=1,EE,205D693C,extended,000003E7
+[No Score P2]
+patch=1,EE,205D693C,extended,00000000
+

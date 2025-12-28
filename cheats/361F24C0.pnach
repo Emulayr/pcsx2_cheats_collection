@@ -1,0 +1,150 @@
+gametitle=[SLUS-20510] Star Wars-The Clone Wars
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,002EFC87
+[Infinite Ammo]
+patch=1,EE,20155C2C,extended,00000000
+[Extra Ammo]
+patch=1,EE,20155C28,extended,46140000
+[Infinite Health]
+patch=1,EE,202463A4,extended,C6610014
+[Infinite Health]
+patch=1,EE,202463B0,extended,E6610010
+[>>> Multiplayer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Quick Score Gain P1]
+patch=1,EE,0033935C,extended,000000FF
+[Hella Score Gain P1]
+patch=1,EE,1033935C,extended,0000FFFF
+[Max Score P1]
+patch=1,EE,2033935C,extended,05F5E0FF
+[No Score P1]
+patch=1,EE,2033935C,extended,00000000
+[Quick Score Gain P2]
+patch=1,EE,003393DC,extended,000000FF
+[Hella Score Gain P2]
+patch=1,EE,103393DC,extended,0000FFFF
+[Max Score P2]
+patch=1,EE,203393DC,extended,05F5E0FF
+[No Score P2]
+patch=1,EE,203393DC,extended,00000000
+[>>> Save Slot 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Bonus Materials]
+cheat0_code = "20338968 FFFFFFFF
+[>>> Unlock Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Geonosis Intro]
+patch=1,EE,003387F2,extended,00000001
+[Rhen Var Intro]
+patch=1,EE,00338816,extended,00000001
+[Raxus Prime Intro]
+patch=1,EE,00338822,extended,00000001
+[Kashyyyk Moon Intro]
+patch=1,EE,00338846,extended,00000001
+[Return To Rhen Var]
+patch=1,EE,0033886A,extended,00000001
+[Thule Moon Intro]
+patch=1,EE,00338882,extended,00000001
+[Thule Finale]
+patch=1,EE,003388A8,extended,00000001
+[Unlock All Missions]
+patch=1,EE,403387EC,extended,00100003
+[Unlock All Missions]
+patch=1,EE,00000001,extended,00000000
+[>>> Save Slot 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Bonus Materials]
+cheat0_code = "20338B28 FFFFFFFF
+[>>> Unlock Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Geonosis Intro]
+patch=1,EE,003389B2,extended,00000001
+[Rhen Var Intro]
+patch=1,EE,003389D6,extended,00000001
+[Raxus Prime Intro]
+patch=1,EE,003389E2,extended,00000001
+[Kashyyyk Moon Intro]
+patch=1,EE,00338A06,extended,00000001
+[Return To Rhen Var]
+patch=1,EE,00338A2A,extended,00000001
+[Thule Moon Intro]
+patch=1,EE,00338A42,extended,00000001
+[Thule Finale]
+patch=1,EE,00338A68,extended,00000001
+[Unlock All Missions]
+patch=1,EE,403389AC,extended,00100003
+[Unlock All Missions]
+patch=1,EE,00000001,extended,00000000
+[>>> Save Slot 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Bonus Materials]
+cheat0_code = "20338CE8 FFFFFFFF
+[>>> Unlock Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Geonosis Intro]
+patch=1,EE,00338B72,extended,00000001
+[Rhen Var Intro]
+patch=1,EE,00338B96,extended,00000001
+[Raxus Prime Intro]
+patch=1,EE,00338BA2,extended,00000001
+[Kashyyyk Moon Intro]
+patch=1,EE,00338BC6,extended,00000001
+[Return To Rhen Var]
+patch=1,EE,00338BEA,extended,00000001
+[Thule Moon Intro]
+patch=1,EE,00338C02,extended,00000001
+[Thule Finale]
+patch=1,EE,00338C28,extended,00000001
+[Unlock All Missions]
+patch=1,EE,40338B6C,extended,00100003
+[Unlock All Missions]
+patch=1,EE,00000001,extended,00000000
+[>>> Save Slot 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Bonus Materials]
+cheat0_code = "20338EA8 FFFFFFFF
+[>>> Unlock Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Geonosis Intro]
+patch=1,EE,00338D32,extended,00000001
+[Rhen Var Intro]
+patch=1,EE,00338D56,extended,00000001
+[Raxus Prime Intro]
+patch=1,EE,00338D62,extended,00000001
+[Kashyyyk Moon Intro]
+patch=1,EE,00338D86,extended,00000001
+[Return To Rhen Var]
+patch=1,EE,00338DAA,extended,00000001
+[Thule Moon Intro]
+patch=1,EE,00338DC2,extended,00000001
+[Thule Finale]
+patch=1,EE,00338DE8,extended,00000001
+[Unlock All Missions]
+patch=1,EE,40338D2C,extended,00100003
+[Unlock All Missions]
+patch=1,EE,00000001,extended,00000000
+[>>> Save Slot 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Bonus Materials]
+cheat0_code = "20339068 FFFFFFFF
+[>>> Unlock Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Geonosis Intro]
+patch=1,EE,00338EF2,extended,00000001
+[Rhen Var Intro]
+patch=1,EE,00338F16,extended,00000001
+[Raxus Prime Intro]
+patch=1,EE,00338F22,extended,00000001
+[Kashyyyk Moon Intro]
+patch=1,EE,00338F46,extended,00000001
+[Return To Rhen Var]
+patch=1,EE,00338F6A,extended,00000001
+[Thule Moon Intro]
+patch=1,EE,00338F82,extended,00000001
+[Thule Finale]
+patch=1,EE,00338FA8,extended,00000001
+[Unlock All Missions]
+patch=1,EE,40338EEC,extended,00100003
+[Unlock All Missions]
+patch=1,EE,00000001,extended,00000000
+

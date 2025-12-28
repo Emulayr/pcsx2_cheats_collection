@@ -1,0 +1,158 @@
+gametitle=Yu-Gi-Oh!-Duelists Of The Roses
+[Enable Code (Must Be On)]
+patch=1,EE,90192B94,extended,0C0661E4
+[>>> In-Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite LP P1]
+patch=1,EE,103177CA,extended,0000270F
+[No LP P1]
+patch=1,EE,103177CA,extended,00000000
+[Always Low LP P1]
+patch=1,EE,D03177CA,extended,00300001
+[Always Low LP P1]
+patch=1,EE,103177CA,extended,00000001
+[Max Summoning Level P1]
+patch=1,EE,003177D1,extended,00000063
+[Low Summoning Level P1]
+patch=1,EE,003177D1,extended,00000001
+[No Summoning Level P1]
+patch=1,EE,003177D1,extended,00000000
+[P1 Press {L1}+{R2} For Instant Win]
+patch=1,EE,D03259C2,extended,0000FCFF
+[P1 Press {L1}+{R2} For Instant Win]
+patch=1,EE,10317B1A,extended,00000000
+[P1 Press {R2}+Up For First Round]
+patch=1,EE,D03259C2,extended,0000FDEF
+[P1 Press {R2}+Up For First Round]
+patch=1,EE,003181E3,extended,00000001
+[P1 Press {R2}+Down For 1 Round Left]
+patch=1,EE,D03259C2,extended,0000FDBF
+[P1 Press {R2}+Down For 1 Round Left]
+patch=1,EE,003181E3,extended,00000063
+[P1 Press {R2}+Left For No Rounds Left]
+patch=1,EE,D03259C2,extended,0000FD7F
+[P1 Press {R2}+Left For No Rounds Left]
+patch=1,EE,003181E3,extended,00000064
+[Infinite LP P2]
+patch=1,EE,10317B1A,extended,0000270F
+[No LP P2]
+patch=1,EE,10317B1A,extended,00000000
+[Always Low LP P2]
+patch=1,EE,D0317B1A,extended,00300001
+[Always Low LP P2]
+patch=1,EE,10317B1A,extended,00000001
+[Max Summoning Level P2]
+patch=1,EE,00317B21,extended,00000063
+[Low Summoning Level P2]
+patch=1,EE,00317B21,extended,00000001
+[No Summoning Level P2]
+patch=1,EE,00317B21,extended,00000000
+[P2 Press {L1}+{R2} For Instant Win]
+patch=1,EE,D0325AC2,extended,0000FCFF
+[P2 Press {L1}+{R2} For Instant Win]
+patch=1,EE,103177CA,extended,00000000
+[P2 Press {R2}+Up For First Round]
+patch=1,EE,D0325AC2,extended,0000FDEF
+[P2 Press {R2}+Up For First Round]
+patch=1,EE,003181E3,extended,00000001
+[P2 Press {R2}+Down For 1 Round Left]
+patch=1,EE,D0325AC2,extended,0000FDBF
+[P2 Press {R2}+Down For 1 Round Left]
+patch=1,EE,003181E3,extended,00000063
+[P2 Press {R2}+Left For No Rounds Left]
+patch=1,EE,D0325AC2,extended,0000FD7F
+[P2 Press {R2}+Left For No Rounds Left]
+patch=1,EE,003181E3,extended,00000064
+[P1 Card 1-Can Always Move]
+patch=1,EE,003182D7,extended,00000000
+[P1 Card 1-Can Never Move]
+patch=1,EE,003182D7,extended,00000001
+[P1 Card 2-Can Always Move]
+patch=1,EE,00318333,extended,00000000
+[P1 Card 2-Can Never Move]
+patch=1,EE,00318333,extended,00000001
+[P1 Card 3-Can Always Move]
+patch=1,EE,0031838F,extended,00000000
+[P1 Card 3-Can Never Move]
+patch=1,EE,0031838F,extended,00000001
+[P1 Card 4-Can Always Move]
+patch=1,EE,003183EB,extended,00000000
+[P1 Card 4-Can Never Move]
+patch=1,EE,003183EB,extended,00000001
+[P1 Card 5-Can Always Move]
+patch=1,EE,00318447,extended,00000000
+[P1 Card 5-Can Never Move]
+patch=1,EE,00318447,extended,00000001
+[P1 Card 6-Can Always Move]
+patch=1,EE,003184A3,extended,00000000
+[P1 Card 6-Can Never Move]
+patch=1,EE,003184A3,extended,00000001
+[P1 Card 7-Can Always Move]
+patch=1,EE,003184FF,extended,00000000
+[P1 Card 7-Can Never Move]
+patch=1,EE,003184FF,extended,00000001
+[P1 Card 8-Can Always Move]
+patch=1,EE,0031855B,extended,00000000
+[P1 Card 8-Can Never Move]
+patch=1,EE,0031855B,extended,00000001
+[P2 Card 1-Can Always Move]
+patch=1,EE,003186CB,extended,00000000
+[P2 Card 1-Can Never Move]
+patch=1,EE,003186CB,extended,00000001
+[P2 Card 2-Can Always Move]
+patch=1,EE,00318727,extended,00000000
+[P2 Card 2-Can Never Move]
+patch=1,EE,00318727,extended,00000001
+[P2 Card 3-Can Always Move]
+patch=1,EE,00318783,extended,00000000
+[P2 Card 3-Can Never Move]
+patch=1,EE,00318783,extended,00000001
+[P2 Card 4-Can Always Move]
+patch=1,EE,003187DF,extended,00000000
+[P2 Card 4-Can Never Move]
+patch=1,EE,003187DF,extended,00000001
+[P2 Card 5-Can Always Move]
+patch=1,EE,0031883B,extended,00000000
+[P2 Card 5-Can Never Move]
+patch=1,EE,0031883B,extended,00000001
+[P2 Card 6-Can Always Move]
+patch=1,EE,00318897,extended,00000000
+[P2 Card 6-Can Never Move]
+patch=1,EE,00318897,extended,00000001
+[P2 Card 7-Can Always Move]
+patch=1,EE,003188F3,extended,00000000
+[P2 Card 7-Can Never Move]
+patch=1,EE,003188F3,extended,00000001
+[P2 Card 8-Can Always Move]
+patch=1,EE,0031894F,extended,00000000
+[P2 Card 8-Can Never Move]
+patch=1,EE,0031894F,extended,00000001
+[>>> Battle Map Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Wins]
+patch=1,EE,10299E4E,extended,0000270F
+[No Wins]
+patch=1,EE,10299E4E,extended,00000000
+[Max Losses]
+patch=1,EE,10299E50,extended,0000270F
+[No Losses]
+patch=1,EE,10299E50,extended,00000000
+[DC Always 1]
+patch=1,EE,1033F576,extended,00000001
+[Never DC To Batle]
+patch=1,EE,10239E46,extended,00001000
+[Have All Cards In Chest]
+patch=1,EE,20216B70,extended,3C036762
+[Have All Cards In Chest]
+patch=1,EE,20216B74,extended,34630525
+[Have All Cards In Chest]
+patch=1,EE,20216B78,extended,AC830000
+[Have All Battle Locations]
+patch=1,EE,20299E14,extended,03030303
+[Have All Battle Locations]
+patch=1,EE,20299E18,extended,03030303
+[Have All Battle Locations]
+patch=1,EE,10299E1C,extended,00000303
+[Have All Battle Locations]
+patch=1,EE,00299E1E,extended,00000003
+

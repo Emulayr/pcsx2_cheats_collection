@@ -1,0 +1,6 @@
+gametitle=[SLUS-20348] Monopoly Party
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0027F7CF
+[Infinite Money (All Players)]
+patch=1,EE,201E87EC,extended,00000000
+

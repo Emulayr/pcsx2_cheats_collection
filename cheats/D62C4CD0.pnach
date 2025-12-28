@@ -1,0 +1,148 @@
+gametitle=[SLUS-20971] Metal Slug 4
+[Enable Code (Must Be On)]
+patch=1,EE,9010F420,extended,0C04645C
+[Infinite Time]
+patch=1,EE,00701191,extended,00000099
+[>>> Both Players Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Lives]
+patch=1,EE,20154D00,extended,00000000
+[Max Infinite Lives]
+patch=1,EE,10154CF8,extended,24020063
+[Extra Lives]
+patch=1,EE,10154CF8,extended,00000001
+[Infinite Bombs]
+patch=1,EE,2018E98C,extended,00000000
+[Max Infinite Bombs]
+patch=1,EE,2018E988,extended,24020063
+[Extra Bombs]
+patch=1,EE,1018E988,extended,00000001
+[Infinite Ammo]
+patch=1,EE,20178A80,extended,00000000
+[Do Not Lose Upgraded Weapons When Dieing]
+patch=1,EE,200C0220,extended,54600001
+[Do Not Lose Upgraded Weapons When Dieing]
+patch=1,EE,200C0224,extended,A0430004
+[Do Not Lose Upgraded Weapons When Dieing]
+patch=1,EE,200C0228,extended,03E00008
+[Do Not Lose Upgraded Weapons When Dieing]
+patch=1,EE,200C022C,extended,00000000
+[Do Not Lose Upgraded Weapons When Dieing]
+patch=1,EE,20176DDC,extended,0C030088
+[Do Not Lose Upgraded Weapons When Dieing]
+patch=1,EE,20175184,extended,00000000
+[Do Not Lose Upgraded Weapons When Dieing]
+patch=1,EE,20175190,extended,00000000
+[>>> P1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Lives]
+patch=1,EE,0070BF89,extended,00000063
+[Invincible]
+patch=1,EE,1070BAC0,extended,000000FF
+[Quick Score Gain]
+patch=1,EE,1070CC50,extended,00009999
+[Max Score]
+patch=1,EE,2070CC50,extended,09999999
+[Infinite Bombs]
+patch=1,EE,0106F1A7,extended,00000063
+[Infinite Ammo (Infinity Symbol)]
+patch=1,EE,1106F1AC,extended,0000FFFF
+[Max Infinite Ammo]
+patch=1,EE,1106F1AC,extended,000003E7
+[Press {CROSS} For Moon Jump]
+patch=1,EE,D06CB582,extended,0000BFFF
+[Press {CROSS} For Moon Jump]
+patch=1,EE,1070BA6A,extended,00000002
+[>>> Weapon Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Normal Gun]
+patch=1,EE,1106F1A4,extended,00000000
+[Drop Shot (D)]
+patch=1,EE,1106F1A4,extended,00000101
+[Shotgun (S)]
+patch=1,EE,1106F1A4,extended,00000202
+[Rocket Launcher (R)]
+patch=1,EE,1106F1A4,extended,00000303
+[Flame Chop (F)]
+patch=1,EE,1106F1A4,extended,00000404
+[Heavy Machine Gun (H)]
+patch=1,EE,1106F1A4,extended,00000505
+[Laser Gun]
+patch=1,EE,1106F1A4,extended,00000606
+[Super Shotgun]
+patch=1,EE,1106F1A4,extended,00000707
+[Super Rocket Launcher]
+patch=1,EE,1106F1A4,extended,00000808
+[Explosive Rounds]
+patch=1,EE,1106F1A4,extended,00000909
+[Super Handgun]
+patch=1,EE,1106F1A4,extended,00000A0A
+[Super Laser]
+patch=1,EE,1106F1A4,extended,00000B0B
+[Enemy Chaser (C)]
+patch=1,EE,1106F1A4,extended,00000C0C
+[Iron lizard (I)]
+patch=1,EE,1106F1A4,extended,00000D0D
+[Bubble Gun]
+patch=1,EE,1106F1A4,extended,00000E0E
+[Super Bullet Gun]
+patch=1,EE,1106F1A4,extended,00000F0F
+[Dual Machine Gun (2H)]
+patch=1,EE,1106F1A4,extended,00001212
+[>>> P2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Lives]
+patch=1,EE,0070BE59,extended,00000063
+[Invincible]
+patch=1,EE,1070B990,extended,000000FF
+[Quick Score Gain]
+patch=1,EE,1070CC48,extended,00009999
+[Max Score]
+patch=1,EE,2070CC48,extended,09999999
+[Infinite Bombs]
+patch=1,EE,0106F197,extended,00000063
+[Infinite Ammo (Infinity Symbol)]
+patch=1,EE,1106F19C,extended,0000FFFF
+[Max Infinite Ammo]
+patch=1,EE,1106F19C,extended,000003E7
+[Press {CROSS} For Moon Jump]
+patch=1,EE,D06CB682,extended,0000BFFF
+[Press {CROSS} For Moon Jump]
+patch=1,EE,1070B93A,extended,00000002
+[>>> Weapon Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Normal Gun]
+patch=1,EE,1106F194,extended,00000000
+[Drop Shot (D)]
+patch=1,EE,1106F194,extended,00000101
+[Shotgun (S)]
+patch=1,EE,1106F194,extended,00000202
+[Rocket Launcher (R)]
+patch=1,EE,1106F194,extended,00000303
+[Flame Chop (F)]
+patch=1,EE,1106F194,extended,00000404
+[Heavy Machine Gun (H)]
+patch=1,EE,1106F194,extended,00000505
+[Laser Gun]
+patch=1,EE,1106F194,extended,00000606
+[Super Shotgun]
+patch=1,EE,1106F194,extended,00000707
+[Super Rocket Launcher]
+patch=1,EE,1106F194,extended,00000808
+[Explosive Rounds]
+patch=1,EE,1106F194,extended,00000909
+[Super Handgun]
+patch=1,EE,1106F194,extended,00000A0A
+[Super Laser]
+patch=1,EE,1106F194,extended,00000B0B
+[Enemy Chaser (C)]
+patch=1,EE,1106F194,extended,00000C0C
+[Iron lizard (I)]
+patch=1,EE,1106F194,extended,00000D0D
+[Bubble Gun]
+patch=1,EE,1106F194,extended,00000E0E
+[Super Bullet Gun]
+patch=1,EE,1106F194,extended,00000F0F
+[Dual Machine Gun (2H)]
+patch=1,EE,1106F194,extended,00001212
+

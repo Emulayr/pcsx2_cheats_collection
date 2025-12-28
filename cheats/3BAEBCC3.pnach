@@ -1,0 +1,112 @@
+gametitle=Tomb Raider-The Angel Of Darkness
+[Enable Code (Must Be On)]
+patch=1,EE,90211C5C,extended,0C0884D1
+[Infinite Health]
+patch=1,EE,20417A64,extended,42C80000
+[Infinite Strength]
+patch=1,EE,2012C1A4,extended,00000000
+[Infinite Money]
+patch=1,EE,10413BE8,extended,0000FFFF
+[Max Money]
+patch=1,EE,20413BE8,extended,05F5E0FF
+[Super Jump]
+patch=1,EE,20142E00,extended,3C014260
+[Ultra Jump]
+patch=1,EE,20142E00,extended,3C0142A0
+[Super Ultra Jump]
+patch=1,EE,20142E00,extended,3C0142C8
+[Super Running Jump]
+patch=1,EE,20142E9C,extended,3C014260
+[Ultra Running Jump]
+patch=1,EE,20142E9C,extended,3C0142A0
+[Super Ultra Running Jump]
+patch=1,EE,20142E9C,extended,3C0142C8
+[Dont Lose Health From Falling]
+patch=1,EE,20144E4C,extended,00000000
+[Enable Skip Level]
+patch=1,EE,20166BC0,extended,24060000
+[Enable Level Select]
+patch=1,EE,20166BD8,extended,24060000
+[Enable Skip Level & Level Select]
+patch=1,EE,00413E70,extended,00000001
+[Full Hyper Mode]
+patch=1,EE,20416574,extended,3E400000
+[Hyper Running Only]
+patch=1,EE,20128C00,extended,3C033E40
+[Hyper Running Only]
+patch=1,EE,20128C04,extended,44830800
+[Hyper Walking Only]
+patch=1,EE,2012957C,extended,3C043E40
+[Hyper Walking Only]
+patch=1,EE,20129580,extended,44840800
+[Disable FMV]
+patch=1,EE,20219CE8,extended,24020001
+[Infinite Item Usage]
+patch=1,EE,201695C4,extended,00000000
+[Extra Items]
+patch=1,EE,101695BC,extended,00000001
+[Use Item For Max Item]
+patch=1,EE,201695BC,extended,24020063
+[Infinite Ammo]
+patch=1,EE,201368E4,extended,00000000
+[Infinite Ammo]
+patch=1,EE,201368F8,extended,24030063
+[Rapid Fire]
+patch=1,EE,2013806C,extended,3C043E40
+[Rapid Fire]
+patch=1,EE,20138070,extended,44846000
+[>>> Have Weapon Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Weapon 1]
+patch=1,EE,204B2004,extended,010C0001
+[Weapon 1]
+patch=1,EE,204B2008,extended,00000003
+[Weapon 2]
+patch=1,EE,204B2018,extended,010E0001
+[Weapon 2]
+patch=1,EE,204B201C,extended,00000003
+[Weapon 3]
+patch=1,EE,204B202C,extended,01100001
+[Weapon 3]
+patch=1,EE,204B2030,extended,00000003
+[Weapon 4]
+patch=1,EE,204B2040,extended,011B0001
+[Weapon 4]
+patch=1,EE,204B2044,extended,00000003
+[Weapon 5]
+patch=1,EE,204B2054,extended,011D0001
+[Weapon 5]
+patch=1,EE,204B2058,extended,00000003
+[Weapon 6]
+patch=1,EE,204B2068,extended,011F0001
+[Weapon 6]
+patch=1,EE,204B206C,extended,00000003
+[Weapon 7]
+patch=1,EE,204B207C,extended,01200001
+[Weapon 7]
+patch=1,EE,204B2080,extended,00000003
+[Weapon 8]
+patch=1,EE,204B2090,extended,01210001
+[Weapon 8]
+patch=1,EE,204B2094,extended,00000003
+[Weapon 9]
+patch=1,EE,204B20A4,extended,01230001
+[Weapon 9]
+patch=1,EE,204B20A8,extended,00000003
+[Weapon 10]
+patch=1,EE,204B20B8,extended,01260001
+[Weapon 10]
+patch=1,EE,204B20BC,extended,00000003
+[Weapon 11]
+patch=1,EE,204B20CC,extended,012B0001
+[Weapon 11]
+patch=1,EE,204B20D0,extended,00000003
+[Weapon 12]
+patch=1,EE,204B20E0,extended,02550001
+[Weapon 12]
+patch=1,EE,204B20E4,extended,00000003
+[Weapon 13]
+patch=1,EE,204B20F4,extended,02640001
+[Weapon 13]
+patch=1,EE,204B20F8,extended,00000003
+

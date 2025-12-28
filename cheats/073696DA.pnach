@@ -1,0 +1,96 @@
+gametitle=Twisted Metal Black
+[Enable Code (Must Be On)]
+patch=1,EE,902055BC,extended,0C087402
+[Infinite Ammo]
+patch=1,EE,201BA050,extended,03E00008
+[Infinite Ammo]
+patch=1,EE,201BA054,extended,00000000
+[Extra Ammo]
+patch=1,EE,101BA0A0,extended,00000001
+[Infinite Turbo]
+patch=1,EE,201AAA58,extended,03E00008
+[Infinite Turbo]
+patch=1,EE,201AAA5C,extended,00000000
+[Infinite Health (Most Levels)]
+patch=1,EE,20257F44,extended,447A0000
+[Stop Enemies]
+patch=1,EE,20104818,extended,03E00008
+[Stop Enemies]
+patch=1,EE,2010481C,extended,00000000
+[Stop Enemies]
+patch=1,EE,20105164,extended,00000000
+[Stop Enemies]
+patch=1,EE,2010293C,extended,00000000
+[Stop Enemies]
+patch=1,EE,20102940,extended,00000000
+[Idiot AI]
+patch=1,EE,20104818,extended,03E00008
+[Idiot AI]
+patch=1,EE,2010481C,extended,00000000
+[Unlock All Characters]
+patch=1,EE,40425E70,extended,00060001
+[Unlock All Characters]
+patch=1,EE,00000000,extended,00000000
+[>>> Unlock Level Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Freeway]
+patch=1,EE,10425E94,extended,00000000
+[Prison Pass]
+patch=1,EE,10425E98,extended,00000000
+[Skyscrapers]
+patch=1,EE,10425E9C,extended,00000000
+[Minion Stadium]
+patch=1,EE,10425EC4,extended,00000000
+[>>> Unlock Movie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mr Kane & Son Prologue]
+patch=1,EE,10425F04,extended,00000000
+[Billy Ray Middle]
+patch=1,EE,10425F18,extended,00000000
+[Preacher Middle]
+patch=1,EE,10425F1C,extended,00000000
+[Agent Stone Middle]
+patch=1,EE,10425F20,extended,00000000
+[Mr Grim Middle]
+patch=1,EE,10425F24,extended,00000000
+[John Doe Middle]
+patch=1,EE,10425F28,extended,00000000
+[No Face Middle]
+patch=1,EE,10425F2C,extended,00000000
+[Bloody Mary Middle]
+patch=1,EE,10425F30,extended,00000000
+[Dollface Middle]
+patch=1,EE,10425F34,extended,00000000
+[Raven Middle]
+patch=1,EE,10425F38,extended,00000000
+[SweetTooth Middle]
+patch=1,EE,10425F4C,extended,00000000
+[Billy Ray Epilogue]
+patch=1,EE,10425F50,extended,00000000
+[Preacher Epilogue]
+patch=1,EE,10425F54,extended,00000000
+[Agent Stone Epilogue]
+patch=1,EE,10425F58,extended,00000000
+[Mr Grim Epilogue]
+patch=1,EE,10425F5C,extended,00000000
+[John Doe Epilogue]
+patch=1,EE,10425F60,extended,00000000
+[No Face Epilogue]
+patch=1,EE,10425F64,extended,00000000
+[Bloody Mary Epilogue]
+patch=1,EE,10425F68,extended,00000000
+[Dollface Epilogue]
+patch=1,EE,10425F6C,extended,00000000
+[Raven Epilogue]
+patch=1,EE,10425F70,extended,00000000
+[Mr Kane & Son Epilogue]
+patch=1,EE,10425F74,extended,00000000
+[Axel Epilogue]
+patch=1,EE,10425F78,extended,00000000
+[Cage Epilogue]
+patch=1,EE,10425F7C,extended,00000000
+[Black Epilogue]
+patch=1,EE,10425F80,extended,00000000
+[Sweet Tooth Epilogue]
+patch=1,EE,10425F84,extended,00000000
+

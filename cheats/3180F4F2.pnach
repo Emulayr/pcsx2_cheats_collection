@@ -1,0 +1,44 @@
+gametitle=Pride Fighting Championship
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,001134BF
+[Infinite Health P1]
+patch=1,EE,202A54DC,extended,43200000
+[Infinite Health P1]
+patch=1,EE,202A54E0,extended,43200000
+[No Health P1]
+patch=1,EE,202A54DC,extended,43200000
+[No Health P1]
+patch=1,EE,202A54E0,extended,00000000
+[Max Health Regeneration P1]
+patch=1,EE,202A54E4,extended,43200000
+[No Health Regeneration P1]
+patch=1,EE,202A54E4,extended,00000000
+[Infinite Health P2]
+patch=1,EE,202A6FDC,extended,43200000
+[Infinite Health P2]
+patch=1,EE,202A6FE0,extended,43200000
+[No Health P2]
+patch=1,EE,202A6FDC,extended,43200000
+[No Health P2]
+patch=1,EE,202A6FE0,extended,00000000
+[Max Health Regeneration P2]
+patch=1,EE,202A6FE4,extended,43200000
+[No Health Regeneration P2]
+patch=1,EE,202A6FE4,extended,00000000
+[>>> Create A Fighter Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Skill Points]
+patch=1,EE,107FA71A,extended,00002828
+[Max Stand Punch]
+patch=1,EE,007FA714,extended,0000000A
+[Max Stand Kick]
+patch=1,EE,007FA715,extended,0000000A
+[Max Mount Pounding]
+patch=1,EE,007FA716,extended,0000000A
+[Max Takedown]
+patch=1,EE,007FA717,extended,0000000A
+[Max Submission]
+patch=1,EE,007FA718,extended,0000000A
+[Max Endurance]
+patch=1,EE,007FA719,extended,0000000A
+

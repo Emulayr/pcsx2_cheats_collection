@@ -1,0 +1,292 @@
+gametitle=[SLUS-20446] Agassi Tennis Generation
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0023B51F
+[>>> P1 Game 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380C0,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380C0,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380C0,extended,00000028
+[>>> P1 Game 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380C4,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380C4,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380C4,extended,00000028
+[>>> P1 Game 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380C8,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380C8,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380C8,extended,00000028
+[>>> P1 Game 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380CC,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380CC,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380CC,extended,00000028
+[>>> P1 Game 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380D0,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380D0,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380D0,extended,00000028
+[>>> P1 Game 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380D4,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380D4,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380D4,extended,00000028
+[>>> P1 Game 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380D8,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380D8,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380D8,extended,00000028
+[>>> P1 Game 8 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380DC,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380DC,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380DC,extended,00000028
+[>>> P1 Game 9 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380E0,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380E0,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380E0,extended,00000028
+[>>> P1 Game 10 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380E4,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380E4,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380E4,extended,00000028
+[>>> P1 Game 11 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380E8,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380E8,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380E8,extended,00000028
+[>>> P1 Game 12 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380EC,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380EC,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380EC,extended,00000028
+[>>> P1 Game 13 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380F0,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380F0,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380F0,extended,00000028
+[>>> P1 Game 14 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380F4,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380F4,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380F4,extended,00000028
+[>>> P1 Game 15 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380F8,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380F8,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380F8,extended,00000028
+[>>> P1 Game 16 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380FC,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380FC,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380FC,extended,00000028
+[>>> P1 Game 17 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,00338100,extended,00000000
+[Start With Score 40]
+patch=1,EE,D0338100,extended,00000000
+[Start With Score 40]
+patch=1,EE,00338100,extended,00000028
+[>>> P1 Game 18 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,00338104,extended,00000000
+[Start With Score 40]
+patch=1,EE,D0338104,extended,00000000
+[Start With Score 40]
+patch=1,EE,00338104,extended,00000028
+[>>> P2 Game 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380C1,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380C0,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380C1,extended,00000028
+[>>> P2 Game 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380C5,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380C4,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380C5,extended,00000028
+[>>> P2 Game 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380C9,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380C8,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380C9,extended,00000028
+[>>> P2 Game 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380CD,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380CC,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380CD,extended,00000028
+[>>> P2 Game 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380D1,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380D0,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380D1,extended,00000028
+[>>> P2 Game 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380D5,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380D4,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380D5,extended,00000028
+[>>> P2 Game 7 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380D9,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380D8,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380D9,extended,00000028
+[>>> P2 Game 8 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380DD,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380DC,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380DD,extended,00000028
+[>>> P2 Game 9 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380E1,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380E0,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380E1,extended,00000028
+[>>> P2 Game 10 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380E5,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380E4,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380E5,extended,00000028
+[>>> P2 Game 11 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380E9,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380E8,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380E9,extended,00000028
+[>>> P2 Game 12 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380ED,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380EC,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380ED,extended,00000028
+[>>> P2 Game 13 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380F1,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380F0,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380F1,extended,00000028
+[>>> P2 Game 14 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380F5,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380F4,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380F5,extended,00000028
+[>>> P2 Game 15 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380F9,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380F8,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380F9,extended,00000028
+[>>> P2 Game 16 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,003380FD,extended,00000000
+[Start With Score 40]
+patch=1,EE,D03380FC,extended,00000000
+[Start With Score 40]
+patch=1,EE,003380FD,extended,00000028
+[>>> P2 Game 17 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,00338101,extended,00000000
+[Start With Score 40]
+patch=1,EE,D0338100,extended,00000000
+[Start With Score 40]
+patch=1,EE,00338101,extended,00000028
+[>>> P2 Game 18 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Scores 0]
+patch=1,EE,00338105,extended,00000000
+[Start With Score 40]
+patch=1,EE,D0338104,extended,00000000
+[Start With Score 40]
+patch=1,EE,00338105,extended,00000028
+

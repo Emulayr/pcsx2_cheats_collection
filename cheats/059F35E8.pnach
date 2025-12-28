@@ -1,0 +1,350 @@
+gametitle=Mortal Kombat V-Deadly Alliance
+[Enable Code (Must Be On)]
+patch=1,EE,90115A74,extended,0C0807E0
+[Infinite Time]
+patch=1,EE,1040A39C,extended,0000003C
+[Infinite Health P1]
+patch=1,EE,2040A394,extended,3F800000
+[75% Health P1]
+patch=1,EE,D040A396,extended,00003F80
+[75% Health P1]
+patch=1,EE,2040A394,extended,3F400000
+[50% Health P1]
+patch=1,EE,D040A396,extended,00003F80
+[50% Health P1]
+patch=1,EE,2040A394,extended,3F000000
+[25% Health P1]
+patch=1,EE,D040A396,extended,00003F80
+[25% Health P1]
+patch=1,EE,2040A394,extended,3E800000
+[1-Hit Death P1]
+patch=1,EE,D040A396,extended,00003F80
+[1-Hit Death P1]
+patch=1,EE,2040A394,extended,3C23D70A
+[No Health P1]
+patch=1,EE,2040A394,extended,00000000
+[Infinite Health P2]
+patch=1,EE,2040A390,extended,3F800000
+[75% Health P2]
+patch=1,EE,D040A392,extended,00003F80
+[75% Health P2]
+patch=1,EE,2040A390,extended,3F400000
+[50% Health P2]
+patch=1,EE,D040A392,extended,00003F80
+[50% Health P2]
+patch=1,EE,2040A390,extended,3F000000
+[25% Health P2]
+patch=1,EE,D040A392,extended,00003F80
+[25% Health P2]
+patch=1,EE,2040A390,extended,3E800000
+[1-Hit Death P2]
+patch=1,EE,D040A392,extended,00003F80
+[1-Hit Death P2]
+patch=1,EE,2040A390,extended,3C23D70A
+[No Health P2]
+patch=1,EE,2040A390,extended,00000000
+[P1 Needs 1 Win To Win]
+patch=1,EE,D040A38C,extended,00000000
+[P1 Needs 1 Win To Win]
+patch=1,EE,2040A38C,extended,00000001
+[P1 Never Wins]
+patch=1,EE,2040A38C,extended,00000000
+[P2 Never Wins]
+patch=1,EE,2040A388,extended,00000000
+[P2 Needs 1 Win To Win]
+patch=1,EE,D040A388,extended,00000000
+[P2 Needs 1 Win To Win]
+patch=1,EE,2040A388,extended,00000001
+[Start On Last Battle (Arcade Mode)]
+patch=1,EE,D040AF10,extended,00000000
+[Start On Last Battle (Arcade Mode)]
+patch=1,EE,1040AF10,extended,0000000A
+[Unlock All Characters]
+cheat0_code = "20409024 FFFFFFFF
+[Infinite Koin Usage]
+patch=1,EE,2026BBF0,extended,00000000
+[Unlock All Outfits]
+cheat0_code = "20527654 FFFFFFFF
+[No Fatality Time]
+patch=1,EE,1014E8B4,extended,00000001
+[Fatality Time X2]
+patch=1,EE,1014E8B4,extended,00000258
+[Fatality Time X3]
+patch=1,EE,1014E8B4,extended,00000384
+[Fatality Time X4]
+patch=1,EE,1014E8B4,extended,000004B0
+[Fatality Time X5]
+patch=1,EE,1014E8B4,extended,000005DC
+[Fatality Time X6]
+patch=1,EE,1014E8B4,extended,00000708
+[Fatality Time X7]
+patch=1,EE,1014E8B4,extended,00000834
+[Fatality Time X8]
+patch=1,EE,1014E8B4,extended,00000960
+[Fatality Time X9]
+patch=1,EE,1014E8B4,extended,00000A8C
+[Fatality Time X10]
+patch=1,EE,1014E8B4,extended,00000BB8
+[Mini Game After Only 1 Match]
+patch=1,EE,1040A210,extended,00000001
+[Mini Game After 2 Matches]
+patch=1,EE,1040A210,extended,00000002
+[Mini Game After 3 Matches]
+patch=1,EE,1040A210,extended,00000003
+[Mini Game After 4 Matches]
+patch=1,EE,1040A210,extended,00000004
+[Mini Game After 5 Matches]
+patch=1,EE,1040A210,extended,00000005
+[Mini Game After 6 Matches]
+patch=1,EE,1040A210,extended,00000006
+[Mini Game After 10 Matches]
+patch=1,EE,1040A210,extended,0000000A
+[Always Success At Test Your Might P1]
+patch=1,EE,2040AE54,extended,3FC00000
+[Always Success At Test Your Might P2]
+patch=1,EE,2040AE50,extended,3FC00000
+[Invisible Fighters]
+patch=1,EE,20323AD0,extended,3FE00000
+[Shadow Fighters]
+patch=1,EE,20323B40,extended,00000000
+[>>> Currently Loaded Profile Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F08,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F0C,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F10,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F14,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F18,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F1C,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F20,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F24,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F28,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F2C,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F30,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F34,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F38,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F3C,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F40,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F44,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F48,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F4C,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F50,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F54,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+patch=1,EE,20550F58,extended,FFFFFFFF
+[Unlock All Costumes/Arenas/Concept Arts/Extras]
+cheat0_code = "20550F5C FFFFFFFF
+[Have All Character Endings]
+cheat0_code = "20551040 FFFFFFFF
+[Infinite Platinum Koins]
+patch=1,EE,20550E90,extended,0000270F
+[Infinite Onyx Koins]
+patch=1,EE,20550E94,extended,0000270F
+[Infinite Sapphire Koins]
+patch=1,EE,20550E98,extended,0000270F
+[Infinite Jade Koins]
+patch=1,EE,20550E9C,extended,0000270F
+[Infinite Ruby Koins]
+patch=1,EE,20550EA0,extended,0000270F
+[Infinite Gold Koins]
+patch=1,EE,20550EA4,extended,0000270F
+[>>> Impaled Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Always Impaled P1]
+patch=1,EE,20424FA8,extended,B9DA740E
+[Never Impaled P1]
+patch=1,EE,20424FA8,extended,00000000
+[Always Impaled P2]
+patch=1,EE,20425DD4,extended,B9DA740E
+[Never Impaled P2]
+patch=1,EE,20425DD4,extended,00000000
+[>>> 1-Button Fatality Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Kitana-Press {TRIANGLE}]
+cheat0_code = "203AEDAC FFFFFFFF
+[Sonya-Press {TRIANGLE}]
+cheat0_code = "203AEDEC FFFFFFFF
+[Kung Lao-Press {CROSS}]
+cheat0_code = "203AEE4C FFFFFFFF
+[Cyrax-Press {TRIANGLE}]
+cheat0_code = "203AEEBC FFFFFFFF
+[Raiden-Press {CROSS}]
+cheat0_code = "203AEF4C FFFFFFFF
+[Nitara-Press {SQUARE}]
+cheat0_code = "203AEF8C FFFFFFFF
+[Johnny Cage-Press {TRIANGLE}]
+cheat0_code = "203AF00C FFFFFFFF
+[Jax-Press {TRIANGLE}]
+cheat0_code = "203AF06C FFFFFFFF
+[Scorpion-Press {CIRCLE}]
+cheat0_code = "203AF12C FFFFFFFF
+[Quan Chi-Press {CROSS}]
+cheat0_code = "203AF16C FFFFFFFF
+[Sub-Zero-Press {CROSS}]
+cheat0_code = "203AF1EC FFFFFFFF
+[Kenshi-Press {CROSS}]
+cheat0_code = "203AF26C FFFFFFFF
+[Drahmin-Press {CROSS}]
+cheat0_code = "203AF2FC FFFFFFFF
+[Li Mei-Press {CIRCLE}]
+cheat0_code = "203AF3B0 FFFFFFFF
+[Bo' Rai Cho-Press {CIRCLE}]
+cheat0_code = "203AF450 FFFFFFFF
+[Frost-Press {SQUARE}]
+cheat0_code = "203AF47C FFFFFFFF
+[Mavado-Press {SQUARE}]
+cheat0_code = "203AF4DC FFFFFFFF
+[Hsu Hao-Press {TRIANGLE}]
+cheat0_code = "203AF55C FFFFFFFF
+[Kano-Press {SQUARE}]
+cheat0_code = "203AF5B0 FFFFFFFF
+[Reptile-Press {CROSS}]
+cheat0_code = "203AF61C FFFFFFFF
+[Shang Tsung-Press {TRIANGLE}]
+cheat0_code = "203AF69C FFFFFFFF
+[>>> 1-Button Special Moves <<<]
+patch=1,EE,00000000,extended,00000000
+[Blaze-Flame Ball-Press {SQUARE}]
+cheat0_code = "203AECCC FFFFFFFF
+[Blaze-Flame Uppercut-Press {TRIANGLE}]
+cheat0_code = "203AECEC FFFFFFFF
+[Blaze-Flame Charge-Press {CROSS}]
+cheat0_code = "203AED0C FFFFFFFF
+[Mokap-Fireball-Press {SQUARE}]
+cheat0_code = "203AED2C FFFFFFFF
+[Mokap-Charge Punch-Press {CROSS}]
+cheat0_code = "203AED4C FFFFFFFF
+[Mokap-Flipkick-Press {CIRCLE}]
+cheat0_code = "203AED6C FFFFFFFF
+[Kitana-Fan Lift-Press {SQUARE}]
+cheat0_code = "203AED8C FFFFFFFF
+[Sonya-Kiss Of Death-Press {SQUARE}]
+cheat0_code = "203AEDCC FFFFFFFF
+[Sonya-Fly Kick-Press {CROSS}]
+cheat0_code = "203AEE0C FFFFFFFF
+[Kung Lao-Hat Throw-Press {SQUARE}]
+cheat0_code = "203AEE2C FFFFFFFF
+[Kung Lao-Whirlwind Kicks-Press {CIRCLE}]
+cheat0_code = "203AEE6C FFFFFFFF
+[Cyrax-Detonator (Far)-Press {SQUARE}]
+cheat0_code = "203AEE8C FFFFFFFF
+[Cyrax-Detonator (Close)-Press {SQUARE}]
+cheat0_code = "203AEEA0 FFFFFFFF
+[Cyrax-Spinkicks-Press {CROSS}]
+cheat0_code = "203AEEDC FFFFFFFF
+[Cyrax-Slice And Dice-Press {CIRCLE}]
+cheat0_code = "203AEEFC FFFFFFFF
+[Raiden-Shocker-Press {SQUARE}]
+cheat0_code = "203AEF1C FFFFFFFF
+[Raiden-Lightning Bolt-Press {SQUARE}]
+cheat0_code = "203AEF30 FFFFFFFF
+[Raiden-Lightning Dash-Press {CIRCLE}]
+cheat0_code = "203AEF6C FFFFFFFF
+[Nitara-Blood Spit-Press {TRIANGLE}]
+cheat0_code = "203AEFAC FFFFFFFF
+[Nitara-Unicorn Kick-Press {CIRCLE}]
+cheat0_code = "203AEFCC FFFFFFFF
+[Johnny Cage-Forceball-Press {SQUARE}]
+cheat0_code = "203AEFEC FFFFFFFF
+[Johnny Cage-Shadow Kick-Press {CIRCLE}]
+cheat0_code = "203AF02C FFFFFFFF
+[Jax-Piston Punch-Press {SQUARE}]
+cheat0_code = "203AF04C FFFFFFFF
+[Jax-Ground Punch-Press {CROSS}]
+cheat0_code = "203AF08C FFFFFFFF
+[Jax-Machine Gun-Press {CIRCLE}]
+cheat0_code = "203AF0AC FFFFFFFF
+[Scorpion-Spear-Press {SQUARE}]
+cheat0_code = "203AF0CC FFFFFFFF
+[Scorpion-Summon Hellfire-Press {TRIANGLE}]
+cheat0_code = "203AF0EC FFFFFFFF
+[Scorpion-Backflip Kick-Press {CROSS}]
+cheat0_code = "203AF10C FFFFFFFF
+[Quan Chi-Skull Fireball-Press {SQUARE}]
+cheat0_code = "203AF14C FFFFFFFF
+[Quan Chi-Rising Star-Press {CIRCLE}]
+cheat0_code = "203AF18C FFFFFFFF
+[Sub-Zero-Freeze-Press {SQUARE}]
+cheat0_code = "203AF1AC FFFFFFFF
+[Sub-Zero-Ice Shaker-Press {TRIANGLE}]
+cheat0_code = "203AF1CC FFFFFFFF
+[Sub-Zero-Cold Shoulder-Press {CIRCLE}]
+cheat0_code = "203AF20C FFFFFFFF
+[Kenshi-Telekenetic Slam-Press {SQUARE}]
+cheat0_code = "203AF22C FFFFFFFF
+[Kenshi-Telekenetic Push-Press {TRIANGLE}]
+cheat0_code = "203AF24C FFFFFFFF
+[Kenshi-Telekenetic Toss-Press {CIRCLE}]
+cheat0_code = "203AF28C FFFFFFFF
+[Drahmin-Supper Uppercut-Press {SQUARE}]
+cheat0_code = "203AF2AC FFFFFFFF
+[Drahmin-Propeller Clock-Press {TRIANGLE}]
+cheat0_code = "203AF2CC FFFFFFFF
+[Drahmin-Ball-O-Flies-Press {TRIANGLE}]
+cheat0_code = "203AF2E0 FFFFFFFF
+[Drahmin-Ground Smash-Press {CIRCLE}]
+cheat0_code = "203AF31C FFFFFFFF
+[Li Mei-Sparkler-Press {SQUARE}]
+cheat0_code = "203AF33C FFFFFFFF
+[Li Mei-Flying Fist-Press {TRIANGLE}]
+cheat0_code = "203AF35C FFFFFFFF
+[Li Mei-Klock Kick-Press {CROSS}]
+cheat0_code = "203AF37C FFFFFFFF
+[Li Mei-Kart Wheel-Press {CIRCLE}]
+cheat0_code = "203AF39C FFFFFFFF
+[Bo' Rai Cho-Flip-Flop-Press {SQUARE}]
+cheat0_code = "203AF3DC FFFFFFFF
+[Bo' Rai Cho-Puke Puddle-Press {TRIANGLE}]
+cheat0_code = "203AF3FC FFFFFFFF
+[Bo' Rai Cho-Ground Stomp-Press {CROSS}]
+cheat0_code = "203AF41C FFFFFFFF
+[Bo' Rai Cho-Belly Bash-Press {CIRCLE}]
+cheat0_code = "203AF43C FFFFFFFF
+[Frost-Ground Ice-Press {CROSS}]
+cheat0_code = "203AF49C FFFFFFFF
+[Frost-Slide-Press {CIRCLE}]
+cheat0_code = "203AF4BC FFFFFFFF
+[Mavado-Change Sides Hook-Press {TRIANGLE}]
+cheat0_code = "203AF4FC FFFFFFFF
+[Mavado-Grappling Hook Strike-Press {CROSS}]
+cheat0_code = "203AF51C FFFFFFFF
+[Hsu Hao-Kahn Klap-Press {SQUARE}]
+cheat0_code = "203AF53C FFFFFFFF
+[Hsu Hao-Cyrus Stomp-Press {CROSS}]
+cheat0_code = "203AF57C FFFFFFFF
+[Kano-Cannon Ball-Press {SQUARE}]
+cheat0_code = "203AF59C FFFFFFFF
+[Kano-Eye Laser-Press {TRIANGLE}]
+cheat0_code = "203AF5DC FFFFFFFF
+[Reptile-Acid Spit-Press {SQUARE}]
+cheat0_code = "203AF5FC FFFFFFFF
+[Reptile-Lizard Ball-Press {CIRCLE}]
+cheat0_code = "203AF63C FFFFFFFF
+[Shang Tsung-3D Fire (Far)-Press {SQUARE}]
+cheat0_code = "203AF65C FFFFFFFF
+[Shang Tsung-3D Fire (Close)-Press {SQUARE}]
+cheat0_code = "203AF670 FFFFFFFF
+[Shang Tsung-Straight Fire-Press {SQUARE}]
+cheat0_code = "203AF684 FFFFFFFF
+[Shang Tsung-Soul Steal-Press {CROSS}]
+cheat0_code = "203AF6BC FFFFFFFF
+

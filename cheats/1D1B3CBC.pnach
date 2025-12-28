@@ -1,0 +1,34 @@
+gametitle=[SLUS-21497] Strawberry Shortcake-The Sweet Dreams Game
+[Enable Code (Must Be On)]
+patch=1,EE,901226D8,extended,0C049FF8
+[Infinite Time]
+patch=1,EE,201E0A88,extended,00000000
+[Max Seeds]
+patch=1,EE,2024E0E0,extended,0000270F
+[Seeds Worth x50]
+patch=1,EE,10159DD0,extended,00000032
+[Seeds Worth x25]
+patch=1,EE,10159DD0,extended,00000019
+[Seeds Worth x10]
+patch=1,EE,10159DD0,extended,0000000A
+[Seeds Worth x5]
+patch=1,EE,10159DD0,extended,00000005
+[Seeds Worth x4]
+patch=1,EE,10159DD0,extended,00000004
+[Seeds Worth x3]
+patch=1,EE,10159DD0,extended,00000003
+[Seeds Worth x2]
+patch=1,EE,10159DD0,extended,00000002
+[Quick Max Seeds]
+patch=1,EE,20159DD0,extended,2404270F
+[>>> Fantasy Garden Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Overall Seeds]
+patch=1,EE,1064C494,extended,0000FFFF
+[Max Overall Seeds]
+patch=1,EE,2064C494,extended,05F5E0FF
+[Buying Items Doesnt Decrease Seeds]
+patch=1,EE,20164540,extended,00000000
+[Buying Items Increases Seeds]
+patch=1,EE,2016453C,extended,00651821
+

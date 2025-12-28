@@ -1,0 +1,62 @@
+gametitle=Zone Of The Enders (Z.O.E.)
+[Enable Code (Must Be On)]
+patch=1,EE,9047A464,extended,0C11EE9A
+[Infinite Ammo-Javelin]
+patch=1,EE,1048EF2E,extended,000003E7
+[Infinite Ammo-Geyser]
+patch=1,EE,1048EF30,extended,000003E7
+[Infinite Ammo-Bounder]
+patch=1,EE,1048EF32,extended,000003E7
+[Infinite Ammo-Phalanx]
+patch=1,EE,1048EF34,extended,000003E7
+[Infinite Ammo-Halberd]
+patch=1,EE,1048EF36,extended,000003E7
+[Infinite Ammo-Comet]
+patch=1,EE,1048EF38,extended,000003E7
+[Infinite Ammo-Gauntlet]
+patch=1,EE,1048EF3A,extended,000003E7
+[Infinite Ammo-Sniper]
+patch=1,EE,1048EF3C,extended,000003E7
+[Infinite Ammo-Decoy]
+patch=1,EE,1048EF3E,extended,000003E7
+[Infinite Ammo-Mummy]
+patch=1,EE,1048EF40,extended,000003E7
+[Max Defeated]
+patch=1,EE,1048EF46,extended,0000270F
+[Number Of Times Saved Always 0]
+patch=1,EE,1048EF48,extended,00000000
+[Number Of Times Continued Always 0]
+patch=1,EE,1048EF4A,extended,00000000
+[Ultimate Mode]
+patch=1,EE,0048EF01,extended,000000FF
+[>>> No Casualties Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Town 2]
+patch=1,EE,1049D44A,extended,00004130
+[Town 3]
+patch=1,EE,1049D44A,extended,00004170
+[City 2]
+patch=1,EE,1049D58A,extended,00004180
+[>>> Weapon Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Javelin]
+patch=1,EE,1048EF2A,extended,00000001
+[Geyser]
+patch=1,EE,1048EF2A,extended,00000002
+[Bounder]
+patch=1,EE,1048EF2A,extended,00000003
+[Phalanx]
+patch=1,EE,1048EF2A,extended,00000004
+[Halberd]
+patch=1,EE,1048EF2A,extended,00000005
+[Comet]
+patch=1,EE,1048EF2A,extended,00000006
+[Gauntlet]
+patch=1,EE,1048EF2A,extended,00000007
+[Sniper]
+patch=1,EE,1048EF2A,extended,00000008
+[Decoy]
+patch=1,EE,1048EF2A,extended,00000009
+[Mummy]
+patch=1,EE,1048EF2A,extended,0000000A
+

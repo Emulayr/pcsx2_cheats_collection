@@ -1,0 +1,412 @@
+gametitle=Jeremy McGrath's Supercross World
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0013177F
+[Infinite Nitros]
+patch=1,EE,201CF37C,extended,00000000
+[Extra Nitros]
+patch=1,EE,101CF378,extended,00000001
+[Super Infinite Nitros]
+patch=1,EE,201CF368,extended,00000000
+[Super Infinite Nitros]
+patch=1,EE,201CF378,extended,24030005
+[Idiot AI]
+patch=1,EE,201571F0,extended,03E00008
+[Idiot AI]
+patch=1,EE,201571F4,extended,00000000
+[Crash Less]
+patch=1,EE,201E53B0,extended,03E00008
+[Crash Less]
+patch=1,EE,201E53B4,extended,00000000
+[Crash Less]
+patch=1,EE,201E5C30,extended,03E00008
+[Crash Less]
+patch=1,EE,201E5C34,extended,00000000
+[Crash Less]
+patch=1,EE,201E5ED0,extended,03E00008
+[Crash Less]
+patch=1,EE,201E5ED4,extended,00000000
+[Crash Less]
+patch=1,EE,201E6F70,extended,03E00008
+[Crash Less]
+patch=1,EE,201E6F74,extended,00000000
+[Have All Awards Complete]
+patch=1,EE,402BCBB8,extended,00200001
+[Have All Awards Complete]
+patch=1,EE,01010101,extended,00000000
+[>>> Have Baja Awards Complete Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Applebaum Fields]
+[Award 1]
+patch=1,EE,002BCBBA,extended,00000001
+[Award 2]
+patch=1,EE,002BCBBB,extended,00000001
+[Award 3]
+patch=1,EE,002BCBBC,extended,00000001
+[Award 4]
+patch=1,EE,002BCBBD,extended,00000001
+[Award 5]
+patch=1,EE,002BCBBE,extended,00000001
+[>>> Isle Of Pettingill <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBBF,extended,00000001
+[Award 2]
+patch=1,EE,002BCBC0,extended,00000001
+[Award 3]
+patch=1,EE,002BCBC1,extended,00000001
+[Award 4]
+patch=1,EE,002BCBC2,extended,00000001
+[Award 5]
+patch=1,EE,002BCBC3,extended,00000001
+[>>> Eastman Mesa <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBC4,extended,00000001
+[Award 2]
+patch=1,EE,002BCBC5,extended,00000001
+[Award 3]
+patch=1,EE,002BCBC6,extended,00000001
+[Award 4]
+patch=1,EE,002BCBC7,extended,00000001
+[Award 5]
+patch=1,EE,002BCBC8,extended,00000001
+[>>> Stephen's Estate <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBC9,extended,00000001
+[Award 2]
+patch=1,EE,002BCBCA,extended,00000001
+[Award 3]
+patch=1,EE,002BCBCB,extended,00000001
+[Award 4]
+patch=1,EE,002BCBCC,extended,00000001
+[Award 5]
+patch=1,EE,002BCBCD,extended,00000001
+[>>> Barkley Bluffs <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBCE,extended,00000001
+[Award 2]
+patch=1,EE,002BCBCF,extended,00000001
+[Award 3]
+patch=1,EE,002BCBD0,extended,00000001
+[Award 4]
+patch=1,EE,002BCBD1,extended,00000001
+[Award 5]
+patch=1,EE,002BCBD2,extended,00000001
+[>>> Have Freestyle Awards Complete Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skybreak Stadium]
+[Award 1]
+patch=1,EE,002BCBD3,extended,00000001
+[Award 2]
+patch=1,EE,002BCBD4,extended,00000001
+[Award 3]
+patch=1,EE,002BCBD5,extended,00000001
+[Award 4]
+patch=1,EE,002BCBD6,extended,00000001
+[Award 5]
+patch=1,EE,002BCBD7,extended,00000001
+[>>> Crimson Bowl <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBD8,extended,00000001
+[Award 2]
+patch=1,EE,002BCBD9,extended,00000001
+[Award 3]
+patch=1,EE,002BCBDA,extended,00000001
+[Award 4]
+patch=1,EE,002BCBDB,extended,00000001
+[Award 5]
+patch=1,EE,002BCBDC,extended,00000001
+[>>> Kilbourn Yard <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBDD,extended,00000001
+[Award 2]
+patch=1,EE,002BCBDE,extended,00000001
+[Award 3]
+patch=1,EE,002BCBDF,extended,00000001
+[Award 4]
+patch=1,EE,002BCBE0,extended,00000001
+[Award 5]
+patch=1,EE,002BCBE1,extended,00000001
+[>>> Hunter Hills <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBE2,extended,00000001
+[Award 2]
+patch=1,EE,002BCBE3,extended,00000001
+[Award 3]
+patch=1,EE,002BCBE4,extended,00000001
+[Award 4]
+patch=1,EE,002BCBE5,extended,00000001
+[Award 5]
+patch=1,EE,002BCBE6,extended,00000001
+[>>> Have Indoor Awards Complete Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Monument Stadium]
+[Award 1]
+patch=1,EE,002BCBE7,extended,00000001
+[Award 2]
+patch=1,EE,002BCBE8,extended,00000001
+[Award 3]
+patch=1,EE,002BCBE9,extended,00000001
+[Award 4]
+patch=1,EE,002BCBEA,extended,00000001
+[Award 5]
+patch=1,EE,002BCBEB,extended,00000001
+[>>> Snorkel Drive <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBEC,extended,00000001
+[Award 2]
+patch=1,EE,002BCBED,extended,00000001
+[Award 3]
+patch=1,EE,002BCBEE,extended,00000001
+[Award 4]
+patch=1,EE,002BCBEF,extended,00000001
+[Award 5]
+patch=1,EE,002BCBF0,extended,00000001
+[>>> Sportsground Arena <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBF1,extended,00000001
+[Award 2]
+patch=1,EE,002BCBF2,extended,00000001
+[Award 3]
+patch=1,EE,002BCBF3,extended,00000001
+[Award 4]
+patch=1,EE,002BCBF4,extended,00000001
+[Award 5]
+patch=1,EE,002BCBF5,extended,00000001
+[>>> Crossover Grounds <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBF6,extended,00000001
+[Award 2]
+patch=1,EE,002BCBF7,extended,00000001
+[Award 3]
+patch=1,EE,002BCBF8,extended,00000001
+[Award 4]
+patch=1,EE,002BCBF9,extended,00000001
+[Award 5]
+patch=1,EE,002BCBFA,extended,00000001
+[>>> Ohman Stadium <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCBFB,extended,00000001
+[Award 2]
+patch=1,EE,002BCBFC,extended,00000001
+[Award 3]
+patch=1,EE,002BCBFD,extended,00000001
+[Award 4]
+patch=1,EE,002BCBFE,extended,00000001
+[Award 5]
+patch=1,EE,002BCBFF,extended,00000001
+[>>> Devil Downs <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC00,extended,00000001
+[Award 2]
+patch=1,EE,002BCC01,extended,00000001
+[Award 3]
+patch=1,EE,002BCC02,extended,00000001
+[Award 4]
+patch=1,EE,002BCC03,extended,00000001
+[Award 5]
+patch=1,EE,002BCC04,extended,00000001
+[>>> Craddock Field <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC05,extended,00000001
+[Award 2]
+patch=1,EE,002BCC06,extended,00000001
+[Award 3]
+patch=1,EE,002BCC07,extended,00000001
+[Award 4]
+patch=1,EE,002BCC08,extended,00000001
+[Award 5]
+patch=1,EE,002BCC09,extended,00000001
+[>>> Center Stadium <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC0A,extended,00000001
+[Award 2]
+patch=1,EE,002BCC0B,extended,00000001
+[Award 3]
+patch=1,EE,002BCC0C,extended,00000001
+[Award 4]
+patch=1,EE,002BCC0D,extended,00000001
+[Award 5]
+patch=1,EE,002BCC0E,extended,00000001
+[>>> Have Outdoor Awards Complete Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Sunset Run]
+[Award 1]
+patch=1,EE,002BCC0F,extended,00000001
+[Award 2]
+patch=1,EE,002BCC10,extended,00000001
+[Award 3]
+patch=1,EE,002BCC11,extended,00000001
+[Award 4]
+patch=1,EE,002BCC12,extended,00000001
+[Award 5]
+patch=1,EE,002BCC13,extended,00000001
+[>>> Micholas Lodge <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC14,extended,00000001
+[Award 2]
+patch=1,EE,002BCC15,extended,00000001
+[Award 3]
+patch=1,EE,002BCC16,extended,00000001
+[Award 4]
+patch=1,EE,002BCC17,extended,00000001
+[Award 5]
+patch=1,EE,002BCC18,extended,00000001
+[>>> Doghead <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC19,extended,00000001
+[Award 2]
+patch=1,EE,002BCC1A,extended,00000001
+[Award 3]
+patch=1,EE,002BCC1B,extended,00000001
+[Award 4]
+patch=1,EE,002BCC1C,extended,00000001
+[Award 5]
+patch=1,EE,002BCC1D,extended,00000001
+[>>> Steelrock Canyon <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC1E,extended,00000001
+[Award 2]
+patch=1,EE,002BCC1F,extended,00000001
+[Award 3]
+patch=1,EE,002BCC20,extended,00000001
+[Award 4]
+patch=1,EE,002BCC21,extended,00000001
+[Award 5]
+patch=1,EE,002BCC22,extended,00000001
+[>>> Bvers Mountain <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC23,extended,00000001
+[Award 2]
+patch=1,EE,002BCC24,extended,00000001
+[Award 3]
+patch=1,EE,002BCC25,extended,00000001
+[Award 4]
+patch=1,EE,002BCC26,extended,00000001
+[Award 5]
+patch=1,EE,002BCC27,extended,00000001
+[>>> Thunder Peak <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC28,extended,00000001
+[Award 2]
+patch=1,EE,002BCC29,extended,00000001
+[Award 3]
+patch=1,EE,002BCC2A,extended,00000001
+[Award 4]
+patch=1,EE,002BCC2B,extended,00000001
+[Award 5]
+patch=1,EE,002BCC2C,extended,00000001
+[>>> Ludus Way <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC2D,extended,00000001
+[Award 2]
+patch=1,EE,002BCC2E,extended,00000001
+[Award 3]
+patch=1,EE,002BCC2F,extended,00000001
+[Award 4]
+patch=1,EE,002BCC30,extended,00000001
+[Award 5]
+patch=1,EE,002BCC31,extended,00000001
+[>>> Winding Cliffs <<<]
+patch=1,EE,00000000,extended,00000000
+[Award 1]
+patch=1,EE,002BCC32,extended,00000001
+[Award 2]
+patch=1,EE,002BCC33,extended,00000001
+[Award 3]
+patch=1,EE,002BCC34,extended,00000001
+[Award 4]
+patch=1,EE,002BCC35,extended,00000001
+[Award 5]
+patch=1,EE,002BCC36,extended,00000001
+[>>> Career Slot 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max All Stats]
+patch=1,EE,102BB502,extended,00000505
+[Max All Stats]
+patch=1,EE,102BB504,extended,00000505
+[Infinite Skill Points]
+patch=1,EE,002BB506,extended,00000005
+[Have All Series Completed]
+patch=1,EE,402BB50C,extended,00040001
+[Have All Series Completed]
+patch=1,EE,01010101,extended,00000000
+[>>> Career Slot 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max All Stats]
+patch=1,EE,102BB8C4,extended,00000505
+[Max All Stats]
+patch=1,EE,102BB8C6,extended,00000505
+[Infinite Skill Points]
+patch=1,EE,002BB8C8,extended,00000005
+[Have All Series Completed]
+patch=1,EE,402BB8CE,extended,00040001
+[Have All Series Completed]
+patch=1,EE,01010101,extended,00000000
+[>>> Career Slot 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max All Stats]
+patch=1,EE,102BBC86,extended,00000505
+[Max All Stats]
+patch=1,EE,102BBC88,extended,00000505
+[Infinite Skill Points]
+patch=1,EE,002BBC8A,extended,00000005
+[Have All Series Completed]
+patch=1,EE,402BBC90,extended,00040001
+[Have All Series Completed]
+patch=1,EE,01010101,extended,00000000
+[>>> Career Slot 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max All Stats]
+patch=1,EE,102BC048,extended,00000505
+[Max All Stats]
+patch=1,EE,102BC04A,extended,00000505
+[Infinite Skill Points]
+patch=1,EE,002BC04C,extended,00000005
+[Have All Series Completed]
+patch=1,EE,402BC052,extended,00040001
+[Have All Series Completed]
+patch=1,EE,01010101,extended,00000000
+[>>> Career Slot 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max All Stats]
+patch=1,EE,102BC40A,extended,00000505
+[Max All Stats]
+patch=1,EE,102BC40C,extended,00000505
+[Infinite Skill Points]
+patch=1,EE,002BC40E,extended,00000005
+[Have All Series Completed]
+patch=1,EE,402BC414,extended,00040001
+[Have All Series Completed]
+patch=1,EE,01010101,extended,00000000
+[>>> Career Slot 6 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max All Stats]
+patch=1,EE,102BC7CC,extended,00000505
+[Max All Stats]
+patch=1,EE,102BC7CE,extended,00000505
+[Infinite Skill Points]
+patch=1,EE,002BC7D0,extended,00000005
+[Have All Series Completed]
+patch=1,EE,402BC7D6,extended,00040001
+[Have All Series Completed]
+patch=1,EE,01010101,extended,00000000
+

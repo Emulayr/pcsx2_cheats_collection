@@ -1,0 +1,120 @@
+gametitle=[SLUS-20198] Fire Blade
+[Enable Code (Must Be On)]
+patch=1,EE,F0200008,extended,00225C4F
+[Infinite Rockets & Missiles]
+patch=1,EE,20270208,extended,00000000
+[Extra Rockets & Missiles]
+patch=1,EE,10270204,extended,00000001
+[Infinite Health]
+patch=1,EE,202C8330,extended,00000000
+[>>> Campaign 1 Mission Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1 Codes]
+[Have All Medals]
+cheat0_code = "20363060 FFFFFFFF
+[>>> Mission 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,00363071,extended,00000001
+[Have All Medals]
+cheat0_code = "203630DC FFFFFFFF
+[>>> Mission 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,003630ED,extended,00000001
+[Have All Medals]
+cheat0_code = "20363158 FFFFFFFF
+[>>> Mission 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,00363169,extended,00000001
+[Have All Medals]
+cheat0_code = "203631D4 FFFFFFFF
+[>>> Mission 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,003631E5,extended,00000001
+[Have All Medals]
+cheat0_code = "20363250 FFFFFFFF
+[>>> Campaign 2 Mission Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1 Codes]
+[Unlock Mission]
+patch=1,EE,00363261,extended,00000001
+[Have All Medals]
+cheat0_code = "203632CC FFFFFFFF
+[>>> Mission 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,003632DD,extended,00000001
+[Have All Medals]
+cheat0_code = "20363348 FFFFFFFF
+[>>> Mission 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,00363359,extended,00000001
+[Have All Medals]
+cheat0_code = "203633C4 FFFFFFFF
+[>>> Mission 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,003633D5,extended,00000001
+[Have All Medals]
+cheat0_code = "20363440 FFFFFFFF
+[>>> Campaign 3 Mission Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1 Codes]
+[Unlock Mission]
+patch=1,EE,00363451,extended,00000001
+[Have All Medals]
+cheat0_code = "203634BC FFFFFFFF
+[>>> Mission 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,003634CD,extended,00000001
+[Have All Medals]
+cheat0_code = "20363538 FFFFFFFF
+[>>> Mission 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,00363549,extended,00000001
+[Have All Medals]
+cheat0_code = "203635B4 FFFFFFFF
+[>>> Mission 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,003635C5,extended,00000001
+[Have All Medals]
+cheat0_code = "20363630 FFFFFFFF
+[>>> Campaign 4 Mission Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Mission 1 Codes]
+[Unlock Mission]
+patch=1,EE,00363641,extended,00000001
+[Have All Medals]
+cheat0_code = "203636AC FFFFFFFF
+[>>> Mission 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,003636BD,extended,00000001
+[Have All Medals]
+cheat0_code = "20363728 FFFFFFFF
+[>>> Mission 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,00363739,extended,00000001
+[Have All Medals]
+cheat0_code = "203637A4 FFFFFFFF
+[>>> Mission 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,003637B5,extended,00000001
+[Have All Medals]
+cheat0_code = "20363820 FFFFFFFF
+[>>> Mission 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Mission]
+patch=1,EE,00363831,extended,00000001
+[Have All Medals]
+cheat0_code = "2036389C FFFFFFFF
+

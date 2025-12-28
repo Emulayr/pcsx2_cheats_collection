@@ -1,0 +1,672 @@
+gametitle=Legend Of Alon D'ar, The
+[Enable Code (Must Be On)]
+patch=1,EE,9023C35C,extended,0C09126A
+[Idiot AI]
+patch=1,EE,201EF080,extended,03E00008
+[Idiot AI]
+patch=1,EE,201EF084,extended,00000000
+[Always Low Game Time]
+patch=1,EE,20299040,extended,00000000
+[Infinite Gold]
+patch=1,EE,104516D4,extended,0000FFFF
+[Max Gold]
+patch=1,EE,204516D4,extended,000F423F
+[>>> Jarik Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max HP]
+patch=1,EE,104E6E66,extended,0000270F
+[Max HP]
+patch=1,EE,104E6F6E,extended,0000270F
+[Infinite HP]
+patch=1,EE,104E6E68,extended,0000270F
+[Infinite HP]
+patch=1,EE,104E6F70,extended,0000270F
+[Max MP]
+patch=1,EE,104E6E6A,extended,000003E7
+[Max MP]
+patch=1,EE,104E6F72,extended,000003E7
+[Infinite MP]
+patch=1,EE,104E6E6C,extended,000003E7
+[Infinite MP]
+patch=1,EE,104E6F74,extended,000003E7
+[Max Str]
+patch=1,EE,104E6E6E,extended,000003E7
+[Max Str]
+patch=1,EE,104E6F76,extended,000003E7
+[Max Dex]
+patch=1,EE,104E6E70,extended,000003E7
+[Max Dex]
+patch=1,EE,104E6F78,extended,000003E7
+[Max Spirit]
+patch=1,EE,104E6E72,extended,000003E7
+[Max Spirit]
+patch=1,EE,104E6F7A,extended,000003E7
+[Max Total PP]
+patch=1,EE,204E7180,extended,000F423F
+[Max Avail PP]
+patch=1,EE,204E7184,extended,000F423F
+[>>> Max Weapon-Dagger Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6E74,extended,00000006
+[Skill 1]
+patch=1,EE,004E6F7C,extended,00000006
+[Skill 2]
+patch=1,EE,004E6E75,extended,00000006
+[Skill 2]
+patch=1,EE,004E6F7D,extended,00000006
+[Skill 3]
+patch=1,EE,004E6E76,extended,00000006
+[Skill 3]
+patch=1,EE,004E6F7E,extended,00000006
+[Skill 4]
+patch=1,EE,004E6E77,extended,00000006
+[Skill 4]
+patch=1,EE,004E6F7F,extended,00000006
+[Skill 5]
+patch=1,EE,004E6E78,extended,00000006
+[Skill 5]
+patch=1,EE,004E6F80,extended,00000006
+[Skill 6]
+patch=1,EE,004E6E79,extended,00000006
+[Skill 6]
+patch=1,EE,004E6F81,extended,00000006
+[>>> Max Weapon-Sword Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6E7A,extended,00000006
+[Skill 1]
+patch=1,EE,004E6F82,extended,00000006
+[Skill 2]
+patch=1,EE,004E6E7B,extended,00000006
+[Skill 2]
+patch=1,EE,004E6F83,extended,00000006
+[Skill 3]
+patch=1,EE,004E6E7C,extended,00000006
+[Skill 3]
+patch=1,EE,004E6F84,extended,00000006
+[Skill 4]
+patch=1,EE,004E6E7D,extended,00000006
+[Skill 4]
+patch=1,EE,004E6F85,extended,00000006
+[Skill 5]
+patch=1,EE,004E6E7E,extended,00000006
+[Skill 5]
+patch=1,EE,004E6F86,extended,00000006
+[Skill 6]
+patch=1,EE,004E6E7F,extended,00000006
+[Skill 6]
+patch=1,EE,004E6F87,extended,00000006
+[>>> Max Weapon-Axe Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6E80,extended,00000006
+[Skill 1]
+patch=1,EE,004E6F88,extended,00000006
+[Skill 2]
+patch=1,EE,004E6E81,extended,00000006
+[Skill 2]
+patch=1,EE,004E6F89,extended,00000006
+[Skill 3]
+patch=1,EE,004E6E82,extended,00000006
+[Skill 3]
+patch=1,EE,004E6F8A,extended,00000006
+[Skill 4]
+patch=1,EE,004E6E83,extended,00000006
+[Skill 4]
+patch=1,EE,004E6F8B,extended,00000006
+[Skill 5]
+patch=1,EE,004E6E84,extended,00000006
+[Skill 5]
+patch=1,EE,004E6F8C,extended,00000006
+[Skill 6]
+patch=1,EE,004E6E85,extended,00000006
+[Skill 6]
+patch=1,EE,004E6F8D,extended,00000006
+[>>> Max Weapon-Hammer Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6E86,extended,00000006
+[Skill 1]
+patch=1,EE,004E6F8E,extended,00000006
+[Skill 2]
+patch=1,EE,004E6E87,extended,00000006
+[Skill 2]
+patch=1,EE,004E6F8F,extended,00000006
+[Skill 3]
+patch=1,EE,004E6E88,extended,00000006
+[Skill 3]
+patch=1,EE,004E6F90,extended,00000006
+[Skill 4]
+patch=1,EE,004E6E89,extended,00000006
+[Skill 4]
+patch=1,EE,004E6F91,extended,00000006
+[Skill 5]
+patch=1,EE,004E6E8A,extended,00000006
+[Skill 5]
+patch=1,EE,004E6F92,extended,00000006
+[Skill 6]
+patch=1,EE,004E6E8B,extended,00000006
+[Skill 6]
+patch=1,EE,004E6F93,extended,00000006
+[>>> Max Weapon-Two Hnd Sword Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6E8C,extended,00000006
+[Skill 1]
+patch=1,EE,004E6F94,extended,00000006
+[Skill 2]
+patch=1,EE,004E6E8D,extended,00000006
+[Skill 2]
+patch=1,EE,004E6F95,extended,00000006
+[Skill 3]
+patch=1,EE,004E6E8E,extended,00000006
+[Skill 3]
+patch=1,EE,004E6F96,extended,00000006
+[Skill 4]
+patch=1,EE,004E6E8F,extended,00000006
+[Skill 4]
+patch=1,EE,004E6F97,extended,00000006
+[Skill 5]
+patch=1,EE,004E6E90,extended,00000006
+[Skill 5]
+patch=1,EE,004E6F98,extended,00000006
+[Skill 6]
+patch=1,EE,004E6E91,extended,00000006
+[Skill 6]
+patch=1,EE,004E6F99,extended,00000006
+[>>> Max Weapon-Two Hnd Axe Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6E92,extended,00000006
+[Skill 1]
+patch=1,EE,004E6F9A,extended,00000006
+[Skill 2]
+patch=1,EE,004E6E93,extended,00000006
+[Skill 2]
+patch=1,EE,004E6F9B,extended,00000006
+[Skill 3]
+patch=1,EE,004E6E94,extended,00000006
+[Skill 3]
+patch=1,EE,004E6F9C,extended,00000006
+[Skill 4]
+patch=1,EE,004E6E95,extended,00000006
+[Skill 4]
+patch=1,EE,004E6F9D,extended,00000006
+[Skill 5]
+patch=1,EE,004E6E96,extended,00000006
+[Skill 5]
+patch=1,EE,004E6F9E,extended,00000006
+[Skill 6]
+patch=1,EE,004E6E97,extended,00000006
+[Skill 6]
+patch=1,EE,004E6F9F,extended,00000006
+[>>> Max Weapon-Two Hnd Hammer Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6E98,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FA0,extended,00000006
+[Skill 2]
+patch=1,EE,004E6E99,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FA1,extended,00000006
+[Skill 3]
+patch=1,EE,004E6E9A,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FA2,extended,00000006
+[Skill 4]
+patch=1,EE,004E6E9B,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FA3,extended,00000006
+[Skill 5]
+patch=1,EE,004E6E9C,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FA4,extended,00000006
+[Skill 6]
+patch=1,EE,004E6E9D,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FA5,extended,00000006
+[>>> Max Weapon-Staff Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6E9E,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FA6,extended,00000006
+[Skill 2]
+patch=1,EE,004E6E9F,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FA7,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EA0,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FA8,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EA1,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FA9,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EA2,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FAA,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EA3,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FAB,extended,00000006
+[>>> Max Weapon-Spear Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EA4,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FAC,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EA5,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FAD,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EA6,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FAE,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EA7,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FAF,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EA8,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FB0,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EA9,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FB1,extended,00000006
+[>>> Max Weapon-Thrown Weapons Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EAA,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FB2,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EAB,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FB3,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EAC,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FB4,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EAD,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FB5,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EAE,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FB6,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EAF,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FB7,extended,00000006
+[>>> Max Weapon-Bow Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EB0,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FB8,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EB1,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FB9,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EB2,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FBA,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EB3,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FBB,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EB4,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FBC,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EB5,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FBD,extended,00000006
+[>>> Max Weapon-Chakram Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EB6,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FBE,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EB7,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FBF,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EB8,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FC0,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EB9,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FC1,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EBA,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FC2,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EBB,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FC3,extended,00000006
+[>>> Max Weapon-Halberd Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EBC,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FC4,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EBD,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FC5,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EBE,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FC6,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EBF,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FC7,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EC0,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FC8,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EC1,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FC9,extended,00000006
+[>>> Max Weapon-Petard Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EC2,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FCA,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EC3,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FCB,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EC4,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FCC,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EC5,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FCD,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EC6,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FCE,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EC7,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FCF,extended,00000006
+[>>> Max Weapon-Cho Pin Tou Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EC8,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FD0,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EC9,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FD1,extended,00000006
+[Skill 3]
+patch=1,EE,004E6ECA,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FD2,extended,00000006
+[Skill 4]
+patch=1,EE,004E6ECB,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FD3,extended,00000006
+[Skill 5]
+patch=1,EE,004E6ECC,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FD4,extended,00000006
+[Skill 6]
+patch=1,EE,004E6ECD,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FD5,extended,00000006
+[>>> Max Weapon-Shield Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6ECE,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FD6,extended,00000006
+[Skill 2]
+patch=1,EE,004E6ECF,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FD7,extended,00000006
+[Skill 3]
+patch=1,EE,004E6ED0,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FD8,extended,00000006
+[Skill 4]
+patch=1,EE,004E6ED1,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FD9,extended,00000006
+[Skill 5]
+patch=1,EE,004E6ED2,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FDA,extended,00000006
+[Skill 6]
+patch=1,EE,004E6ED3,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FDB,extended,00000006
+[>>> Max Magic-Water Fates Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6ED4,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FDC,extended,00000006
+[Skill 2]
+patch=1,EE,004E6ED5,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FDD,extended,00000006
+[Skill 3]
+patch=1,EE,004E6ED6,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FDE,extended,00000006
+[Skill 4]
+patch=1,EE,004E6ED7,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FDF,extended,00000006
+[Skill 5]
+patch=1,EE,004E6ED8,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FE0,extended,00000006
+[Skill 6]
+patch=1,EE,004E6ED9,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FE1,extended,00000006
+[>>> Max Magic-Fire Fates Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EDA,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FE2,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EDB,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FE3,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EDC,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FE4,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EDD,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FE5,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EDE,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FE6,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EDF,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FE7,extended,00000006
+[>>> Max Magic-Earth Fates Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EE0,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FE8,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EE1,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FE9,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EE2,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FEA,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EE3,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FEB,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EE4,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FEC,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EE5,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FED,extended,00000006
+[>>> Max Magic-Air Fates Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EE6,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FEE,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EE7,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FEF,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EE8,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FF0,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EE9,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FF1,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EEA,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FF2,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EEB,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FF3,extended,00000006
+[>>> Max Magic-Sound Fates Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EEC,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FF4,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EED,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FF5,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EEE,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FF6,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EEF,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FF7,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EF0,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FF8,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EF1,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FF9,extended,00000006
+[>>> Max Magic-Barrier Arts Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EF2,extended,00000006
+[Skill 1]
+patch=1,EE,004E6FFA,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EF3,extended,00000006
+[Skill 2]
+patch=1,EE,004E6FFB,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EF4,extended,00000006
+[Skill 3]
+patch=1,EE,004E6FFC,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EF5,extended,00000006
+[Skill 4]
+patch=1,EE,004E6FFD,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EF6,extended,00000006
+[Skill 5]
+patch=1,EE,004E6FFE,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EF7,extended,00000006
+[Skill 6]
+patch=1,EE,004E6FFF,extended,00000006
+[>>> Max Magic-Absorption Arts Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6EF8,extended,00000006
+[Skill 1]
+patch=1,EE,004E7000,extended,00000006
+[Skill 2]
+patch=1,EE,004E6EF9,extended,00000006
+[Skill 2]
+patch=1,EE,004E7001,extended,00000006
+[Skill 3]
+patch=1,EE,004E6EFA,extended,00000006
+[Skill 3]
+patch=1,EE,004E7002,extended,00000006
+[Skill 4]
+patch=1,EE,004E6EFB,extended,00000006
+[Skill 4]
+patch=1,EE,004E7003,extended,00000006
+[Skill 5]
+patch=1,EE,004E6EFC,extended,00000006
+[Skill 5]
+patch=1,EE,004E7004,extended,00000006
+[Skill 6]
+patch=1,EE,004E6EFD,extended,00000006
+[Skill 6]
+patch=1,EE,004E7005,extended,00000006
+[>>> Max Magic-White Magic Skills Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Skill 1]
+patch=1,EE,004E6F10,extended,00000006
+[Skill 1]
+patch=1,EE,004E7018,extended,00000006
+[Skill 2]
+patch=1,EE,004E6F11,extended,00000006
+[Skill 2]
+patch=1,EE,004E7019,extended,00000006
+[Skill 3]
+patch=1,EE,004E6F12,extended,00000006
+[Skill 3]
+patch=1,EE,004E701A,extended,00000006
+[Skill 4]
+patch=1,EE,004E6F13,extended,00000006
+[Skill 4]
+patch=1,EE,004E701B,extended,00000006
+[Skill 5]
+patch=1,EE,004E6F14,extended,00000006
+[Skill 5]
+patch=1,EE,004E701C,extended,00000006
+[Skill 6]
+patch=1,EE,004E6F15,extended,00000006
+[Skill 6]
+patch=1,EE,004E701D,extended,00000006
+

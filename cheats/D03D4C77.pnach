@@ -1,0 +1,56 @@
+gametitle=Legend Of Spyro-A New Beginning, The
+[Enable Code (Must Be On)]
+patch=1,EE,901A4130,extended,0C06BEE6
+[Disable FMV]
+patch=1,EE,2019F5F0,extended,24020001
+[Infinite Health]
+patch=1,EE,207D1100,extended,42C80000
+[Max Health]
+patch=1,EE,207D1104,extended,42C80000
+[Infinite Breath]
+patch=1,EE,207D1130,extended,42C80000
+[Max Breath]
+patch=1,EE,207D1134,extended,42C80000
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,200C0220,extended,3C0143CB
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,200C0224,extended,0809C630
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,200C0228,extended,AE010374
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,D07BF31C,extended,0000BFFF
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,202718B0,extended,08030088
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,D07BF31C,extended,0000FFFF
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,202718B0,extended,10000003
+[>>> Have Primary Breath Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Primary Breath 1]
+patch=1,EE,707D1160,extended,00000001
+[Primary Breath 2]
+patch=1,EE,707D1180,extended,00000001
+[Primary Breath 3]
+patch=1,EE,707D11A0,extended,00000001
+[Primary Breath 4]
+patch=1,EE,707D11C0,extended,00000001
+[Max Primary Breath Upgrades]
+patch=1,EE,407D1164,extended,00040008
+[Max Primary Breath Upgrades]
+patch=1,EE,00000003,extended,00000000
+[>>> Have Secondary Breath Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Secondary Breath 1]
+patch=1,EE,707D1160,extended,00000002
+[Secondary Breath 2]
+patch=1,EE,707D1180,extended,00000002
+[Secondary Breath 3]
+patch=1,EE,707D11A0,extended,00000002
+[Secondary Breath 4]
+patch=1,EE,707D11C0,extended,00000002
+[Max All Secondary Breath Upgrades]
+patch=1,EE,407D1168,extended,00040008
+[Max All Secondary Breath Upgrades]
+patch=1,EE,00000003,extended,00000000
+

@@ -1,0 +1,6 @@
+gametitle=Dora The Explorer-Journey To The Purple Planet
+[Enable Code (Must Be On)]
+patch=1,EE,902874E8,extended,00832021
+[Max Gems]
+patch=1,EE,206DCD20,extended,447A0000
+

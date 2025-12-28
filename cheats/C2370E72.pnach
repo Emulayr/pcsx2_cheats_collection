@@ -1,0 +1,212 @@
+gametitle=[SLUS-21131] Pump It Up-Exceed
+[Enable Code (Must Be On)]
+patch=1,EE,90115FE0,extended,00832021
+[Infinite Time To Choose A Song]
+patch=1,EE,2015E900,extended,24020000
+[>>> Unlock Arcade Song Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Forever Love]
+patch=1,EE,01EC860A,extended,00000000
+[Final Audition 2]
+patch=1,EE,01EC8617,extended,00000000
+[Turkey March]
+patch=1,EE,01EC8619,extended,00000000
+[Love Song]
+patch=1,EE,01EC861E,extended,00000000
+[Mr. Larpus]
+patch=1,EE,01EC8624,extended,00000000
+[Beethoven Virus]
+patch=1,EE,01EC8628,extended,00000000
+[My Way]
+patch=1,EE,01EC862F,extended,00000000
+[Point Break]
+patch=1,EE,01EC8630,extended,00000000
+[Street Show Down]
+patch=1,EE,01EC8631,extended,00000000
+[Winter]
+patch=1,EE,01EC8632,extended,00000000
+[Monkey Fingers]
+patch=1,EE,01EC864F,extended,00000000
+[Dignity]
+patch=1,EE,01EC8654,extended,00000000
+[Valenti]
+patch=1,EE,01EC8656,extended,00000000
+[Go]
+patch=1,EE,01EC8658,extended,00000000
+[Flamenco]
+patch=1,EE,01EC8659,extended,00000000
+[Kiss Me]
+patch=1,EE,01EC865A,extended,00000000
+[One Love]
+patch=1,EE,01EC865F,extended,00000000
+[Power Of Dream]
+patch=1,EE,01EC8660,extended,00000000
+[We Don't Stop]
+patch=1,EE,01EC8665,extended,00000000
+[CANON-D]
+patch=1,EE,01EC8666,extended,00000000
+[>>> Unlock Home Song Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Ignition Starts!]
+patch=1,EE,01EC8688,extended,00000000
+[Hypnosis]
+patch=1,EE,01EC8689,extended,00000000
+[Forever Love]
+patch=1,EE,01EC868A,extended,00000000
+[Passion]
+patch=1,EE,01EC868B,extended,00000000
+[Come To Me]
+patch=1,EE,01EC868C,extended,00000000
+[Funky Tonight]
+patch=1,EE,01EC868D,extended,00000000
+[Hatred]
+patch=1,EE,01EC868E,extended,00000000
+[Another Truth]
+patch=1,EE,01EC868F,extended,00000000
+[HATE]
+patch=1,EE,01EC8690,extended,00000000
+[Koul]
+patch=1,EE,01EC8691,extended,00000000
+[Final Audition]
+patch=1,EE,01EC8692,extended,00000000
+[Extravaganza]
+patch=1,EE,01EC8693,extended,00000000
+[Fighting Spirit]
+patch=1,EE,01EC8694,extended,00000000
+[Com'Back]
+patch=1,EE,01EC8695,extended,00000000
+[Mobius Strip]
+patch=1,EE,01EC8696,extended,00000000
+[Naissance]
+patch=1,EE,01EC8698,extended,00000000
+[Nightmare]
+patch=1,EE,01EC869A,extended,00000000
+[She Likes Pizza]
+patch=1,EE,01EC869B,extended,00000000
+[Pumping Up]
+patch=1,EE,01EC869C,extended,00000000
+[Don't Bother Me]
+patch=1,EE,01EC869D,extended,00000000
+[Love Song]
+patch=1,EE,01EC869E,extended,00000000
+[To The Top]
+patch=1,EE,01EC869F,extended,00000000
+[We Are]
+patch=1,EE,01EC86A0,extended,00000000
+[Oh! Rosa!]
+patch=1,EE,01EC86A1,extended,00000000
+[First Love]
+patch=1,EE,01EC86A2,extended,00000000
+[Solitary]
+patch=1,EE,01EC86A3,extended,00000000
+[A TRAP]
+patch=1,EE,01EC86A5,extended,00000000
+[Run!]
+patch=1,EE,01EC86A6,extended,00000000
+[Rolling Christmas]
+patch=1,EE,01EC86A7,extended,00000000
+[Come Back To Me]
+patch=1,EE,01EC86A9,extended,00000000
+[As I Told You]
+patch=1,EE,01EC86AA,extended,00000000
+[Slam]
+patch=1,EE,01EC86AB,extended,00000000
+[Dr. M]
+patch=1,EE,01EC86AC,extended,00000000
+[Love Is A Danger Zone]
+patch=1,EE,01EC86AD,extended,00000000
+[Maria]
+patch=1,EE,01EC86AE,extended,00000000
+[My Way]
+patch=1,EE,01EC86AF,extended,00000000
+[Point Break]
+patch=1,EE,01EC86B0,extended,00000000
+[Street Show Down]
+patch=1,EE,01EC86B1,extended,00000000
+[Will-O-The-Wisp]
+patch=1,EE,01EC86B3,extended,00000000
+[Go Away]
+patch=1,EE,01EC86B4,extended,00000000
+[Gotta Be Kidding!]
+patch=1,EE,01EC86B5,extended,00000000
+[PERFECT!]
+patch=1,EE,01EC86B6,extended,00000000
+[Vook]
+patch=1,EE,01EC86B7,extended,00000000
+[Csikos' Post]
+patch=1,EE,01EC86B8,extended,00000000
+[Bambole]
+patch=1,EE,01EC86B9,extended,00000000
+[Bee]
+patch=1,EE,01EC86BA,extended,00000000
+[Clap Your Hands]
+patch=1,EE,01EC86BB,extended,00000000
+[Conga]
+patch=1,EE,01EC86BC,extended,00000000
+[D Gang]
+patch=1,EE,01EC86BD,extended,00000000
+[Eres Para Mi]
+patch=1,EE,01EC86BE,extended,00000000
+[Hello]
+patch=1,EE,01EC86BF,extended,00000000
+[Join The Party]
+patch=1,EE,01EC86C0,extended,00000000
+[Mexi Mexi]
+patch=1,EE,01EC86C1,extended,00000000
+[Beat Of The War]
+patch=1,EE,01EC86C2,extended,00000000
+[Empire Of The Sun]
+patch=1,EE,01EC86C3,extended,00000000
+[Come To Me]
+patch=1,EE,01EC86C4,extended,00000000
+[Circus Magic]
+patch=1,EE,01EC86C5,extended,00000000
+[Starian]
+patch=1,EE,01EC86C6,extended,00000000
+[The Rap. Act 3]
+patch=1,EE,01EC86C7,extended,00000000
+[Chicken Wing]
+patch=1,EE,01EC86C8,extended,00000000
+[Radezky CanCan]
+patch=1,EE,01EC86C9,extended,00000000
+[Loner]
+patch=1,EE,01EC86CA,extended,00000000
+[Pierrot]
+patch=1,EE,01EC86CB,extended,00000000
+[Final Audition Ep. 1]
+patch=1,EE,01EC86CC,extended,00000000
+[Naissance 2]
+patch=1,EE,01EC86CE,extended,00000000
+[Monkey Fingers]
+patch=1,EE,01EC86CF,extended,00000000
+[Dignity]
+patch=1,EE,01EC86D4,extended,00000000
+[Valenti]
+patch=1,EE,01EC86D6,extended,00000000
+[Go]
+patch=1,EE,01EC86D8,extended,00000000
+[Flamenco]
+patch=1,EE,01EC86D9,extended,00000000
+[Kiss Me]
+patch=1,EE,01EC86DA,extended,00000000
+[Ba Be Loo Be Ra]
+patch=1,EE,01EC86DC,extended,00000000
+[La Cubanita]
+patch=1,EE,01EC86DD,extended,00000000
+[Shake It Up]
+patch=1,EE,01EC86DE,extended,00000000
+[One Love]
+patch=1,EE,01EC86DF,extended,00000000
+[Power Of Dream]
+patch=1,EE,01EC86E0,extended,00000000
+[Watch Out]
+patch=1,EE,01EC86E1,extended,00000000
+[Fiesta]
+patch=1,EE,01EC86E2,extended,00000000
+[Soca Make Yuh Ram Ram]
+patch=1,EE,01EC86E3,extended,00000000
+[We Don't Stop]
+patch=1,EE,01EC86E5,extended,00000000
+[CANON-D]
+patch=1,EE,01EC86E6,extended,00000000
+

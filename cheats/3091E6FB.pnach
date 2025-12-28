@@ -1,0 +1,420 @@
+gametitle=[SCUS-97429] Jak X-Combat Racing
+[Enable Code (Must Be On)]
+patch=1,EE,90117510,extended,0C045CEC
+[Enable Code (Must Be On)]
+patch=1,EE,2010C668,extended,03E00008
+[Enable Code (Must Be On)]
+patch=1,EE,2010C670,extended,3C032008
+[Enable Code (Must Be On)]
+patch=1,EE,2010C674,extended,3C0127BD
+[Enable Code (Must Be On)]
+patch=1,EE,2010C678,extended,3421FF90
+[Enable Code (Must Be On)]
+patch=1,EE,2010C67C,extended,AC610008
+[Enable Code (Must Be On)]
+patch=1,EE,2010C680,extended,3C01FFBF
+[Enable Code (Must Be On)]
+patch=1,EE,2010C684,extended,34210000
+[Enable Code (Must Be On)]
+patch=1,EE,2010C688,extended,AC61000C
+[Enable Code (Must Be On)]
+patch=1,EE,2010C68C,extended,3C012403
+[Enable Code (Must Be On)]
+patch=1,EE,2010C690,extended,34210000
+[Enable Code (Must Be On)]
+patch=1,EE,2010C694,extended,03E00008
+[Enable Code (Must Be On)]
+patch=1,EE,2010C698,extended,AC610040
+[Enable Code (Must Be On)]
+patch=1,EE,2026FD28,extended,0C04319C
+[Infinite Green Eco Health (All Players)]
+patch=1,EE,D0C1D024,extended,00000842
+[Infinite Green Eco Health (All Players)]
+patch=1,EE,20C1D02C,extended,00000000
+[Infinite Red Eco Mines (All Players)]
+patch=1,EE,D0F5C35C,extended,00000101
+[Infinite Red Eco Mines (All Players)]
+patch=1,EE,20F5C368,extended,00000000
+[Infinite Yellow Eco Missiles (All Players)]
+patch=1,EE,D0F4E548,extended,00001825
+[Infinite Yellow Eco Missiles (All Players)]
+patch=1,EE,20F4E554,extended,00000000
+[Infinite Yellow Eco Grenades (All Players)]
+patch=1,EE,D0F4FE94,extended,00001025
+[Infinite Yellow Eco Grenades (All Players)]
+patch=1,EE,20F4FEA0,extended,00000000
+[Infinite Yellow Eco Machine Gun (All Players)]
+patch=1,EE,D0F52680,extended,00001025
+[Infinite Yellow Eco Machine Gun (All Players)]
+patch=1,EE,20F5268C,extended,00000000
+[Infinite Blue Eco Turbo (All Players)]
+patch=1,EE,D0F176B0,extended,00001825
+[Infinite Blue Eco Turbo (All Players)]
+patch=1,EE,20F17710,extended,00000000
+[Infinite Health (Only You)]
+patch=1,EE,E0051825,extended,00F0FF84
+[Infinite Health (Only You)]
+patch=1,EE,200C0220,extended,3C013F80
+[Infinite Health (Only You)]
+patch=1,EE,200C0224,extended,AF8102AC
+[Infinite Health (Only You)]
+patch=1,EE,200C0228,extended,03E00008
+[Infinite Health (Only You)]
+patch=1,EE,200C022C,extended,C78002AC
+[Infinite Health (Only You)]
+patch=1,EE,20F0FF88,extended,0C030088
+[Infinite Red/Yellow Eco Ammo (Only You)]
+patch=1,EE,E0051825,extended,00EEB0A8
+[Infinite Red/Yellow Eco Ammo (Only You)]
+patch=1,EE,200C0230,extended,24010063
+[Infinite Red/Yellow Eco Ammo (Only You)]
+patch=1,EE,200C0234,extended,A0C100FC
+[Infinite Red/Yellow Eco Ammo (Only You)]
+patch=1,EE,200C0238,extended,03E00008
+[Infinite Red/Yellow Eco Ammo (Only You)]
+patch=1,EE,200C023C,extended,80C600FC
+[Infinite Red/Yellow Eco Ammo (Only You)]
+patch=1,EE,20EEB0AC,extended,0C03008C
+[Infinite Blue Eco Turbo (Only You)]
+patch=1,EE,E0051825,extended,00EE94AC
+[Infinite Blue Eco Turbo (Only You)]
+patch=1,EE,200C0240,extended,3C013F80
+[Infinite Blue Eco Turbo (Only You)]
+patch=1,EE,200C0244,extended,AE6102BC
+[Infinite Blue Eco Turbo (Only You)]
+patch=1,EE,200C0248,extended,083BA52F
+[Infinite Blue Eco Turbo (Only You)]
+patch=1,EE,200C024C,extended,C66002BC
+[Infinite Blue Eco Turbo (Only You)]
+patch=1,EE,20EE94B8,extended,0C030090
+[Infinite Dark Eco Meters (Only You)]
+patch=1,EE,E0051825,extended,00EE9694
+[Infinite Dark Eco Meters (Only You)]
+patch=1,EE,200C0250,extended,3C013F80
+[Infinite Dark Eco Meters (Only You)]
+patch=1,EE,200C0254,extended,AE6102C0
+[Infinite Dark Eco Meters (Only You)]
+patch=1,EE,200C0258,extended,083BA5A9
+[Infinite Dark Eco Meters (Only You)]
+patch=1,EE,200C025C,extended,C66002C0
+[Infinite Dark Eco Meters (Only You)]
+patch=1,EE,20EE96A0,extended,0C030094
+[P1 Press {R3} To Enable Slow Motion]
+patch=1,EE,D028339C,extended,0000FFFB
+[P1 Press {R3} To Enable Slow Motion]
+patch=1,EE,200C0000,extended,00000001
+[P1 Press {R3} To Enable Slow Motion]
+patch=1,EE,D00C0000,extended,00000001
+[P1 Press {R3} To Enable Slow Motion]
+patch=1,EE,2049D42C,extended,3F000000
+[P1 Press {L3} To Disable Slow Motion]
+patch=1,EE,D028339C,extended,0000FFFD
+[P1 Press {L3} To Disable Slow Motion]
+patch=1,EE,200C0000,extended,00000000
+[P1 Press {L3} To Disable Slow Motion]
+patch=1,EE,D00C0000,extended,00000000
+[P1 Press {L3} To Disable Slow Motion]
+patch=1,EE,2049D42C,extended,3F800000
+[Max Precursor Orbs (Secrets Shop)]
+patch=1,EE,207B95D0,extended,4CBEBC20
+[Have All Medal Points]
+patch=1,EE,E005380A,extended,00AB17B8
+[Have All Medal Points]
+patch=1,EE,200C0210,extended,A0C10054
+[Have All Medal Points]
+patch=1,EE,200C0214,extended,082AC5F3
+[Have All Medal Points]
+patch=1,EE,200C0218,extended,0041102D
+[Have All Medal Points]
+patch=1,EE,20AB17C4,extended,08030084
+[Have All Medal Points]
+patch=1,EE,20AB17C8,extended,24010003
+[Unlock All Drivers]
+patch=1,EE,207B9C50,extended,FFFFFFFF
+[Unlock All Drivers]
+cheat0_code = "207B9C54 FFFFFFFF
+[>>> Have Grand Prix Finished Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Red Eco Cup]
+patch=1,EE,109935B8,extended,00000003
+[Green Eco Cup]
+patch=1,EE,109934E8,extended,00000003
+[Blue Eco Cup]
+patch=1,EE,10993408,extended,00000003
+[Yellow Eco Cup]
+patch=1,EE,10993338,extended,00000003
+[>>> Secrets Shop Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock General Codes]
+[Hero Mode]
+patch=1,EE,707B99F8,extended,00000001
+[Mirrored Tracks]
+patch=1,EE,707B99F9,extended,00000040
+[Mirrored Adventure Mode]
+patch=1,EE,707B99F9,extended,00000080
+[All General]
+patch=1,EE,707B99F8,extended,0010C001
+[>>> Unlock Concept Art Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Character Art]
+patch=1,EE,707B99F9,extended,00000001
+[Background Art]
+patch=1,EE,707B99F9,extended,00000002
+[Vehicle Art]
+patch=1,EE,707B99F9,extended,00000004
+[All Concept Art]
+patch=1,EE,707B99F9,extended,00000007
+[>>> Unlock Vehicle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Naughty Dog]
+patch=1,EE,707B99FD,extended,00000001
+[Sand Shark]
+patch=1,EE,707B99FD,extended,00000002
+[All Vehicles]
+patch=1,EE,707B99FD,extended,00000003
+[>>> Unlock Reel Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unknown]
+patch=1,EE,707B99F8,extended,00000010
+['Making Of' Movie]
+patch=1,EE,707B99FC,extended,00000020
+[Bloopers Movie]
+patch=1,EE,707B99FC,extended,00000040
+[Breakdown Of A Scene]
+patch=1,EE,707B99FC,extended,00000080
+[Hot Coffee]
+patch=1,EE,707B99FD,extended,00000020
+[All Reels]
+patch=1,EE,707B99F8,extended,00000010
+[All Reels]
+patch=1,EE,707B99FC,extended,001020E0
+[>>> Unlock Helmets Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Offset Cranium]
+patch=1,EE,707B99FB,extended,00000080
+[Haven Skullcap]
+patch=1,EE,707B99FC,extended,00000001
+[Spargus Sandmask]
+patch=1,EE,707B99FC,extended,00000002
+[Marauder Lip Bomb]
+patch=1,EE,707B99FC,extended,00000004
+[Kras Brain Bucket]
+patch=1,EE,707B99FC,extended,00000008
+[Grey Matter Hatter]
+patch=1,EE,707B99FC,extended,00000010
+[All Helmets]
+patch=1,EE,707B99FB,extended,00000080
+[All Helmets]
+patch=1,EE,707B99FC,extended,0000001F
+[>>> Unlock Antenna Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Pennant Antenna]
+patch=1,EE,707B99FB,extended,00000002
+[Metalhead Trophy]
+patch=1,EE,707B99FB,extended,00000004
+[Precursor Orb]
+patch=1,EE,707B99FB,extended,00000008
+[Daxter Head]
+patch=1,EE,707B99FB,extended,00000010
+[Clank Head]
+patch=1,EE,707B99FB,extended,00000020
+[Furry Dice]
+patch=1,EE,707B99FB,extended,00000040
+[All Antennas]
+patch=1,EE,707B99FB,extended,0000007E
+[>>> Unlock Bonus Wheels Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Scherr-tech Spinners]
+patch=1,EE,707B99FD,extended,00000080
+[Triple Cast Ferrites]
+patch=1,EE,707B99FE,extended,00000001
+[Blitz RPMs]
+patch=1,EE,707B99FE,extended,00000002
+[Vella-Flow Lamenants]
+patch=1,EE,707B99FE,extended,00000004
+[Vortex Dreads]
+patch=1,EE,707B99FE,extended,00000008
+[Quad-Spun Air-Plates]
+patch=1,EE,707B99FE,extended,00000010
+[EDA Road Eaters]
+patch=1,EE,707B99FE,extended,00000020
+[Magnesium Trifolds]
+patch=1,EE,707B99FE,extended,00000040
+[Spinworx Heavy Metal]
+patch=1,EE,707B99FE,extended,00000080
+[Depleted Uratrax]
+patch=1,EE,707B99FF,extended,00000001
+[All Bonus Wheels]
+patch=1,EE,707B99FD,extended,00000080
+[All Bonus Wheels]
+patch=1,EE,707B99FE,extended,001001FF
+[>>> Adventure Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Red Eco Cup Medal Points Codes]
+[Spargus-Spargus City-Race 1]
+patch=1,EE,0098D578,extended,00000003
+[Spargus-Spargus City-Race 2]
+patch=1,EE,0098D0F8,extended,00000003
+[Spargus-Spargus City-Race 3]
+patch=1,EE,0098BD38,extended,00000003
+[Spargus-Precursor Temple]
+patch=1,EE,0098C388,extended,00000003
+[Kras City-Loading Docks-Race 1]
+patch=1,EE,0098D3D8,extended,00000003
+[Kras City-Loading Docks-Race 2]
+patch=1,EE,0098BBF8,extended,00000003
+[Kras City-Dirt Stadium-Race 1]
+patch=1,EE,0098D288,extended,00000003
+[Kras City-Dirt Stadium-Race 2]
+patch=1,EE,0098C248,extended,00000003
+[Kras City-Seaport Strip]
+patch=1,EE,0098CFA8,extended,00000003
+[Kras City-Mar Coliseum]
+patch=1,EE,0098BA88,extended,00000003
+[Haven City-Clifftop Battlefield]
+patch=1,EE,0098CE58,extended,00000003
+[Haven City-Forbidden Jungle]
+patch=1,EE,0098C678,extended,00000003
+[Have City-Sewer Raceway]
+patch=1,EE,0098B8D8,extended,00000003
+[Icelands-Icebound Citadel-Race 1]
+patch=1,EE,0098CAC8,extended,00000003
+[Icelands-Icebound Citadel-Race 2]
+patch=1,EE,0098C838,extended,00000003
+[Icelands-Mountain Top Highway]
+patch=1,EE,0098C978,extended,00000003
+[Icelands-Frozen Speedway]
+patch=1,EE,0098C4D8,extended,00000003
+[Icelands-Timberline Track]
+patch=1,EE,0098C0A8,extended,00000003
+[Grand Prix-Qualifier 1]
+patch=1,EE,0098CC68,extended,00000003
+[Grand Prix-Qualifier 2]
+patch=1,EE,0098BEC8,extended,00000003
+[>>> Max Green Eco Cup Medal Points Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Spargus-Beachfront Drive]
+patch=1,EE,0098B788,extended,00000003
+[Spargus-Desert Arena]
+patch=1,EE,0098AB98,extended,00000003
+[Spargus-Canyon Run-Race 1]
+patch=1,EE,0098A9F8,extended,00000003
+[Spargus-Canyon Run-Race 2]
+patch=1,EE,00989E78,extended,00000003
+[Spargus-Badland Sanctuary]
+patch=1,EE,0098A5B8,extended,00000003
+[Spargus-Wasteland Isle]
+patch=1,EE,0098A158,extended,00000003
+[Kras City-Kras City-Race 1]
+patch=1,EE,0098B648,extended,00000003
+[Kras City-Kras City-Race 2]
+patch=1,EE,0098A708,extended,00000003
+[Kras City-Waterfront Loop]
+patch=1,EE,0098B338,extended,00000003
+[Kras City-Dethdrome]
+patch=1,EE,0098AE48,extended,00000003
+[Kras City-Dirt Stadium]
+patch=1,EE,00989D38,extended,00000003
+[Kras City-Western Tour]
+patch=1,EE,00989B88,extended,00000003
+[Haven City-Forbidden Jungle-Race 1]
+patch=1,EE,0098AFD8,extended,00000003
+[Haven City-Forbidden Jungle-Race 2]
+patch=1,EE,0098A428,extended,00000003
+[Haven City-Clifftop Battlefield]
+patch=1,EE,0098AD08,extended,00000003
+[Haven City-City Outskirts]
+patch=1,EE,0098A898,extended,00000003
+[Haven City-Haven City]
+patch=1,EE,0098A008,extended,00000003
+[Icelands-Frozen Speedway]
+patch=1,EE,0098B178,extended,00000003
+[Grand Prix-Qualifier 1]
+patch=1,EE,0098B4D8,extended,00000003
+[Grand Prix-Qualifier 2]
+patch=1,EE,0098A2A8,extended,00000003
+[>>> Max Blue Eco Cup Medal Points Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Spargus-Canyon Run]
+patch=1,EE,00989518,extended,00000003
+[Spargus-Desert Arena]
+patch=1,EE,009893B8,extended,00000003
+[Spargus-Beachfront Drive]
+patch=1,EE,00989228,extended,00000003
+[Spargus-Northern Tour]
+patch=1,EE,00988DD8,extended,00000003
+[Spargus-Badland Sanctuary]
+patch=1,EE,009887F8,extended,00000003
+[Spargus-Spargus City]
+patch=1,EE,009880D8,extended,00000003
+[Kras City-Waterfront Loop]
+patch=1,EE,00989848,extended,00000003
+[Kras City-Seaport Strip-Race 1]
+patch=1,EE,009890E8,extended,00000003
+[Kras City-Seaport Strip-Race 2]
+patch=1,EE,00987DB8,extended,00000003
+[Kras City-Dirt Stadium]
+patch=1,EE,00988AD8,extended,00000003
+[Kras City-Loading Docks]
+patch=1,EE,00988988,extended,00000003
+[Kras City-Dethdrome]
+patch=1,EE,00988388,extended,00000003
+[Haven City-Eastern Tour]
+patch=1,EE,009899D8,extended,00000003
+[Haven City-Clifftop Battlefield]
+patch=1,EE,00988F88,extended,00000003
+[Haven City-Waterworks Circuit]
+patch=1,EE,00987F38,extended,00000003
+[Icelands-Icebound Citadel]
+patch=1,EE,009896B8,extended,00000003
+[Icelands-Mountaintop Highway]
+patch=1,EE,00988668,extended,00000003
+[Icelands-Ice Pit]
+patch=1,EE,00988518,extended,00000003
+[Grand Prix-Qualifier 1]
+patch=1,EE,00988C18,extended,00000003
+[Grand Prix-Qualifier 2]
+patch=1,EE,00988218,extended,00000003
+[>>> Max Yellow Eco Cup Medal Points Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Spargus-Precursor Temple-Race 1]
+patch=1,EE,00987A88,extended,00000003
+[Spargus-Precursor Temple-Race 1]
+patch=1,EE,00986518,extended,00000003
+[Spargus-Spargus City]
+patch=1,EE,00986DA8,extended,00000003
+[Spargus-Beachfront Drive]
+patch=1,EE,00986658,extended,00000003
+[Spargus-Wasteland Isle]
+patch=1,EE,009863D8,extended,00000003
+[Kras City-Seaport Strip]
+patch=1,EE,009878F8,extended,00000003
+[Kras City-Mar Coliseum]
+patch=1,EE,00987678,extended,00000003
+[Kras City-Kras City]
+patch=1,EE,00987078,extended,00000003
+[Kras City-Dethdrome]
+patch=1,EE,00986C68,extended,00000003
+[Kras City-Waterfront Loop]
+patch=1,EE,00986108,extended,00000003
+[Haven City-Waterworks Circuit-Race 1]
+patch=1,EE,009877B8,extended,00000003
+[Haven City-Waterworks Circuit-Race 2]
+patch=1,EE,00986928,extended,00000003
+[Haven City-Sewer Raceway]
+patch=1,EE,00987348,extended,00000003
+[Haven City-Clifftop Battlefield]
+patch=1,EE,00987208,extended,00000003
+[Haven City-Atoll Arena]
+patch=1,EE,00986F38,extended,00000003
+[Icelands-Mountaintop Highway-Race 1]
+patch=1,EE,00987C18,extended,00000003
+[Icelands-Mountaintop Highway-Race 2]
+patch=1,EE,00986248,extended,00000003
+[Icelands-Southern Tour]
+patch=1,EE,00986AB8,extended,00000003
+[Grand Prix-Qualifier 1]
+patch=1,EE,009874D8,extended,00000003
+[Grand Prix-Qualifier 2]
+patch=1,EE,009867E8,extended,00000003
+

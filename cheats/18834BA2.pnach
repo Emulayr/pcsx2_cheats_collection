@@ -1,0 +1,24 @@
+gametitle=Civil War-A Nation Divided
+[Enable Code (Must Be On)]
+patch=1,EE,902EC058,extended,00832021
+[P1 Press {SELECT} To Skip FMV]
+patch=1,EE,D065FF02,extended,0000FFFE
+[P1 Press {SELECT} To Skip FMV]
+patch=1,EE,202DF718,extended,24020001
+[P1 Press {SELECT} To Skip FMV]
+patch=1,EE,D065FF02,extended,0000FFFF
+[P1 Press {SELECT} To Skip FMV]
+patch=1,EE,202DF718,extended,8C620000
+[Infinite Health]
+patch=1,EE,201D7778,extended,3C0142C8
+[Infinite Health]
+patch=1,EE,201D7780,extended,AC810008
+[Infinite Ammo/Grenades]
+patch=1,EE,20209018,extended,00000000
+[Max Infinite Ammo/Grenades]
+patch=1,EE,20208EDC,extended,24160063
+[Never Reload]
+patch=1,EE,20346AFC,extended,24020006
+[Never Reload With Max Clip]
+patch=1,EE,20346AFC,extended,24020064
+

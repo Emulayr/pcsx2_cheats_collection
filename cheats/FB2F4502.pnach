@@ -1,0 +1,348 @@
+gametitle=[SLUS-21148] Time Splitters-Future Perfect
+[Enable Code (Must Be On)]
+patch=1,EE,9057F118,extended,00832021
+[Infinite Health]
+patch=1,EE,2025F464,extended,8CA101D8
+[Infinite Health]
+patch=1,EE,2025F46C,extended,ACA101CC
+[Infinite Armor]
+patch=1,EE,2025F498,extended,8DC1007C
+[Infinite Armor]
+patch=1,EE,2025F4A0,extended,ADC10078
+[Infinite Ammo]
+patch=1,EE,202EA61C,extended,00000000
+[Max Infinite Ammo]
+patch=1,EE,202EA618,extended,240D03E7
+[Extra Ammo]
+patch=1,EE,202EA618,extended,01AC6821
+[Never Reload]
+patch=1,EE,202E83EC,extended,00000000
+[Infinite Alternate Ammo]
+patch=1,EE,202E83C0,extended,00000000
+[Max Infinite Alternate Ammo]
+patch=1,EE,202E83B0,extended,240F03E7
+[Extra Alternate Ammo]
+patch=1,EE,202E83B0,extended,01E77821
+[Infinite Grenades]
+patch=1,EE,202E83C0,extended,00000000
+[Max Infinite Grenades]
+patch=1,EE,202E83B0,extended,240F0063
+[Extra Grenades]
+patch=1,EE,202E83B0,extended,01E77821
+[P1 Weapons Never Overheat]
+patch=1,EE,200C0220,extended,8DC100D8
+[P1 Weapons Never Overheat]
+patch=1,EE,200C0224,extended,3C023F00
+[P1 Weapons Never Overheat]
+patch=1,EE,200C0228,extended,0022082B
+[P1 Weapons Never Overheat]
+patch=1,EE,200C022C,extended,14200002
+[P1 Weapons Never Overheat]
+patch=1,EE,200C0230,extended,3C013ED0
+[P1 Weapons Never Overheat]
+patch=1,EE,200C0234,extended,ADC100D8
+[P1 Weapons Never Overheat]
+patch=1,EE,200C0238,extended,080B9C12
+[P1 Weapons Never Overheat]
+patch=1,EE,200C023C,extended,00000000
+[P1 Weapons Never Overheat]
+patch=1,EE,D066EE82,extended,0000FDFF
+[P1 Weapons Never Overheat]
+patch=1,EE,202E7470,extended,0C030088
+[P1 Weapons Never Overheat]
+patch=1,EE,D066EE82,extended,0000FFFF
+[P1 Weapons Never Overheat]
+patch=1,EE,202E7470,extended,0C0B9C12
+[Unlock All Single Player Story Easy Levels]
+cheat0_code = "2062AE40 FFFFFFFF
+[Unlock All Single Player Story Normal Levels]
+cheat0_code = "2062AE44 FFFFFFFF
+[Unlock All Single Player Story Hard Levels]
+cheat0_code = "2062AE48 FFFFFFFF
+[Unlock All Co-Op Player Story Easy Levels]
+cheat0_code = "2062AE4C FFFFFFFF
+[Unlock All Co-Op Player Story Normal Levels]
+cheat0_code = "2062AE50 FFFFFFFF
+[Unlock All Co-Op Player Story Hard Levels]
+cheat0_code = "2062AE54 FFFFFFFF
+[Unlock All Arcade-Honorary League Levels/Cheats]
+cheat0_code = "2062AE58 FFFFFFFF
+[Unlock All Arcade-Elite League Levels]
+cheat0_code = "2062AE5C FFFFFFFF
+[Unlock All Characters/Levels]
+patch=1,EE,4062AE40,extended,00080001
+[Unlock All Characters/Levels]
+patch=1,EE,FFFFFFFF,extended,00000000
+[Unlock All Characters/Levels]
+patch=1,EE,2062AE68,extended,FFFFFFFF
+[Unlock All Characters/Levels]
+patch=1,EE,2062AE6C,extended,FFFFFFFF
+[Unlock All Characters/Levels]
+patch=1,EE,2062AE78,extended,FFFFFFFF
+[Unlock All Characters/Levels]
+cheat0_code = "2062AE7C FFFFFFFF
+[>>> Have Award Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Most Lethal]
+patch=1,EE,0062AE00,extended,00000001
+[Most Losses]
+patch=1,EE,0062AE01,extended,00000001
+[Lemming Award]
+patch=1,EE,0062AE02,extended,00000001
+[Most Professional]
+patch=1,EE,0062AE03,extended,00000001
+[Multi Kill]
+patch=1,EE,0062AE04,extended,00000001
+[Longest Spree]
+patch=1,EE,0062AE05,extended,00000001
+[Most Effective]
+patch=1,EE,0062AE06,extended,00000001
+[Pathetic Shot]
+patch=1,EE,0062AE07,extended,00000001
+[I Hit Dead People]
+patch=1,EE,0062AE08,extended,00000001
+[Brain Surgeon]
+patch=1,EE,0062AE09,extended,00000001
+[Fists Of Fury]
+patch=1,EE,0062AE0A,extended,00000001
+[Glass Jaw]
+patch=1,EE,0062AE0B,extended,00000001
+[Decapitator]
+patch=1,EE,0062AE0C,extended,00000001
+[Fists Of Steel]
+patch=1,EE,0062AE0D,extended,00000001
+[Traitor]
+patch=1,EE,0062AE0E,extended,00000001
+[Vandal]
+patch=1,EE,0062AE0F,extended,00000001
+[Hypochondriac]
+patch=1,EE,0062AE10,extended,00000001
+[AC-10 Award]
+patch=1,EE,0062AE11,extended,00000001
+[Where's The Health?]
+patch=1,EE,0062AE12,extended,00000001
+[Where's The Armor]
+patch=1,EE,0062AE13,extended,00000001
+[Hoarder]
+patch=1,EE,0062AE14,extended,00000001
+[Sloth]
+patch=1,EE,0062AE15,extended,00000001
+[Most Frantic]
+patch=1,EE,0062AE16,extended,00000001
+[Backpeddler]
+patch=1,EE,0062AE17,extended,00000001
+[Sidestepper]
+patch=1,EE,0062AE18,extended,00000001
+[Ledgehopper]
+patch=1,EE,0062AE19,extended,00000001
+[Most Sneaky]
+patch=1,EE,0062AE1A,extended,00000001
+[Most Cowardly]
+patch=1,EE,0062AE1B,extended,00000001
+[Dodger]
+patch=1,EE,0062AE1C,extended,00000001
+[Most Outgunned]
+patch=1,EE,0062AE1D,extended,00000001
+[Best Equipped]
+patch=1,EE,0062AE1E,extended,00000001
+[Unlucky To Lose]
+patch=1,EE,0062AE1F,extended,00000001
+[Weapons Expert]
+patch=1,EE,0062AE20,extended,00000001
+[Porter]
+patch=1,EE,0062AE21,extended,00000001
+[Bag Man]
+patch=1,EE,0062AE22,extended,00000001
+[Most Useless]
+patch=1,EE,0062AE23,extended,00000001
+[Hoarder]
+patch=1,EE,0062AE24,extended,00000001
+[Ricochet King]
+patch=1,EE,0062AE25,extended,00000001
+[Victim]
+patch=1,EE,0062AE26,extended,00000001
+[Bully]
+patch=1,EE,0062AE27,extended,00000001
+[Most Peaceful]
+patch=1,EE,0062AE28,extended,00000001
+[Most Dishonorable]
+patch=1,EE,0062AE29,extended,00000001
+[Most Manic]
+patch=1,EE,0062AE2A,extended,00000001
+[Cartographer?]
+patch=1,EE,0062AE2B,extended,00000001
+[Shortest Innings]
+patch=1,EE,0062AE2C,extended,00000001
+[Longest Innings]
+patch=1,EE,0062AE2D,extended,00000001
+[Survivor]
+patch=1,EE,0062AE2E,extended,00000001
+[Marksmanship]
+patch=1,EE,0062AE2F,extended,00000001
+[Sniper]
+patch=1,EE,0062AE30,extended,00000001
+[Most Flammable]
+patch=1,EE,0062AE31,extended,00000001
+[Most Damaging]
+patch=1,EE,0062AE32,extended,00000001
+[Persistence Award]
+patch=1,EE,0062AE33,extended,00000001
+[Traveler Award]
+patch=1,EE,0062AE34,extended,00000001
+[Trigger Happy Award]
+patch=1,EE,0062AE35,extended,00000001
+[Insomniac Award]
+patch=1,EE,0062AE36,extended,00000001
+[Beheader Award]
+patch=1,EE,0062AE37,extended,00000001
+[Smasher Award]
+patch=1,EE,0062AE38,extended,00000001
+[Brutality Award]
+patch=1,EE,0062AE39,extended,00000001
+[Golden Oldie Award]
+patch=1,EE,0062AE3A,extended,00000001
+[>>> Have Challenge Gold Medal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Behead The Undead-Easy]
+patch=1,EE,2062A6E8,extended,00000003
+[Behead The Undead-Normal]
+patch=1,EE,2062A700,extended,00000003
+[Behead The Undead-Hard]
+patch=1,EE,2062A718,extended,00000003
+[Cut-Out Shoot-Out-Easy]
+patch=1,EE,2062A730,extended,00000003
+[Cut-Out Shoot-Out-Normal]
+patch=1,EE,2062A748,extended,00000003
+[Cut-Out Shoot-Out-Hard]
+patch=1,EE,2062A760,extended,00000003
+[Cat Driving-Easy]
+patch=1,EE,2062A778,extended,00000003
+[Cat Driving-Normal]
+patch=1,EE,2062A790,extended,00000003
+[Cat Driving-Hard]
+patch=1,EE,2062A7A8,extended,00000003
+[Super Smashing Great-Easy]
+patch=1,EE,2062A7C0,extended,00000003
+[Super Smashing Great-Normal]
+patch=1,EE,2062A7D8,extended,00000003
+[Super Smashing Great-Hard]
+patch=1,EE,2062A7F0,extended,00000003
+[Timesplitters 'Story' Classic-Easy]
+patch=1,EE,2062A808,extended,00000003
+[Timesplitters 'Story' Classic-Normal]
+patch=1,EE,2062A820,extended,00000003
+[Timesplitters 'Story' Classic-Hard]
+patch=1,EE,2062A838,extended,00000003
+[Monkeying Around-Easy]
+patch=1,EE,2062A850,extended,00000003
+[Monkeying Around-Normal]
+patch=1,EE,2062A868,extended,00000003
+[Monkeying Around-Hard]
+patch=1,EE,2062A880,extended,00000003
+[Miscellaneous Challenges-Easy]
+patch=1,EE,2062A898,extended,00000003
+[Miscellaneous Challenges-Normal]
+patch=1,EE,2062A8B0,extended,00000003
+[Miscellaneous Challenges-Hard]
+patch=1,EE,2062A8C8,extended,00000003
+[All Challenge Gold Medals]
+patch=1,EE,4062A6E8,extended,00150006
+[All Challenge Gold Medals]
+patch=1,EE,00000003,extended,00000000
+[>>> Have Arcade-League Gold Medal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Amateur-One Gun Fun-Easy]
+patch=1,EE,2062A8E0,extended,00000003
+[Amateur-One Gun Fun-Normal]
+patch=1,EE,2062A8F8,extended,00000003
+[Amateur-One Gun Fun-Hard]
+patch=1,EE,2062A910,extended,00000003
+[Amateur-Nightstick-Easy]
+patch=1,EE,2062A928,extended,00000003
+[Amateur-Nightstick-Normal]
+patch=1,EE,2062A940,extended,00000003
+[Amateur-Nightstick-Hard]
+patch=1,EE,2062A958,extended,00000003
+[Amateur-On The Take-Easy]
+patch=1,EE,2062A970,extended,00000003
+[Amateur-On The Take-Normal]
+patch=1,EE,2062A988,extended,00000003
+[Amateur-On The Take-Hard]
+patch=1,EE,2062A9A0,extended,00000003
+[Honorary-Dead Weight-Easy]
+patch=1,EE,2062A9B8,extended,00000003
+[Honorary-Dead Weight-Normal]
+patch=1,EE,2062A9D0,extended,00000003
+[Honorary-Dead Weight-Hard]
+patch=1,EE,2062A9E8,extended,00000003
+[Honorary-Fever Pitch-Easy]
+patch=1,EE,2062AA00,extended,00000003
+[Honorary-Fever Pitch-Normal]
+patch=1,EE,2062AA18,extended,00000003
+[Honorary-Fever Pitch-Hard]
+patch=1,EE,2062AA30,extended,00000003
+[Honorary-Mode Madness-Easy]
+patch=1,EE,2062AA48,extended,00000003
+[Honorary-Mode Madness-Normal]
+patch=1,EE,2062AA60,extended,00000003
+[Honorary-Mode Madness-Hard]
+patch=1,EE,2062AA78,extended,00000003
+[Elite-Smash 'N Grab-Easy]
+patch=1,EE,2062AA90,extended,00000003
+[Elite-Smash 'N Grab-Normal]
+patch=1,EE,2062AAA8,extended,00000003
+[Elite-Smash 'N Grab-Hard]
+patch=1,EE,2062AAC0,extended,00000003
+[Elite-Group Therapy-Easy]
+patch=1,EE,2062AAD8,extended,00000003
+[Elite-Group Therapy-Normal]
+patch=1,EE,2062AAF0,extended,00000003
+[Elite-Group Therapy-Hard]
+patch=1,EE,2062AB08,extended,00000003
+[Elite-Retro Chique-Easy]
+patch=1,EE,2062AB20,extended,00000003
+[Elite-Retro Chique-Normal]
+patch=1,EE,2062AB38,extended,00000003
+[Elite-Retro Chique-Hard]
+patch=1,EE,2062AB50,extended,00000003
+[All Challenge Gold Medals]
+patch=1,EE,4062A8E0,extended,001B0006
+[All Challenge Gold Medals]
+patch=1,EE,00000003,extended,00000000
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Invisible]
+patch=1,EE,2062205C,extended,00000001
+[Invincible]
+patch=1,EE,20622060,extended,00000001
+[Head Size-Big]
+patch=1,EE,706875D0,extended,00000001
+[Head Size-Small]
+patch=1,EE,706875D0,extended,00000002
+[Human Gun Sounds]
+patch=1,EE,706875D0,extended,00000004
+[Big Hands]
+patch=1,EE,706875D0,extended,00000008
+[Paintball]
+patch=1,EE,706875D0,extended,00000020
+[Fat Characters]
+patch=1,EE,706875D0,extended,00000040
+[All Characters Cloaked]
+patch=1,EE,706875D1,extended,00000001
+[Slow Motion Deaths]
+patch=1,EE,706875D1,extended,00000002
+[Cardboard Characters]
+patch=1,EE,706875D1,extended,00000004
+[Rotating Heads]
+patch=1,EE,706875D1,extended,00000008
+[Cascade]
+patch=1,EE,706875D1,extended,00000020
+[P1 Press {L1}+{SELECT} To Disable Collisions]
+patch=1,EE,D066EE82,extended,0000FBFE
+[P1 Press {L1}+{SELECT} To Disable Collisions]
+patch=1,EE,20622068,extended,00000000
+[P1 Press {L2}+{SELECT} To Re-Enable Collisions]
+patch=1,EE,D066EE82,extended,0000FEFE
+[P1 Press {L2}+{SELECT} To Re-Enable Collisions]
+patch=1,EE,20622068,extended,00000001
+

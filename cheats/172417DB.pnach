@@ -1,0 +1,80 @@
+gametitle=[SLUS-21413] Thrillville
+[Enable Code (Must Be On)]
+patch=1,EE,9056ABEC,extended,0C1700BB
+[Quick Money Gain]
+patch=1,EE,20338A84,extended,3C09FFF8
+[Super Quick Money Gain]
+patch=1,EE,20338A84,extended,3C09FFF0
+[Ultra QUick Money Gain]
+patch=1,EE,20338A84,extended,3C09FF00
+[Quick Max Money]
+patch=1,EE,20338AB4,extended,3C0205F5
+[Quick Max Money]
+patch=1,EE,20338AC0,extended,3442E0FF
+[Quick Park Completion]
+patch=1,EE,203FE424,extended,2403001E
+[Quick Park Completion]
+patch=1,EE,203FE428,extended,A0A30000
+[>>> Activate Debug Flag Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Render GUI On]
+patch=1,EE,206C9EC4,extended,00000001
+[Ignore Research On]
+patch=1,EE,706CB8CD,extended,00000008
+[More Overheard Spech On]
+patch=1,EE,706CB8CD,extended,00000010
+[Render Park Landscape On]
+patch=1,EE,706CB8C8,extended,00000001
+[Render Park Attractions On]
+patch=1,EE,706CB8C8,extended,00000002
+[Render Park Guests On]
+patch=1,EE,706CB8C8,extended,00000004
+[Render Park Staff On]
+patch=1,EE,706CB8C8,extended,00000008
+[Render Park Bubbles On]
+patch=1,EE,706CB8C8,extended,00000010
+[Render Park Tracks On]
+patch=1,EE,706CB8C8,extended,00000020
+[Render Park Particles On]
+patch=1,EE,706CB8C9,extended,00000001
+[Render Park Instances On]
+patch=1,EE,706CB8C9,extended,00000002
+[Render Skydome Only On]
+patch=1,EE,706CB8C9,extended,00000020
+[Show Player Coords On]
+patch=1,EE,706CB8CC,extended,00000001
+[Extra Debug Info (Press {R2})]
+patch=1,EE,706CB8CC,extended,00000002
+[Show Camera Coords On]
+patch=1,EE,706CB8CC,extended,00000004
+[Show Height Sample Below Camera On]
+patch=1,EE,706CB8CC,extended,00000008
+[Show Camera Fwd Vector (Flat) On]
+patch=1,EE,706CB8CC,extended,00000010
+[Allow Sprint In Doglegs On]
+patch=1,EE,706CB8CC,extended,00000040
+[Allow Walk On Non-Walkable On]
+patch=1,EE,706CB8CC,extended,00000080
+[GUI Sounds On]
+patch=1,EE,206CBF9C,extended,00000001
+[Peep Stats View On]
+patch=1,EE,706CB8CD,extended,00000001
+[Debug Controls On]
+patch=1,EE,706CB8CD,extended,00000002
+[Show Pos Of Mission Groups On]
+patch=1,EE,706CB8CD,extended,00000004
+[Disable Mission Popups On]
+patch=1,EE,706CB8CD,extended,00000020
+[Allow Obstructed Track Placement On]
+patch=1,EE,706CB8CD,extended,00000040
+[Ingore Mission Min. Interval On]
+patch=1,EE,706CB8CD,extended,00000080
+[Show Mission Timers On]
+patch=1,EE,706CB8CE,extended,00000001
+[Guests Leave When Needs Not Met On]
+patch=1,EE,706CB8CE,extended,00000008
+[Transparent Fade On]
+patch=1,EE,206CC1AC,extended,00000001
+[Ignore Unlocks On]
+patch=1,EE,206CC1C4,extended,00000001
+

@@ -1,0 +1,48 @@
+gametitle=Call Of Duty 3 (Single-Player)
+[Enable Code (Must Be On)]
+patch=1,EE,903F0300,extended,00832021
+[God Mode]
+patch=1,EE,E006902D,extended,00101CD0
+[God Mode]
+patch=1,EE,200C0220,extended,8E410268
+[God Mode]
+patch=1,EE,200C0224,extended,34210001
+[God Mode]
+patch=1,EE,200C0228,extended,AE410268
+[God Mode]
+patch=1,EE,200C022C,extended,03E00008
+[God Mode]
+patch=1,EE,200C0230,extended,8E530200
+[God Mode]
+patch=1,EE,20101CF0,extended,0C030088
+[Unlock All Chapters/Bonus Materials]
+patch=1,EE,D0100238,extended,0000F7F7
+[Unlock All Chapters/Bonus Materials]
+patch=1,EE,2049C944,extended,0000000E
+[Infinite Health]
+patch=1,EE,E002902D,extended,00101CD0
+[Infinite Health]
+patch=1,EE,20101D04,extended,8E6202FC
+[Infinite Health]
+patch=1,EE,20101D08,extended,AE4202F8
+[Infinite Ammo]
+patch=1,EE,D0229714,extended,00001821
+[Infinite Ammo]
+patch=1,EE,20229720,extended,00000000
+[Extra Ammo]
+patch=1,EE,D0229714,extended,00001821
+[Extra Ammo]
+patch=1,EE,202297AC,extended,00521021
+[Max Infinite Ammo]
+patch=1,EE,D0229714,extended,00001821
+[Max Infinite Ammo]
+patch=1,EE,2022971C,extended,240203E7
+[Never Reload/Infinite Grenades]
+patch=1,EE,D0229774,extended,0000802D
+[Never Reload/Infinite Grenades]
+patch=1,EE,202297AC,extended,00000000
+[Never Reload With Max Clip/Grenades]
+patch=1,EE,D0229774,extended,0000802D
+[Never Reload With Max Clip/Grenades]
+patch=1,EE,202297A4,extended,24020063
+

@@ -1,0 +1,74 @@
+gametitle=Ecco The Dolphin-DOTF
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0038FACF
+[Infinite Air]
+patch=1,EE,201AD5E8,extended,00000000
+[Infinite Health]
+patch=1,EE,201AD318,extended,AE01007C
+[Have All Levels]
+patch=1,EE,20489650,extended,FFFFFFFF
+[Have All Levels]
+patch=1,EE,20489654,extended,0000000F
+[>>> Max Vitalit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Aquamarine Bay]
+patch=1,EE,0068B878,extended,0000001F
+[Perils Of Coral Reef]
+patch=1,EE,0068B879,extended,0000001F
+[Trial Without Error]
+patch=1,EE,0068B87A,extended,0000001F
+[Four Ways Of Mystery]
+patch=1,EE,0068B87B,extended,0000001F
+[Passage From Genesis]
+patch=1,EE,0068B87C,extended,0000001F
+[Pathways From Nowhere]
+patch=1,EE,0068B87D,extended,0000001F
+[Up And Down]
+patch=1,EE,0068B87E,extended,0000001F
+[Roaring Forces]
+patch=1,EE,0068B87F,extended,0000001F
+[Atlantis Lost]
+patch=1,EE,0068B880,extended,0000001F
+[Shrine Of Conroversy]
+patch=1,EE,0068B881,extended,0000001F
+[Master Of Forgotton Skills]
+patch=1,EE,0068B882,extended,0000001F
+[Process That Never Ends]
+patch=1,EE,0068B883,extended,0000001F
+[Blades In Motion]
+patch=1,EE,0068B884,extended,0000001F
+[Perpetual Fluidity]
+patch=1,EE,0068B886,extended,0000001F
+[Obscure Ways To Terminus]
+patch=1,EE,0068B887,extended,0000001F
+[Sleeping Forces Of Doom]
+patch=1,EE,0068B888,extended,0000001F
+[Anguish Of Dearth]
+patch=1,EE,0068B889,extended,0000001F
+[Entrapment]
+patch=1,EE,0068B88A,extended,0000001F
+[Canerns Of Hope]
+patch=1,EE,0068B88B,extended,0000001F
+[Lair Of Evil]
+patch=1,EE,0068B88C,extended,0000001F
+[Powers Of Levitiation]
+patch=1,EE,0068B88D,extended,0000001F
+[Hanging Waters]
+patch=1,EE,0068B88E,extended,0000001F
+[Ice And Fire]
+patch=1,EE,0068B88F,extended,0000001F
+[Abyss Of Inferno]
+patch=1,EE,0068B890,extended,0000001F
+[Mutaclone]
+patch=1,EE,0068B891,extended,0000001F
+[Hatchery]
+patch=1,EE,0068B892,extended,0000001F
+[Seeds Of Poison]
+patch=1,EE,0068B893,extended,0000001F
+[Transfiguration]
+patch=1,EE,0068B894,extended,0000001F
+[Heart Of The Foe]
+patch=1,EE,0068B895,extended,0000001F
+[Chance Of Reckoning]
+patch=1,EE,0068B896,extended,0000001F
+

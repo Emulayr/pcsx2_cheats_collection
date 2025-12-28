@@ -1,0 +1,90 @@
+gametitle=[SLUS-21182] TOCA Race Driver 3-The Ultimate Racing Simulator
+[Enable Code (Must Be On)]
+patch=1,EE,904665F8,extended,00832021
+[Always Low Race Time]
+patch=1,EE,2017C420,extended,AC600000
+[Always Low Lap Time]
+patch=1,EE,20178D70,extended,ACA00000
+[Start On Lap 2]
+patch=1,EE,D055D384,extended,00000001
+[Start On Lap 2]
+patch=1,EE,2055D384,extended,00000002
+[Start On Lap 3]
+patch=1,EE,D055D384,extended,00000001
+[Start On Lap 3]
+patch=1,EE,2055D384,extended,00000003
+[Max Championship Points]
+patch=1,EE,207C1614,extended,0000270F
+[Start With Max Championship Points]
+patch=1,EE,D07C1614,extended,00000000
+[Start With Max Championship Points]
+patch=1,EE,207C1614,extended,00000000
+[Unlock All Cutscenes]
+patch=1,EE,20124B54,extended,34420001
+[Unlock All Cutscenes]
+patch=1,EE,20124B5C,extended,A0620075
+[Unlock All Cars/Championships]
+patch=1,EE,201B7A94,extended,34420060
+[Unlock All Cars/Championships]
+patch=1,EE,201B7A98,extended,A082008B
+[Unlock All Cars/Championships]
+patch=1,EE,201B7A9C,extended,24020001
+[Have All Level Championship Cups]
+patch=1,EE,201B7BE8,extended,3442001C
+[Have All Level Championship Cups]
+patch=1,EE,201B7BEC,extended,A082008B
+[Have All Level Championship Cups]
+patch=1,EE,201B7BF4,extended,24020001
+[Have All Total Cups]
+patch=1,EE,20570AA4,extended,000000B1
+[>>> Activate Bonuses Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Championships]
+patch=1,EE,005400A0,extended,00000001
+[Unlock Bonus Championships]
+patch=1,EE,005400B1,extended,00000001
+[Boost For All Cars]
+patch=1,EE,005400C2,extended,00000001
+[Turbo Boost]
+patch=1,EE,005400D3,extended,00000001
+[Unlock Toy Cars]
+patch=1,EE,005400E4,extended,00000001
+[Unlock Slot Racer]
+patch=1,EE,005400F5,extended,00000001
+[Invinicible Cars]
+patch=1,EE,00540106,extended,00000001
+[Unlock Cutscenes]
+patch=1,EE,00540117,extended,00000001
+[Unlock Honda 2006]
+patch=1,EE,00540139,extended,00000001
+[Unlock Honda]
+patch=1,EE,0054014A,extended,00000001
+[No Streamed Car Sound]
+patch=1,EE,0054015B,extended,00000001
+[>>> Unlock Bonuses Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Unlock Championships]
+patch=1,EE,7055BCBC,extended,00000001
+[Unlock Bonus Championships]
+patch=1,EE,7055BCBC,extended,00000002
+[Boost For All Cars]
+patch=1,EE,7055BCBC,extended,00000004
+[Turbo Boost]
+patch=1,EE,7055BCBC,extended,00000008
+[Unlock Toy Cars]
+patch=1,EE,7055BCBC,extended,00000010
+[Unlock Slot Racer]
+patch=1,EE,7055BCBC,extended,00000020
+[Invinicible Cars]
+patch=1,EE,7055BCBC,extended,00000040
+[Unlock Cutscenes]
+patch=1,EE,7055BCBC,extended,00000080
+[Unlock Honda 2006]
+patch=1,EE,7055BCBD,extended,00000002
+[Unlock Honda]
+patch=1,EE,7055BCBD,extended,00000004
+[No Streamed Car Sound]
+patch=1,EE,7055BCBD,extended,00000008
+[All Bonuses]
+cheat0_code = "2055BCBC FFFFFFFF
+

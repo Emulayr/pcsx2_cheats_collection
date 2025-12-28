@@ -1,0 +1,62 @@
+gametitle=[SLUS-20958] Tom Clancy's Splinter Cell-Pandora Tomorrow
+[Enable Code (Must Be On)]
+patch=1,EE,90131FB0,extended,0C04A5E4
+[Infinite Health]
+patch=1,EE,20307678,extended,2402012C
+[Infinite Health]
+patch=1,EE,20307680,extended,AE420454
+[Guards Cant Use Grenades]
+patch=1,EE,20487E04,extended,002E3368
+[Guards Cant Use Mines]
+patch=1,EE,20487E08,extended,002E3368
+[P1 Press {L1}+{SELECT} For Idiot AI On]
+patch=1,EE,D04EE342,extended,0000FBFE
+[P1 Press {L1}+{SELECT} For Idiot AI On]
+patch=1,EE,202E310C,extended,10000096
+[P1 Press {L2}+{SELECT} For Idiot AI Off]
+patch=1,EE,D04EE342,extended,0000FEFE
+[P1 Press {L2}+{SELECT} For Idiot AI Off]
+patch=1,EE,202E310C,extended,10200096
+[Always No Noise]
+patch=1,EE,2030B1E4,extended,AE400330
+[>>> Jump Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Higher Jumps]
+patch=1,EE,2030B16C,extended,3C014420
+[Higher Jumps]
+patch=1,EE,2030B174,extended,AE4103FC
+[Super Jumps]
+patch=1,EE,2030B16C,extended,3C014460
+[Super Jumps]
+patch=1,EE,2030B174,extended,AE4103FC
+[Ultra Jumps]
+patch=1,EE,2030B16C,extended,3C0144A0
+[Ultra Jumps]
+patch=1,EE,2030B174,extended,AE4103FC
+[>>> Character Height Modifier Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Press {L1}+Up For 2x Size]
+patch=1,EE,E002FBEF,extended,004EE342
+[Press {L1}+Up For 2x Size]
+patch=1,EE,2030B17C,extended,3C014000
+[Press {L1}+Up For 2x Size]
+patch=1,EE,2030B190,extended,AE410220
+[Press {L1}+Right For Normal Size]
+patch=1,EE,E002FBDF,extended,004EE342
+[Press {L1}+Right For Normal Size]
+patch=1,EE,2030B17C,extended,3C013F80
+[Press {L1}+Right For Normal Size]
+patch=1,EE,2030B190,extended,AE410220
+[Press {L1}+Down For 1/2 Size]
+patch=1,EE,E002FBBF,extended,004EE342
+[Press {L1}+Down For 1/2 Size]
+patch=1,EE,2030B17C,extended,3C013F00
+[Press {L1}+Down For 1/2 Size]
+patch=1,EE,2030B190,extended,AE410220
+[Press {L1}+Left For 1/4 Size]
+patch=1,EE,E002FB7F,extended,004EE342
+[Press {L1}+Left For 1/4 Size]
+patch=1,EE,2030B17C,extended,3C013E80
+[Press {L1}+Left For 1/4 Size]
+patch=1,EE,2030B190,extended,AE410220
+

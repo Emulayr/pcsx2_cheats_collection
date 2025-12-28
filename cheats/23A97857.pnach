@@ -1,0 +1,750 @@
+gametitle=Star Ocean-Till The End Of Time
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0000000E
+[Enable Code (Must Be On)]
+patch=1,EE,E0020C28,extended,10100008
+[Enable Code (Must Be On)]
+patch=1,EE,20100008,extended,70000C28
+[Enable Code (Must Be On)]
+patch=1,EE,2010000C,extended,70001428
+[Enable Code (Must Be On)]
+patch=1,EE,80080800,extended,00010928
+[Enable Code (Must Be On)]
+patch=1,EE,A0080804,extended,00000000
+[P1 Press {L1}+{SELECT} For Low Game Time]
+patch=1,EE,E001FBFE,extended,001B7D5C
+[P1 Press {L1}+{SELECT} For Low Game Time]
+patch=1,EE,201B7D08,extended,00000000
+[Max Fol (View Menu)]
+patch=1,EE,E0088440,extended,002694E0
+[Max Fol (View Menu)]
+patch=1,EE,200C0220,extended,3C017916
+[Max Fol (View Menu)]
+patch=1,EE,200C0224,extended,34212708
+[Max Fol (View Menu)]
+patch=1,EE,200C0228,extended,AE410034
+[Max Fol (View Menu)]
+patch=1,EE,200C022C,extended,03E00008
+[Max Fol (View Menu)]
+patch=1,EE,200C0230,extended,964400A6
+[Max Fol (View Menu)]
+patch=1,EE,20269500,extended,00408021
+[Max Fol (View Menu)]
+patch=1,EE,20269508,extended,A65000A4
+[Max Fol (View Menu)]
+patch=1,EE,202694E8,extended,0C030088
+[Max Battles Fought (View Menu)]
+patch=1,EE,E0098440,extended,002691B0
+[Max Battles Fought (View Menu)]
+patch=1,EE,200C0240,extended,3C017CE2
+[Max Battles Fought (View Menu)]
+patch=1,EE,200C0244,extended,34214168
+[Max Battles Fought (View Menu)]
+patch=1,EE,200C0248,extended,AE210004
+[Max Battles Fought (View Menu)]
+patch=1,EE,200C024C,extended,03E00008
+[Max Battles Fought (View Menu)]
+patch=1,EE,200C0250,extended,922300B2
+[Max Battles Fought (View Menu)]
+patch=1,EE,20269294,extended,00408021
+[Max Battles Fought (View Menu)]
+patch=1,EE,2026929C,extended,A63000B0
+[Max Battles Fought (View Menu)]
+patch=1,EE,20269268,extended,0C030090
+[Max Battles Fought (View Menu)]
+patch=1,EE,20269260,extended,00000000
+[View Menu For Max HP]
+patch=1,EE,E002202D,extended,003F9AD8
+[View Menu For Max HP]
+patch=1,EE,203F9ADC,extended,3C100001
+[View Menu For Max HP]
+patch=1,EE,203F9AE4,extended,3610869F
+[View Menu To Refill HP To Max]
+patch=1,EE,E001082A,extended,003FDE04
+[View Menu To Refill HP To Max]
+patch=1,EE,203FDE08,extended,00000000
+[View Menu For Max MP]
+patch=1,EE,E002282D,extended,003FDEE0
+[View Menu For Max MP]
+patch=1,EE,203FDEE4,extended,3C100001
+[View Menu For Max MP]
+patch=1,EE,203FDEEC,extended,3610869F
+[View Menu To Refill MP To Max]
+patch=1,EE,E001082A,extended,003FDF9C
+[View Menu To Refill MP To Max]
+patch=1,EE,203FDFA0,extended,00000000
+[View Menu For Max ATK]
+patch=1,EE,E001202D,extended,003FE0BC
+[View Menu For Max ATK]
+patch=1,EE,203FE0C0,extended,2410270F
+[View Menu For Max DEF]
+patch=1,EE,E001202D,extended,003FE4C4
+[View Menu For Max DEF]
+patch=1,EE,203FE4C8,extended,2410270F
+[View Menu For Max AGL]
+patch=1,EE,E001202D,extended,003FE874
+[View Menu For Max AGL]
+patch=1,EE,203FE878,extended,2410270F
+[View Menu For Max HIT]
+patch=1,EE,E001202D,extended,003F9F14
+[View Menu For Max HIT]
+patch=1,EE,203F9F18,extended,2410270F
+[View Menu For Max INT]
+patch=1,EE,E001202D,extended,003FABE0
+[View Menu For Max INT]
+patch=1,EE,203FABE4,extended,2416270F
+[All Items Cost 1 Fol]
+patch=1,EE,E0013023,extended,002FA0F8
+[All Items Cost 1 Fol]
+patch=1,EE,202FA120,extended,24030001
+[Use SP Once For Max SP]
+patch=1,EE,E001022A,extended,003563DC
+[Use SP Once For Max SP]
+patch=1,EE,203563DC,extended,00000000
+[Use SP Once For Max SP]
+patch=1,EE,203563F0,extended,2404270F
+[All Party Members Get The Same EXP]
+patch=1,EE,E0011026,extended,002530C0
+[All Party Members Get The Same EXP]
+patch=1,EE,202530E4,extended,00000000
+[Infinite Item Usage]
+patch=1,EE,E0018508,extended,0034D0D0
+[Infinite Item Usage]
+patch=1,EE,2034D0D4,extended,00000000
+[Use Blueberries Item For Full HP Recovery]
+patch=1,EE,E001202D,extended,002E94DC
+[Use Blueberries Item For Full HP Recovery]
+patch=1,EE,202E94F8,extended,00000000
+[Use Ripe Berries Item For Full HP Recovery]
+patch=1,EE,E001202D,extended,002E9BBC
+[Use Ripe Berries Item For Full HP Recovery]
+patch=1,EE,202E9BD8,extended,00000000
+[Use Fresh Sage Item For Full HP Recovery]
+patch=1,EE,E001202D,extended,002EBB94
+[Use Fresh Sage Item For Full HP Recovery]
+patch=1,EE,202EBBB0,extended,00000000
+[Infinite Item Usage (When Inventing Items)]
+patch=1,EE,E0018508,extended,0036C030
+[Infinite Item Usage (When Inventing Items)]
+patch=1,EE,2036C034,extended,00000000
+[Save Anywhere]
+patch=1,EE,E001FFFF,extended,002D1458
+[Save Anywhere]
+patch=1,EE,102D1462,extended,00001000
+[Treasure Boxes Always Displayed On Map]
+patch=1,EE,202D8720,extended,24020002
+[Enemies Always Displayed On Map]
+patch=1,EE,202D8734,extended,24020002
+[Enemies Cant Move On Map]
+patch=1,EE,202D874C,extended,24020002
+[>>> In-Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite Item Usage]
+patch=1,EE,E001882D,extended,00274670
+[Infinite Item Usage]
+patch=1,EE,2027468C,extended,00000000
+[Infinite HP]
+patch=1,EE,E0090B84,extended,00290E10
+[Infinite HP]
+patch=1,EE,200C02A0,extended,AC620010
+[Infinite HP]
+patch=1,EE,200C02A4,extended,AC620018
+[Infinite HP]
+patch=1,EE,200C02A8,extended,080A4387
+[Infinite HP]
+patch=1,EE,200C02AC,extended,8C640010
+[Infinite HP]
+patch=1,EE,10290E36,extended,00001000
+[Infinite HP]
+patch=1,EE,20290E38,extended,AC62008C
+[Infinite HP]
+patch=1,EE,10290ECA,extended,00001000
+[Infinite HP]
+patch=1,EE,20290ECC,extended,AC64008C
+[Infinite HP]
+patch=1,EE,20290E14,extended,080300A8
+[Infinite MP]
+patch=1,EE,E0092826,extended,002057F8
+[Infinite MP]
+patch=1,EE,200C02B0,extended,AD4B001C
+[Infinite MP]
+patch=1,EE,200C02B4,extended,AD4B0024
+[Infinite MP]
+patch=1,EE,200C02B8,extended,08081606
+[Infinite MP]
+patch=1,EE,200C02BC,extended,8D51001C
+[Infinite MP]
+patch=1,EE,10205832,extended,00001000
+[Infinite MP]
+patch=1,EE,20205834,extended,AD4B0090
+[Infinite MP]
+patch=1,EE,102058BA,extended,00001000
+[Infinite MP]
+patch=1,EE,202058BC,extended,AD510090
+[Infinite MP]
+patch=1,EE,20205810,extended,080300AC
+[Infinite MP Usage]
+patch=1,EE,E001082A,extended,0029E864
+[Infinite MP Usage]
+patch=1,EE,2029E868,extended,00000000
+[Infinite Fury Usage]
+patch=1,EE,E0014180,extended,00290568
+[Infinite Fury Usage]
+patch=1,EE,20290578,extended,00000000
+[Always Max Fury]
+patch=1,EE,E0021043,extended,0020595C
+[Always Max Fury]
+patch=1,EE,20205960,extended,3C0144C8
+[Always Max Fury]
+patch=1,EE,20205964,extended,AD410030
+[HP Refills Upon Most Attacks]
+patch=1,EE,E003082A,extended,002796A8
+[HP Refills Upon Most Attacks]
+patch=1,EE,202796AC,extended,00000000
+[HP Refills Upon Most Attacks]
+patch=1,EE,1027A596,extended,00001000
+[HP Refills Upon Most Attacks]
+patch=1,EE,202790D4,extended,00000000
+[Enemies Always Start With Only 1 HP]
+patch=1,EE,E001082A,extended,001E64C8
+[Enemies Always Start With Only 1 HP]
+patch=1,EE,201E6410,extended,00000000
+[Enemies Always Have 0 ATK]
+patch=1,EE,E001100A,extended,001E6B74
+[Enemies Always Have 0 ATK]
+patch=1,EE,201E6B7C,extended,24020000
+[Enemies Always Have 0 DEF]
+patch=1,EE,E001100A,extended,001E6DC4
+[Enemies Always Have 0 DEF]
+patch=1,EE,201E6DCC,extended,24020000
+[Enemies Always Have 0 AGL]
+patch=1,EE,E001100A,extended,001E6F94
+[Enemies Always Have 0 AGL]
+patch=1,EE,201E6F9C,extended,24020000
+[Enemies Always Have 0 HIT]
+patch=1,EE,E001100A,extended,001E71BC
+[Enemies Always Have 0 HIT]
+patch=1,EE,201E71C4,extended,24020000
+[Enemies Always Have 0 INT]
+patch=1,EE,E001100A,extended,001E73E4
+[Enemies Always Have 0 INT]
+patch=1,EE,201E73EC,extended,24020000
+[>>> After Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Enemy Almost Always Drops Item]
+patch=1,EE,E001082B,extended,00252D54
+[Enemy Almost Always Drops Item]
+patch=1,EE,20252D58,extended,00000000
+[Max CP Upon 1 Level Up]
+patch=1,EE,E001380A,extended,00401710
+[Max CP Upon 1 Level Up]
+patch=1,EE,20401714,extended,24070063
+[Max ATK Upon 1 Level Up]
+patch=1,EE,E001180A,extended,00401BF4
+[Max ATK Upon 1 Level Up]
+patch=1,EE,20401BFC,extended,2403270F
+[Max DEF Upon 1 Level Up]
+patch=1,EE,E001180A,extended,004021BC
+[Max DEF Upon 1 Level Up]
+patch=1,EE,204021C4,extended,2403270F
+[Max AGL Upon 1 Level Up]
+patch=1,EE,E001180A,extended,0040254C
+[Max AGL Upon 1 Level Up]
+patch=1,EE,20402554,extended,2403270F
+[Max HIT Upon 1 Level Up]
+patch=1,EE,E001180A,extended,00401FBC
+[Max HIT Upon 1 Level Up]
+patch=1,EE,20401FC4,extended,2403270F
+[Max INT Upon 1 Level Up]
+patch=1,EE,E001180A,extended,00401DD4
+[Max INT Upon 1 Level Up]
+patch=1,EE,20401DDC,extended,2403270F
+[>>> Fol Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gain 1000 Fol Per Battle]
+patch=1,EE,E0013023,extended,00253480
+[Gain 1000 Fol Per Battle]
+patch=1,EE,2025348C,extended,341203E8
+[Gain 10000 Fol Per Battle]
+patch=1,EE,E0013023,extended,00253480
+[Gain 10000 Fol Per Battle]
+patch=1,EE,2025348C,extended,34122710
+[Gain 25000 Fol Per Battle]
+patch=1,EE,E0013023,extended,00253480
+[Gain 25000 Fol Per Battle]
+patch=1,EE,2025348C,extended,341261A8
+[Gain 50000 Fol Per Battle]
+patch=1,EE,E0013023,extended,00253480
+[Gain 50000 Fol Per Battle]
+patch=1,EE,2025348C,extended,3412C350
+[Gain 65535 Fol Per Battle]
+patch=1,EE,E0013023,extended,00253480
+[Gain 65535 Fol Per Battle]
+patch=1,EE,2025348C,extended,3412FFFF
+[Fol Gained Per Battle x1/4]
+patch=1,EE,E0013023,extended,00253480
+[Fol Gained Per Battle x1/4]
+patch=1,EE,2025348C,extended,00129082
+[Fol Gained Per Battle x1/2]
+patch=1,EE,E0013023,extended,00253480
+[Fol Gained Per Battle x1/2]
+patch=1,EE,2025348C,extended,00129042
+[Fol Gained Per Battle x2]
+patch=1,EE,E0013023,extended,00253480
+[Fol Gained Per Battle x2]
+patch=1,EE,2025348C,extended,00129040
+[Fol Gained Per Battle x4]
+patch=1,EE,E0013023,extended,00253480
+[Fol Gained Per Battle x4]
+patch=1,EE,2025348C,extended,00129080
+[Fol Gained Per Battle x8]
+patch=1,EE,E0013023,extended,00253480
+[Fol Gained Per Battle x8]
+patch=1,EE,2025348C,extended,001290C0
+[Fol Gained Per Battle x16]
+patch=1,EE,E0013023,extended,00253480
+[Fol Gained Per Battle x16]
+patch=1,EE,2025348C,extended,00129100
+[Fol Gained Per Battle x32]
+patch=1,EE,E0013023,extended,00253480
+[Fol Gained Per Battle x32]
+patch=1,EE,2025348C,extended,00129140
+[Max Fol Gained After 1 Battle]
+patch=1,EE,E0013023,extended,00253480
+[Max Fol Gained After 1 Battle]
+patch=1,EE,2025348C,extended,3C124000
+[>>> EXP Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gain 1000 EXP Per Battle]
+patch=1,EE,E0011026,extended,002530C0
+[Gain 1000 EXP Per Battle]
+patch=1,EE,202530D4,extended,341203E8
+[Gain 10000 EXP Per Battle]
+patch=1,EE,E0011026,extended,002530C0
+[Gain 10000 EXP Per Battle]
+patch=1,EE,202530D4,extended,34122710
+[Gain 25000 EXP Per Battle]
+patch=1,EE,E0011026,extended,002530C0
+[Gain 25000 EXP Per Battle]
+patch=1,EE,202530D4,extended,341261A8
+[Gain 50000 EXP Per Battle]
+patch=1,EE,E0011026,extended,002530C0
+[Gain 50000 EXP Per Battle]
+patch=1,EE,202530D4,extended,3412C350
+[Gain 65535 EXP Per Battle]
+patch=1,EE,E0011026,extended,002530C0
+[Gain 65535 EXP Per Battle]
+patch=1,EE,202530D4,extended,3412FFFF
+[EXP Gained Per Battle x1/4]
+patch=1,EE,E0011026,extended,002530C0
+[EXP Gained Per Battle x1/4]
+patch=1,EE,202530D4,extended,00129082
+[EXP Gained Per Battle x1/2]
+patch=1,EE,E0011026,extended,002530C0
+[EXP Gained Per Battle x1/2]
+patch=1,EE,202530D4,extended,00129042
+[EXP Gained Per Battle x2]
+patch=1,EE,E0011026,extended,002530C0
+[EXP Gained Per Battle x2]
+patch=1,EE,202530D4,extended,00129040
+[EXP Gained Per Battle x4]
+patch=1,EE,E0011026,extended,002530C0
+[EXP Gained Per Battle x4]
+patch=1,EE,202530D4,extended,00129080
+[EXP Gained Per Battle x8]
+patch=1,EE,E0011026,extended,002530C0
+[EXP Gained Per Battle x8]
+patch=1,EE,202530D4,extended,001290C0
+[EXP Gained Per Battle x16]
+patch=1,EE,E0011026,extended,002530C0
+[EXP Gained Per Battle x16]
+patch=1,EE,202530D4,extended,00129100
+[EXP Gained Per Battle x32]
+patch=1,EE,E0011026,extended,002530C0
+[EXP Gained Per Battle x32]
+patch=1,EE,202530D4,extended,00129140
+[Max EXP Gained After 1 Battle]
+patch=1,EE,E0011026,extended,002530C0
+[Max EXP Gained After 1 Battle]
+patch=1,EE,202530D4,extended,3C12009A
+[Enemy Almost Always Drops Item]
+patch=1,EE,E001082B,extended,00252D54
+[Enemy Almost Always Drops Item]
+patch=1,EE,20252D58,extended,00000000
+[>>> Upon Level Up-Max HP Increased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gain 250 Max HP]
+patch=1,EE,E0011021,extended,00400A70
+[Gain 250 Max HP]
+patch=1,EE,20400A9C,extended,341500FA
+[Gain 500 Max HP]
+patch=1,EE,E0011021,extended,00400A70
+[Gain 500 Max HP]
+patch=1,EE,20400A9C,extended,341501F4
+[Gain 1000 Max HP]
+patch=1,EE,E0011021,extended,00400A70
+[Gain 1000 Max HP]
+patch=1,EE,20400A9C,extended,341503E8
+[Gain 5000 Max HP]
+patch=1,EE,E0011021,extended,00400A70
+[Gain 5000 Max HP]
+patch=1,EE,20400A9C,extended,34151388
+[Max HP Gained x1/4]
+patch=1,EE,E0011021,extended,00400A70
+[Max HP Gained x1/4]
+patch=1,EE,20400A9C,extended,0015A883
+[Max HP Gained x1/2]
+patch=1,EE,E0011021,extended,00400A70
+[Max HP Gained x1/2]
+patch=1,EE,20400A9C,extended,0015A843
+[Max HP Gained x2]
+patch=1,EE,E0011021,extended,00400A70
+[Max HP Gained x2]
+patch=1,EE,20400A9C,extended,0015A840
+[Max HP Gained x4]
+patch=1,EE,E0011021,extended,00400A70
+[Max HP Gained x4]
+patch=1,EE,20400A9C,extended,0015A880
+[Max HP Gained x8]
+patch=1,EE,E0011021,extended,00400A70
+[Max HP Gained x8]
+patch=1,EE,20400A9C,extended,0015A8C0
+[Max HP Gained x16]
+patch=1,EE,E0011021,extended,00400A70
+[Max HP Gained x16]
+patch=1,EE,20400A9C,extended,0015A900
+[Max HP Gained x32]
+patch=1,EE,E0011021,extended,00400A70
+[Max HP Gained x32]
+patch=1,EE,20400A9C,extended,0015A900
+[Maximum Max HP After 1 Level Up]
+patch=1,EE,E0011021,extended,00400A70
+[Maximum Max HP After 1 Level Up]
+patch=1,EE,20400A9C,extended,3C150002
+[>>> Upon Level Up-Max MP Increased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gain 250 Max MP]
+patch=1,EE,E0011021,extended,0040108C
+[Gain 250 Max MP]
+patch=1,EE,204010BC,extended,341500FA
+[Gain 500 Max MP]
+patch=1,EE,E0011021,extended,0040108C
+[Gain 500 Max MP]
+patch=1,EE,204010BC,extended,341501F4
+[Gain 1000 Max MP]
+patch=1,EE,E0011021,extended,0040108C
+[Gain 1000 Max MP]
+patch=1,EE,204010BC,extended,341503E8
+[Gain 5000 Max MP]
+patch=1,EE,E0011021,extended,0040108C
+[Gain 5000 Max MP]
+patch=1,EE,204010BC,extended,34151388
+[Max MP Gained x1/4]
+patch=1,EE,E0011021,extended,0040108C
+[Max MP Gained x1/4]
+patch=1,EE,204010BC,extended,0015A883
+[Max MP Gained x1/2]
+patch=1,EE,E0011021,extended,0040108C
+[Max MP Gained x1/2]
+patch=1,EE,204010BC,extended,0015A843
+[Max MP Gained x2]
+patch=1,EE,E0011021,extended,0040108C
+[Max MP Gained x2]
+patch=1,EE,204010BC,extended,0015A840
+[Max MP Gained x4]
+patch=1,EE,E0011021,extended,0040108C
+[Max MP Gained x4]
+patch=1,EE,204010BC,extended,0015A880
+[Max MP Gained x8]
+patch=1,EE,E0011021,extended,0040108C
+[Max MP Gained x8]
+patch=1,EE,204010BC,extended,0015A8C0
+[Max MP Gained x16]
+patch=1,EE,E0011021,extended,0040108C
+[Max MP Gained x16]
+patch=1,EE,204010BC,extended,0015A900
+[Max MP Gained x32]
+patch=1,EE,E0011021,extended,0040108C
+[Max MP Gained x32]
+patch=1,EE,204010BC,extended,0015A900
+[Maximum Max MP After 1 Level Up]
+patch=1,EE,E0011021,extended,0040108C
+[Maximum Max MP After 1 Level Up]
+patch=1,EE,204010BC,extended,3C150002
+[>>> Upon Level Up-SP Increased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gain 250 SP]
+patch=1,EE,E0029821,extended,004014F4
+[Gain 250 SP]
+patch=1,EE,20401564,extended,341300FA
+[Gain 100 SP]
+patch=1,EE,E0029821,extended,004014F4
+[Gain 100 SP]
+patch=1,EE,20401564,extended,34130064
+[Gain 500 SP]
+patch=1,EE,E0029821,extended,004014F4
+[Gain 500 SP]
+patch=1,EE,20401564,extended,341301F4
+[Gain 1000 SP]
+patch=1,EE,E0029821,extended,004014F4
+[Gain 1000 SP]
+patch=1,EE,20401564,extended,341303E8
+[SP Gained x1/4]
+patch=1,EE,E0029821,extended,004014F4
+[SP Gained x1/4]
+patch=1,EE,20401564,extended,00139882
+[SP Gained x1/2]
+patch=1,EE,E0029821,extended,004014F4
+[SP Gained x1/2]
+patch=1,EE,20401564,extended,00139842
+[SP Gained x2]
+patch=1,EE,E0029821,extended,004014F4
+[SP Gained x2]
+patch=1,EE,20401564,extended,00139840
+[SP Gained x4]
+patch=1,EE,E0029821,extended,004014F4
+[SP Gained x4]
+patch=1,EE,20401564,extended,00139880
+[Max SP Gained x8]
+patch=1,EE,E0029821,extended,004014F4
+[Max SP Gained x8]
+patch=1,EE,20401564,extended,001398C0
+[SP Gained x16]
+patch=1,EE,E0029821,extended,004014F4
+[SP Gained x16]
+patch=1,EE,20401564,extended,00139900
+[SP Gained x32]
+patch=1,EE,E0029821,extended,004014F4
+[SP Gained x32]
+patch=1,EE,20401564,extended,00139940
+[Max SP After 1 Level Up]
+patch=1,EE,E0029821,extended,004014F4
+[Max SP After 1 Level Up]
+patch=1,EE,20401564,extended,3413270F
+[>>> Inventor Codes (Not Saveable) <<<]
+patch=1,EE,00000000,extended,00000000
+[Fol Doesnt Decrease When Making Items]
+patch=1,EE,202FB7E8,extended,00000000
+[Fol Doesnt Decrease When Making Items]
+patch=1,EE,2040BEEC,extended,00000000
+[>>> Fayt Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501E50,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501E51,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501E52,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501E53,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501E54,extended,000000FF
+[Max Writing]
+patch=1,EE,00501E55,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501E56,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501E57,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501E5B,extended,000000FF
+[Time -104%]
+patch=1,EE,00501E5C,extended,000000FF
+[>>> Sophia Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501E5D,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501E5E,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501E5F,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501E60,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501E61,extended,000000FF
+[Max Writing]
+patch=1,EE,00501E62,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501E63,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501E64,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501E68,extended,000000FF
+[Time -104%]
+patch=1,EE,00501E69,extended,000000FF
+[>>> Maria Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501E6A,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501E6B,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501E6C,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501E6D,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501E6E,extended,000000FF
+[Max Writing]
+patch=1,EE,00501E6F,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501E70,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501E71,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501E75,extended,000000FF
+[Time -104%]
+patch=1,EE,00501E76,extended,000000FF
+[>>> Cliff Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501E77,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501E78,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501E79,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501E7A,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501E7B,extended,000000FF
+[Max Writing]
+patch=1,EE,00501E7C,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501E7D,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501E7E,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501E82,extended,000000FF
+[Time -104%]
+patch=1,EE,00501E83,extended,000000FF
+[>>> Nel Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501E84,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501E85,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501E86,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501E87,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501E88,extended,000000FF
+[Max Writing]
+patch=1,EE,00501E89,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501E8A,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501E8B,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501E8F,extended,000000FF
+[Time -104%]
+patch=1,EE,00501E90,extended,000000FF
+[>>> Albel Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501E91,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501E92,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501E93,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501E94,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501E95,extended,000000FF
+[Max Writing]
+patch=1,EE,00501E96,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501E97,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501E98,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501E9C,extended,000000FF
+[Time -104%]
+patch=1,EE,00501E9D,extended,000000FF
+[>>> Roger Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501E9E,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501E9F,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501EA0,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501EA1,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501EA2,extended,000000FF
+[Max Writing]
+patch=1,EE,00501EA3,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501EA4,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501EA5,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501EA9,extended,000000FF
+[Time -104%]
+patch=1,EE,00501EAA,extended,000000FF
+[>>> Peppita Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501EAB,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501EAC,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501EAD,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501EAE,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501EAF,extended,000000FF
+[Max Writing]
+patch=1,EE,00501EB0,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501EB1,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501EB2,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501EB6,extended,000000FF
+[Time -104%]
+patch=1,EE,00501EB7,extended,000000FF
+[>>> Adray Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501EB8,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501EB9,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501EBA,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501EBB,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501EBC,extended,000000FF
+[Max Writing]
+patch=1,EE,00501EBD,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501EBE,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501EBF,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501EC3,extended,000000FF
+[Time -104%]
+patch=1,EE,00501EC4,extended,000000FF
+[>>> Mirage Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Cooking]
+patch=1,EE,00501EC5,extended,000000FF
+[Max Alchemy]
+patch=1,EE,00501EC6,extended,000000FF
+[Max Crafting]
+patch=1,EE,00501EC7,extended,000000FF
+[Max Compounding]
+patch=1,EE,00501EC8,extended,000000FF
+[Max Smithery]
+patch=1,EE,00501EC9,extended,000000FF
+[Max Writing]
+patch=1,EE,00501ECA,extended,000000FF
+[Max Engineering]
+patch=1,EE,00501ECB,extended,000000FF
+[Max Synthesis]
+patch=1,EE,00501ECC,extended,000000FF
+[Cost -104%]
+patch=1,EE,00501ED0,extended,000000FF
+[Time -104%]
+patch=1,EE,00501ED1,extended,000000FF
+

@@ -1,0 +1,40 @@
+gametitle=[SLUS-20111] Deus Ex-The Conspiracy
+[Enable Code (Must Be On)]
+patch=1,EE,903210F4,extended,0C0CAFE8
+[Infinite Skill Points]
+patch=1,EE,201355B4,extended,2404270F
+[Infinite Skill Points]
+patch=1,EE,201355BC,extended,AE04FFFC
+[Infinite Skill Points]
+patch=1,EE,201355C0,extended,AE040000
+[Infinite Oxygen]
+patch=1,EE,201341A0,extended,00000000
+[Infinite Ammo]
+patch=1,EE,201355C0,extended,00000000
+[Display Global Info]
+patch=1,EE,202CCEC0,extended,00000000
+[Display Harwar Info]
+patch=1,EE,202CD19C,extended,00000000
+[Display Mesh Info]
+patch=1,EE,202CD218,extended,00000000
+[Display Zones Info]
+patch=1,EE,202CD398,extended,00000000
+[Display Occlusion Info]
+patch=1,EE,202CD3E8,extended,00000000
+[Display Game Info]
+patch=1,EE,202CD5C8,extended,00000000
+[Display Cache Info]
+patch=1,EE,202CD630,extended,00000000
+[Display Eari Info]
+patch=1,EE,202CD68C,extended,00000000
+[Display Eari Details Info]
+patch=1,EE,202CD728,extended,00000000
+[Display Name Table Info]
+patch=1,EE,202CD9EC,extended,00000000
+[Display PSX2 Memory Info]
+patch=1,EE,202CDD10,extended,00000000
+[Display SPU2 Sound (Memory) Info]
+patch=1,EE,202CDE58,extended,00000000
+[Display Debug Down]
+patch=1,EE,202CCD80,extended,00000000
+

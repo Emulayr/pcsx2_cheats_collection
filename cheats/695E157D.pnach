@@ -1,0 +1,8 @@
+gametitle=Let's Ride!-Silver Buckle Stables
+[Enable Code (Must Be On)]
+patch=1,EE,902CE534,extended,0C0B7A33
+[Always Low Time]
+patch=1,EE,20113D44,extended,FE000010
+[Infinite Grooming Time]
+patch=1,EE,201D67E4,extended,00000000
+

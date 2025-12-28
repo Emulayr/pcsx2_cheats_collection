@@ -1,0 +1,66 @@
+gametitle=Fairly Odd Parents!-Breakin' Da Rules
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,00454EB7
+[Infinite Lives]
+patch=1,EE,200C0230,extended,8E0401F4
+[Infinite Lives]
+patch=1,EE,200C0234,extended,24010009
+[Infinite Lives]
+patch=1,EE,200C0238,extended,03E00008
+[Infinite Lives]
+patch=1,EE,200C023C,extended,ACA10000
+[Infinite Lives]
+patch=1,EE,201BD6FC,extended,0C03008C
+[Infinite Lives (Alternate)]
+patch=1,EE,2078C64C,extended,00000009
+[Max Crowns]
+patch=1,EE,2078CB60,extended,00000063
+[Max Crimson Chin Cards]
+patch=1,EE,2078CB74,extended,00000063
+[Max Wish Stars]
+patch=1,EE,2078CBB8,extended,00000063
+[Max Crowns/Crimson Chin Cards/Wish Stars]
+patch=1,EE,200C0220,extended,8E0201F0
+[Max Crowns/Crimson Chin Cards/Wish Stars]
+patch=1,EE,200C0224,extended,24010063
+[Max Crowns/Crimson Chin Cards/Wish Stars]
+patch=1,EE,200C0228,extended,03E00008
+[Max Crowns/Crimson Chin Cards/Wish Stars]
+patch=1,EE,200C022C,extended,AC410000
+[Max Crowns/Crimson Chin Cards/Wish Stars]
+patch=1,EE,201BCC40,extended,0C030088
+[Crowns Worth 10]
+patch=1,EE,102D79E0,extended,0000000A
+[Crowns Worth 5]
+patch=1,EE,102D79E0,extended,00000005
+[Crowns Worth 2]
+patch=1,EE,102D79E0,extended,00000002
+[Get An Extra Life Every Crown]
+patch=1,EE,202D79F8,extended,00000000
+[Wish Stars Worth 5]
+patch=1,EE,102D7B18,extended,00000005
+[Wish Stars Worth 5]
+patch=1,EE,102D7B1C,extended,00000005
+[Wish Stars Worth 2]
+patch=1,EE,102D7B18,extended,00000002
+[Wish Stars Worth 2]
+patch=1,EE,102D7B1C,extended,00000002
+[Press {CROSS} For Moon Jump]
+patch=1,EE,E002BFFF,extended,00566C82
+[Press {CROSS} For Moon Jump]
+patch=1,EE,20221D7C,extended,3C0141C0
+[Press {CROSS} For Moon Jump]
+patch=1,EE,20221D8C,extended,44810800
+[Press {CROSS} For Moon Jump]
+patch=1,EE,E002BFFF,extended,00566C82
+[Press {CROSS} For Moon Jump]
+patch=1,EE,20221D7C,extended,460C1042
+[Press {CROSS} For Moon Jump]
+patch=1,EE,20221D8C,extended,46000840
+[Can Play Any Bonus]
+patch=1,EE,2010BB8C,extended,00000000
+[Unlock All Bonus Movies]
+patch=1,EE,204916A8,extended,00000021
+[Unlock All Bonus Movies]
+patch=1,EE,20537A48,extended,00000021
+

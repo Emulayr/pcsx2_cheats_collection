@@ -1,0 +1,36 @@
+gametitle=Jimmy Neutron-Attack Of The Twonkies
+[Enable Code (Must Be On)]
+patch=1,EE,90123510,extended,0C04A6BA
+[Equipping Gadgets Doesnt Decrease Battery]
+patch=1,EE,201E5090,extended,00000000
+[Equipping Gadgets Doesnt Decrease Battery]
+patch=1,EE,201E50AC,extended,00000000
+[P1 Press {L1}+{SELECT} For Infinite Shoes Gadget Usage]
+patch=1,EE,D048B802,extended,0000FBFE
+[P1 Press {L1}+{SELECT} For Infinite Shoes Gadget Usage]
+patch=1,EE,2016FDC8,extended,00000000
+[P1 Press {L2}+{SELECT} For Normal Shoes Gadget Usage]
+patch=1,EE,D048B802,extended,0000FEFE
+[P1 Press {L2}+{SELECT} For Normal Shoes Gadget Usage]
+patch=1,EE,2016FDC8,extended,E6010A18
+[Infinite Health/Ship Health (When Flying It)]
+patch=1,EE,201E4FF8,extended,00000000
+[Infinite Health/Ship Health (When Flying It)]
+patch=1,EE,201E500C,extended,00000000
+[Infinite Ship Health From Bosses]
+patch=1,EE,202BADF0,extended,00000000
+[Infinite Ship Health From Bosses]
+patch=1,EE,202BAE40,extended,00000000
+[Infinite Ship Health From Bosses]
+patch=1,EE,202BAE88,extended,00000000
+[View Report Card For Max Stats On Completed Levels]
+patch=1,EE,202B39EC,extended,3C0205F5
+[View Report Card For Max Stats On Completed Levels]
+patch=1,EE,202B3A84,extended,3442E0FF
+[View Report Card For Max Stats On Completed Levels]
+patch=1,EE,202B3A88,extended,AE02000C
+[Quick Stats Gain]
+patch=1,EE,202B3174,extended,2463270F
+[Quick Genius Points Gain]
+patch=1,EE,202B3190,extended,2463270F
+

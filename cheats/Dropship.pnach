@@ -1,0 +1,10 @@
+gametitle=Dropship
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0010921F
+[Infinite Health]
+patch=1,EE,01E4EDB7,extended,00000001
+[Infinite Ammo]
+patch=1,EE,01E4EDB8,extended,00000001
+[Unlock All Missions]
+patch=1,EE,01E4EEB0,extended,00000001
+

@@ -1,0 +1,14 @@
+gametitle=Big Idea's Veggie Tales-Larry Boy And The Bad Apple
+[Enable Code (Must Be On)]
+patch=1,EE,90305534,extended,0C0B54FF
+[Infinite Health]
+patch=1,EE,200C0220,extended,3C013F80
+[Infinite Health]
+patch=1,EE,200C0224,extended,080544E4
+[Infinite Health]
+patch=1,EE,200C0228,extended,AC410270
+[Infinite Health]
+patch=1,EE,201421CC,extended,0C030088
+[Infinite Power Drencher]
+patch=1,EE,201C1354,extended,00000000
+

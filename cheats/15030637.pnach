@@ -1,0 +1,1084 @@
+gametitle=Gauntlet Dark Legacy
+[Enable Code (Must Be On)]
+patch=1,EE,901E3D04,extended,0C07EA8D
+[P1 Infinite Health]
+patch=1,EE,10222F62,extended,0000461C
+[P1 Infinite Keys]
+patch=1,EE,00222F64,extended,00000009
+[P1 Infinite Potions]
+patch=1,EE,00222F68,extended,00000009
+[P1 Infinite Gold]
+patch=1,EE,10222F70,extended,0000270F
+[P1 Infinite Special]
+patch=1,EE,10221D52,extended,000042C8
+[P1 Level 99]
+patch=1,EE,10224010,extended,00000063
+[P1 Have All Characters]
+patch=1,EE,10221EF8,extended,0000FFFF
+[P2 Infinite Health]
+patch=1,EE,10225A62,extended,0000461C
+[P2 Infinite Keys]
+patch=1,EE,00225A64,extended,00000009
+[P2 Infinite Potions]
+patch=1,EE,00225A68,extended,00000009
+[P2 Infinite Gold]
+patch=1,EE,10225A70,extended,0000270F
+[P2 Infinite Special]
+patch=1,EE,10224852,extended,000042C8
+[P2 Level 99]
+patch=1,EE,10226B10,extended,00000063
+[P2 Have All Characters]
+patch=1,EE,102249F8,extended,0000FFFF
+[P3 Infinite Health]
+patch=1,EE,10228562,extended,0000461C
+[P3 Infinite Keys]
+patch=1,EE,00228564,extended,00000009
+[P3 Infinite Potions]
+patch=1,EE,00228568,extended,00000009
+[P3 Infinite Gold]
+patch=1,EE,10228570,extended,0000270F
+[P3 Infinite Special]
+patch=1,EE,10227352,extended,000042C8
+[P3 Level 99]
+patch=1,EE,10229610,extended,00000063
+[P3 Have All Characters]
+patch=1,EE,102274F8,extended,0000FFFF
+[P4 Infinite Health]
+patch=1,EE,1022B062,extended,0000461C
+[P4 Infinite Keys]
+patch=1,EE,0022B064,extended,00000009
+[P4 Infinite Potions]
+patch=1,EE,0022B068,extended,00000009
+[P4 Infinite Gold]
+patch=1,EE,1022B070,extended,0000270F
+[P4 Infinite Special]
+patch=1,EE,10229E52,extended,000042C8
+[P4 Level 99]
+patch=1,EE,1022C110,extended,00000063
+[P4 Have All Characters]
+patch=1,EE,10229FF8,extended,0000FFFF
+[>>> P1 Warrior Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222244,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222254,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222258,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022225C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222260,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222264,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222268 FFFFFFFF
+[>>> P1 Valkyrie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102222F8,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222308,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022230C,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222310,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222314,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222318,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022231C FFFFFFFF
+[>>> P1 Wizard Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102223AC,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202223BC,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102223C0,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202223C4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202223C8,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202223CC,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202223D0 FFFFFFFF
+[>>> P1 Archer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222460,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222470,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222474,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222478,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022247C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222480,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222484 FFFFFFFF
+[>>> P1 Dwarf Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222514,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222524,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222528,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022252C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222530,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222534,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222538 FFFFFFFF
+[>>> P1 Knight Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102225C8,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202225D8,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102225DC,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202225E0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202225E4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202225E8,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202225EC FFFFFFFF
+[>>> P1 Sorceress Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022267C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022268C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222690,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222694,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222698,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022269C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202226A0 FFFFFFFF
+[>>> P1 Jester Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222730,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222740,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222744,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222748,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022274C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222750,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222754 FFFFFFFF
+[>>> P1 Minotaur Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102227E4,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202227F4,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102227F8,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202227FC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222800,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222804,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222808 FFFFFFFF
+[>>> P1 Falconess Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222898,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202228A8,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102228AC,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202228B0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202228B4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202228B8,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202228BC FFFFFFFF
+[>>> P1 Jackal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022294C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022295C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222960,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222964,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222968,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022296C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222970 FFFFFFFF
+[>>> P1 Tigress Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222A00,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222A10,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222A14,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222A18,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222A1C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222A20,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222A24 FFFFFFFF
+[>>> P1 Ogre Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222AB4,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222AC4,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222AC8,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222ACC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222AD0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222AD4,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222AD8 FFFFFFFF
+[>>> P1 Unicorn Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222B68,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222B78,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222B7C,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222B80,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222B84,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222B88,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222B8C FFFFFFFF
+[>>> P1 Medusa Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222C1C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222C2C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222C30,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222C34,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222C38,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222C3C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222C40 FFFFFFFF
+[>>> P1 Hyena Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10222CD0,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20222CE0,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10222CE4,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20222CE8,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222CEC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20222CF0,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20222CF4 FFFFFFFF
+[>>> P2 Warrior Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10224D44,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20224D54,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10224D58,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20224D5C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20224D60,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20224D64,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20224D68 FFFFFFFF
+[>>> P2 Valkyrie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10224DF8,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20224E08,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10224E0C,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20224E10,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20224E14,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20224E18,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20224E1C FFFFFFFF
+[>>> P2 Wizard Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10224EAC,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20224EBC,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10224EC0,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20224EC4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20224EC8,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20224ECC,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20224ED0 FFFFFFFF
+[>>> P2 Archer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10224F60,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20224F70,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10224F74,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20224F78,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20224F7C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20224F80,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20224F84 FFFFFFFF
+[>>> P2 Dwarf Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10225014,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20225024,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10225028,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022502C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225030,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225034,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20225038 FFFFFFFF
+[>>> P2 Knight Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102250C8,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202250D8,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102250DC,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202250E0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202250E4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202250E8,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202250EC FFFFFFFF
+[>>> P2 Sorceress Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022517C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022518C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10225190,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20225194,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225198,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022519C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202251A0 FFFFFFFF
+[>>> P2 Jester Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10225230,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20225240,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10225244,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20225248,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022524C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225250,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20225254 FFFFFFFF
+[>>> P2 Minotaur Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102252E4,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202252F4,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102252F8,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202252FC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225300,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225304,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20225308 FFFFFFFF
+[>>> P2 Falconess Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10225398,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202253A8,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102253AC,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202253B0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202253B4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202253B8,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202253BC FFFFFFFF
+[>>> P2 Jackal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022544C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022545C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10225460,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20225464,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225468,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022546C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20225470 FFFFFFFF
+[>>> P2 Tigress Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10225500,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20225510,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10225514,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20225518,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022551C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225520,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20225524 FFFFFFFF
+[>>> P2 Ogre Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102255B4,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202255C4,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102255C8,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202255CC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202255D0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202255D4,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202255D8 FFFFFFFF
+[>>> P2 Unicorn Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10225668,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20225678,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022567C,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20225680,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225684,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225688,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022568C FFFFFFFF
+[>>> P2 Medusa Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022571C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022572C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10225730,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20225734,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20225738,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022573C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20225740 FFFFFFFF
+[>>> P2 Hyena Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102257D0,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202257E0,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102257E4,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202257E8,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202257EC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202257F0,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202257F4 FFFFFFFF
+[>>> P3 Warrior Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227844,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227854,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227858,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022785C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227860,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227864,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227868 FFFFFFFF
+[>>> P3 Valkyrie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102278F8,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227908,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022790C,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227910,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227914,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227918,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022791C FFFFFFFF
+[>>> P3 Wizard Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102279AC,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202279BC,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102279C0,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202279C4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202279C8,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202279CC,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202279D0 FFFFFFFF
+[>>> P3 Archer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227A60,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227A70,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227A74,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227A78,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227A7C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227A80,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227A84 FFFFFFFF
+[>>> P3 Dwarf Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227B14,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227B24,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227B28,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227B2C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227B30,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227B34,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227B38 FFFFFFFF
+[>>> P3 Knight Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227BC8,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227BD8,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227BDC,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227BE0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227BE4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227BE8,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227BEC FFFFFFFF
+[>>> P3 Sorceress Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227C7C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227C8C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227C90,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227C94,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227C98,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227C9C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227CA0 FFFFFFFF
+[>>> P3 Jester Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227D30,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227D40,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227D44,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227D48,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227D4C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227D50,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227D54 FFFFFFFF
+[>>> P3 Minotaur Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227DE4,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227DF4,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227DF8,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227DFC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227E00,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227E04,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227E08 FFFFFFFF
+[>>> P3 Falconess Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227E98,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227EA8,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227EAC,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227EB0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227EB4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227EB8,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227EBC FFFFFFFF
+[>>> P3 Jackal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10227F4C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20227F5C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10227F60,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20227F64,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227F68,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20227F6C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20227F70 FFFFFFFF
+[>>> P3 Tigress Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10228000,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20228010,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10228014,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20228018,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022801C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20228020,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20228024 FFFFFFFF
+[>>> P3 Ogre Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102280B4,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202280C4,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102280C8,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202280CC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202280D0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202280D4,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202280D8 FFFFFFFF
+[>>> P3 Unicorn Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,10228168,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,20228178,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022817C,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20228180,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20228184,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20228188,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022818C FFFFFFFF
+[>>> P3 Medusa Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022821C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022822C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,10228230,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,20228234,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,20228238,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022823C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "20228240 FFFFFFFF
+[>>> P3 Hyena Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,102282D0,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,202282E0,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,102282E4,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,202282E8,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202282EC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,202282F0,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "202282F4 FFFFFFFF
+[>>> P4 Warrior Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A344,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A354,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A358,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A35C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A360,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A364,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A368 FFFFFFFF
+[>>> P4 Valkyrie Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A3F8,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A408,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A40C,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A410,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A414,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A418,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A41C FFFFFFFF
+[>>> P4 Wizard Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A4AC,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A4BC,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A4C0,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A4C4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A4C8,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A4CC,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A4D0 FFFFFFFF
+[>>> P4 Archer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A560,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A570,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A574,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A578,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A57C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A580,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A584 FFFFFFFF
+[>>> P4 Dwarf Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A614,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A624,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A628,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A62C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A630,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A634,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A638 FFFFFFFF
+[>>> P4 Knight Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A6C8,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A6D8,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A6DC,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A6E0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A6E4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A6E8,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A6EC FFFFFFFF
+[>>> P4 Sorceress Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A77C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A78C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A790,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A794,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A798,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A79C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A7A0 FFFFFFFF
+[>>> P4 Jester Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A830,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A840,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A844,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A848,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A84C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A850,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A854 FFFFFFFF
+[>>> P4 Minotaur Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A8E4,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A8F4,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A8F8,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A8FC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A900,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A904,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A908 FFFFFFFF
+[>>> P4 Falconess Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022A998,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022A9A8,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022A9AC,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022A9B0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A9B4,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022A9B8,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022A9BC FFFFFFFF
+[>>> P4 Jackal Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022AA4C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022AA5C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022AA60,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022AA64,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022AA68,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022AA6C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022AA70 FFFFFFFF
+[>>> P4 Tigress Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022AB00,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022AB10,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022AB14,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022AB18,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022AB1C,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022AB20,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022AB24 FFFFFFFF
+[>>> P4 Ogre Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022ABB4,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022ABC4,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022ABC8,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022ABCC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022ABD0,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022ABD4,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022ABD8 FFFFFFFF
+[>>> P4 Unicorn Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022AC68,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022AC78,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022AC7C,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022AC80,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022AC84,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022AC88,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022AC8C FFFFFFFF
+[>>> P4 Medusa Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022AD1C,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022AD2C,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022AD30,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022AD34,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022AD38,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022AD3C,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022AD40 FFFFFFFF
+[>>> P4 Hyena Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have All Legend Items]
+patch=1,EE,1022ADD0,extended,0000FFFF
+[Have All Golden Items]
+patch=1,EE,2022ADE0,extended,FFFFFFFF
+[Have All Golden Items]
+patch=1,EE,1022ADE4,extended,0000FFFF
+[Have All Crystals]
+patch=1,EE,2022ADE8,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022ADEC,extended,FFFFFFFF
+[Have All Crystals]
+patch=1,EE,2022ADF0,extended,FFFFFFFF
+[Have All Crystals]
+cheat0_code = "2022ADF4 FFFFFFFF
+

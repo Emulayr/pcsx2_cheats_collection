@@ -1,0 +1,276 @@
+gametitle=Mike Tyson's Heavyweight Boxing
+[Enable Code (Must Be On)]
+patch=1,EE,F01B47D0,extended,001FA7F7
+[Infinite Stamina P1]
+patch=1,EE,20294C48,extended,42C80000
+[No Stamina P1]
+patch=1,EE,20294C48,extended,00000000
+[Infinite Health P1]
+patch=1,EE,40294C5C,extended,00080001
+[Infinite Health P1]
+patch=1,EE,42C80000,extended,00000000
+[No Health P1]
+patch=1,EE,40294C5C,extended,00080001
+[No Health P1]
+patch=1,EE,00000000,extended,00000000
+[P1 Never Knocked Down]
+patch=1,EE,10294C94,extended,00000000
+[P1 Starts With 1 Knock Down]
+patch=1,EE,D0294C94,extended,00000000
+[P1 Starts With 1 Knock Down]
+patch=1,EE,10294C94,extended,00000001
+[P1 Starts With 2 Knock Downs]
+patch=1,EE,D0294C94,extended,00000000
+[P1 Starts With 2 Knock Downs]
+patch=1,EE,10294C94,extended,00000001
+[Infinite Stamina P2]
+patch=1,EE,20295138,extended,42C80000
+[No Stamina P2]
+patch=1,EE,20295138,extended,00000000
+[Infinite Health P2]
+patch=1,EE,4029514C,extended,00080001
+[Infinite Health P2]
+patch=1,EE,42C80000,extended,00000000
+[No Health P2]
+patch=1,EE,4029514C,extended,00080001
+[No Health P2]
+patch=1,EE,00000000,extended,00000000
+[P2 Never Knocked Down]
+patch=1,EE,10295184,extended,00000000
+[P2 Starts With 1 Knock Down]
+patch=1,EE,D0295184,extended,00000000
+[P2 Starts With 1 Knock Down]
+patch=1,EE,10295184,extended,00000001
+[P2 Starts With 2 Knock Downs]
+patch=1,EE,D0295184,extended,00000000
+[P2 Starts With 2 Knock Downs]
+patch=1,EE,10295184,extended,00000001
+[>>> Have Character Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Oleg Maskaev]
+patch=1,EE,20243A54,extended,00000001
+[Micheal Grant]
+patch=1,EE,20243A5C,extended,00000001
+[Danell Nicholson]
+patch=1,EE,20243A64,extended,00000001
+[Kirk Johnson]
+patch=1,EE,20243A6C,extended,00000001
+[Chris Byrd]
+patch=1,EE,20243A74,extended,00000001
+[David Tua]
+patch=1,EE,20243A7C,extended,00000001
+[Tim Witherspoon]
+patch=1,EE,20243A84,extended,00000001
+[Danny Williams]
+patch=1,EE,20243A8C,extended,00000001
+[Larry Holmes]
+patch=1,EE,20243A94,extended,00000001
+[Masim Rahman]
+patch=1,EE,20243A9C,extended,00000001
+[Mike Tyson]
+patch=1,EE,20243AA4,extended,00000001
+[Iron Mike]
+patch=1,EE,20243AAC,extended,00000001
+[>>> Have Mode Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Silver Title Belt]
+patch=1,EE,20243AB4,extended,00000001
+[Gold Title Belt]
+patch=1,EE,20243ABC,extended,00000001
+[Speed Boxing]
+patch=1,EE,20243AC4,extended,00000001
+[Tyson's Challenge]
+patch=1,EE,20243ACC,extended,00000001
+[>>> Custom Boxer 1 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Earnings]
+patch=1,EE,202A4654,extended,05F5E0FF
+[Max Bank]
+patch=1,EE,202A4658,extended,05F5E0FF
+[>>> Custom Boxer 2 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Earnings]
+patch=1,EE,202A5010,extended,05F5E0FF
+[Max Bank]
+patch=1,EE,202A5014,extended,05F5E0FF
+[>>> Custom Boxer 3 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Earnings]
+patch=1,EE,202A59CC,extended,05F5E0FF
+[Max Bank]
+patch=1,EE,202A59D0,extended,05F5E0FF
+[>>> Custom Boxer 4 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Earnings]
+patch=1,EE,202A6388,extended,05F5E0FF
+[Max Bank]
+patch=1,EE,202A638C,extended,05F5E0FF
+[>>> Custom Boxer Max Stats Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Guard]
+patch=1,EE,2021B1C4,extended,0000000F
+[Max Stamina]
+patch=1,EE,2021B1C8,extended,0000000F
+[Max Fitness]
+patch=1,EE,2021B1CC,extended,0000000F
+[Max Chin]
+patch=1,EE,2021B1D0,extended,0000000F
+[Max SPeed]
+patch=1,EE,2021B1D4,extended,0000000F
+[Max Guts]
+patch=1,EE,2021B1D8,extended,0000000F
+[Max Jab Power]
+patch=1,EE,2021B1DC,extended,0000000F
+[Max Outside Power]
+patch=1,EE,2021B1E0,extended,0000000F
+[Max Inside Power]
+patch=1,EE,2021B1E4,extended,0000000F
+[Max Cheat Skill]
+patch=1,EE,2021B1E8,extended,0000000F
+[>>> Custom Boxer Enable Punch Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Jab Basic]
+patch=1,EE,2021AAF4,extended,00000001
+[Jab Basic]
+patch=1,EE,2021ABF8,extended,00000000
+[Jab Advanced]
+patch=1,EE,2021AAFC,extended,00000001
+[Jab Advanced]
+patch=1,EE,2021AB00,extended,00000000
+[Jab Expert]
+patch=1,EE,2021AB04,extended,00000001
+[Jab Expert]
+patch=1,EE,2021AB08,extended,00000000
+[Uppercut Basic]
+patch=1,EE,2021AB0C,extended,00000001
+[Uppercut Basic]
+patch=1,EE,2021AB10,extended,00000000
+[Uppercut Advanced]
+patch=1,EE,2021AB14,extended,00000001
+[Uppercut Advanced]
+patch=1,EE,2021AB18,extended,00000000
+[Uppercut Expert]
+patch=1,EE,2021AB1C,extended,00000001
+[Uppercut Expert]
+patch=1,EE,2021AB20,extended,00000000
+[Right Cross Basic]
+patch=1,EE,2021AB24,extended,00000001
+[Right Cross Basic]
+patch=1,EE,2021AB28,extended,00000000
+[Right Cross Advanced]
+patch=1,EE,2021AB2C,extended,00000001
+[Right Cross Advanced]
+patch=1,EE,2021AB30,extended,00000000
+[Right Cross Expert]
+patch=1,EE,2021AB34,extended,00000001
+[Right Cross Expert]
+patch=1,EE,2021AB38,extended,00000000
+[Left Cross Basic]
+patch=1,EE,2021AB3C,extended,00000001
+[Left Cross Basic]
+patch=1,EE,2021AB40,extended,00000000
+[Left Cross Advanced]
+patch=1,EE,2021AB44,extended,00000001
+[Left Cross Advanced]
+patch=1,EE,2021AB48,extended,00000000
+[Left Cross Expert]
+patch=1,EE,2021AB4C,extended,00000001
+[Left Cross Expert]
+patch=1,EE,2021AB50,extended,00000000
+[Right Body Basic]
+patch=1,EE,2021AB54,extended,00000001
+[Right Body Basic]
+patch=1,EE,2021AB58,extended,00000000
+[Right Body Advanced]
+patch=1,EE,2021AB5C,extended,00000001
+[Right Body Advanced]
+patch=1,EE,2021AB60,extended,00000000
+[Right Body Expert]
+patch=1,EE,2021AB64,extended,00000001
+[Right Body Expert]
+patch=1,EE,2021AB68,extended,00000000
+[Left Body Basic]
+patch=1,EE,2021AB6C,extended,00000001
+[Left Body Basic]
+patch=1,EE,2021AB70,extended,00000000
+[Left Body Advanced]
+patch=1,EE,2021AB74,extended,00000001
+[Left Body Advanced]
+patch=1,EE,2021AB78,extended,00000000
+[Left Body Expert]
+patch=1,EE,2021AB7C,extended,00000001
+[Left Body Expert]
+patch=1,EE,2021AB80,extended,00000000
+[Right Hook Basic]
+patch=1,EE,2021AB84,extended,00000001
+[Right Hook Basic]
+patch=1,EE,2021AB88,extended,00000000
+[Right Hook Advanced]
+patch=1,EE,2021AB8C,extended,00000001
+[Right Hook Advanced]
+patch=1,EE,2021AB90,extended,00000000
+[Right Hook Expert]
+patch=1,EE,2021AB94,extended,00000001
+[Right Hook Expert]
+patch=1,EE,2021AB98,extended,00000000
+[Counter Left Basic]
+patch=1,EE,2021AB9C,extended,00000001
+[Counter Left Basic]
+patch=1,EE,2021ABA0,extended,00000000
+[Counter Left Advanced]
+patch=1,EE,2021ABA4,extended,00000001
+[Counter Left Advanced]
+patch=1,EE,2021ABA8,extended,00000000
+[Counter Left Expert]
+patch=1,EE,2021ABAC,extended,00000001
+[Counter Left Expert]
+patch=1,EE,2021ABB0,extended,00000000
+[Left Hook Basic]
+patch=1,EE,2021ABB4,extended,00000001
+[Left Hook Basic]
+patch=1,EE,2021ABB8,extended,00000000
+[Left Hook Advanced]
+patch=1,EE,2021ABBC,extended,00000001
+[Left Hook Advanced]
+patch=1,EE,2021ABC0,extended,00000000
+[Left Hook Expert]
+patch=1,EE,2021ABC4,extended,00000001
+[Left Hook Expert]
+patch=1,EE,2021ABC8,extended,00000000
+[Counter Right Basic]
+patch=1,EE,2021ABCC,extended,00000001
+[Counter Right Basic]
+patch=1,EE,2021ABD0,extended,00000000
+[Counter Right Advanced]
+patch=1,EE,2021ABD4,extended,00000001
+[Counter Right Advanced]
+patch=1,EE,2021ABD8,extended,00000000
+[Counter Right Expert]
+patch=1,EE,2021ABDC,extended,00000001
+[Counter Right Expert]
+patch=1,EE,2021ABE0,extended,00000000
+[Elbow Basic]
+patch=1,EE,2021ABE4,extended,00000001
+[Elbow Basic]
+patch=1,EE,2021ABE8,extended,00000000
+[Elbow Advanced]
+patch=1,EE,2021ABEC,extended,00000001
+[Elbow Advanced]
+patch=1,EE,2021ABF0,extended,00000000
+[Elbow Expert]
+patch=1,EE,2021ABF4,extended,00000001
+[Elbow Expert]
+patch=1,EE,2021ABF8,extended,00000000
+[Low Blow Basic]
+patch=1,EE,2021ABFC,extended,00000001
+[Low Blow Basic]
+patch=1,EE,2021AC00,extended,00000000
+[Low Blow Advanced]
+patch=1,EE,2021AC04,extended,00000001
+[Low Blow Advanced]
+patch=1,EE,2021AC08,extended,00000000
+[Low Blow Expert]
+patch=1,EE,2021AC0C,extended,00000001
+[Low Blow Expert]
+patch=1,EE,2021AC10,extended,00000000
+

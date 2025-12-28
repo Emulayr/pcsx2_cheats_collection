@@ -1,0 +1,264 @@
+gametitle=[SLUS-21452] Valkyrie Profile 2-Silmeria
+[Enable Code (Must Be On)]
+patch=1,EE,9013A550,extended,0C04E8FC
+[Enable Code (Must Be On)]
+patch=1,EE,E0033B40,extended,0035EC8C
+[Enable Code (Must Be On)]
+patch=1,EE,104234AA,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,10423662,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,1042382A,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,E0027EC0,extended,0049550C
+[Enable Code (Must Be On)]
+patch=1,EE,2049BCB0,extended,03E00008
+[Enable Code (Must Be On)]
+patch=1,EE,2049BCB4,extended,00000000
+[Enable Code (Must Be On)]
+patch=1,EE,E007E140,extended,0036D90C
+[Enable Code (Must Be On)]
+patch=1,EE,203683D4,extended,00000000
+[Enable Code (Must Be On)]
+patch=1,EE,103AD16A,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,103AD61E,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,10430B76,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,10430BE2,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,10431A66,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,10431C1E,extended,00001000
+[Enable Code (Must Be On)]
+patch=1,EE,D0397CAC,extended,0000102A
+[Enable Code (Must Be On)]
+patch=1,EE,20397CB0,extended,00000000
+[Buying Items Doesnt Decrease Money]
+patch=1,EE,E0011026,extended,00496D9C
+[Buying Items Doesnt Decrease Money]
+patch=1,EE,20496DA0,extended,00000000
+[Buying Items Increase Money]
+patch=1,EE,E0011026,extended,00496D9C
+[Buying Items Increase Money]
+patch=1,EE,20496DA0,extended,00541021
+[Buy 1 Item For Max Money]
+patch=1,EE,E0021026,extended,00496D9C
+[Buy 1 Item For Max Money]
+patch=1,EE,20496DA0,extended,3C0205F5
+[Buy 1 Item For Max Money]
+patch=1,EE,20496DA8,extended,3442E0FF
+[>>> Camp Menu Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[View Menu For Max Oth]
+patch=1,EE,E0085821,extended,00460AB4
+[View Menu For Max Oth]
+patch=1,EE,200C0240,extended,3C01323B
+[View Menu For Max Oth]
+patch=1,EE,200C0244,extended,3421875C
+[View Menu For Max Oth]
+patch=1,EE,200C0248,extended,AD01006C
+[View Menu For Max Oth]
+patch=1,EE,200C024C,extended,03E00008
+[View Menu For Max Oth]
+patch=1,EE,200C0250,extended,8D0B0004
+[View Menu For Max Oth]
+patch=1,EE,20460968,extended,0C030090
+[View Menu For Max Oth]
+patch=1,EE,10460AC6,extended,00001000
+[View Menu For Max Oth]
+patch=1,EE,20460AC8,extended,AD0B0018
+[View Menu For Max Current HP]
+patch=1,EE,E0093B40,extended,0035EC8C
+[View Menu For Max Current HP]
+patch=1,EE,200C025C,extended,3C017DB9
+[View Menu For Max Current HP]
+patch=1,EE,200C0260,extended,3421FC97
+[View Menu For Max Current HP]
+patch=1,EE,200C0264,extended,8C47000C
+[View Menu For Max Current HP]
+patch=1,EE,200C0268,extended,00E13826
+[View Menu For Max Current HP]
+patch=1,EE,200C026C,extended,3C011C6F
+[View Menu For Max Current HP]
+patch=1,EE,200C0270,extended,34217603
+[View Menu For Max Current HP]
+patch=1,EE,200C0274,extended,00E13826
+[View Menu For Max Current HP]
+patch=1,EE,200C0278,extended,03E00008
+[View Menu For Max Current HP]
+patch=1,EE,200C027C,extended,AC470010
+[View Menu For Max Current HP]
+patch=1,EE,2045EFC8,extended,0C030097
+[View Menu For Max Current HP]
+patch=1,EE,1045EFEE,extended,00001000
+[View Menu For Max Current HP]
+patch=1,EE,2045EFF0,extended,AC430018
+[View Menu For Max Overall HP]
+patch=1,EE,E00A3B40,extended,0035EC8C
+[View Menu For Max Overall HP]
+patch=1,EE,200C0280,extended,3C077DB8
+[View Menu For Max Overall HP]
+patch=1,EE,200C0284,extended,34E7A307
+[View Menu For Max Overall HP]
+patch=1,EE,200C0288,extended,AC47000C
+[View Menu For Max Overall HP]
+patch=1,EE,200C028C,extended,3C04358E
+[View Menu For Max Overall HP]
+patch=1,EE,200C0290,extended,348472F4
+[View Menu For Max Overall HP]
+patch=1,EE,200C0294,extended,03E00008
+[View Menu For Max Overall HP]
+patch=1,EE,200C0298,extended,AC440008
+[View Menu For Max Overall HP]
+patch=1,EE,2045F068,extended,0C0300A0
+[View Menu For Max Overall HP]
+patch=1,EE,1045F08A,extended,00001000
+[View Menu For Max Overall HP]
+patch=1,EE,2045F08C,extended,AC440018
+[>>> In-Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Infinite HP]
+patch=1,EE,E008E140,extended,0036D90C
+[Infinite HP]
+patch=1,EE,200C02A0,extended,3C011C6F
+[Infinite HP]
+patch=1,EE,200C02A4,extended,34217603
+[Infinite HP]
+patch=1,EE,200C02A8,extended,00614826
+[Infinite HP]
+patch=1,EE,200C02AC,extended,03E00008
+[Infinite HP]
+patch=1,EE,200C02B0,extended,AC890010
+[Infinite HP]
+patch=1,EE,2038A5E8,extended,0C0300A8
+[Infinite HP]
+patch=1,EE,1038A60E,extended,00001000
+[Infinite HP]
+patch=1,EE,2038A610,extended,AC850018
+[>>> After Battle Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Gain Max Str Upon Level Up]
+patch=1,EE,E001BFB0,extended,001E7E0C
+[Gain Max Str Upon Level Up]
+patch=1,EE,202F6C18,extended,2403270F
+[Gain Max Int Upon Level Up]
+patch=1,EE,E001BFB0,extended,001E7E0C
+[Gain Max Int Upon Level Up]
+patch=1,EE,202F6F88,extended,2403270F
+[Gain Max Agl Upon Level Up]
+patch=1,EE,E001BFB0,extended,001E7E0C
+[Gain Max Agl Upon Level Up]
+patch=1,EE,202F7390,extended,2403270F
+[Gain Max Dex Upon Level Up]
+patch=1,EE,E001BFB0,extended,001E7E0C
+[Gain Max Dex Upon Level Up]
+patch=1,EE,202F7718,extended,2403270F
+[Gain Max Con Upon Level Up]
+patch=1,EE,E001BFB0,extended,001E7E0C
+[Gain Max Con Upon Level Up]
+patch=1,EE,202F7A7C,extended,2402270F
+[Gain Max Exp After 1 Battle]
+patch=1,EE,E002E140,extended,0036D90C
+[Gain Max Exp After 1 Battle]
+patch=1,EE,203D0538,extended,3C023B9A
+[Gain Max Exp After 1 Battle]
+patch=1,EE,203D0544,extended,3442C9FF
+[Gain 1000000 Exp Per Battle]
+patch=1,EE,E002E140,extended,0036D90C
+[Gain 1000000 Exp Per Battle]
+patch=1,EE,203D0538,extended,3C02000F
+[Gain 1000000 Exp Per Battle]
+patch=1,EE,203D0544,extended,34424240
+[Gain 500000 Exp Per Battle]
+patch=1,EE,E002E140,extended,0036D90C
+[Gain 500000 Exp Per Battle]
+patch=1,EE,203D0538,extended,3C020007
+[Gain 500000 Exp Per Battle]
+patch=1,EE,203D0544,extended,3442A120
+[Gain 200000 Exp Per Battle]
+patch=1,EE,E002E140,extended,0036D90C
+[Gain 200000 Exp Per Battle]
+patch=1,EE,203D0538,extended,3C020003
+[Gain 200000 Exp Per Battle]
+patch=1,EE,203D0544,extended,34420D40
+[Gain 100000 Exp Per Battle]
+patch=1,EE,E002E140,extended,0036D90C
+[Gain 100000 Exp Per Battle]
+patch=1,EE,203D0538,extended,3C020001
+[Gain 100000 Exp Per Battle]
+patch=1,EE,203D0544,extended,344286A0
+[Gain 50000 Exp Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 50000 Exp Per Battle]
+patch=1,EE,203D0544,extended,3402C350
+[Gain 40000 Exp Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 40000 Exp Per Battle]
+patch=1,EE,203D0544,extended,34029C40
+[Gain 30000 Exp Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 30000 Exp Per Battle]
+patch=1,EE,203D0544,extended,34027530
+[Gain 20000 Exp Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 20000 Exp Per Battle]
+patch=1,EE,203D0544,extended,34024E20
+[Gain 10000 Exp Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 10000 Exp Per Battle]
+patch=1,EE,203D0544,extended,34022710
+[Gain 5000 Exp Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 5000 Exp Per Battle]
+patch=1,EE,203D0544,extended,34021388
+[Gain 50000 Oth Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 50000 Oth Per Battle]
+patch=1,EE,203D3654,extended,3410C350
+[Gain 40000 Oth Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 40000 Oth Per Battle]
+patch=1,EE,203D3654,extended,34109C40
+[Gain 30000 Oth Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 30000 Oth Per Battle]
+patch=1,EE,203D3654,extended,34107530
+[Gain 20000 Oth Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 20000 Oth Per Battle]
+patch=1,EE,203D3654,extended,34104E20
+[Gain 10000 Oth Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 10000 Oth Per Battle]
+patch=1,EE,203D3654,extended,34102710
+[Gain 5000 Oth Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 5000 Oth Per Battle]
+patch=1,EE,203D3654,extended,34101388
+[Gain 50000 Crystals Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 50000 Crystals Per Battle]
+patch=1,EE,203D39EC,extended,3410C350
+[Gain 40000 Crystals Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 40000 Crystals Per Battle]
+patch=1,EE,203D39EC,extended,34109C40
+[Gain 30000 Crystals Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 30000 Crystals Per Battle]
+patch=1,EE,203D39EC,extended,34107530
+[Gain 20000 Crystals Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 20000 Crystals Per Battle]
+patch=1,EE,203D39EC,extended,34104E20
+[Gain 10000 Crystals Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 10000 Crystals Per Battle]
+patch=1,EE,203D39EC,extended,34102710
+[Gain 5000 Crystals Per Battle]
+patch=1,EE,E001E140,extended,0036D90C
+[Gain 5000 Crystals Per Battle]
+patch=1,EE,203D39EC,extended,34101388
+

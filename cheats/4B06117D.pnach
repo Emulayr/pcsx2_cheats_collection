@@ -1,0 +1,116 @@
+gametitle=Tak 3-The Great Juju Challenge
+[Enable Code (Must Be On)]
+patch=1,EE,9044E0A0,extended,00832021
+[Infinite Time]
+patch=1,EE,2014D168,extended,00000000
+[Infinite Health]
+patch=1,EE,20247658,extended,C6A10284
+[Infinite Health]
+patch=1,EE,20247664,extended,E6A10280
+[Max Infinite Mana]
+patch=1,EE,202522EC,extended,C60000C0
+[Infinite Mana Usage]
+patch=1,EE,202524F4,extended,00000000
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,200C0220,extended,3C0140C0
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,200C0224,extended,00400008
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,200C0228,extended,AC810084
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,D05649C2,extended,0000BFFF
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,20377094,extended,0C030088
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,D05649C2,extended,0000FFFF
+[P1 Press {CROSS} For Moon Jump]
+patch=1,EE,20377094,extended,0040F809
+[Infinite Double Jumps]
+patch=1,EE,20267638,extended,00000000
+[Infinite Double Jumps]
+patch=1,EE,203CB600,extended,00000000
+[Infinite Zoo-Zoo Insects]
+patch=1,EE,2055DE6C,extended,461C3C00
+[Infinite Woo-Woo Crystals]
+patch=1,EE,2055DE78,extended,461C3C00
+[Infinite Juju Fruits]
+patch=1,EE,2055DE84,extended,461C3C00
+[Access All Extras]
+patch=1,EE,20547360,extended,00000001
+[>>> Unlock Juju Potions Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Blessing Gem #1]
+patch=1,EE,204D37C4,extended,00000001
+[Blessing Gem #2]
+patch=1,EE,204D37EC,extended,00000001
+[Blessing Gem #3]
+patch=1,EE,204D3814,extended,00000001
+[Blessing Gem #4]
+patch=1,EE,204D383C,extended,00000001
+[Blessing Gem #5]
+patch=1,EE,204D3864,extended,00000001
+[Blessing Gem #6]
+patch=1,EE,204D388C,extended,00000001
+[Blessing Gem #7]
+patch=1,EE,204D38B4,extended,00000001
+[Blessing Gem #8]
+patch=1,EE,204D38DC,extended,00000001
+[Blessing Gem #9]
+patch=1,EE,204D3904,extended,00000001
+[Blessing Gem #10]
+patch=1,EE,204D392C,extended,00000001
+[Blessing Gem #11]
+patch=1,EE,204D3954,extended,00000001
+[Blessing Gem #12]
+patch=1,EE,204D397C,extended,00000001
+[Blessing Gem #13]
+patch=1,EE,204D39A4,extended,00000001
+[Blessing Gem #14]
+patch=1,EE,204D39CC,extended,00000001
+[Blessing Gem #15]
+patch=1,EE,204D39F4,extended,00000001
+[Blessing Gem #16]
+patch=1,EE,204D3A1C,extended,00000001
+[Blessing Gem #17]
+patch=1,EE,204D3A44,extended,00000001
+[Blessing Gem #18]
+patch=1,EE,204D3A6C,extended,00000001
+[Blessing Gem #19]
+patch=1,EE,204D3A94,extended,00000001
+[Blessing Gem #20]
+patch=1,EE,204D3ABC,extended,00000001
+[View Juju Concept Art]
+patch=1,EE,204D3AE4,extended,00000001
+[View Jibba Jabba Art]
+patch=1,EE,204D3B0C,extended,00000001
+[View Grammazon Art]
+patch=1,EE,204D3B34,extended,00000001
+[View Black Mist Art]
+patch=1,EE,204D3B5C,extended,00000001
+[View World Art]
+patch=1,EE,204D3B84,extended,00000001
+[View Animal Art]
+patch=1,EE,204D3BAC,extended,00000001
+[View Vehile Art]
+patch=1,EE,204D3BD4,extended,00000001
+[Bonus Music Track 1]
+patch=1,EE,204D3BFC,extended,00000001
+[Bonus Music Track 2]
+patch=1,EE,204D3C24,extended,00000001
+[Bonus Music Track 3]
+patch=1,EE,204D3C4C,extended,00000001
+[Bonus Sound Effects]
+patch=1,EE,204D3C74,extended,00000001
+[Bonus Sound Effects 2]
+patch=1,EE,204D3C9C,extended,00000001
+[Magic Particles]
+patch=1,EE,204D3CC4,extended,00000001
+[More Magic Particles]
+patch=1,EE,204D3CEC,extended,00000001
+[Time Bonus]
+patch=1,EE,204D3D14,extended,00000001
+[All Juju Potions]
+patch=1,EE,404D37C4,extended,0023000A
+[All Juju Potions]
+patch=1,EE,00000001,extended,00000000
+

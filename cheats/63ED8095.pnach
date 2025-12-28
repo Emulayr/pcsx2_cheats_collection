@@ -1,0 +1,579 @@
+gametitle=Taiko-Drum Master
+[Enable Code (Must Be On)]
+patch=1,EE,901A9EC8,extended,00832021
+[Unlock Oni Difficulty Mode]
+patch=1,EE,20873554,extended,00000001
+[>>> Unlock Song Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Taiko March]
+patch=1,EE,208734D8,extended,00000001
+[Don Rangers]
+patch=1,EE,208734F8,extended,00000001
+[Ridge Racer]
+patch=1,EE,20873518,extended,00000001
+[The Genji And The Heike Clans]
+patch=1,EE,20873538,extended,00000001
+[All Songs]
+patch=1,EE,408734D8,extended,00040001
+[All Songs]
+patch=1,EE,00000001,extended,00000000
+[>>> Song Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[ABC Codes]
+[Have Gold Crown-Easy]
+patch=1,EE,20871DC4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20871DD0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20871DE8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20871DF4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20871E0C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20871E18,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20871E30,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20871E3C,extended,0098967F
+[>>> That's The Way (I Like It) Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20871E54,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20871E60,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20871E78,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20871E84,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20871E9C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20871EA8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20871EC0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20871ECC,extended,0098967F
+[>>> The Impression That I Get Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20871EE4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20871EF0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20871F08,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20871F14,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20871F2C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20871F38,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20871F50,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20871F5C,extended,0098967F
+[>>> Tubthumping Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20871F74,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20871F80,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20871F98,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20871FA4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20871FBC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20871FC8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20871FE0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20871FEC,extended,0098967F
+[>>> Walking On Sunshine Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872004,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872010,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872028,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872034,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087204C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872058,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872070,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087207C,extended,0098967F
+[>>> Material Girl Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872094,extended,00000002
+[Max Score-Easy]
+patch=1,EE,208720A0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,208720B8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,208720C4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,208720DC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,208720E8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872100,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087210C,extended,0098967F
+[>>> Love Shack Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872124,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872130,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872148,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872154,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087216C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872178,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872190,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087219C,extended,0098967F
+[>>> Toxic Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,208721B4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,208721C0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,208721D8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,208721E4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,208721FC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872208,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872220,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087222C,extended,0098967F
+[>>> I'm A Believer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872244,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872250,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872268,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872274,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087228C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872298,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,208722B0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,208722BC,extended,0098967F
+[>>> Slide Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,208722D4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,208722E0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,208722F8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872304,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087231C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872328,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872340,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087234C,extended,0098967F
+[>>> American Girls Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872364,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872370,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872388,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872394,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,208723AC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,208723B8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,208723D0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,208723DC,extended,0098967F
+[>>> Girls & Boys Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,208723F4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872400,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872418,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872424,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087243C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872448,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872460,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087246C,extended,0098967F
+[>>> Killer Queen Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872484,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872490,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,208724A8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,208724B4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,208724CC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,208724D8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,208724F0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,208724FC,extended,0098967F
+[>>> Lady Marmalade Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872514,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872520,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872538,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872544,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087255C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872568,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872580,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087258C,extended,0098967F
+[>>> Are You Gonna Be My Girl Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,208725A4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,208725B0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,208725C8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,208725D4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,208725EC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,208725F8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872610,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087261C,extended,0098967F
+[>>> My Sharona Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872634,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872640,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872658,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872664,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087267C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872688,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,208726A0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,208726AC,extended,0098967F
+[>>> Rock The Dragon-Dragonball Z Theme Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,208726C4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,208726D0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,208726E8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,208726F4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087270C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872718,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872730,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087273C,extended,0098967F
+[>>> Bowling For Soup-Jimmy Neutron Theme Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872754,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872760,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872778,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872784,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087279C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,208727A8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,208727C0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,208727CC,extended,0098967F
+[>>> Beethoven's Symphony No. 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,208727E4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,208727F0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872808,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872814,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087282C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872838,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872850,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087285C,extended,0098967F
+[>>> William Tell Overture Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872874,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872880,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872898,extended,00000002
+[Max Score-Normal]
+patch=1,EE,208728A4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,208728BC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,208728C8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,208728E0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,208728EC,extended,0098967F
+[>>> Carmen Prelude Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872904,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872910,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872928,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872934,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,2087294C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872958,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872970,extended,00000002
+[Max Score-Oni]
+patch=1,EE,2087297C,extended,0098967F
+[>>> Foster's Medley Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872994,extended,00000002
+[Max Score-Easy]
+patch=1,EE,208729A0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,208729B8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,208729C4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,208729DC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,208729E8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872A00,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872A0C,extended,0098967F
+[>>> Symphony No. 25 In G Minor Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872A24,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872A30,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872A48,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872A54,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872A6C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872A78,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872A90,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872A9C,extended,0098967F
+[>>> Hungarian Dances No. 5 Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872AB4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872AC0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872AD8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872AE4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872AFC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872B08,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872B20,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872B2C,extended,0098967F
+[>>> Soul Calibur II-Brave Sword, Braver Soul Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872B44,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872B50,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872B68,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872B74,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872B8C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872B98,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872BB0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872BBC,extended,0098967F
+[>>> The Genji And The Heike Clans Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872BD4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872BE0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872BF8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872C04,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872C1C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872C28,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872C40,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872C4C,extended,0098967F
+[>>> Ridge Racer Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872C64,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872C70,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872C88,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872C94,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872CAC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872CB8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872CD0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872CDC,extended,0098967F
+[>>> Taiko March Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872CF4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872D00,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872D18,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872D24,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872D3C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872D48,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872D60,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872D6C,extended,0098967F
+[>>> Don Rangers Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872D84,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872D90,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872DA8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872DB4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872DCC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872DD8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872DF0,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872DFC,extended,0098967F
+[>>> Katamari On The Rocks Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872E14,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872E20,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872E38,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872E44,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872E5C,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872E68,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872E80,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872E8C,extended,0098967F
+[>>> Dragon Spirit Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Have Gold Crown-Easy]
+patch=1,EE,20872EA4,extended,00000002
+[Max Score-Easy]
+patch=1,EE,20872EB0,extended,0098967F
+[Have Gold Crown-Normal]
+patch=1,EE,20872EC8,extended,00000002
+[Max Score-Normal]
+patch=1,EE,20872ED4,extended,0098967F
+[Have Gold Crown-Hard]
+patch=1,EE,20872EEC,extended,00000002
+[Max Score-Hard]
+patch=1,EE,20872EF8,extended,0098967F
+[Have Gold Crown-Oni]
+patch=1,EE,20872F10,extended,00000002
+[Max Score-Oni]
+patch=1,EE,20872F1C,extended,0098967F
+

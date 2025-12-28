@@ -1,0 +1,226 @@
+gametitle=Dr. Suess-The Cat In The Hat
+[Enable Code (Must Be On)]
+patch=1,EE,F0100008,extended,0021590F
+[Infinite Lives]
+patch=1,EE,1082222C,extended,00000909
+[Extra Lives]
+patch=1,EE,101F7F04,extended,00000001
+[Extra Lives]
+patch=1,EE,101F7F0C,extended,00000001
+[Infinite Health]
+patch=1,EE,1082222E,extended,00000404
+[Invincible]
+patch=1,EE,1010C682,extended,00001000
+[Hats Worth 20]
+patch=1,EE,20184A30,extended,24420014
+[Hats Worth 10]
+patch=1,EE,20184A30,extended,2442000A
+[Hats Worth 5]
+patch=1,EE,20184A30,extended,24420005
+[Hats Worth 2]
+patch=1,EE,20184A30,extended,24420002
+[Unlock All Levels]
+patch=1,EE,D0D8DA70,extended,000007C8
+[Unlock All Levels]
+patch=1,EE,20D8DA7C,extended,24030001
+[>>> Activate Cheat Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Dont Allow Player To Die]
+patch=1,EE,2023887C,extended,00000001
+[Infinite Lives]
+patch=1,EE,20238880,extended,00000001
+[Dont Allow Player Hurt]
+patch=1,EE,20238884,extended,00000001
+[Dont Allow Player Hit]
+patch=1,EE,20238888,extended,00000001
+[>>> Venus Cat-Trap Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,00822370,extended,000000FF
+[Max Keys]
+patch=1,EE,00822380,extended,00000000
+[Max Hats]
+patch=1,EE,10822374,extended,000005DC
+[Max Hats]
+patch=1,EE,10822384,extended,00000000
+[Max Clappers]
+patch=1,EE,10822378,extended,00000003
+[Max Clappers]
+patch=1,EE,10822388,extended,00000000
+[Have Gem]
+patch=1,EE,1082237C,extended,00000001
+[Have Gem]
+patch=1,EE,1082238C,extended,00000000
+[>>> Grandfather Clocks Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,008223A0,extended,000000FF
+[Max Keys]
+patch=1,EE,008223B0,extended,00000000
+[Max Hats]
+patch=1,EE,108223A4,extended,000005DC
+[Max Hats]
+patch=1,EE,108223B4,extended,00000000
+[Max Clappers]
+patch=1,EE,108223A8,extended,00000003
+[Max Clappers]
+patch=1,EE,108223B8,extended,00000000
+[Have Gem]
+patch=1,EE,108223AC,extended,00000001
+[Have Gem]
+patch=1,EE,108223AC,extended,00000000
+[>>> Freezer Burn Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,008223D0,extended,000000FF
+[Max Keys]
+patch=1,EE,008223E0,extended,00000000
+[Max Hats]
+patch=1,EE,108223D4,extended,000005DC
+[Max Hats]
+patch=1,EE,108223E4,extended,00000000
+[Max Clappers]
+patch=1,EE,108223D8,extended,00000003
+[Max Clappers]
+patch=1,EE,108223E8,extended,00000000
+[Have Gem]
+patch=1,EE,108223DC,extended,00000001
+[Have Gem]
+patch=1,EE,108223EC,extended,00000000
+[>>> Musical Madness Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,00822400,extended,000000FF
+[Max Keys]
+patch=1,EE,00822410,extended,00000000
+[Max Hats]
+patch=1,EE,10822404,extended,000005DC
+[Max Hats]
+patch=1,EE,10822414,extended,00000000
+[Max Clappers]
+patch=1,EE,10822408,extended,00000003
+[Max Clappers]
+patch=1,EE,10822418,extended,00000000
+[Have Gem]
+patch=1,EE,1082240C,extended,00000001
+[Have Gem]
+patch=1,EE,1082241C,extended,00000000
+[>>> Chemistry Chaos Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,00822430,extended,000000FF
+[Max Keys]
+patch=1,EE,00822440,extended,00000000
+[Max Hats]
+patch=1,EE,10822434,extended,000005DC
+[Max Hats]
+patch=1,EE,10822444,extended,00000000
+[Max Clappers]
+patch=1,EE,10822438,extended,00000004
+[Max Clappers]
+patch=1,EE,10822448,extended,00000000
+[Have Gem]
+patch=1,EE,1082243C,extended,00000001
+[Have Gem]
+patch=1,EE,1082244C,extended,00000000
+[>>> Trouble Bath Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,00822460,extended,000000FF
+[Max Keys]
+patch=1,EE,00822470,extended,00000000
+[Max Hats]
+patch=1,EE,10822464,extended,000005DC
+[Max Hats]
+patch=1,EE,10822474,extended,00000000
+[Max Clappers]
+patch=1,EE,10822468,extended,00000004
+[Max Clappers]
+patch=1,EE,10822478,extended,00000000
+[Have Gem]
+patch=1,EE,1082246C,extended,00000001
+[Have Gem]
+patch=1,EE,1082247C,extended,00000000
+[>>> Mechanical Mayhem Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,00822490,extended,000000FF
+[Max Keys]
+patch=1,EE,008224A0,extended,00000000
+[Max Hats]
+patch=1,EE,10822494,extended,000005DC
+[Max Hats]
+patch=1,EE,108224A4,extended,00000000
+[Max Clappers]
+patch=1,EE,10822498,extended,00000004
+[Max Clappers]
+patch=1,EE,108224A8,extended,00000000
+[Have Gem]
+patch=1,EE,1082249C,extended,00000001
+[Have Gem]
+patch=1,EE,108224AC,extended,00000000
+[>>> Boiler Bonanza Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,008224C0,extended,000000FF
+[Max Keys]
+patch=1,EE,008224D0,extended,00000000
+[Max Hats]
+patch=1,EE,108224C4,extended,000005DC
+[Max Hats]
+patch=1,EE,108224D4,extended,00000000
+[Max Clappers]
+patch=1,EE,108224C8,extended,00000003
+[Max Clappers]
+patch=1,EE,108224D8,extended,00000000
+[Have Gem]
+patch=1,EE,108224CC,extended,00000001
+[Have Gem]
+patch=1,EE,108224DC,extended,00000000
+[>>> Wishy Washy Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,008224F0,extended,000000FF
+[Max Keys]
+patch=1,EE,00822500,extended,00000000
+[Max Hats]
+patch=1,EE,108224F4,extended,000005DC
+[Max Hats]
+patch=1,EE,10822504,extended,00000000
+[Max Clappers]
+patch=1,EE,108224F8,extended,00000004
+[Max Clappers]
+patch=1,EE,10822508,extended,00000000
+[Have Gem]
+patch=1,EE,108224FC,extended,00000001
+[Have Gem]
+patch=1,EE,1082250C,extended,00000000
+[>>> Attic Adventure Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Keys]
+patch=1,EE,00822520,extended,000000FF
+[Max Keys]
+patch=1,EE,00822530,extended,00000000
+[Max Hats]
+patch=1,EE,10822524,extended,000005DC
+[Max Hats]
+patch=1,EE,10822534,extended,00000000
+[Max Clappers]
+patch=1,EE,10822528,extended,00000004
+[Max Clappers]
+patch=1,EE,10822538,extended,00000000
+[Have Gem]
+patch=1,EE,1082252C,extended,00000001
+[Have Gem]
+patch=1,EE,1082253C,extended,00000000
+[>>> Mystical Mirror Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Max Hats]
+patch=1,EE,10822584,extended,000003E8
+[Max Hats]
+patch=1,EE,10822594,extended,00000000
+[Max Clappers]
+patch=1,EE,10822588,extended,00000005
+[Max Clappers]
+patch=1,EE,10822598,extended,00000000
+

@@ -1,0 +1,414 @@
+gametitle=Lord Of The Rings-The Two Towers
+[Enable Code (Must Be On)]
+patch=1,EE,902C450C,extended,0C0AF00A
+[Infinite Health]
+patch=1,EE,200C0220,extended,340123F0
+[Infinite Health]
+patch=1,EE,200C0224,extended,03200008
+[Infinite Health]
+patch=1,EE,200C0228,extended,AC810300
+[Infinite Health]
+patch=1,EE,202246B0,extended,0C030088
+[Infinite Arrows]
+patch=1,EE,2011F30C,extended,00000000
+[Extra Arrows]
+patch=1,EE,1011F308,extended,00000000
+[Quick Exp Gain]
+patch=1,EE,20152860,extended,3C02447A
+[Quick Exp Gain]
+patch=1,EE,2015286C,extended,44826000
+[Super Exp Gain]
+patch=1,EE,20152860,extended,3C02461C
+[Super Exp Gain]
+patch=1,EE,2015286C,extended,44826000
+[Hella Exp Gain]
+patch=1,EE,20152860,extended,3C024A1C
+[Hella Exp Gain]
+patch=1,EE,2015286C,extended,44826000
+[Max Upgrade Points]
+patch=1,EE,20381BD0,extended,05F5E0FF
+[Max Upgrade Points]
+patch=1,EE,2038C510,extended,05F5E0FF
+[Always Devastating]
+patch=1,EE,20381964,extended,00000001
+[Infinite Missiles]
+patch=1,EE,20381968,extended,00000001
+[Unlock Isildur]
+patch=1,EE,004648A1,extended,00000001
+[Unlock Isildur]
+patch=1,EE,004648A3,extended,00000001
+[Unlock Secret Codes (On Level Select Screen)]
+patch=1,EE,004648CF,extended,00000001
+[Max Level-Aragorn]
+patch=1,EE,00464B54,extended,00000009
+[Max Level-Legolas]
+patch=1,EE,00464EA4,extended,00000009
+[Max Level-Gimli]
+patch=1,EE,004651F4,extended,00000009
+[Max Level-Isildur]
+patch=1,EE,00465544,extended,00000009
+[>>> Have Mission Completed Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Isildur-Prologue]
+patch=1,EE,00464896,extended,00000001
+[Aragon-Weathertop]
+patch=1,EE,00464897,extended,00000001
+[Aragon-Gates Of Moria]
+patch=1,EE,00464898,extended,00000001
+[Aragon-Balin's Tomb]
+patch=1,EE,00464899,extended,00000001
+[Aragon-Amon Hen]
+patch=1,EE,0046489A,extended,00000001
+[Aragon-Fangorn Forest]
+patch=1,EE,0046489B,extended,00000001
+[Aragon-Plains Of Rohan]
+patch=1,EE,0046489C,extended,00000001
+[Aragon-The Westfold]
+patch=1,EE,0046489D,extended,00000001
+[Aragon-Gap Of Rohan]
+patch=1,EE,0046489E,extended,00000001
+[Aragon-Helm's Deep-The Deeping Wall]
+patch=1,EE,0046489F,extended,00000001
+[Aragon-Helm's Deep-Breached Wall]
+patch=1,EE,004648A0,extended,00000001
+[Aragon-Helm's Deep-Hornburg Courtyard]
+patch=1,EE,004648A1,extended,00000001
+[Aragon-Tower Of Orthanc]
+patch=1,EE,004648A2,extended,00000001
+[Legolas-Gates Of Moria]
+patch=1,EE,004648A7,extended,00000001
+[Legolas-Balin's Tomb]
+patch=1,EE,004648A8,extended,00000001
+[Legolas-Amon Hen]
+patch=1,EE,004648A9,extended,00000001
+[Legolas-Fangorn Forest]
+patch=1,EE,004648AA,extended,00000001
+[Legolas-Plains Of Rohan]
+patch=1,EE,004648AB,extended,00000001
+[Legolas-The Westfold]
+patch=1,EE,004648AC,extended,00000001
+[Legolas-Gap Of Rohan]
+patch=1,EE,004648AD,extended,00000001
+[Legolas-Helm's Deep-The Deeping Wall]
+patch=1,EE,004648AE,extended,00000001
+[Legolas-Helm's Deep-Breached Wall]
+patch=1,EE,004648AF,extended,00000001
+[Legolas-Helm's Deep-Hornburg Courtyard]
+patch=1,EE,004648B0,extended,00000001
+[Legolas-Tower Of Orthanc]
+patch=1,EE,004648B1,extended,00000001
+[Gimli-Gates Of Moria]
+patch=1,EE,004648B6,extended,00000001
+[Gimli-Balin's Tomb]
+patch=1,EE,004648B7,extended,00000001
+[Gimli-Amon Hen]
+patch=1,EE,004648B8,extended,00000001
+[Gimli-Fangorn Forest]
+patch=1,EE,004648B9,extended,00000001
+[Gimli-Plains Of Rohan]
+patch=1,EE,004648BA,extended,00000001
+[Gimli-The Westfold]
+patch=1,EE,004648BB,extended,00000001
+[Gimli-Gap Of Rohan]
+patch=1,EE,004648BC,extended,00000001
+[Gimli-Helm's Deep-The Deeping Wall]
+patch=1,EE,004648BD,extended,00000001
+[Gimli-Helm's Deep-Breached Wall]
+patch=1,EE,004648BE,extended,00000001
+[Gimli-Helm's Deep-Hornburg Courtyard]
+patch=1,EE,004648BF,extended,00000001
+[Gimli-Tower Of Orthanc]
+patch=1,EE,004648C0,extended,00000001
+[Isildur-Gates Of Moria]
+patch=1,EE,004648C5,extended,00000001
+[Isildur-Balin's Tomb]
+patch=1,EE,004648C6,extended,00000001
+[Isildur-Amon Hen]
+patch=1,EE,004648C7,extended,00000001
+[Isildur-Fangorn Forest]
+patch=1,EE,004648C8,extended,00000001
+[Isildur-Plains Of Rohan]
+patch=1,EE,004648C9,extended,00000001
+[Isildur-The Westfold]
+patch=1,EE,004648CA,extended,00000001
+[Isildur-Gap Of Rohan]
+patch=1,EE,004648CB,extended,00000001
+[Isildur-Helm's Deep-The Deeping Wall]
+patch=1,EE,004648CC,extended,00000001
+[Isildur-Helm's Deep-Breached Wall]
+patch=1,EE,004648CD,extended,00000001
+[Isildur-Helm's Deep-Hornburg Courtyard]
+patch=1,EE,004648CE,extended,00000001
+[Isildur-Tower Of Orthanc]
+patch=1,EE,004648CF,extended,00000001
+[>>> Mission Grade Perfect Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Isildur-Prologue]
+patch=1,EE,004648D4,extended,00000000
+[Aragon-Weathertop]
+patch=1,EE,004648DC,extended,00000000
+[Aragon-Gates Of Moria]
+patch=1,EE,004648E4,extended,00000000
+[Aragon-Balin's Tomb]
+patch=1,EE,004648EC,extended,00000000
+[Aragon-Amon Hen]
+patch=1,EE,004648F4,extended,00000000
+[Aragon-Fangorn Forest]
+patch=1,EE,004648FC,extended,00000000
+[Aragon-Plains Of Rohan]
+patch=1,EE,00464904,extended,00000000
+[Aragon-The Westfold]
+patch=1,EE,0046490C,extended,00000000
+[Aragon-Gap Of Rohan]
+patch=1,EE,00464914,extended,00000000
+[Aragon-Helm's Deep-The Deeping Wall]
+patch=1,EE,0046491C,extended,00000000
+[Aragon-Helm's Deep-Breached Wall]
+patch=1,EE,00464924,extended,00000000
+[Aragon-Helm's Deep-Hornburg Courtyard]
+patch=1,EE,0046492C,extended,00000000
+[Aragon-Tower Of Orthanc]
+patch=1,EE,00464934,extended,00000000
+[Legolas-Gates Of Moria]
+patch=1,EE,0046495C,extended,00000000
+[Legolas-Balin's Tomb]
+patch=1,EE,00464964,extended,00000000
+[Legolas-Amon Hen]
+patch=1,EE,0046496C,extended,00000000
+[Legolas-Fangorn Forest]
+patch=1,EE,00464974,extended,00000000
+[Legolas-Plains Of Rohan]
+patch=1,EE,0046497C,extended,00000000
+[Legolas-The Westfold]
+patch=1,EE,00464984,extended,00000000
+[Legolas-Gap Of Rohan]
+patch=1,EE,0046498C,extended,00000000
+[Legolas-Helm's Deep-The Deeping Wall]
+patch=1,EE,00464994,extended,00000000
+[Legolas-Helm's Deep-Breached Wall]
+patch=1,EE,0046499C,extended,00000000
+[Legolas-Helm's Deep-Hornburg Courtyard]
+patch=1,EE,004649A4,extended,00000000
+[Legolas-Tower Of Orthanc]
+patch=1,EE,004649AC,extended,00000000
+[Gimli-Gates Of Moria]
+patch=1,EE,004649D4,extended,00000000
+[Gimli-Balin's Tomb]
+patch=1,EE,004649DC,extended,00000000
+[Gimli-Amon Hen]
+patch=1,EE,004649E4,extended,00000000
+[Gimli-Fangorn Forest]
+patch=1,EE,004649EC,extended,00000000
+[Gimli-Plains Of Rohan]
+patch=1,EE,004649F4,extended,00000000
+[Gimli-The Westfold]
+patch=1,EE,004649FC,extended,00000000
+[Gimli-Gap Of Rohan]
+patch=1,EE,00464A04,extended,00000000
+[Gimli-Helm's Deep-The Deeping Wall]
+patch=1,EE,00464A0C,extended,00000000
+[Gimli-Helm's Deep-Breached Wall]
+patch=1,EE,00464A14,extended,00000000
+[Gimli-Helm's Deep-Hornburg Courtyard]
+patch=1,EE,00464A1C,extended,00000000
+[Gimli-Tower Of Orthanc]
+patch=1,EE,00464A24,extended,00000000
+[Isildur-Gates Of Moria]
+patch=1,EE,00464A4C,extended,00000000
+[Isildur-Balin's Tomb]
+patch=1,EE,00464A54,extended,00000000
+[Isildur-Amon Hen]
+patch=1,EE,00464A5C,extended,00000000
+[Isildur-Fangorn Forest]
+patch=1,EE,00464A64,extended,00000000
+[Isildur-Plains Of Rohan]
+patch=1,EE,00464A6C,extended,00000000
+[Isildur-The Westfold]
+patch=1,EE,00464A74,extended,00000000
+[Isildur-Gap Of Rohan]
+patch=1,EE,00464A7C,extended,00000000
+[Isildur-Helm's Deep-The Deeping Wall]
+patch=1,EE,00464A84,extended,00000000
+[Isildur-Helm's Deep-Breached Wall]
+patch=1,EE,00464A8C,extended,00000000
+[Isildur-Helm's Deep-Hornburg Courtyard]
+patch=1,EE,00464A94,extended,00000000
+[Gimli-Tower Of Orthanc]
+patch=1,EE,00464A9C,extended,00000000
+[>>> Have Aragorn Moves Purchased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Triple Strike]
+patch=1,EE,00465822,extended,00000001
+[Double Hack]
+patch=1,EE,00465823,extended,00000001
+[Shadow Strike]
+patch=1,EE,00465824,extended,00000001
+[Sword Parry]
+patch=1,EE,00465825,extended,00000001
+[Combat Kick]
+patch=1,EE,0046582A,extended,00000001
+[Rush Attack]
+patch=1,EE,0046582B,extended,00000001
+[Charge Attack]
+patch=1,EE,0046582C,extended,00000001
+[Ranger Fury]
+patch=1,EE,0046582D,extended,00000001
+[Wilderness Rage]
+patch=1,EE,0046582E,extended,00000001
+[Wrath Of Numenor]
+patch=1,EE,0046582F,extended,00000001
+[Dunedain Bow]
+patch=1,EE,00465830,extended,00000001
+[Rohan Bow]
+patch=1,EE,00465831,extended,00000001
+[Gondor Bow]
+patch=1,EE,00465832,extended,00000001
+[Strength Of The Stewards]
+patch=1,EE,00465835,extended,00000001
+[Strength Of Isildur]
+patch=1,EE,00465836,extended,00000001
+[Strength Of Elendil]
+patch=1,EE,00465837,extended,00000001
+[Strength Of The Argonath]
+patch=1,EE,00465838,extended,00000001
+[Isildur's Swift Terror]
+patch=1,EE,0046583B,extended,00000001
+[Isildur's Deliverance]
+patch=1,EE,0046583C,extended,00000001
+[Isildur's Death Charge]
+patch=1,EE,0046583D,extended,00000001
+[Isildur's Gambit]
+patch=1,EE,0046583E,extended,00000001
+[Isildur's War Rush]
+patch=1,EE,0046583F,extended,00000001
+[Isildur's Judgment]
+patch=1,EE,00465840,extended,00000001
+[Goblin Bane]
+patch=1,EE,00465841,extended,00000001
+[Orc Bane]
+patch=1,EE,00465842,extended,00000001
+[Bane Of Saruman]
+patch=1,EE,00465843,extended,00000001
+[Rising Attack]
+patch=1,EE,00465844,extended,00000001
+[Master Swordsman]
+patch=1,EE,00465845,extended,00000001
+[>>> Have Legolas Moves Purchased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Triple Strike]
+patch=1,EE,00465872,extended,00000001
+[Double Hack]
+patch=1,EE,00465873,extended,00000001
+[Shadow Strike]
+patch=1,EE,00465874,extended,00000001
+[Knife Parry]
+patch=1,EE,00465875,extended,00000001
+[Combat Kick]
+patch=1,EE,0046587A,extended,00000001
+[Rush Attack]
+patch=1,EE,0046587B,extended,00000001
+[Charge Attack]
+patch=1,EE,0046587C,extended,00000001
+[Elven Fury]
+patch=1,EE,0046587D,extended,00000001
+[Gil-Galad's Rage]
+patch=1,EE,0046587E,extended,00000001
+[Mirkwood Longbow]
+patch=1,EE,00465880,extended,00000001
+[Rivendell Longbow]
+patch=1,EE,00465881,extended,00000001
+[Lothlorien Longbow]
+patch=1,EE,00465882,extended,00000001
+[Dragonfire Arrows]
+patch=1,EE,00465883,extended,00000001
+[Mithril Arrows]
+patch=1,EE,00465884,extended,00000001
+[Force Of Celeborn]
+patch=1,EE,00465885,extended,00000001
+[Force Of Galadriel]
+patch=1,EE,00465886,extended,00000001
+[Elrond's Swift Terror]
+patch=1,EE,0046588B,extended,00000001
+[Elrond's Deliverance]
+patch=1,EE,0046588C,extended,00000001
+[Elrond's Death Charge]
+patch=1,EE,0046588D,extended,00000001
+[Elrond's Gambit]
+patch=1,EE,0046588E,extended,00000001
+[Elrond's War Rush]
+patch=1,EE,0046588F,extended,00000001
+[Elrond's Judgement]
+patch=1,EE,00465890,extended,00000001
+[Goblin Bane]
+patch=1,EE,00465891,extended,00000001
+[Orc Bane]
+patch=1,EE,00465892,extended,00000001
+[Bane Of Saruman]
+patch=1,EE,00465893,extended,00000001
+[Rising Attack]
+patch=1,EE,00465894,extended,00000001
+[Elven Bow Mastery]
+patch=1,EE,00465897,extended,00000001
+[>>> Have Ginoli Moves Purchased Codes <<<]
+patch=1,EE,00000000,extended,00000000
+[Triple Strike]
+patch=1,EE,004658C2,extended,00000001
+[Double Hack]
+patch=1,EE,004658C3,extended,00000001
+[Shadow Strike]
+patch=1,EE,004658C4,extended,00000001
+[Axe Parry]
+patch=1,EE,004658C5,extended,00000001
+[Axe Thrust]
+patch=1,EE,004658CA,extended,00000001
+[Rush Attack]
+patch=1,EE,004658CB,extended,00000001
+[Charge Attack]
+patch=1,EE,004658CC,extended,00000001
+[Dwarven Fury]
+patch=1,EE,004658CD,extended,00000001
+[Mountain Rage]
+patch=1,EE,004658CE,extended,00000001
+[Wrath Of Moria]
+patch=1,EE,004658CF,extended,00000001
+[Erebor Axes]
+patch=1,EE,004658D0,extended,00000001
+[Moria Axes]
+patch=1,EE,004658D1,extended,00000001
+[Mistry Mountain Axes]
+patch=1,EE,004658D2,extended,00000001
+[Might Of Rock]
+patch=1,EE,004658D5,extended,00000001
+[Might Of Iron]
+patch=1,EE,004658D6,extended,00000001
+[Rune Of Protection]
+patch=1,EE,004658D7,extended,00000001
+[Might Of Balin]
+patch=1,EE,004658D8,extended,00000001
+[Might Of Gloin]
+patch=1,EE,004658D9,extended,00000001
+[Might Of Khazad-Dum]
+patch=1,EE,004658DA,extended,00000001
+[Balin's Swift Terror]
+patch=1,EE,004658DB,extended,00000001
+[Balin's Deliverance]
+patch=1,EE,004658DC,extended,00000001
+[Balin's Death Charge]
+patch=1,EE,004658DD,extended,00000001
+[Balin's Gambit]
+patch=1,EE,004658DE,extended,00000001
+[Balin's War Rush]
+patch=1,EE,004658DF,extended,00000001
+[Balin's Judgement]
+patch=1,EE,004658E0,extended,00000001
+[Goblin Bane]
+patch=1,EE,004658E1,extended,00000001
+[Orc Bane]
+patch=1,EE,004658E2,extended,00000001
+[Bane Of Saruman]
+patch=1,EE,004658E3,extended,00000001
+[Rising Attack]
+patch=1,EE,004658E4,extended,00000001
+[Axe Mastery Of Kings]
+patch=1,EE,004658E6,extended,00000001
+

@@ -1,0 +1,32 @@
+gametitle=[SLUS-20712] Gradius V
+[Enable Code (Must Be On)]
+patch=1,EE,9010EAF4,extended,0C04653C
+[Infinite Lives (Both Players)]
+patch=1,EE,20287C3C,extended,00000000
+[Extra Lives (Both Players)]
+patch=1,EE,10287C34,extended,00000001
+[Max Infinite Lives]
+patch=1,EE,20287C34,extended,24030063
+[Quick Score Gain]
+patch=1,EE,20287A6C,extended,246303E7
+[Super Quick Score Gain]
+patch=1,EE,20287A6C,extended,2463270F
+[Hella Quick Score Gain]
+patch=1,EE,20287A6C,extended,24637FFF
+[Kill 1 Enemy For Max Score (Both Players)]
+patch=1,EE,20287A68,extended,3C0305F5
+[Kill 1 Enemy For Max Score (Both Players)]
+patch=1,EE,20287A6C,extended,3463E0FF
+[Invincible (Both Players)]
+patch=1,EE,102C725E,extended,00001000
+[Infinite Credits]
+patch=1,EE,202885BC,extended,00000000
+[Max Infinite Credits]
+patch=1,EE,202885B0,extended,24030063
+[Extra Credits]
+patch=1,EE,102885B0,extended,00000001
+[Unlock All Stage Select Levels]
+patch=1,EE,103C2938,extended,0000FFFF
+[Unlock All Stage Select Levels]
+patch=1,EE,003C293A,extended,000000FF
+
