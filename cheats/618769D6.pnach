@@ -1,0 +1,31 @@
+gametitle=[SLUS-21858] Tomb Raider Underworld (USA)
+[Infinite Ammo (No Reload)]
+//Infinite Ammo (No Reload)
+patch=1,EE,20254DCC,extended,00000000
+[Infinite Grenades]
+//Infinite Grenades
+patch=1,EE,2022CE5C,extended,00000000
+[Have All Max Treasures]
+//Have All Max Treasures
+patch=1,EE,2015BAB4,extended,240203E7
+[Have All Max Treasures]
+//Have All Max Treasures
+patch=1,EE,2015BA5C,extended,240203E7
+[1 Hit Kill]
+//1 Hit Kill
+patch=1,EE,205FF17C,extended,00000001
+[Invincible (God Mode)]
+//Invincible (God Mode)
+patch=1,EE,205FF440,extended,00000001
+[Revisit Location & Story Boards]
+//Revisit Location & Story Boards
+patch=1,EE,20104AD4,extended,2402000F
+[All Environment Concepts]
+//All Environment Concepts
+patch=1,EE,10106EBE,extended,00001000
+[All Character Concepts]
+//All Character Concepts
+patch=1,EE,1010635E,extended,00001000
+[All Gear Concepts]
+//All Gear Concepts
+patch=1,EE,1010725E,extended,00001000
